@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-27T19:46:41Z",
+  "updated": "2026-09-27T19:56:42Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "Those malicious files... Lets upload them! - Live hacking - Burp Suite",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 37
+      "viewers": 34
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "worst stream of all time??",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
+      "viewers": 32
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 68,
+  "viewers_total": 67,
   "videos": [
     {
       "video_id": "Pv7J8XVg-AA",
