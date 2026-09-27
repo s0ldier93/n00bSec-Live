@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-27T15:37:15Z",
+  "updated": "2026-09-27T16:07:16Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ahp_nils",
+      "title": "C'est bient\u00f4t la rentr\u00e9e : on papote en r\u00e9installant des machines !",
+      "link": "https://twitch.tv/ahp_nils"
+    },
     {
       "platform": "twitch",
       "name": "censoredHacker",
@@ -15,8 +21,14 @@
     },
     {
       "platform": "twitch",
+      "name": "pebl3",
+      "title": "Hacking CTFs | !htb !discord !youtube",
+      "link": "https://twitch.tv/pebl3"
+    },
+    {
+      "platform": "twitch",
       "name": "topklean",
-      "title": "linux / systemd",
+      "title": "je try hard",
       "link": "https://twitch.tv/topklean"
     },
     {
@@ -30,9 +42,23 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE"
+    },
+    {
+      "platform": "youtube",
+      "name": "pebl3",
+      "title": "Hacking CTFs",
+      "link": "https://www.youtube.com/watch?v=BgFQJSLaoBQ"
     }
   ],
   "videos": [
+    {
+      "video_id": "BgFQJSLaoBQ",
+      "channel": "pebl3",
+      "title": "Hacking CTFs",
+      "link": "https://www.youtube.com/watch?v=BgFQJSLaoBQ",
+      "published_at": "2026-09-27T15:53:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/BgFQJSLaoBQ/hqdefault.jpg"
+    },
     {
       "video_id": "BiEl8JRhosI",
       "channel": "ElPinguinoDeMario",
@@ -48,14 +74,6 @@
       "link": "https://www.youtube.com/watch?v=tb3Z15ia3xc",
       "published_at": "2026-09-27T13:15:46+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tb3Z15ia3xc/hqdefault.jpg"
-    },
-    {
-      "video_id": "s-i6BEjHJBc",
-      "channel": "team_whoami",
-      "title": "ensamblador suma y resta 1",
-      "link": "https://www.youtube.com/watch?v=s-i6BEjHJBc",
-      "published_at": "2026-09-27T13:00:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/s-i6BEjHJBc/hqdefault.jpg"
     }
   ]
 }
