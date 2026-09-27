@@ -1,49 +1,57 @@
 {
-  "updated": "2026-09-27T16:27:32Z",
+  "updated": "2026-09-27T17:16:28Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "C'est bient\u00f4t la rentr\u00e9e : on papote en r\u00e9installant des machines !",
-      "link": "https://twitch.tv/ahp_nils"
+      "link": "https://twitch.tv/ahp_nils",
+      "viewers": 28
     },
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "FIRST EVER! 24 hours Stream",
-      "link": "https://twitch.tv/censoredHacker"
+      "link": "https://twitch.tv/censoredHacker",
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
-      "link": "https://twitch.tv/pebl3"
+      "link": "https://twitch.tv/pebl3",
+      "viewers": 42
     },
     {
       "platform": "twitch",
       "name": "topklean",
-      "title": "je try hard",
-      "link": "https://twitch.tv/topklean"
+      "title": "lichess.org / je joue contre vous en mode amicale... je suis noob",
+      "link": "https://twitch.tv/topklean",
+      "viewers": 26
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "FIRST EVER! 24 hours Stream Part 2",
-      "link": "https://www.youtube.com/watch?v=EBDDQv5qxT8"
+      "link": "https://www.youtube.com/watch?v=EBDDQv5qxT8",
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
-      "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE"
+      "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=BgFQJSLaoBQ"
+      "link": "https://www.youtube.com/watch?v=BgFQJSLaoBQ",
+      "viewers": 28
     }
   ],
+  "viewers_total": 128,
   "videos": [
     {
       "video_id": "BgFQJSLaoBQ",
