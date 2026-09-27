@@ -30,6 +30,9 @@
   }
   header h1 { font-size: 19px; margin: 0; white-space: nowrap; }
   #updatedNote { color: #9aa0ab; font-size: 13px; white-space: nowrap; }
+  #viewerNote { color: #ff6b6b; font-size: 13px; font-weight: 600; white-space: nowrap; display: none; }
+  #presenceNote { color: #4fc3f7; font-size: 13px; font-weight: 600; white-space: nowrap; display: none; }
+  .playerHeader .pviews { color: #ff6b6b; font-weight: 600; white-space: nowrap; margin-left: auto; }
   #errorNote { color: #ffb454; font-size: 12px; display: none; }
   #multitwitchBtn {
     background: #9147ff;
@@ -166,6 +169,8 @@
 <header>
   <h1>🔴 n00bSec TV — Live Now (<span id="liveCount">0</span>)</h1>
   <div id="updatedNote">updated —</div>
+  <div id="viewerNote"></div>
+  <div id="presenceNote" title="People with this page open right now"></div>
   <div id="errorNote">⚠ last check failed</div>
   <button id="multitwitchBtn" type="button">📺 Watch all on Multitwitch</button>
 </header>
@@ -174,6 +179,9 @@
   <main id="grid"></main>
 </div>
 
+<script src="firebase-config.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-database-compat.js"></script>
 <script>
 (function () {
   'use strict';
@@ -195,6 +203,7 @@
   var els = {
     liveCount: document.getElementById('liveCount'),
     updatedNote: document.getElementById('updatedNote'),
+    viewerNote: document.getElementById('viewerNote'),
     multitwitchBtn: document.getElementById('multitwitchBtn'),
     errorNote: document.getElementById('errorNote'),
     sidebar: document.getElementById('sidebar'),
@@ -258,10 +267,26 @@
     return hrs + ' hr ago';
   }
 
+  function viewersLabel(s) {
+    return typeof s.viewers === 'number' ? '👁 ' + s.viewers.toLocaleString() : '';
+  }
+
   function renderHeader() {
     if (!lastData) return;
     els.liveCount.textContent = lastData.streams.length;
     els.updatedNote.textContent = 'updated ' + timeAgo(lastData.updated);
+
+    var total = 0, known = false;
+    for (var v = 0; v < lastData.streams.length; v++) {
+      var n = lastData.streams[v].viewers;
+      if (typeof n === 'number') { total += n; known = true; }
+    }
+    if (known) {
+      els.viewerNote.textContent = '👁 ' + total.toLocaleString() + ' watching';
+      els.viewerNote.style.display = '';
+    } else {
+      els.viewerNote.style.display = 'none';
+    }
 
     var twitchNames = [];
     for (var i = 0; i < lastData.streams.length; i++) {
@@ -316,7 +341,8 @@
 
         var titleDiv = document.createElement('div');
         titleDiv.className = 'title';
-        titleDiv.textContent = s.title || '';
+        var vl = viewersLabel(s);
+        titleDiv.textContent = (vl ? vl + ' · ' : '') + (s.title || '');
 
         info.appendChild(nameLink);
         info.appendChild(titleDiv);
@@ -358,8 +384,12 @@
     var ptitle = document.createElement('span');
     ptitle.className = 'ptitle';
     ptitle.textContent = s.title || '';
+    var pviews = document.createElement('span');
+    pviews.className = 'pviews';
+    pviews.textContent = viewersLabel(s);
     header.appendChild(pname);
     header.appendChild(ptitle);
+    header.appendChild(pviews);
     card.appendChild(header);
 
     var frameWrap;
@@ -385,7 +415,7 @@
       }
     }
     card.appendChild(frameWrap);
-    return { card: card, ptitle: ptitle };
+    return { card: card, ptitle: ptitle, pviews: pviews };
   }
 
   function renderGrid(streams, decisions) {
@@ -412,6 +442,7 @@
         els.grid.appendChild(entry.card);
       } else {
         entry.ptitle.textContent = s.title || '';
+        entry.pviews.textContent = viewersLabel(s);
       }
     }
 
@@ -502,6 +533,50 @@
 
   poll();
   setInterval(poll, POLL_MS);
+
+  /* ---- "people here" presence counter (Firebase Realtime Database) ----
+     Each open tab registers one child under /presence with a heartbeat timestamp
+     and an onDisconnect cleanup; the header shows how many children are fresh.
+     Disabled when firebase-config.js leaves window.N00BSEC_FIREBASE null. */
+  function startPresence() {
+    var cfg = window.N00BSEC_FIREBASE;
+    if (!cfg || typeof firebase === 'undefined') return;
+    var STALE_MS = 5 * 60 * 1000;
+    var HEARTBEAT_MS = 2 * 60 * 1000;
+    var note = document.getElementById('presenceNote');
+    try {
+      firebase.initializeApp(cfg);
+      var db = firebase.database();
+      var list = db.ref('presence');
+      var me = list.push();
+      var offsetRef = db.ref('.info/serverTimeOffset');
+      var serverOffset = 0;
+      offsetRef.on('value', function (s) { serverOffset = s.val() || 0; });
+
+      function beat() { me.set({ t: firebase.database.ServerValue.TIMESTAMP }); }
+      me.onDisconnect().remove();
+      beat();
+      setInterval(beat, HEARTBEAT_MS);
+
+      list.on('value', function (snap) {
+        var now = Date.now() + serverOffset;
+        var count = 0;
+        snap.forEach(function (child) {
+          var v = child.val();
+          if (v && typeof v.t === 'number' && now - v.t < STALE_MS) count++;
+        });
+        if (count > 0) {
+          note.textContent = '👥 ' + count.toLocaleString() + (count === 1 ? ' person here' : ' people here');
+          note.style.display = '';
+        } else {
+          note.style.display = 'none';
+        }
+      }, function () { note.style.display = 'none'; });
+    } catch (e) {
+      note.style.display = 'none';
+    }
+  }
+  startPresence();
 })();
 </script>
 </body>
