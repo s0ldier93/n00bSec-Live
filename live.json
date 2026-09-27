@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-27T23:09:24Z",
+  "updated": "2026-09-27T23:19:23Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Back from GrrCon! | I got a Steam Frame VR| Cybersecurity,Rants,Chill,&Linux Gaming|9-27-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 0
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "Whimmery",
       "title": "Whimmery's Studio work",
       "link": "https://twitch.tv/Whimmery",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 13,
   "videos": [
     {
       "video_id": "VTirmjfHsks",
