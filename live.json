@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-27T18:06:41Z",
+  "updated": "2026-09-27T18:16:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "C'est bient\u00f4t la rentr\u00e9e : on papote en r\u00e9installant des machines !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 23
+      "viewers": 27
     },
     {
       "platform": "twitch",
@@ -20,14 +20,14 @@
       "name": "FloraTheExplorer_cyber",
       "title": "Those malicious files... Lets upload them! - Live hacking - Burp Suite",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 10
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 54
+      "viewers": 52
     },
     {
       "platform": "youtube",
@@ -48,10 +48,10 @@
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=BgFQJSLaoBQ",
-      "viewers": 29
+      "viewers": 26
     }
   ],
-  "viewers_total": 119,
+  "viewers_total": 123,
   "videos": [
     {
       "video_id": "hUoZ_Fq4538",
