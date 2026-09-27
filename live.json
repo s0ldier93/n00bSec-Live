@@ -1,11 +1,17 @@
 {
-  "updated": "2026-09-27T14:51:40Z",
+  "updated": "2026-09-27T14:52:24Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "FIRST EVER! 24 hours Stream",
       "link": "https://twitch.tv/censoredHacker"
+    },
+    {
+      "platform": "twitch",
+      "name": "Khaos_Farbauti",
+      "title": "Achever la b\u00eate ! (ou mourir en essayant) | HTB Kobold #2",
+      "link": "https://twitch.tv/Khaos_Farbauti"
     },
     {
       "platform": "twitch",
