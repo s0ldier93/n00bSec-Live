@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-27T22:09:23Z",
+  "updated": "2026-09-27T22:19:23Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "worst stream of all time??",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 37
+      "viewers": 35
     },
     {
       "platform": "twitch",
       "name": "Whimmery",
       "title": "Whimmery's Studio work",
       "link": "https://twitch.tv/Whimmery",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 41,
+  "viewers_total": 39,
   "videos": [
     {
       "video_id": "VTirmjfHsks",
