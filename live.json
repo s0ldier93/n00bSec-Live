@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-27T17:26:41Z",
+  "updated": "2026-09-27T17:36:43Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "C'est bient\u00f4t la rentr\u00e9e : on papote en r\u00e9installant des machines !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 30
+      "viewers": 28
     },
     {
       "platform": "twitch",
@@ -17,24 +17,31 @@
     },
     {
       "platform": "twitch",
+      "name": "FloraTheExplorer_cyber",
+      "title": "How about Injections, but blind? - Live hacking - Burp Suite",
+      "link": "https://twitch.tv/FloraTheExplorer_cyber",
+      "viewers": 0
+    },
+    {
+      "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 42
+      "viewers": 46
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "lichess.org / je joue contre vous en mode amicale... je suis noob",
       "link": "https://twitch.tv/topklean",
-      "viewers": 26
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
-      "title": "FIRST EVER! 24 hours Stream Part 2",
-      "link": "https://www.youtube.com/watch?v=EBDDQv5qxT8",
-      "viewers": 3
+      "title": "FIRST EVER! 24 hours Stream Part 3",
+      "link": "https://www.youtube.com/watch?v=hUoZ_Fq4538",
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -48,10 +55,10 @@
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=BgFQJSLaoBQ",
-      "viewers": 29
+      "viewers": 32
     }
   ],
-  "viewers_total": 132,
+  "viewers_total": 137,
   "videos": [
     {
       "video_id": "Yt69u0PZlPY",
