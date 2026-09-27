@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T15:07:02Z",
+  "updated": "2026-09-27T15:27:00Z",
   "streams": [
     {
       "platform": "twitch",
@@ -12,12 +12,6 @@
       "name": "Khaos_Farbauti",
       "title": "Achever la b\u00eate ! (ou mourir en essayant) | HTB Kobold #2",
       "link": "https://twitch.tv/Khaos_Farbauti"
-    },
-    {
-      "platform": "twitch",
-      "name": "nemax_3301",
-      "title": "Hacking & Tooling",
-      "link": "https://twitch.tv/nemax_3301"
     },
     {
       "platform": "twitch",
