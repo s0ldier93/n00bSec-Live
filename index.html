@@ -135,6 +135,8 @@
     font-size: 15px;
   }
   .sidebarEmpty { color: #9aa0ab; font-size: 13px; padding: 12px 4px; }
+  #promo { margin-top: 16px; }
+  #promo img { display: block; width: 100%; border-radius: 8px; }
   .emptyState h2 { color: #e6e6e6; font-size: 16px; margin: 36px 0 14px; }
   .videoRow { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
   .videoCard {
@@ -175,7 +177,11 @@
   <button id="multitwitchBtn" type="button">📺 Watch all on Multitwitch</button>
 </header>
 <div id="layout">
-  <aside id="sidebar"></aside>
+  <aside id="sidebar">
+    <div id="streamList"></div>
+    <!-- Sidebar artwork: swap by replacing promo.jpg in the repo (keep the filename). -->
+    <div id="promo"><img src="promo.jpg" alt="n00bSec artwork" loading="lazy"></div>
+  </aside>
   <main id="grid"></main>
 </div>
 
@@ -206,7 +212,7 @@
     viewerNote: document.getElementById('viewerNote'),
     multitwitchBtn: document.getElementById('multitwitchBtn'),
     errorNote: document.getElementById('errorNote'),
-    sidebar: document.getElementById('sidebar'),
+    streamList: document.getElementById('streamList'),
     grid: document.getElementById('grid')
   };
 
@@ -303,12 +309,12 @@
   }
 
   function renderSidebar(streams, decisions) {
-    els.sidebar.innerHTML = '';
+    els.streamList.innerHTML = '';
     if (!streams.length) {
       var empty = document.createElement('div');
       empty.className = 'sidebarEmpty';
       empty.textContent = 'Nobody is live right now.';
-      els.sidebar.appendChild(empty);
+      els.streamList.appendChild(empty);
       return;
     }
     for (var i = 0; i < streams.length; i++) {
@@ -350,7 +356,7 @@
         row.appendChild(checkbox);
         row.appendChild(info);
         item.appendChild(row);
-        els.sidebar.appendChild(item);
+        els.streamList.appendChild(item);
       })(streams[i]);
     }
   }
