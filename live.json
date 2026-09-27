@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T19:06:41Z",
+  "updated": "2026-09-27T19:16:20Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,14 @@
       "name": "FloraTheExplorer_cyber",
       "title": "Those malicious files... Lets upload them! - Live hacking - Burp Suite",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 25
+      "viewers": 29
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 44
-    },
-    {
-      "platform": "youtube",
-      "name": "censoredHacker",
-      "title": "FIRST EVER! 24 hours Stream Part 3",
-      "link": "https://www.youtube.com/watch?v=hUoZ_Fq4538",
-      "viewers": 1
+      "viewers": 41
     },
     {
       "platform": "youtube",
@@ -41,11 +34,19 @@
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=BgFQJSLaoBQ",
-      "viewers": 30
+      "viewers": 28
     }
   ],
-  "viewers_total": 102,
+  "viewers_total": 100,
   "videos": [
+    {
+      "video_id": "Pv7J8XVg-AA",
+      "channel": "mbcrump",
+      "title": "A PS4 14.00 Blu-ray Jailbreak Chain Is Being Tested #Shorts",
+      "link": "https://www.youtube.com/watch?v=Pv7J8XVg-AA",
+      "published_at": "2026-09-27T19:00:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Pv7J8XVg-AA/hqdefault.jpg"
+    },
     {
       "video_id": "hUoZ_Fq4538",
       "channel": "censoredHacker",
@@ -61,14 +62,6 @@
       "link": "https://www.youtube.com/watch?v=Yt69u0PZlPY",
       "published_at": "2026-09-27T17:00:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Yt69u0PZlPY/hqdefault.jpg"
-    },
-    {
-      "video_id": "BgFQJSLaoBQ",
-      "channel": "pebl3",
-      "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=BgFQJSLaoBQ",
-      "published_at": "2026-09-27T15:53:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/BgFQJSLaoBQ/hqdefault.jpg"
     }
   ]
 }
