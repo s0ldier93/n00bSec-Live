@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T21:59:23Z",
+  "updated": "2026-09-27T22:09:23Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,18 +13,34 @@
       "name": "Whimmery",
       "title": "Whimmery's Studio work",
       "link": "https://twitch.tv/Whimmery",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 41,
   "videos": [
+    {
+      "video_id": "VTirmjfHsks",
+      "channel": "mbcrump",
+      "title": "GoldHEN Expands Across PS4 Firmware 13.xx #Shorts",
+      "link": "https://www.youtube.com/watch?v=VTirmjfHsks",
+      "published_at": "2026-09-27T22:00:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VTirmjfHsks/hqdefault.jpg"
+    },
+    {
+      "video_id": "nrrAva4-SDE",
+      "channel": "LiveOverflow",
+      "title": "OpenAI paid $6,500 for this bug! #shorts",
+      "link": "https://www.youtube.com/watch?v=nrrAva4-SDE",
+      "published_at": "2026-09-27T21:54:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nrrAva4-SDE/hqdefault.jpg"
+    },
     {
       "video_id": "sKlonP-cZm8",
       "channel": "gerald_auger_simplycyber",
@@ -32,22 +48,6 @@
       "link": "https://www.youtube.com/watch?v=sKlonP-cZm8",
       "published_at": "2026-09-27T21:09:53+00:00",
       "thumbnail": "https://i.ytimg.com/vi/sKlonP-cZm8/hqdefault.jpg"
-    },
-    {
-      "video_id": "lFCXViA9maE",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Sep 29's Top Cyber News NOW! - Ep 1254",
-      "link": "https://www.youtube.com/watch?v=lFCXViA9maE",
-      "published_at": "2026-09-27T20:19:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lFCXViA9maE/hqdefault.jpg"
-    },
-    {
-      "video_id": "Pv7J8XVg-AA",
-      "channel": "mbcrump",
-      "title": "A PS4 14.00 Blu-ray Jailbreak Chain Is Being Tested #Shorts",
-      "link": "https://www.youtube.com/watch?v=Pv7J8XVg-AA",
-      "published_at": "2026-09-27T19:00:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Pv7J8XVg-AA/hqdefault.jpg"
     }
   ]
 }
