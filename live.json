@@ -1,1 +1,23 @@
-{"updated": "2026-09-27T00:00:00Z", "streams": []}
+{
+  "updated": "2026-09-27T14:33:31Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "censoredHacker",
+      "title": "FIRST EVER! 24 hours Stream",
+      "link": "https://twitch.tv/censoredHacker"
+    },
+    {
+      "platform": "twitch",
+      "name": "nemax_3301",
+      "title": "Hacking & Tooling",
+      "link": "https://twitch.tv/nemax_3301"
+    },
+    {
+      "platform": "twitch",
+      "name": "topklean",
+      "title": "linux / systemd",
+      "link": "https://twitch.tv/topklean"
+    }
+  ]
+}
