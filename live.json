@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-27T22:19:23Z",
+  "updated": "2026-09-27T22:29:23Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "worst stream of all time??",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 35
+      "viewers": 37
     },
     {
       "platform": "twitch",
       "name": "Whimmery",
       "title": "Whimmery's Studio work",
       "link": "https://twitch.tv/Whimmery",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 40,
   "videos": [
     {
       "video_id": "VTirmjfHsks",
