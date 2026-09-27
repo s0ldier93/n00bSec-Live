@@ -1,13 +1,6 @@
 {
-  "updated": "2026-09-27T19:16:20Z",
+  "updated": "2026-09-27T19:16:43Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "FIRST EVER! 24 hours Stream",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
-    },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
@@ -37,7 +30,7 @@
       "viewers": 28
     }
   ],
-  "viewers_total": 100,
+  "viewers_total": 99,
   "videos": [
     {
       "video_id": "Pv7J8XVg-AA",
