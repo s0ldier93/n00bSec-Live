@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-27T17:16:28Z",
+  "updated": "2026-09-27T17:26:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "C'est bient\u00f4t la rentr\u00e9e : on papote en r\u00e9installant des machines !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 28
+      "viewers": 30
     },
     {
       "platform": "twitch",
@@ -34,7 +34,7 @@
       "name": "censoredHacker",
       "title": "FIRST EVER! 24 hours Stream Part 2",
       "link": "https://www.youtube.com/watch?v=EBDDQv5qxT8",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -48,11 +48,19 @@
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=BgFQJSLaoBQ",
-      "viewers": 28
+      "viewers": 29
     }
   ],
-  "viewers_total": 128,
+  "viewers_total": 132,
   "videos": [
+    {
+      "video_id": "Yt69u0PZlPY",
+      "channel": "BySepa",
+      "title": "\u00bfRealmente necesitas una VPN?",
+      "link": "https://www.youtube.com/watch?v=Yt69u0PZlPY",
+      "published_at": "2026-09-27T17:00:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Yt69u0PZlPY/hqdefault.jpg"
+    },
     {
       "video_id": "BgFQJSLaoBQ",
       "channel": "pebl3",
@@ -68,14 +76,6 @@
       "link": "https://www.youtube.com/watch?v=BiEl8JRhosI",
       "published_at": "2026-09-27T14:48:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/BiEl8JRhosI/hqdefault.jpg"
-    },
-    {
-      "video_id": "tb3Z15ia3xc",
-      "channel": "LowLevelTV",
-      "title": "VIM is Performative #linux #vim #chatgpt #coding",
-      "link": "https://www.youtube.com/watch?v=tb3Z15ia3xc",
-      "published_at": "2026-09-27T13:15:46+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tb3Z15ia3xc/hqdefault.jpg"
     }
   ]
 }
