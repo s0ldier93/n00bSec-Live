@@ -283,7 +283,7 @@
     }
     if (known) {
       els.viewerNote.textContent = '👁 ' + total.toLocaleString() + ' watching';
-      els.viewerNote.style.display = '';
+      els.viewerNote.style.display = 'block';
     } else {
       els.viewerNote.style.display = 'none';
     }
@@ -293,7 +293,7 @@
       if (lastData.streams[i].platform === 'twitch') twitchNames.push(lastData.streams[i].name);
     }
     if (twitchNames.length >= 2) {
-      els.multitwitchBtn.style.display = '';
+      els.multitwitchBtn.style.display = 'inline-block';
       els.multitwitchBtn.onclick = function () {
         window.open('https://www.multitwitch.tv/' + twitchNames.join('/'), '_blank');
       };
@@ -526,7 +526,7 @@
         renderAll();
       })
       .catch(function () {
-        els.errorNote.style.display = '';
+        els.errorNote.style.display = 'block';
         if (lastData) renderHeader();
       });
   }
@@ -567,7 +567,7 @@
         });
         if (count > 0) {
           note.textContent = '👥 ' + count.toLocaleString() + (count === 1 ? ' person here' : ' people here');
-          note.style.display = '';
+          note.style.display = 'block';
         } else {
           note.style.display = 'none';
         }
