@@ -130,6 +130,21 @@
     font-size: 15px;
   }
   .sidebarEmpty { color: #9aa0ab; font-size: 13px; padding: 12px 4px; }
+  .emptyState h2 { color: #e6e6e6; font-size: 16px; margin: 36px 0 14px; }
+  .videoRow { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+  .videoCard {
+    width: 300px;
+    background: #161920;
+    border-radius: 8px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #e6e6e6;
+    text-align: left;
+  }
+  .videoCard:hover { background: #1d2129; }
+  .videoCard img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: #000; }
+  .videoCard .vtitle { padding: 10px 10px 4px; font-size: 14px; font-weight: 600; line-height: 1.3; }
+  .videoCard .vchannel { padding: 0 10px 10px; font-size: 12px; color: #9aa0ab; }
 
   @media (max-width: 800px) {
     #layout { flex-direction: column; }
@@ -405,16 +420,56 @@
     els.grid.style.gridTemplateColumns = 'repeat(' + cols + ', 1fr)';
 
     var emptyEl = els.grid.querySelector('.emptyState');
+    if (emptyEl) emptyEl.remove();
     if (!streams.length) {
-      if (!emptyEl) {
-        var p = document.createElement('div');
-        p.className = 'emptyState';
-        p.textContent = 'Nobody is live right now. This page checks back every minute.';
-        els.grid.appendChild(p);
-      }
-    } else if (emptyEl) {
-      emptyEl.remove();
+      els.grid.appendChild(buildEmptyState((lastData && lastData.videos) || []));
     }
+  }
+
+  function buildEmptyState(videos) {
+    var wrap = document.createElement('div');
+    wrap.className = 'emptyState';
+
+    var msg = document.createElement('div');
+    msg.textContent = 'Nobody is live right now. This page checks back every minute.';
+    wrap.appendChild(msg);
+
+    if (!videos.length) return wrap;
+
+    var heading = document.createElement('h2');
+    heading.textContent = 'Latest YouTube uploads';
+    wrap.appendChild(heading);
+
+    var row = document.createElement('div');
+    row.className = 'videoRow';
+    for (var i = 0; i < videos.length && i < 3; i++) {
+      var v = videos[i];
+      var a = document.createElement('a');
+      a.className = 'videoCard';
+      a.href = v.link;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+
+      var img = document.createElement('img');
+      img.src = v.thumbnail || ('https://i.ytimg.com/vi/' + encodeURIComponent(v.video_id) + '/hqdefault.jpg');
+      img.alt = '';
+      img.loading = 'lazy';
+      a.appendChild(img);
+
+      var t = document.createElement('div');
+      t.className = 'vtitle';
+      t.textContent = v.title || 'New video';
+      a.appendChild(t);
+
+      var ch = document.createElement('div');
+      ch.className = 'vchannel';
+      ch.textContent = '▶️ ' + (v.channel || '') + (v.published_at ? ' · ' + timeAgo(v.published_at) : '');
+      a.appendChild(ch);
+
+      row.appendChild(a);
+    }
+    wrap.appendChild(row);
+    return wrap;
   }
 
   function renderAll() {
