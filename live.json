@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T20:36:41Z",
+  "updated": "2026-09-27T20:38:54Z",
   "streams": [
     {
       "platform": "twitch",
@@ -26,6 +26,14 @@
   "viewers_total": 49,
   "videos": [
     {
+      "video_id": "lFCXViA9maE",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Sep 29's Top Cyber News NOW! - Ep 1254",
+      "link": "https://www.youtube.com/watch?v=lFCXViA9maE",
+      "published_at": "2026-09-27T20:19:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lFCXViA9maE/hqdefault.jpg"
+    },
+    {
       "video_id": "Pv7J8XVg-AA",
       "channel": "mbcrump",
       "title": "A PS4 14.00 Blu-ray Jailbreak Chain Is Being Tested #Shorts",
@@ -40,14 +48,6 @@
       "link": "https://www.youtube.com/watch?v=hUoZ_Fq4538",
       "published_at": "2026-09-27T17:34:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/hUoZ_Fq4538/hqdefault.jpg"
-    },
-    {
-      "video_id": "Yt69u0PZlPY",
-      "channel": "BySepa",
-      "title": "\u00bfRealmente necesitas una VPN?",
-      "link": "https://www.youtube.com/watch?v=Yt69u0PZlPY",
-      "published_at": "2026-09-27T17:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Yt69u0PZlPY/hqdefault.jpg"
     }
   ]
 }
