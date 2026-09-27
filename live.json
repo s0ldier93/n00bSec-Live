@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-27T20:16:45Z",
+  "updated": "2026-09-27T20:26:42Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "worst stream of all time??",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 54
+      "viewers": 45
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 55,
+  "viewers_total": 46,
   "videos": [
     {
       "video_id": "Pv7J8XVg-AA",
