@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-27T21:29:23Z",
+  "updated": "2026-09-27T21:39:23Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "worst stream of all time??",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 26
+      "viewers": 38
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 40,
   "videos": [
+    {
+      "video_id": "sKlonP-cZm8",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 2's Top Cyber News NOW! - Ep 1257",
+      "link": "https://www.youtube.com/watch?v=sKlonP-cZm8",
+      "published_at": "2026-09-27T21:09:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/sKlonP-cZm8/hqdefault.jpg"
+    },
     {
       "video_id": "lFCXViA9maE",
       "channel": "gerald_auger_simplycyber",
@@ -40,14 +48,6 @@
       "link": "https://www.youtube.com/watch?v=Pv7J8XVg-AA",
       "published_at": "2026-09-27T19:00:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Pv7J8XVg-AA/hqdefault.jpg"
-    },
-    {
-      "video_id": "hUoZ_Fq4538",
-      "channel": "censoredHacker",
-      "title": "FIRST EVER! 24 hours Stream Part 3",
-      "link": "https://www.youtube.com/watch?v=hUoZ_Fq4538",
-      "published_at": "2026-09-27T17:34:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hUoZ_Fq4538/hqdefault.jpg"
     }
   ]
 }
