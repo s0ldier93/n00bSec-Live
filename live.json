@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-27T19:16:43Z",
+  "updated": "2026-09-27T19:26:21Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "Those malicious files... Lets upload them! - Live hacking - Burp Suite",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 29
+      "viewers": 48
     },
     {
       "platform": "twitch",
-      "name": "pebl3",
-      "title": "Hacking CTFs | !htb !discord !youtube",
-      "link": "https://twitch.tv/pebl3",
-      "viewers": 41
+      "name": "panekopanko",
+      "title": "worst stream of all time??",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -21,16 +21,9 @@
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "pebl3",
-      "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=BgFQJSLaoBQ",
-      "viewers": 28
     }
   ],
-  "viewers_total": 99,
+  "viewers_total": 55,
   "videos": [
     {
       "video_id": "Pv7J8XVg-AA",
