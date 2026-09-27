@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T22:59:26Z",
+  "updated": "2026-09-27T23:09:24Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "chiefgyk3d",
+      "title": "Back from GrrCon! | I got a Steam Frame VR| Cybersecurity,Rants,Chill,&Linux Gaming|9-27-26",
+      "link": "https://twitch.tv/chiefgyk3d",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "Whimmery",
