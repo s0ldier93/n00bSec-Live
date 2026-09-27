@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>n00b_Sec — Live Now</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #0d0f14;
+    color: #e6e6e6;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 14px 20px;
+    border-bottom: 1px solid #23262e;
+    background: #11141b;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  header h1 { font-size: 19px; margin: 0; white-space: nowrap; }
+  #updatedNote { color: #9aa0ab; font-size: 13px; white-space: nowrap; }
+  #errorNote { color: #ffb454; font-size: 12px; display: none; }
+  #multitwitchBtn {
+    background: #9147ff;
+    color: #fff;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    display: none;
+    margin-left: auto;
+  }
+  #multitwitchBtn:hover { background: #7c3aed; }
+
+  #layout { display: flex; align-items: flex-start; }
+  #sidebar {
+    width: 300px;
+    flex-shrink: 0;
+    padding: 12px;
+    border-right: 1px solid #23262e;
+    height: calc(100vh - 57px);
+    overflow-y: auto;
+    position: sticky;
+    top: 57px;
+  }
+  .streamItem {
+    background: #161920;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 8px;
+  }
+  .streamItem .row { display: flex; align-items: flex-start; gap: 8px; }
+  .streamItem input[type="checkbox"] { margin-top: 4px; cursor: pointer; flex-shrink: 0; }
+  .streamItem .info { min-width: 0; flex: 1; }
+  .streamItem a.name {
+    color: #e6e6e6;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 14px;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .streamItem a.name:hover { text-decoration: underline; color: #a970ff; }
+  .streamItem .title {
+    color: #9aa0ab;
+    font-size: 12px;
+    margin-top: 2px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  #grid {
+    flex: 1;
+    padding: 16px;
+    display: grid;
+    gap: 16px;
+    align-content: start;
+    min-height: calc(100vh - 57px);
+  }
+  .playerCard { background: #161920; border-radius: 8px; overflow: hidden; }
+  .playerHeader {
+    padding: 8px 10px;
+    font-size: 13px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+  }
+  .playerHeader .pname { font-weight: 600; white-space: nowrap; }
+  .playerHeader .ptitle {
+    color: #9aa0ab;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-width: 0;
+  }
+  .playerFrame { position: relative; width: 100%; padding-bottom: 56.25%; background: #000; }
+  .playerFrame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+  .linkCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 12px;
+    color: #9aa0ab;
+    background: #000;
+  }
+  .linkCard a { color: #a970ff; text-decoration: none; font-weight: 600; }
+  .linkCard a:hover { text-decoration: underline; }
+
+  .emptyState {
+    grid-column: 1 / -1;
+    color: #9aa0ab;
+    padding: 80px 20px;
+    text-align: center;
+    font-size: 15px;
+  }
+  .sidebarEmpty { color: #9aa0ab; font-size: 13px; padding: 12px 4px; }
+
+  @media (max-width: 800px) {
+    #layout { flex-direction: column; }
+    #sidebar {
+      width: 100%;
+      height: auto;
+      max-height: 220px;
+      border-right: none;
+      border-bottom: 1px solid #23262e;
+      position: static;
+    }
+    #grid { min-height: auto; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>🔴 Live Now (<span id="liveCount">0</span>)</h1>
+  <div id="updatedNote">updated —</div>
+  <div id="errorNote">⚠ last check failed</div>
+  <button id="multitwitchBtn" type="button">📺 Watch all on Multitwitch</button>
+</header>
+<div id="layout">
+  <aside id="sidebar"></aside>
+  <main id="grid"></main>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  var POLL_MS = 60000;
+  var PREFS_KEY = 'n00bsecLivePrefs';
+  var DEFAULT_SHOWN = 4;
+
+  var prefs = {};
+  try {
+    prefs = JSON.parse(localStorage.getItem(PREFS_KEY) || '{}');
+  } catch (e) {
+    prefs = {};
+  }
+
+  var lastData = null;
+  var playerEls = new Map();
+
+  var els = {
+    liveCount: document.getElementById('liveCount'),
+    updatedNote: document.getElementById('updatedNote'),
+    multitwitchBtn: document.getElementById('multitwitchBtn'),
+    errorNote: document.getElementById('errorNote'),
+    sidebar: document.getElementById('sidebar'),
+    grid: document.getElementById('grid')
+  };
+
+  function savePrefs() {
+    try {
+      localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
+    } catch (e) {
+      /* localStorage unavailable (private mode, etc) — degrade silently */
+    }
+  }
+
+  function extractYouTubeId(link) {
+    try {
+      var u = new URL(link, location.href);
+      if (u.hostname.indexOf('youtu.be') !== -1) {
+        var short = u.pathname.replace(/^\//, '');
+        return short || null;
+      }
+      var v = u.searchParams.get('v');
+      if (v) return v;
+      var liveMatch = u.pathname.match(/\/live\/([^/?]+)/);
+      if (liveMatch) return liveMatch[1];
+      var embedMatch = u.pathname.match(/\/embed\/([^/?]+)/);
+      if (embedMatch) return embedMatch[1];
+      return null;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function computeShown(streams) {
+    var decisions = {};
+    var count = 0;
+    for (var i = 0; i < streams.length; i++) {
+      var s = streams[i];
+      var show;
+      if (Object.prototype.hasOwnProperty.call(prefs, s.name)) {
+        show = !!prefs[s.name];
+      } else {
+        show = count < DEFAULT_SHOWN;
+      }
+      decisions[s.name] = show;
+      if (show) count++;
+    }
+    return decisions;
+  }
+
+  function timeAgo(iso) {
+    var then = new Date(iso).getTime();
+    if (isNaN(then)) return 'unknown';
+    var diffMs = Date.now() - then;
+    var mins = Math.floor(diffMs / 60000);
+    if (mins <= 0) return 'just now';
+    if (mins === 1) return '1 min ago';
+    if (mins < 60) return mins + ' min ago';
+    var hrs = Math.floor(mins / 60);
+    if (hrs === 1) return '1 hr ago';
+    return hrs + ' hr ago';
+  }
+
+  function renderHeader() {
+    if (!lastData) return;
+    els.liveCount.textContent = lastData.streams.length;
+    els.updatedNote.textContent = 'updated ' + timeAgo(lastData.updated);
+
+    var twitchNames = [];
+    for (var i = 0; i < lastData.streams.length; i++) {
+      if (lastData.streams[i].platform === 'twitch') twitchNames.push(lastData.streams[i].name);
+    }
+    if (twitchNames.length >= 2) {
+      els.multitwitchBtn.style.display = '';
+      els.multitwitchBtn.onclick = function () {
+        window.open('https://www.multitwitch.tv/' + twitchNames.join('/'), '_blank');
+      };
+    } else {
+      els.multitwitchBtn.style.display = 'none';
+    }
+  }
+
+  function renderSidebar(streams, decisions) {
+    els.sidebar.innerHTML = '';
+    if (!streams.length) {
+      var empty = document.createElement('div');
+      empty.className = 'sidebarEmpty';
+      empty.textContent = 'Nobody is live right now.';
+      els.sidebar.appendChild(empty);
+      return;
+    }
+    for (var i = 0; i < streams.length; i++) {
+      (function (s) {
+        var item = document.createElement('div');
+        item.className = 'streamItem';
+
+        var row = document.createElement('div');
+        row.className = 'row';
+
+        var checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.checked = !!decisions[s.name];
+        checkbox.addEventListener('change', function () {
+          prefs[s.name] = checkbox.checked;
+          savePrefs();
+          renderAll();
+        });
+
+        var info = document.createElement('div');
+        info.className = 'info';
+
+        var icon = s.platform === 'twitch' ? '🟣' : '▶️';
+        var nameLink = document.createElement('a');
+        nameLink.className = 'name';
+        nameLink.href = s.link;
+        nameLink.target = '_blank';
+        nameLink.rel = 'noopener noreferrer';
+        nameLink.textContent = icon + ' ' + s.name;
+
+        var titleDiv = document.createElement('div');
+        titleDiv.className = 'title';
+        titleDiv.textContent = s.title || '';
+
+        info.appendChild(nameLink);
+        info.appendChild(titleDiv);
+
+        row.appendChild(checkbox);
+        row.appendChild(info);
+        item.appendChild(row);
+        els.sidebar.appendChild(item);
+      })(streams[i]);
+    }
+  }
+
+  function makeTwitchIframe(name) {
+    var parent = location.hostname || 's0ldier93.github.io';
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://player.twitch.tv/?channel=' + encodeURIComponent(name) + '&parent=' + parent + '&muted=true&autoplay=true';
+    iframe.allowFullscreen = true;
+    iframe.setAttribute('allow', 'autoplay; fullscreen');
+    return iframe;
+  }
+
+  function makeYouTubeIframe(id) {
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube.com/embed/' + encodeURIComponent(id) + '?autoplay=1&mute=1';
+    iframe.allowFullscreen = true;
+    iframe.setAttribute('allow', 'autoplay; fullscreen');
+    return iframe;
+  }
+
+  function buildCard(s) {
+    var card = document.createElement('div');
+    card.className = 'playerCard';
+
+    var header = document.createElement('div');
+    header.className = 'playerHeader';
+    var pname = document.createElement('span');
+    pname.className = 'pname';
+    pname.textContent = (s.platform === 'twitch' ? '🟣 ' : '▶️ ') + s.name;
+    var ptitle = document.createElement('span');
+    ptitle.className = 'ptitle';
+    ptitle.textContent = s.title || '';
+    header.appendChild(pname);
+    header.appendChild(ptitle);
+    card.appendChild(header);
+
+    var frameWrap;
+    if (s.platform === 'twitch') {
+      frameWrap = document.createElement('div');
+      frameWrap.className = 'playerFrame';
+      frameWrap.appendChild(makeTwitchIframe(s.name));
+    } else {
+      var id = extractYouTubeId(s.link);
+      if (id) {
+        frameWrap = document.createElement('div');
+        frameWrap.className = 'playerFrame';
+        frameWrap.appendChild(makeYouTubeIframe(id));
+      } else {
+        frameWrap = document.createElement('div');
+        frameWrap.className = 'linkCard';
+        var a = document.createElement('a');
+        a.href = s.link;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.textContent = 'Open stream ↗';
+        frameWrap.appendChild(a);
+      }
+    }
+    card.appendChild(frameWrap);
+    return { card: card, ptitle: ptitle };
+  }
+
+  function renderGrid(streams, decisions) {
+    var shownStreams = [];
+    for (var i = 0; i < streams.length; i++) {
+      if (decisions[streams[i].name]) shownStreams.push(streams[i]);
+    }
+    var shownNames = {};
+    for (var j = 0; j < shownStreams.length; j++) shownNames[shownStreams[j].name] = true;
+
+    playerEls.forEach(function (entry, name) {
+      if (!shownNames[name]) {
+        entry.card.remove();
+        playerEls.delete(name);
+      }
+    });
+
+    for (var k = 0; k < shownStreams.length; k++) {
+      var s = shownStreams[k];
+      var entry = playerEls.get(s.name);
+      if (!entry) {
+        entry = buildCard(s);
+        playerEls.set(s.name, entry);
+        els.grid.appendChild(entry.card);
+      } else {
+        entry.ptitle.textContent = s.title || '';
+      }
+    }
+
+    var count = shownStreams.length;
+    var cols = 1;
+    if (count > 4) cols = 3;
+    else if (count > 1) cols = 2;
+    els.grid.style.gridTemplateColumns = 'repeat(' + cols + ', 1fr)';
+
+    var emptyEl = els.grid.querySelector('.emptyState');
+    if (!streams.length) {
+      if (!emptyEl) {
+        var p = document.createElement('div');
+        p.className = 'emptyState';
+        p.textContent = 'Nobody is live right now. This page checks back every minute.';
+        els.grid.appendChild(p);
+      }
+    } else if (emptyEl) {
+      emptyEl.remove();
+    }
+  }
+
+  function renderAll() {
+    if (!lastData) return;
+    var decisions = computeShown(lastData.streams);
+    renderHeader();
+    renderSidebar(lastData.streams, decisions);
+    renderGrid(lastData.streams, decisions);
+  }
+
+  function poll() {
+    fetch('live.json?t=' + Date.now(), { cache: 'no-store' })
+      .then(function (resp) {
+        if (!resp.ok) throw new Error('bad status ' + resp.status);
+        return resp.json();
+      })
+      .then(function (data) {
+        if (!data || !Array.isArray(data.streams)) throw new Error('bad schema');
+        lastData = data;
+        els.errorNote.style.display = 'none';
+        renderAll();
+      })
+      .catch(function () {
+        els.errorNote.style.display = '';
+        if (lastData) renderHeader();
+      });
+  }
+
+  poll();
+  setInterval(poll, POLL_MS);
+})();
+</script>
+</body>
+</html>
