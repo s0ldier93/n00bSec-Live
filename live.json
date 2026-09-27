@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T15:27:00Z",
+  "updated": "2026-09-27T15:29:29Z",
   "streams": [
     {
       "platform": "twitch",
@@ -18,6 +18,44 @@
       "name": "topklean",
       "title": "linux / systemd",
       "link": "https://twitch.tv/topklean"
+    },
+    {
+      "platform": "youtube",
+      "name": "censoredHacker",
+      "title": "FIRST EVER! 24 hours Stream Part 2",
+      "link": "https://www.youtube.com/watch?v=EBDDQv5qxT8"
+    },
+    {
+      "platform": "youtube",
+      "name": "freshforensics",
+      "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
+      "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE"
+    }
+  ],
+  "videos": [
+    {
+      "video_id": "BiEl8JRhosI",
+      "channel": "ElPinguinoDeMario",
+      "title": "herramienta de OSINT para Obtener Informaci\u00f3n de un EMAIL #OSINT",
+      "link": "https://www.youtube.com/watch?v=BiEl8JRhosI",
+      "published_at": "2026-09-27T14:48:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/BiEl8JRhosI/hqdefault.jpg"
+    },
+    {
+      "video_id": "tb3Z15ia3xc",
+      "channel": "LowLevelTV",
+      "title": "VIM is Performative #linux #vim #chatgpt #coding",
+      "link": "https://www.youtube.com/watch?v=tb3Z15ia3xc",
+      "published_at": "2026-09-27T13:15:46+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tb3Z15ia3xc/hqdefault.jpg"
+    },
+    {
+      "video_id": "s-i6BEjHJBc",
+      "channel": "team_whoami",
+      "title": "ensamblador suma y resta 1",
+      "link": "https://www.youtube.com/watch?v=s-i6BEjHJBc",
+      "published_at": "2026-09-27T13:00:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/s-i6BEjHJBc/hqdefault.jpg"
     }
   ]
 }
