@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T23:29:23Z",
+  "updated": "2026-09-27T23:39:24Z",
   "streams": [
     {
       "platform": "twitch",
@@ -9,13 +9,6 @@
       "viewers": 12
     },
     {
-      "platform": "twitch",
-      "name": "Whimmery",
-      "title": "Whimmery's Studio work",
-      "link": "https://twitch.tv/Whimmery",
-      "viewers": 1
-    },
-    {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
@@ -23,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 14,
+  "viewers_total": 13,
   "videos": [
     {
       "video_id": "VTirmjfHsks",
