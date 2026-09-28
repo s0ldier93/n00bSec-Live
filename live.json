@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T21:00:13Z",
+  "updated": "2026-09-28T21:10:14Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,28 +13,21 @@
       "name": "endingwithali",
       "title": "LEETCODE STUDYING !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 114
-    },
-    {
-      "platform": "twitch",
-      "name": "goproflowyo",
-      "title": "@alzivar's Madhuas Presents: Melodic Mondaze #2",
-      "link": "https://twitch.tv/goproflowyo",
-      "viewers": 59
+      "viewers": 81
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "FF8 Remastered Playthrough",
       "link": "https://twitch.tv/msec",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 7
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -44,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 184,
+  "viewers_total": 91,
   "videos": [
     {
       "video_id": "CzuhD7i4eps",
