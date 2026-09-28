@@ -1,26 +1,33 @@
 {
-  "updated": "2026-09-28T20:20:14Z",
+  "updated": "2026-09-28T20:30:14Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "BHIS - Talkin' Bout [infosec] News 2026-09-28",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "LEETCODE STUDYING !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 75
+      "viewers": 78
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "@alzivar's Madhuas Presents: Melodic Mondaze #2",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 53
+      "viewers": 56
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 0
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -30,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 129,
+  "viewers_total": 139,
   "videos": [
     {
       "video_id": "CzuhD7i4eps",
