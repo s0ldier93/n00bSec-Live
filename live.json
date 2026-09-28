@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T09:10:13Z",
+  "updated": "2026-09-28T09:20:12Z",
   "streams": [
     {
       "platform": "youtube",
@@ -20,20 +20,20 @@
       "thumbnail": "https://i.ytimg.com/vi/2UqzvcAuaBk/hqdefault.jpg"
     },
     {
+      "video_id": "GYxpM_CJ5rk",
+      "channel": "SecurityWeekly",
+      "title": "Measuring the Value of SecOps; BH Interviews with Fortra, Helmet, Above, & Keeper - ESW #478",
+      "link": "https://www.youtube.com/watch?v=GYxpM_CJ5rk",
+      "published_at": "2026-09-28T09:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GYxpM_CJ5rk/hqdefault.jpg"
+    },
+    {
       "video_id": "h8B0aori5Nc",
       "channel": "freshforensics",
       "title": "\ud83d\udd75\ufe0f OSINT Using Kali Linux: I Am the Target!\ud83d\udca3",
       "link": "https://www.youtube.com/watch?v=h8B0aori5Nc",
       "published_at": "2026-09-28T06:06:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/h8B0aori5Nc/hqdefault.jpg"
-    },
-    {
-      "video_id": "sMbTbEdkqjY",
-      "channel": "Khaos_Farbauti",
-      "title": "QUI N'A JAMAIS FAIT CETTE ERREUR ? | HTB Kobold #2",
-      "link": "https://www.youtube.com/watch?v=sMbTbEdkqjY",
-      "published_at": "2026-09-28T05:52:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sMbTbEdkqjY/hqdefault.jpg"
     }
   ]
 }
