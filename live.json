@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-28T19:09:55Z",
+  "updated": "2026-09-28T19:20:13Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "WHERE HAVE I BEEN? !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 76
+      "viewers": 84
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "@alzivar's Madhuas Presents: Melodic Mondaze #2",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 10
+      "viewers": 14
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 87,
+  "viewers_total": 99,
   "videos": [
     {
       "video_id": "CzuhD7i4eps",
@@ -34,20 +34,20 @@
       "thumbnail": "https://i.ytimg.com/vi/CzuhD7i4eps/hqdefault.jpg"
     },
     {
+      "video_id": "NDj4MN-gPyo",
+      "channel": "SecurityWeekly",
+      "title": "Cybersecurity Is a Fire That Never Goes Away",
+      "link": "https://www.youtube.com/watch?v=NDj4MN-gPyo",
+      "published_at": "2026-09-28T19:00:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NDj4MN-gPyo/hqdefault.jpg"
+    },
+    {
       "video_id": "50TURLY_3GE",
       "channel": "HackerMentor",
       "title": "Curso Gratuito - Misi\u00f3n 3 Master Cracker",
       "link": "https://www.youtube.com/watch?v=50TURLY_3GE",
       "published_at": "2026-09-28T16:47:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/50TURLY_3GE/hqdefault.jpg"
-    },
-    {
-      "video_id": "euTX2oQVVGA",
-      "channel": "antisyphon",
-      "title": "When Your Logs Attack Your Security Agent | Faan Rossouw",
-      "link": "https://www.youtube.com/watch?v=euTX2oQVVGA",
-      "published_at": "2026-09-28T15:23:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/euTX2oQVVGA/hqdefault.jpg"
     }
   ]
 }
