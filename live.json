@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-28T05:20:12Z",
+  "updated": "2026-09-28T05:30:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 18
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "yourcyberdoctor",
       "title": "Back in town with cyber news! - day 194",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -27,10 +27,10 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
       "link": "https://www.youtube.com/watch?v=FkCcfnJyT-o",
-      "viewers": 9
+      "viewers": 6
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 30,
   "videos": [
     {
       "video_id": "H62jxxmuOd4",
