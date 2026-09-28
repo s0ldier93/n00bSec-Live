@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-28T02:10:12Z",
+  "updated": "2026-09-28T02:20:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Back from GrrCon! | I got a Steam Frame VR| Cybersecurity,Rants,Chill,&Linux Gaming|9-27-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 13
+      "viewers": 14
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
+      "viewers": 2
     }
   ],
   "viewers_total": 16,
