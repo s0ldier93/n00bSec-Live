@@ -1,26 +1,33 @@
 {
-  "updated": "2026-09-28T22:57:41Z",
+  "updated": "2026-09-28T23:07:42Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 93
+      "viewers": 101
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "FF8 Remastered Playthrough",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 8
+      "viewers": 7
+    },
+    {
+      "platform": "twitch",
+      "name": "Whimmery",
+      "title": "Whimmery's Studio work",
+      "link": "https://twitch.tv/Whimmery",
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -30,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 105,
+  "viewers_total": 114,
   "videos": [
     {
       "video_id": "LrpX2oJPckg",
