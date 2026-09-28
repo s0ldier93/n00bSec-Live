@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-28T20:00:13Z",
+  "updated": "2026-09-28T20:10:13Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "WHERE HAVE I BEEN? !jobathon day 1/?",
+      "title": "LEETCODE STUDYING !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 75
+      "viewers": 79
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "@alzivar's Madhuas Presents: Melodic Mondaze #2",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 31
+      "viewers": 39
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 107,
+  "viewers_total": 119,
   "videos": [
     {
       "video_id": "CzuhD7i4eps",
