@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T12:50:12Z",
+  "updated": "2026-09-28T13:00:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -20,10 +20,10 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Sep 28's Top Cyber News NOW! - Ep 1253",
       "link": "https://www.youtube.com/watch?v=vcv8NZmtOoA",
-      "viewers": 374
+      "viewers": 387
     }
   ],
-  "viewers_total": 381,
+  "viewers_total": 397,
   "videos": [
     {
       "video_id": "iIv-pjcwD5Q",
