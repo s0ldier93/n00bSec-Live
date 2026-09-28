@@ -137,6 +137,32 @@
   .sidebarEmpty { color: #9aa0ab; font-size: 13px; padding: 12px 4px; }
   #promo { margin-top: 16px; }
   #promo img { display: block; width: 100%; border-radius: 8px; }
+  #recentVideos { margin-top: 16px; }
+  #recentVideos h3 { font-size: 13px; color: #9aa0ab; margin: 0 4px 8px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
+  .recentItem {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    background: #161920;
+    border-radius: 8px;
+    padding: 8px;
+    margin-bottom: 8px;
+    text-decoration: none;
+    color: #e6e6e6;
+  }
+  .recentItem:hover { background: #1d2129; }
+  .recentItem img { width: 96px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; background: #000; flex-shrink: 0; }
+  .recentItem .rinfo { min-width: 0; flex: 1; }
+  .recentItem .rtitle {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.3;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  .recentItem .rmeta { font-size: 11px; color: #9aa0ab; margin-top: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .emptyState h2 { color: #e6e6e6; font-size: 16px; margin: 36px 0 14px; }
   .videoRow { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
   .videoCard {
@@ -181,6 +207,8 @@
     <div id="streamList"></div>
     <!-- Sidebar artwork: swap by replacing promo.jpg in the repo (keep the filename). -->
     <div id="promo"><img src="promo.jpg" alt="n00bSec artwork" loading="lazy"></div>
+    <!-- Newest YouTube uploads across all tracked channels (from live.json "videos"). -->
+    <div id="recentVideos"></div>
   </aside>
   <main id="grid"></main>
 </div>
@@ -213,8 +241,11 @@
     multitwitchBtn: document.getElementById('multitwitchBtn'),
     errorNote: document.getElementById('errorNote'),
     streamList: document.getElementById('streamList'),
+    recentVideos: document.getElementById('recentVideos'),
     grid: document.getElementById('grid')
   };
+  var RECENT_MAX = 10;
+  var lastRecentKey = null;
 
   function savePrefs() {
     try {
@@ -511,12 +542,58 @@
     return wrap;
   }
 
+  function renderRecent(videos) {
+    videos = (videos || []).slice(0, RECENT_MAX);
+    // Only rebuild when the set changes, so the thumbnails don't flicker on every poll.
+    var key = videos.map(function (v) { return v.video_id; }).join('|');
+    if (key === lastRecentKey) return;
+    lastRecentKey = key;
+
+    els.recentVideos.innerHTML = '';
+    if (!videos.length) return;
+
+    var heading = document.createElement('h3');
+    heading.textContent = 'Recent YouTube uploads';
+    els.recentVideos.appendChild(heading);
+
+    for (var i = 0; i < videos.length; i++) {
+      var v = videos[i];
+      var a = document.createElement('a');
+      a.className = 'recentItem';
+      a.href = v.link;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.title = v.title || '';
+
+      var img = document.createElement('img');
+      img.src = v.thumbnail || ('https://i.ytimg.com/vi/' + encodeURIComponent(v.video_id) + '/mqdefault.jpg');
+      img.alt = '';
+      img.loading = 'lazy';
+      a.appendChild(img);
+
+      var info = document.createElement('div');
+      info.className = 'rinfo';
+      var t = document.createElement('div');
+      t.className = 'rtitle';
+      t.textContent = v.title || 'New video';
+      var m = document.createElement('div');
+      m.className = 'rmeta';
+      m.textContent = (v.channel || '') + (v.published_at ? ' · ' + timeAgo(v.published_at) : '');
+      info.appendChild(t);
+      info.appendChild(m);
+      a.appendChild(info);
+
+      els.recentVideos.appendChild(a);
+    }
+  }
+
   function renderAll() {
     if (!lastData) return;
     var decisions = computeShown(lastData.streams);
     renderHeader();
     renderSidebar(lastData.streams, decisions);
     renderGrid(lastData.streams, decisions);
+    renderRecent(lastData.videos);
   }
 
   function poll() {
