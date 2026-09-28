@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T04:40:12Z",
+  "updated": "2026-09-28T04:50:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 18
+      "viewers": 20
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 11
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "H62jxxmuOd4",
