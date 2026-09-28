@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T14:40:12Z",
+  "updated": "2026-09-28T14:50:12Z",
   "streams": [
     {
       "platform": "youtube",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "KPmny83rpys",
+      "channel": "ElPinguinoDeMario",
+      "title": "Aprende a Utilizar la IA para Hacking \u00c9tico y Ciberseguridad",
+      "link": "https://www.youtube.com/watch?v=KPmny83rpys",
+      "published_at": "2026-09-28T14:45:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/KPmny83rpys/hqdefault.jpg"
+    },
     {
       "video_id": "GfO4sY_qd_Y",
       "channel": "SecurityWeekly",
@@ -26,14 +34,6 @@
       "link": "https://www.youtube.com/watch?v=_JWWjKLt9-M",
       "published_at": "2026-09-28T13:00:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/_JWWjKLt9-M/hqdefault.jpg"
-    },
-    {
-      "video_id": "Ee-5PFrsGtU",
-      "channel": "NahamSec",
-      "title": "This WordPress Core Bug Can Lead to Remote Code Execution (CVE-2026-87902)",
-      "link": "https://www.youtube.com/watch?v=Ee-5PFrsGtU",
-      "published_at": "2026-09-28T12:45:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Ee-5PFrsGtU/hqdefault.jpg"
     }
   ]
 }
