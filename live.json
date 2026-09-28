@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-28T00:39:23Z",
+  "updated": "2026-09-28T01:09:23Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Back from GrrCon! | I got a Steam Frame VR| Cybersecurity,Rants,Chill,&Linux Gaming|9-27-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 12
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "h8handles",
       "title": "Grinding $$$$ on wardogs",
       "link": "https://twitch.tv/h8handles",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 14,
+  "viewers_total": 20,
   "videos": [
     {
       "video_id": "FkCcfnJyT-o",
