@@ -1,30 +1,39 @@
 {
-  "updated": "2026-09-28T01:09:23Z",
+  "updated": "2026-09-28T01:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Back from GrrCon! | I got a Steam Frame VR| Cybersecurity,Rants,Chill,&Linux Gaming|9-27-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 17
-    },
-    {
-      "platform": "twitch",
-      "name": "h8handles",
-      "title": "Grinding $$$$ on wardogs",
-      "link": "https://twitch.tv/h8handles",
-      "viewers": 2
+      "viewers": 16
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 18,
   "videos": [
+    {
+      "video_id": "13uGbCbEsTQ",
+      "channel": "freshforensics",
+      "title": "\ud83d\udea8 Find Me Something Like This\u2026 \ud83d\udc40 #youtubeshorts #coding #shorts #short #wifi",
+      "link": "https://www.youtube.com/watch?v=13uGbCbEsTQ",
+      "published_at": "2026-09-28T01:12:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/13uGbCbEsTQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "-AsaiNZbvHQ",
+      "channel": "mbcrump",
+      "title": "PS5 FPKG Support Moves to Firmware 11.60 #Shorts",
+      "link": "https://www.youtube.com/watch?v=-AsaiNZbvHQ",
+      "published_at": "2026-09-28T01:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-AsaiNZbvHQ/hqdefault.jpg"
+    },
     {
       "video_id": "FkCcfnJyT-o",
       "channel": "TheShyHat",
@@ -32,22 +41,6 @@
       "link": "https://www.youtube.com/watch?v=FkCcfnJyT-o",
       "published_at": "2026-09-27T23:56:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FkCcfnJyT-o/hqdefault.jpg"
-    },
-    {
-      "video_id": "VTirmjfHsks",
-      "channel": "mbcrump",
-      "title": "GoldHEN Expands Across PS4 Firmware 13.xx #Shorts",
-      "link": "https://www.youtube.com/watch?v=VTirmjfHsks",
-      "published_at": "2026-09-27T22:00:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VTirmjfHsks/hqdefault.jpg"
-    },
-    {
-      "video_id": "nrrAva4-SDE",
-      "channel": "LiveOverflow",
-      "title": "OpenAI paid $6,500 for this bug! #shorts",
-      "link": "https://www.youtube.com/watch?v=nrrAva4-SDE",
-      "published_at": "2026-09-27T21:54:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nrrAva4-SDE/hqdefault.jpg"
     }
   ]
 }
