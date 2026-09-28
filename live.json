@@ -1,26 +1,33 @@
 {
-  "updated": "2026-09-28T23:07:42Z",
+  "updated": "2026-09-28T23:17:41Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "chiefgyk3d",
+      "title": "We have a lot to build, starting the homelab rebuild| Cybersecurity,Rants,Chill,&Linux Gaming|9-28-26",
+      "link": "https://twitch.tv/chiefgyk3d",
+      "viewers": 6
+    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 101
+      "viewers": 70
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "FF8 Remastered Playthrough",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 7
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -34,10 +41,10 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 114,
+  "viewers_total": 91,
   "videos": [
     {
       "video_id": "LrpX2oJPckg",
