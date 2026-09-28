@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T15:30:13Z",
+  "updated": "2026-09-28T15:40:13Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "euTX2oQVVGA",
+      "channel": "antisyphon",
+      "title": "When Your Logs Attack Your Security Agent | Faan Rossouw",
+      "link": "https://www.youtube.com/watch?v=euTX2oQVVGA",
+      "published_at": "2026-09-28T15:23:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/euTX2oQVVGA/hqdefault.jpg"
+    },
     {
       "video_id": "mk4VXMgcY6A",
       "channel": "JohnHammond010",
@@ -33,14 +41,6 @@
       "link": "https://www.youtube.com/watch?v=KPmny83rpys",
       "published_at": "2026-09-28T14:45:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/KPmny83rpys/hqdefault.jpg"
-    },
-    {
-      "video_id": "GfO4sY_qd_Y",
-      "channel": "SecurityWeekly",
-      "title": "Why Security Spending Is So Hard",
-      "link": "https://www.youtube.com/watch?v=GfO4sY_qd_Y",
-      "published_at": "2026-09-28T14:00:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GfO4sY_qd_Y/hqdefault.jpg"
     }
   ]
 }
