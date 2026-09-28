@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SeaCon3 — Persistence</title>
+<link rel="icon" type="image/png" sizes="256x256" href="favicon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #0d0f14;
+    color: #e6e6e6;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+  }
+  header {
+    padding: 14px 20px;
+    border-bottom: 1px solid #23262e;
+    background: #11141b;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  header a.back { color: #a970ff; text-decoration: none; font-size: 14px; font-weight: 600; white-space: nowrap; }
+  header a.back:hover { text-decoration: underline; }
+  header h1 { font-size: 18px; margin: 0; }
+  main { max-width: 860px; margin: 0 auto; padding: 24px 20px 60px; }
+  .hero { display: block; width: 100%; border-radius: 12px; margin-bottom: 28px; }
+  h2 { font-size: 22px; margin: 36px 0 12px; }
+  .tagline { color: #c7ccd6; font-size: 17px; margin: 0 0 8px; }
+  .facts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+    margin: 28px 0;
+  }
+  .fact { background: #161920; border-radius: 10px; padding: 14px 16px; }
+  .fact .label { font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: #9aa0ab; margin-bottom: 4px; }
+  .fact .value { font-size: 16px; font-weight: 600; }
+  .figure { margin: 28px 0; }
+  .figure img { display: block; width: 100%; border-radius: 12px; }
+  .figure figcaption { color: #9aa0ab; font-size: 13px; margin-top: 8px; text-align: center; }
+  .cta {
+    display: inline-block;
+    background: #9147ff;
+    color: #fff;
+    text-decoration: none;
+    padding: 13px 24px;
+    border-radius: 8px;
+    font-weight: 600;
+    margin-top: 8px;
+    font-size: 15px;
+  }
+  .cta:hover { background: #7c3aed; }
+  .cta-note { color: #9aa0ab; font-size: 13px; margin-top: 10px; }
+  footer { border-top: 1px solid #23262e; color: #9aa0ab; font-size: 13px; padding: 20px; text-align: center; }
+  footer a { color: #a970ff; text-decoration: none; }
+</style>
+</head>
+<body>
+<header>
+  <a class="back" href="./">&larr; n00bSec TV</a>
+  <h1>SeaCon3 &mdash; Persistence</h1>
+</header>
+<main>
+  <img class="hero" src="promo.jpg" alt="SeaCon3 Persistence poster">
+
+  <p class="tagline">
+    Five nights at sea with the security community aboard Virgin Voyages&rsquo; <strong>Scarlet Lady</strong>,
+    sailing round-trip from Miami.
+  </p>
+
+  <div class="facts">
+    <div class="fact"><div class="label">Dates</div><div class="value">Feb 15&ndash;20, 2027</div></div>
+    <div class="fact"><div class="label">Ship</div><div class="value">Virgin Voyages &mdash; Scarlet Lady</div></div>
+    <div class="fact"><div class="label">Departs &amp; Returns</div><div class="value">Miami, Florida</div></div>
+    <div class="fact"><div class="label">The Rendezvous</div><div class="value">Feb 16, 2027</div></div>
+  </div>
+
+  <h2>The Rendezvous &mdash; where all four ships meet</h2>
+  <p>
+    Mark it on your map: <strong>Feb 16th, 2027</strong>, at <strong>22&deg;12&#39;57&quot;N, 77&deg;16&#39;07&quot;W</strong>
+    &mdash; 38 nautical miles north of Cuba. It&rsquo;s the exact spot where, for the first time ever, all four Lady Ships
+    will meet in open water. Sailors on every ship get a live window into the celebrations happening fleet-wide:
+    pool-deck parties, live entertainment, and more. More details coming soon.
+  </p>
+
+  <figure class="figure">
+    <img src="seacon3-rendezvous.png" alt="All four Virgin Voyages Lady Ships meeting in open water at sunset">
+    <figcaption>All four Lady Ships meeting in open water, 38 nautical miles north of Cuba.</figcaption>
+  </figure>
+
+  <h2>Book your cabin</h2>
+  <p>
+    SeaCon3 sails aboard the Scarlet Lady on the 5-night voyage departing Miami on Feb 15, 2027.
+    Reserve your spot through the Virgin Voyages planner below.
+  </p>
+  <a class="cta" href="https://www.virginvoyages.com/book/voyage-planner/fullCruiseDetails?agencyId=9446&amp;agentId=192854&amp;currencyCode=USD&amp;dateFrom=2027-02-01&amp;dateTo=2027-02-28&amp;packageCode=5NMRV" target="_blank" rel="noopener noreferrer">
+    Book on Virgin Voyages &nearr;
+  </a>
+  <p class="cta-note">Opens the Virgin Voyages voyage planner in a new tab.</p>
+</main>
+<footer>
+  Brought to you by <a href="./">n00bSec TV</a> &mdash; <a href="https://n00bsec.live/">n00bsec.live</a>
+</footer>
+</body>
+</html>
