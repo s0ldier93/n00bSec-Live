@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-28T19:40:13Z",
+  "updated": "2026-09-28T19:50:13Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "WHERE HAVE I BEEN? !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 78
+      "viewers": 81
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "@alzivar's Madhuas Presents: Melodic Mondaze #2",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 25
+      "viewers": 36
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 105,
+  "viewers_total": 118,
   "videos": [
     {
       "video_id": "CzuhD7i4eps",
