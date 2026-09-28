@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T06:00:12Z",
+  "updated": "2026-09-28T06:09:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,10 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "TheShyHat",
-      "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
-      "link": "https://www.youtube.com/watch?v=FkCcfnJyT-o",
-      "viewers": 12
+      "viewers": 2
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 22,
   "videos": [
     {
       "video_id": "H62jxxmuOd4",
