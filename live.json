@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T16:40:13Z",
+  "updated": "2026-09-28T16:50:13Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 9
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 10,
+  "viewers_total": 7,
   "videos": [
+    {
+      "video_id": "50TURLY_3GE",
+      "channel": "HackerMentor",
+      "title": "Curso Gratuito - Misi\u00f3n 3 Master Cracker",
+      "link": "https://www.youtube.com/watch?v=50TURLY_3GE",
+      "published_at": "2026-09-28T16:47:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/50TURLY_3GE/hqdefault.jpg"
+    },
     {
       "video_id": "euTX2oQVVGA",
       "channel": "antisyphon",
@@ -33,14 +41,6 @@
       "link": "https://www.youtube.com/watch?v=mk4VXMgcY6A",
       "published_at": "2026-09-28T15:00:46+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mk4VXMgcY6A/hqdefault.jpg"
-    },
-    {
-      "video_id": "KPmny83rpys",
-      "channel": "ElPinguinoDeMario",
-      "title": "Aprende a Utilizar la IA para Hacking \u00c9tico y Ciberseguridad",
-      "link": "https://www.youtube.com/watch?v=KPmny83rpys",
-      "published_at": "2026-09-28T14:45:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/KPmny83rpys/hqdefault.jpg"
     }
   ]
 }
