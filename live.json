@@ -1,26 +1,19 @@
 {
-  "updated": "2026-09-28T23:47:41Z",
+  "updated": "2026-09-28T23:57:43Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "We have a lot to build, starting the homelab rebuild| Cybersecurity,Rants,Chill,&Linux Gaming|9-28-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 10
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 79
-    },
-    {
-      "platform": "twitch",
-      "name": "msec",
-      "title": "FF8 Remastered Playthrough",
-      "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 82
     },
     {
       "platform": "twitch",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 94,
+  "viewers_total": 95,
   "videos": [
     {
       "video_id": "LrpX2oJPckg",
