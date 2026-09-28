@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T01:50:12Z",
+  "updated": "2026-09-28T02:00:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Back from GrrCon! | I got a Steam Frame VR| Cybersecurity,Rants,Chill,&Linux Gaming|9-27-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 15
+      "viewers": 16
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 18,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "13uGbCbEsTQ",
