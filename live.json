@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-27T23:49:23Z",
+  "updated": "2026-09-28T00:09:23Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Back from GrrCon! | I got a Steam Frame VR| Cybersecurity,Rants,Chill,&Linux Gaming|9-27-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 11
+      "viewers": 12
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 13,
   "videos": [
+    {
+      "video_id": "FkCcfnJyT-o",
+      "channel": "TheShyHat",
+      "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
+      "link": "https://www.youtube.com/watch?v=FkCcfnJyT-o",
+      "published_at": "2026-09-27T23:56:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FkCcfnJyT-o/hqdefault.jpg"
+    },
     {
       "video_id": "VTirmjfHsks",
       "channel": "mbcrump",
@@ -33,14 +41,6 @@
       "link": "https://www.youtube.com/watch?v=nrrAva4-SDE",
       "published_at": "2026-09-27T21:54:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nrrAva4-SDE/hqdefault.jpg"
-    },
-    {
-      "video_id": "sKlonP-cZm8",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 2's Top Cyber News NOW! - Ep 1257",
-      "link": "https://www.youtube.com/watch?v=sKlonP-cZm8",
-      "published_at": "2026-09-27T21:09:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sKlonP-cZm8/hqdefault.jpg"
     }
   ]
 }
