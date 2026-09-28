@@ -1,37 +1,45 @@
 {
-  "updated": "2026-09-28T22:10:12Z",
+  "updated": "2026-09-28T22:20:13Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "LEETCODE STUDYING !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 74
+      "viewers": 80
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "FF8 Remastered Playthrough",
       "link": "https://twitch.tv/msec",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 8
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 89,
+  "viewers_total": 93,
   "videos": [
+    {
+      "video_id": "LrpX2oJPckg",
+      "channel": "mbcrump",
+      "title": "Install PS5 Packages Over USB or Your Network #Shorts",
+      "link": "https://www.youtube.com/watch?v=LrpX2oJPckg",
+      "published_at": "2026-09-28T22:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LrpX2oJPckg/hqdefault.jpg"
+    },
     {
       "video_id": "CzuhD7i4eps",
       "channel": "mbcrump",
@@ -47,14 +55,6 @@
       "link": "https://www.youtube.com/watch?v=NDj4MN-gPyo",
       "published_at": "2026-09-28T19:00:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NDj4MN-gPyo/hqdefault.jpg"
-    },
-    {
-      "video_id": "50TURLY_3GE",
-      "channel": "HackerMentor",
-      "title": "Curso Gratuito - Misi\u00f3n 3 Master Cracker",
-      "link": "https://www.youtube.com/watch?v=50TURLY_3GE",
-      "published_at": "2026-09-28T16:47:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/50TURLY_3GE/hqdefault.jpg"
     }
   ]
 }
