@@ -1,12 +1,26 @@
 {
-  "updated": "2026-09-28T18:50:13Z",
+  "updated": "2026-09-28T19:00:14Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "endingwithali",
+      "title": "WHERE HAVE I BEEN? !jobathon day 1/?",
+      "link": "https://twitch.tv/endingwithali",
+      "viewers": 29
+    },
+    {
+      "platform": "twitch",
+      "name": "goproflowyo",
+      "title": "@alzivar's Madhuas Presents: Melodic Mondaze #2",
+      "link": "https://twitch.tv/goproflowyo",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "MDISEC",
       "title": "HACK THE PLANET !LSAI !insta",
       "link": "https://twitch.tv/MDISEC",
-      "viewers": 35
+      "viewers": 36
     },
     {
       "platform": "youtube",
@@ -20,10 +34,10 @@
       "name": "MDISEC",
       "title": "HACK THE PLANET !lsai",
       "link": "https://www.youtube.com/watch?v=7SmGQtPk7L8",
-      "viewers": 107
+      "viewers": 86
     }
   ],
-  "viewers_total": 143,
+  "viewers_total": 152,
   "videos": [
     {
       "video_id": "50TURLY_3GE",
