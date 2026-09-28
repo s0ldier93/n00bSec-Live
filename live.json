@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T12:09:52Z",
+  "updated": "2026-09-28T12:20:12Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,11 +20,19 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Sep 28's Top Cyber News NOW! - Ep 1253",
       "link": "https://www.youtube.com/watch?v=vcv8NZmtOoA",
-      "viewers": 211
+      "viewers": 307
     }
   ],
-  "viewers_total": 223,
+  "viewers_total": 319,
   "videos": [
+    {
+      "video_id": "iIv-pjcwD5Q",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Tube II - Stack Calculation - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=iIv-pjcwD5Q",
+      "published_at": "2026-09-28T12:00:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/iIv-pjcwD5Q/hqdefault.jpg"
+    },
     {
       "video_id": "Y6ZAut6v64E",
       "channel": "DCCyberSec",
@@ -40,14 +48,6 @@
       "link": "https://www.youtube.com/watch?v=2UqzvcAuaBk",
       "published_at": "2026-09-28T09:00:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2UqzvcAuaBk/hqdefault.jpg"
-    },
-    {
-      "video_id": "GYxpM_CJ5rk",
-      "channel": "SecurityWeekly",
-      "title": "Measuring the Value of SecOps; BH Interviews with Fortra, Helmet, Above, & Keeper - ESW #478",
-      "link": "https://www.youtube.com/watch?v=GYxpM_CJ5rk",
-      "published_at": "2026-09-28T09:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GYxpM_CJ5rk/hqdefault.jpg"
     }
   ]
 }
