@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T18:00:13Z",
+  "updated": "2026-09-28T18:10:13Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "MDISEC",
       "title": "HACK THE PLANET !LSAI !insta",
       "link": "https://twitch.tv/MDISEC",
-      "viewers": 55
+      "viewers": 54
     },
     {
       "platform": "youtube",
@@ -20,10 +20,10 @@
       "name": "MDISEC",
       "title": "HACK THE PLANET !lsai",
       "link": "https://www.youtube.com/watch?v=7SmGQtPk7L8",
-      "viewers": 138
+      "viewers": 144
     }
   ],
-  "viewers_total": 194,
+  "viewers_total": 199,
   "videos": [
     {
       "video_id": "50TURLY_3GE",
