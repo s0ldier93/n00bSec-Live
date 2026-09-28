@@ -50,6 +50,7 @@
   #presenceNote { color: #4fc3f7; font-size: 13px; font-weight: 600; white-space: nowrap; display: none; }
   .playerHeader .pviews { color: #ff6b6b; font-weight: 600; white-space: nowrap; margin-left: auto; }
   #errorNote { color: #ffb454; font-size: 12px; display: none; }
+  #headerActions { margin-left: auto; display: flex; gap: 8px; align-items: center; }
   #multitwitchBtn {
     background: #9147ff;
     color: #fff;
@@ -60,11 +61,23 @@
     font-size: 13px;
     font-weight: 600;
     display: none;
-    margin-left: auto;
   }
   #multitwitchBtn:hover { background: #7c3aed; }
+  #recentBtn {
+    background: #161920;
+    color: #e6e6e6;
+    border: 1px solid #2b2f3a;
+    padding: 8px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    display: none;
+  }
+  #recentBtn:hover { background: #1d2129; border-color: #a970ff; }
 
   #layout { display: flex; align-items: flex-start; }
+  #content { flex: 1; min-width: 0; }
   #sidebar {
     width: 300px;
     flex-shrink: 0;
@@ -107,13 +120,56 @@
   }
 
   #grid {
-    flex: 1;
     padding: 16px;
     display: grid;
     gap: 16px;
     align-content: start;
-    min-height: calc(100vh - 57px);
   }
+  #grid.hasLive { min-height: calc(100vh - 57px); }
+
+  /* Recent uploads: click-to-play panes under the live players. */
+  #recentSection { padding: 0 16px 24px; scroll-margin-top: 70px; display: none; }
+  #recentSection h2 {
+    font-size: 13px;
+    color: #9aa0ab;
+    margin: 8px 4px 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+  }
+  #recentGrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+  .vidCard { background: #161920; border-radius: 8px; overflow: hidden; scroll-margin-top: 70px; }
+  .vidCard.playing { box-shadow: 0 0 0 2px #a970ff; }
+  .vidHeader { padding: 8px 10px; font-size: 13px; }
+  .vidHeader .vt {
+    font-weight: 600;
+    line-height: 1.3;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  .vidHeader .vm { color: #9aa0ab; font-size: 11px; margin-top: 4px; display: flex; gap: 8px; align-items: center; }
+  .vidHeader .vm .vch { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+  .vidHeader .vm a { color: #a970ff; text-decoration: none; margin-left: auto; white-space: nowrap; }
+  .vidHeader .vm a:hover { text-decoration: underline; }
+  .vidPoster { position: relative; width: 100%; padding-bottom: 56.25%; background: #000; cursor: pointer; }
+  .vidPoster img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .vidPoster .play { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
+  .vidPoster .play span {
+    width: 64px;
+    height: 44px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, .72);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 20px;
+    padding-left: 4px;
+    transition: background .15s;
+  }
+  .vidPoster:hover .play span { background: #ff0000; }
   .playerCard { background: #161920; border-radius: 8px; overflow: hidden; }
   .playerHeader {
     padding: 8px 10px;
@@ -179,22 +235,6 @@
     -webkit-box-orient: vertical;
   }
   .recentItem .rmeta { font-size: 11px; color: #9aa0ab; margin-top: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .emptyState h2 { color: #e6e6e6; font-size: 16px; margin: 36px 0 14px; }
-  .videoRow { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
-  .videoCard {
-    width: 300px;
-    background: #161920;
-    border-radius: 8px;
-    overflow: hidden;
-    text-decoration: none;
-    color: #e6e6e6;
-    text-align: left;
-  }
-  .videoCard:hover { background: #1d2129; }
-  .videoCard img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: #000; }
-  .videoCard .vtitle { padding: 10px 10px 4px; font-size: 14px; font-weight: 600; line-height: 1.3; }
-  .videoCard .vchannel { padding: 0 10px 10px; font-size: 12px; color: #9aa0ab; }
-
   @media (max-width: 800px) {
     #layout { flex-direction: column; }
     #sidebar {
@@ -205,7 +245,8 @@
       border-bottom: 1px solid #23262e;
       position: static;
     }
-    #grid { min-height: auto; }
+    #grid.hasLive { min-height: auto; }
+    #recentGrid { grid-template-columns: 1fr; }
   }
 </style>
 </head>
@@ -216,17 +257,27 @@
   <div id="viewerNote"></div>
   <div id="presenceNote" title="People with this page open right now"></div>
   <div id="errorNote">⚠ last check failed</div>
-  <button id="multitwitchBtn" type="button">📺 Watch all on Multitwitch</button>
+  <div id="headerActions">
+    <button id="recentBtn" type="button">▶️ Recent uploads</button>
+    <button id="multitwitchBtn" type="button">📺 Watch all on Multitwitch</button>
+  </div>
 </header>
 <div id="layout">
   <aside id="sidebar">
     <div id="streamList"></div>
     <!-- Sidebar artwork: swap by replacing promo.jpg in the repo (keep the filename). Links to the SeaCon3 page. -->
     <div id="promo"><a href="seacon3.html"><img src="promo.jpg" alt="SeaCon3 Persistence — click for details" loading="lazy"></a></div>
-    <!-- Newest YouTube uploads across all tracked channels (from live.json "videos"). -->
+    <!-- Newest YouTube uploads across all tracked channels (from live.json "videos"). Click = play in the pane below the live players. -->
     <div id="recentVideos"></div>
   </aside>
-  <main id="grid"></main>
+  <div id="content">
+    <main id="grid"></main>
+    <!-- Click-to-play panes for the same uploads; rebuilt incrementally so a playing video survives the poll. -->
+    <section id="recentSection">
+      <h2 id="recentHeading">Recent YouTube uploads</h2>
+      <div id="recentGrid"></div>
+    </section>
+  </div>
 </div>
 
 <script src="firebase-config.js"></script>
@@ -258,10 +309,19 @@
     errorNote: document.getElementById('errorNote'),
     streamList: document.getElementById('streamList'),
     recentVideos: document.getElementById('recentVideos'),
-    grid: document.getElementById('grid')
+    grid: document.getElementById('grid'),
+    recentSection: document.getElementById('recentSection'),
+    recentGrid: document.getElementById('recentGrid'),
+    recentHeading: document.getElementById('recentHeading'),
+    recentBtn: document.getElementById('recentBtn')
   };
-  var RECENT_MAX = 10;
+  var RECENT_MAX = 20;
   var lastRecentKey = null;
+  var videoEls = new Map();   // video_id -> { card, poster, playing }
+
+  els.recentBtn.addEventListener('click', function () {
+    els.recentSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
 
   function savePrefs() {
     try {
@@ -353,6 +413,14 @@
     } else {
       els.multitwitchBtn.style.display = 'none';
     }
+
+    var vidCount = Math.min((lastData.videos || []).length, RECENT_MAX);
+    if (vidCount > 0) {
+      els.recentBtn.textContent = '▶️ Recent uploads (' + vidCount + ')';
+      els.recentBtn.style.display = 'inline-block';
+    } else {
+      els.recentBtn.style.display = 'none';
+    }
   }
 
   function renderSidebar(streams, decisions) {
@@ -417,9 +485,10 @@
     return iframe;
   }
 
-  function makeYouTubeIframe(id) {
+  function makeYouTubeIframe(id, muted) {
+    if (muted === undefined) muted = true;
     var iframe = document.createElement('iframe');
-    iframe.src = 'https://www.youtube.com/embed/' + encodeURIComponent(id) + '?autoplay=1&mute=1';
+    iframe.src = 'https://www.youtube.com/embed/' + encodeURIComponent(id) + '?autoplay=1' + (muted ? '&mute=1' : '');
     iframe.allowFullscreen = true;
     iframe.setAttribute('allow', 'autoplay; fullscreen');
     return iframe;
@@ -504,6 +573,7 @@
     if (count > 4) cols = 3;
     else if (count > 1) cols = 2;
     els.grid.style.gridTemplateColumns = 'repeat(' + cols + ', 1fr)';
+    els.grid.classList.toggle('hasLive', streams.length > 0);
 
     var emptyEl = els.grid.querySelector('.emptyState');
     if (emptyEl) emptyEl.remove();
@@ -515,47 +585,131 @@
   function buildEmptyState(videos) {
     var wrap = document.createElement('div');
     wrap.className = 'emptyState';
-
     var msg = document.createElement('div');
-    msg.textContent = 'Nobody is live right now. This page checks back every minute.';
+    msg.textContent = 'Nobody is live right now. This page checks back every minute.'
+      + (videos.length ? ' Catch up on the latest uploads below.' : '');
     wrap.appendChild(msg);
-
-    if (!videos.length) return wrap;
-
-    var heading = document.createElement('h2');
-    heading.textContent = 'Latest YouTube uploads';
-    wrap.appendChild(heading);
-
-    var row = document.createElement('div');
-    row.className = 'videoRow';
-    for (var i = 0; i < videos.length && i < 3; i++) {
-      var v = videos[i];
-      var a = document.createElement('a');
-      a.className = 'videoCard';
-      a.href = v.link;
-      a.target = '_blank';
-      a.rel = 'noopener noreferrer';
-
-      var img = document.createElement('img');
-      img.src = v.thumbnail || ('https://i.ytimg.com/vi/' + encodeURIComponent(v.video_id) + '/hqdefault.jpg');
-      img.alt = '';
-      img.loading = 'lazy';
-      a.appendChild(img);
-
-      var t = document.createElement('div');
-      t.className = 'vtitle';
-      t.textContent = v.title || 'New video';
-      a.appendChild(t);
-
-      var ch = document.createElement('div');
-      ch.className = 'vchannel';
-      ch.textContent = '▶️ ' + (v.channel || '') + (v.published_at ? ' · ' + timeAgo(v.published_at) : '');
-      a.appendChild(ch);
-
-      row.appendChild(a);
-    }
-    wrap.appendChild(row);
     return wrap;
+  }
+
+  /* ---- Recent uploads: click-to-play panes ----
+     Thumbnail + play button until clicked, then the YouTube player is loaded in place.
+     The grid is updated incrementally (cards keyed by video_id) so a video that is
+     playing is not torn down when the poll brings a new upload. */
+  function videoThumb(v, quality) {
+    return v.thumbnail
+      ? v.thumbnail.replace(/\/(hq|mq|sd|maxres)default\.jpg$/, '/' + quality + 'default.jpg')
+      : 'https://i.ytimg.com/vi/' + encodeURIComponent(v.video_id) + '/' + quality + 'default.jpg';
+  }
+
+  function makeVideoCard(v) {
+    var card = document.createElement('div');
+    card.className = 'vidCard';
+    card.id = 'vid-' + v.video_id;
+
+    var header = document.createElement('div');
+    header.className = 'vidHeader';
+    var vt = document.createElement('div');
+    vt.className = 'vt';
+    vt.textContent = v.title || 'New video';
+    vt.title = v.title || '';
+    var vm = document.createElement('div');
+    vm.className = 'vm';
+    var vch = document.createElement('span');
+    vch.className = 'vch';
+    vch.textContent = '▶️ ' + (v.channel || '') + (v.published_at ? ' · ' + timeAgo(v.published_at) : '');
+    var ext = document.createElement('a');
+    ext.href = v.link;
+    ext.target = '_blank';
+    ext.rel = 'noopener noreferrer';
+    ext.textContent = 'YouTube ↗';
+    vm.appendChild(vch);
+    vm.appendChild(ext);
+    header.appendChild(vt);
+    header.appendChild(vm);
+    card.appendChild(header);
+
+    var poster = document.createElement('div');
+    poster.className = 'vidPoster';
+    var img = document.createElement('img');
+    img.src = videoThumb(v, 'hq');
+    img.alt = '';
+    img.loading = 'lazy';
+    var play = document.createElement('div');
+    play.className = 'play';
+    var btn = document.createElement('span');
+    btn.textContent = '▶';
+    play.appendChild(btn);
+    poster.appendChild(img);
+    poster.appendChild(play);
+    poster.addEventListener('click', function () { playVideo(v.video_id, false); });
+    card.appendChild(poster);
+
+    return { card: card, poster: poster, meta: vch, video: v, playing: false };
+  }
+
+  function playVideo(id, scroll) {
+    var entry = videoEls.get(id);
+    if (!entry) return;
+    if (scroll) entry.card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (entry.playing) return;
+    // Only one player at a time: reset any other card back to its poster.
+    videoEls.forEach(function (other, otherId) {
+      if (otherId !== id && other.playing) resetVideo(other);
+    });
+    var frame = document.createElement('div');
+    frame.className = 'playerFrame';
+    frame.appendChild(makeYouTubeIframe(id, false));
+    entry.card.replaceChild(frame, entry.poster);
+    entry.frame = frame;
+    entry.playing = true;
+    entry.card.classList.add('playing');
+  }
+
+  function resetVideo(entry) {
+    if (!entry.playing) return;
+    entry.card.replaceChild(entry.poster, entry.frame);
+    entry.frame = null;
+    entry.playing = false;
+    entry.card.classList.remove('playing');
+  }
+
+  function renderRecentGrid(videos) {
+    videos = (videos || []).slice(0, RECENT_MAX);
+    if (!videos.length) {
+      els.recentSection.style.display = 'none';
+      return;
+    }
+    els.recentSection.style.display = 'block';
+    els.recentHeading.textContent = 'Recent YouTube uploads (' + videos.length + ')';
+
+    var keep = {};
+    for (var i = 0; i < videos.length; i++) keep[videos[i].video_id] = true;
+    videoEls.forEach(function (entry, id) {
+      if (!keep[id]) {
+        entry.card.remove();
+        videoEls.delete(id);
+      }
+    });
+
+    // Walk the desired order; insert new cards without moving existing ones.
+    var cursor = els.recentGrid.firstChild;
+    for (var k = 0; k < videos.length; k++) {
+      var v = videos[k];
+      var entry = videoEls.get(v.video_id);
+      if (!entry) {
+        entry = makeVideoCard(v);
+        videoEls.set(v.video_id, entry);
+        els.recentGrid.insertBefore(entry.card, cursor);
+      } else {
+        entry.meta.textContent = '▶️ ' + (v.channel || '') + (v.published_at ? ' · ' + timeAgo(v.published_at) : '');
+        if (entry.card === cursor) {
+          cursor = cursor.nextSibling;
+        } else {
+          els.recentGrid.insertBefore(entry.card, cursor);
+        }
+      }
+    }
   }
 
   function renderRecent(videos) {
@@ -573,33 +727,41 @@
     els.recentVideos.appendChild(heading);
 
     for (var i = 0; i < videos.length; i++) {
-      var v = videos[i];
-      var a = document.createElement('a');
-      a.className = 'recentItem';
-      a.href = v.link;
-      a.target = '_blank';
-      a.rel = 'noopener noreferrer';
-      a.title = v.title || '';
+      (function (v) {
+        var a = document.createElement('a');
+        a.className = 'recentItem';
+        a.href = v.link;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.title = (v.title || '') + ' — click to play here';
+        // Plain click plays in the pane on this page; ctrl/middle-click still opens YouTube.
+        a.addEventListener('click', function (ev) {
+          if (ev.button !== 0 || ev.ctrlKey || ev.metaKey || ev.shiftKey) return;
+          if (!videoEls.has(v.video_id)) return;
+          ev.preventDefault();
+          playVideo(v.video_id, true);
+        });
 
-      var img = document.createElement('img');
-      img.src = v.thumbnail || ('https://i.ytimg.com/vi/' + encodeURIComponent(v.video_id) + '/mqdefault.jpg');
-      img.alt = '';
-      img.loading = 'lazy';
-      a.appendChild(img);
+        var img = document.createElement('img');
+        img.src = videoThumb(v, 'mq');
+        img.alt = '';
+        img.loading = 'lazy';
+        a.appendChild(img);
 
-      var info = document.createElement('div');
-      info.className = 'rinfo';
-      var t = document.createElement('div');
-      t.className = 'rtitle';
-      t.textContent = v.title || 'New video';
-      var m = document.createElement('div');
-      m.className = 'rmeta';
-      m.textContent = (v.channel || '') + (v.published_at ? ' · ' + timeAgo(v.published_at) : '');
-      info.appendChild(t);
-      info.appendChild(m);
-      a.appendChild(info);
+        var info = document.createElement('div');
+        info.className = 'rinfo';
+        var t = document.createElement('div');
+        t.className = 'rtitle';
+        t.textContent = v.title || 'New video';
+        var m = document.createElement('div');
+        m.className = 'rmeta';
+        m.textContent = (v.channel || '') + (v.published_at ? ' · ' + timeAgo(v.published_at) : '');
+        info.appendChild(t);
+        info.appendChild(m);
+        a.appendChild(info);
 
-      els.recentVideos.appendChild(a);
+        els.recentVideos.appendChild(a);
+      })(videos[i]);
     }
   }
 
@@ -609,6 +771,7 @@
     renderHeader();
     renderSidebar(lastData.streams, decisions);
     renderGrid(lastData.streams, decisions);
+    renderRecentGrid(lastData.videos);
     renderRecent(lastData.videos);
   }
 
