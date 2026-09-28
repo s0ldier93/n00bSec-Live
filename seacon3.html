@@ -12,15 +12,26 @@
   html, body {
     margin: 0;
     padding: 0;
-    background: #0d0f14;
     color: #e6e6e6;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.6;
   }
+  body {
+    min-height: 100vh;
+    background-color: #0d0f14;
+    background-image:
+      linear-gradient(rgba(13, 15, 20, 0.78), rgba(13, 15, 20, 0.90)),
+      url("promo.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
   header {
     padding: 14px 20px;
-    border-bottom: 1px solid #23262e;
-    background: #11141b;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    background: rgba(17, 20, 27, 0.85);
+    backdrop-filter: blur(6px);
     display: flex;
     align-items: center;
     gap: 16px;
@@ -28,25 +39,49 @@
     top: 0;
     z-index: 10;
   }
-  header a.back { color: #a970ff; text-decoration: none; font-size: 14px; font-weight: 600; white-space: nowrap; }
+  header a.back { color: #c9a7ff; text-decoration: none; font-size: 14px; font-weight: 600; white-space: nowrap; }
   header a.back:hover { text-decoration: underline; }
   header h1 { font-size: 18px; margin: 0; }
-  main { max-width: 860px; margin: 0 auto; padding: 24px 20px 60px; }
-  .hero { display: block; width: 100%; border-radius: 12px; margin-bottom: 28px; }
-  h2 { font-size: 22px; margin: 36px 0 12px; }
-  .tagline { color: #c7ccd6; font-size: 17px; margin: 0 0 8px; }
+  main { max-width: 760px; margin: 0 auto; padding: 40px 20px 60px; }
+  .titleBlock { text-align: center; margin-bottom: 36px; }
+  .titleBlock h2 { font-size: 40px; margin: 0 0 10px; text-shadow: 0 2px 12px rgba(0,0,0,.6); }
+  .tagline {
+    color: #dfe3ea;
+    font-size: 18px;
+    margin: 0 auto;
+    max-width: 560px;
+    text-shadow: 0 1px 6px rgba(0,0,0,.6);
+  }
+  h2.section {
+    font-size: 22px;
+    margin: 40px 0 12px;
+    text-shadow: 0 1px 6px rgba(0,0,0,.6);
+  }
+  .card {
+    background: rgba(22, 25, 32, 0.82);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 12px;
+    padding: 20px 22px;
+  }
   .facts {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
     gap: 12px;
     margin: 28px 0;
   }
-  .fact { background: #161920; border-radius: 10px; padding: 14px 16px; }
-  .fact .label { font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: #9aa0ab; margin-bottom: 4px; }
+  .fact {
+    background: rgba(22, 25, 32, 0.82);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 10px;
+    padding: 14px 16px;
+  }
+  .fact .label { font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: #b3b9c4; margin-bottom: 4px; }
   .fact .value { font-size: 16px; font-weight: 600; }
   .figure { margin: 28px 0; }
-  .figure img { display: block; width: 100%; border-radius: 12px; }
-  .figure figcaption { color: #9aa0ab; font-size: 13px; margin-top: 8px; text-align: center; }
+  .figure img { display: block; width: 100%; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,.5); }
+  .figure figcaption { color: #cfd3db; font-size: 13px; margin-top: 8px; text-align: center; text-shadow: 0 1px 4px rgba(0,0,0,.6); }
   .cta {
     display: inline-block;
     background: #9147ff;
@@ -57,11 +92,19 @@
     font-weight: 600;
     margin-top: 8px;
     font-size: 15px;
+    box-shadow: 0 6px 20px rgba(145, 71, 255, .35);
   }
   .cta:hover { background: #7c3aed; }
-  .cta-note { color: #9aa0ab; font-size: 13px; margin-top: 10px; }
-  footer { border-top: 1px solid #23262e; color: #9aa0ab; font-size: 13px; padding: 20px; text-align: center; }
-  footer a { color: #a970ff; text-decoration: none; }
+  .cta-note { color: #b3b9c4; font-size: 13px; margin-top: 10px; }
+  footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    background: rgba(17, 20, 27, 0.85);
+    color: #b3b9c4;
+    font-size: 13px;
+    padding: 20px;
+    text-align: center;
+  }
+  footer a { color: #c9a7ff; text-decoration: none; }
 </style>
 </head>
 <body>
@@ -70,12 +113,13 @@
   <h1>SeaCon3 &mdash; Persistence</h1>
 </header>
 <main>
-  <img class="hero" src="promo.jpg" alt="SeaCon3 Persistence poster">
-
-  <p class="tagline">
-    Five nights at sea with the security community aboard Virgin Voyages&rsquo; <strong>Scarlet Lady</strong>,
-    sailing round-trip from Miami.
-  </p>
+  <div class="titleBlock">
+    <h2>SeaCon3</h2>
+    <p class="tagline">
+      Five nights at sea with the security community aboard Virgin Voyages&rsquo; <strong>Scarlet Lady</strong>,
+      sailing round-trip from Miami.
+    </p>
+  </div>
 
   <div class="facts">
     <div class="fact"><div class="label">Dates</div><div class="value">Feb 15&ndash;20, 2027</div></div>
@@ -84,28 +128,32 @@
     <div class="fact"><div class="label">The Rendezvous</div><div class="value">Feb 16, 2027</div></div>
   </div>
 
-  <h2>The Rendezvous &mdash; where all four ships meet</h2>
-  <p>
-    Mark it on your map: <strong>Feb 16th, 2027</strong>, at <strong>22&deg;12&#39;57&quot;N, 77&deg;16&#39;07&quot;W</strong>
-    &mdash; 38 nautical miles north of Cuba. It&rsquo;s the exact spot where, for the first time ever, all four Lady Ships
-    will meet in open water. Sailors on every ship get a live window into the celebrations happening fleet-wide:
-    pool-deck parties, live entertainment, and more. More details coming soon.
-  </p>
+  <h2 class="section">The Rendezvous &mdash; where all four ships meet</h2>
+  <div class="card">
+    <p style="margin-top:0;">
+      Mark it on your map: <strong>Feb 16th, 2027</strong>, at <strong>22&deg;12&#39;57&quot;N, 77&deg;16&#39;07&quot;W</strong>
+      &mdash; 38 nautical miles north of Cuba. It&rsquo;s the exact spot where, for the first time ever, all four Lady Ships
+      will meet in open water. Sailors on every ship get a live window into the celebrations happening fleet-wide:
+      pool-deck parties, live entertainment, and more. More details coming soon.
+    </p>
+  </div>
 
   <figure class="figure">
     <img src="seacon3-rendezvous.png" alt="All four Virgin Voyages Lady Ships meeting in open water at sunset">
     <figcaption>All four Lady Ships meeting in open water, 38 nautical miles north of Cuba.</figcaption>
   </figure>
 
-  <h2>Book your cabin</h2>
-  <p>
-    SeaCon3 sails aboard the Scarlet Lady on the 5-night voyage departing Miami on Feb 15, 2027.
-    Reserve your spot through the Virgin Voyages planner below.
-  </p>
-  <a class="cta" href="https://www.virginvoyages.com/book/voyage-planner/fullCruiseDetails?agencyId=9446&amp;agentId=192854&amp;currencyCode=USD&amp;dateFrom=2027-02-01&amp;dateTo=2027-02-28&amp;packageCode=5NMRV" target="_blank" rel="noopener noreferrer">
-    Book on Virgin Voyages &nearr;
-  </a>
-  <p class="cta-note">Opens the Virgin Voyages voyage planner in a new tab.</p>
+  <h2 class="section">Book your cabin</h2>
+  <div class="card">
+    <p style="margin-top:0;">
+      SeaCon3 sails aboard the Scarlet Lady on the 5-night voyage departing Miami on Feb 15, 2027.
+      Reserve your spot through the Virgin Voyages planner below.
+    </p>
+    <a class="cta" href="https://www.virginvoyages.com/book/voyage-planner/fullCruiseDetails?agencyId=9446&amp;agentId=192854&amp;currencyCode=USD&amp;dateFrom=2027-02-01&amp;dateTo=2027-02-28&amp;packageCode=5NMRV" target="_blank" rel="noopener noreferrer">
+      Book on Virgin Voyages &nearr;
+    </a>
+    <p class="cta-note">Opens the Virgin Voyages voyage planner in a new tab.</p>
+  </div>
 </main>
 <footer>
   Brought to you by <a href="./">n00bSec TV</a> &mdash; <a href="https://n00bsec.live/">n00bsec.live</a>
