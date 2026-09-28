@@ -1,30 +1,38 @@
 {
-  "updated": "2026-09-28T13:00:12Z",
+  "updated": "2026-09-28T13:10:13Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 9
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Sep 28's Top Cyber News NOW! - Ep 1253",
       "link": "https://www.youtube.com/watch?v=vcv8NZmtOoA",
-      "viewers": 387
+      "viewers": 328
     }
   ],
-  "viewers_total": 397,
+  "viewers_total": 337,
   "videos": [
+    {
+      "video_id": "Ee-5PFrsGtU",
+      "channel": "NahamSec",
+      "title": "This WordPress Core Bug Can Lead to Remote Code Execution (CVE-2026-87902)",
+      "link": "https://www.youtube.com/watch?v=Ee-5PFrsGtU",
+      "published_at": "2026-09-28T12:45:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Ee-5PFrsGtU/hqdefault.jpg"
+    },
     {
       "video_id": "iIv-pjcwD5Q",
       "channel": "TheShyHat",
@@ -40,14 +48,6 @@
       "link": "https://www.youtube.com/watch?v=Y6ZAut6v64E",
       "published_at": "2026-09-28T11:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Y6ZAut6v64E/hqdefault.jpg"
-    },
-    {
-      "video_id": "2UqzvcAuaBk",
-      "channel": "jarnobaselier",
-      "title": "Hacking QuickTip 99 - AD-AutoPWN - One tool to rule them all",
-      "link": "https://www.youtube.com/watch?v=2UqzvcAuaBk",
-      "published_at": "2026-09-28T09:00:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2UqzvcAuaBk/hqdefault.jpg"
     }
   ]
 }
