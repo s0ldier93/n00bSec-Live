@@ -1,33 +1,26 @@
 {
-  "updated": "2026-09-28T21:20:13Z",
+  "updated": "2026-09-28T21:30:14Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "antisyphon",
-      "title": "BHIS - Talkin' Bout [infosec] News 2026-09-28",
-      "link": "https://twitch.tv/antisyphon",
-      "viewers": 2
-    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "LEETCODE STUDYING !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 93
+      "viewers": 65
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "FF8 Remastered Playthrough",
       "link": "https://twitch.tv/msec",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 8
+      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 106,
+  "viewers_total": 78,
   "videos": [
     {
       "video_id": "CzuhD7i4eps",
