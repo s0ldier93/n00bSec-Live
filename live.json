@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-28T17:40:14Z",
+  "updated": "2026-09-28T17:49:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "MDISEC",
       "title": "HACK THE PLANET !LSAI !insta",
       "link": "https://twitch.tv/MDISEC",
-      "viewers": 31
-    },
-    {
-      "platform": "twitch",
-      "name": "nemax_3301",
-      "title": "Hacking & Tooling",
-      "link": "https://twitch.tv/nemax_3301",
-      "viewers": 7
+      "viewers": 56
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "MDISEC",
+      "title": "HACK THE PLANET !lsai",
+      "link": "https://www.youtube.com/watch?v=7SmGQtPk7L8",
+      "viewers": 93
     }
   ],
-  "viewers_total": 41,
+  "viewers_total": 150,
   "videos": [
     {
       "video_id": "50TURLY_3GE",
