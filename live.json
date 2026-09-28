@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T11:40:13Z",
+  "updated": "2026-09-28T11:50:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 7
+      "viewers": 8
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "Y6ZAut6v64E",
