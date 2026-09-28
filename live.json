@@ -1,26 +1,19 @@
 {
-  "updated": "2026-09-28T19:00:14Z",
+  "updated": "2026-09-28T19:09:55Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "WHERE HAVE I BEEN? !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 29
+      "viewers": 76
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "@alzivar's Madhuas Presents: Melodic Mondaze #2",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 0
-    },
-    {
-      "platform": "twitch",
-      "name": "MDISEC",
-      "title": "HACK THE PLANET !LSAI !insta",
-      "link": "https://twitch.tv/MDISEC",
-      "viewers": 36
+      "viewers": 10
     },
     {
       "platform": "youtube",
@@ -28,17 +21,18 @@
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "MDISEC",
-      "title": "HACK THE PLANET !lsai",
-      "link": "https://www.youtube.com/watch?v=7SmGQtPk7L8",
-      "viewers": 86
     }
   ],
-  "viewers_total": 152,
+  "viewers_total": 87,
   "videos": [
+    {
+      "video_id": "CzuhD7i4eps",
+      "channel": "mbcrump",
+      "title": "PS4-Xplorer 2.08 Adds Firmware 13.52 Support #Shorts",
+      "link": "https://www.youtube.com/watch?v=CzuhD7i4eps",
+      "published_at": "2026-09-28T19:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CzuhD7i4eps/hqdefault.jpg"
+    },
     {
       "video_id": "50TURLY_3GE",
       "channel": "HackerMentor",
@@ -54,14 +48,6 @@
       "link": "https://www.youtube.com/watch?v=euTX2oQVVGA",
       "published_at": "2026-09-28T15:23:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/euTX2oQVVGA/hqdefault.jpg"
-    },
-    {
-      "video_id": "mk4VXMgcY6A",
-      "channel": "JohnHammond010",
-      "title": "Steam IPC Exploit",
-      "link": "https://www.youtube.com/watch?v=mk4VXMgcY6A",
-      "published_at": "2026-09-28T15:00:46+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mk4VXMgcY6A/hqdefault.jpg"
     }
   ]
 }
