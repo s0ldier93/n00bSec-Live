@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T04:30:12Z",
+  "updated": "2026-09-28T04:40:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 17
+      "viewers": 18
     },
     {
       "platform": "twitch",
@@ -30,8 +30,16 @@
       "viewers": 11
     }
   ],
-  "viewers_total": 31,
+  "viewers_total": 32,
   "videos": [
+    {
+      "video_id": "H62jxxmuOd4",
+      "channel": "mbcrump",
+      "title": "ShadowMountPlus Applies PS5 Backports Externally #Shorts",
+      "link": "https://www.youtube.com/watch?v=H62jxxmuOd4",
+      "published_at": "2026-09-28T04:00:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/H62jxxmuOd4/hqdefault.jpg"
+    },
     {
       "video_id": "13uGbCbEsTQ",
       "channel": "freshforensics",
@@ -47,14 +55,6 @@
       "link": "https://www.youtube.com/watch?v=-AsaiNZbvHQ",
       "published_at": "2026-09-28T01:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-AsaiNZbvHQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "FkCcfnJyT-o",
-      "channel": "TheShyHat",
-      "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
-      "link": "https://www.youtube.com/watch?v=FkCcfnJyT-o",
-      "published_at": "2026-09-27T23:56:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FkCcfnJyT-o/hqdefault.jpg"
     }
   ]
 }
