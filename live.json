@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T22:30:13Z",
+  "updated": "2026-09-28T22:40:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "LEETCODE STUDYING !jobathon day 1/?",
+      "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 77
+      "viewers": 79
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 9
+      "viewers": 10
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 92,
+  "viewers_total": 94,
   "videos": [
     {
       "video_id": "LrpX2oJPckg",
