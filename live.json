@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T00:09:23Z",
+  "updated": "2026-09-28T00:19:25Z",
   "streams": [
     {
       "platform": "twitch",
@@ -9,6 +9,13 @@
       "viewers": 12
     },
     {
+      "platform": "twitch",
+      "name": "h8handles",
+      "title": "Grinding $$$$ on wardogs",
+      "link": "https://twitch.tv/h8handles",
+      "viewers": 1
+    },
+    {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
@@ -16,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 14,
   "videos": [
     {
       "video_id": "FkCcfnJyT-o",
