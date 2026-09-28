@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-28T22:50:12Z",
+  "updated": "2026-09-28T22:57:11Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 96
+      "viewers": 93
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "FF8 Remastered Playthrough",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 108,
+  "viewers_total": 104,
   "videos": [
     {
       "video_id": "LrpX2oJPckg",
@@ -55,6 +55,142 @@
       "link": "https://www.youtube.com/watch?v=NDj4MN-gPyo",
       "published_at": "2026-09-28T19:00:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NDj4MN-gPyo/hqdefault.jpg"
+    },
+    {
+      "video_id": "50TURLY_3GE",
+      "channel": "HackerMentor",
+      "title": "Curso Gratuito - Misi\u00f3n 3 Master Cracker",
+      "link": "https://www.youtube.com/watch?v=50TURLY_3GE",
+      "published_at": "2026-09-28T16:47:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/50TURLY_3GE/hqdefault.jpg"
+    },
+    {
+      "video_id": "euTX2oQVVGA",
+      "channel": "antisyphon",
+      "title": "When Your Logs Attack Your Security Agent | Faan Rossouw",
+      "link": "https://www.youtube.com/watch?v=euTX2oQVVGA",
+      "published_at": "2026-09-28T15:23:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/euTX2oQVVGA/hqdefault.jpg"
+    },
+    {
+      "video_id": "mk4VXMgcY6A",
+      "channel": "JohnHammond010",
+      "title": "Steam IPC Exploit",
+      "link": "https://www.youtube.com/watch?v=mk4VXMgcY6A",
+      "published_at": "2026-09-28T15:00:46+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mk4VXMgcY6A/hqdefault.jpg"
+    },
+    {
+      "video_id": "KPmny83rpys",
+      "channel": "ElPinguinoDeMario",
+      "title": "Aprende a Utilizar la IA para Hacking \u00c9tico y Ciberseguridad",
+      "link": "https://www.youtube.com/watch?v=KPmny83rpys",
+      "published_at": "2026-09-28T14:45:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/KPmny83rpys/hqdefault.jpg"
+    },
+    {
+      "video_id": "GfO4sY_qd_Y",
+      "channel": "SecurityWeekly",
+      "title": "Why Security Spending Is So Hard",
+      "link": "https://www.youtube.com/watch?v=GfO4sY_qd_Y",
+      "published_at": "2026-09-28T14:00:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GfO4sY_qd_Y/hqdefault.jpg"
+    },
+    {
+      "video_id": "_JWWjKLt9-M",
+      "channel": "team_whoami",
+      "title": "ensamblador suma y resta 2",
+      "link": "https://www.youtube.com/watch?v=_JWWjKLt9-M",
+      "published_at": "2026-09-28T13:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_JWWjKLt9-M/hqdefault.jpg"
+    },
+    {
+      "video_id": "Ee-5PFrsGtU",
+      "channel": "NahamSec",
+      "title": "This WordPress Core Bug Can Lead to Remote Code Execution (CVE-2026-87902)",
+      "link": "https://www.youtube.com/watch?v=Ee-5PFrsGtU",
+      "published_at": "2026-09-28T12:45:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Ee-5PFrsGtU/hqdefault.jpg"
+    },
+    {
+      "video_id": "iIv-pjcwD5Q",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Tube II - Stack Calculation - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=iIv-pjcwD5Q",
+      "published_at": "2026-09-28T12:00:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/iIv-pjcwD5Q/hqdefault.jpg"
+    },
+    {
+      "video_id": "Y6ZAut6v64E",
+      "channel": "DCCyberSec",
+      "title": "Don't Start Cybersecurity Freelancing Until You Watch This",
+      "link": "https://www.youtube.com/watch?v=Y6ZAut6v64E",
+      "published_at": "2026-09-28T11:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Y6ZAut6v64E/hqdefault.jpg"
+    },
+    {
+      "video_id": "2UqzvcAuaBk",
+      "channel": "jarnobaselier",
+      "title": "Hacking QuickTip 99 - AD-AutoPWN - One tool to rule them all",
+      "link": "https://www.youtube.com/watch?v=2UqzvcAuaBk",
+      "published_at": "2026-09-28T09:00:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2UqzvcAuaBk/hqdefault.jpg"
+    },
+    {
+      "video_id": "GYxpM_CJ5rk",
+      "channel": "SecurityWeekly",
+      "title": "Measuring the Value of SecOps; BH Interviews with Fortra, Helmet, Above, & Keeper - ESW #478",
+      "link": "https://www.youtube.com/watch?v=GYxpM_CJ5rk",
+      "published_at": "2026-09-28T09:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GYxpM_CJ5rk/hqdefault.jpg"
+    },
+    {
+      "video_id": "h8B0aori5Nc",
+      "channel": "freshforensics",
+      "title": "\ud83d\udd75\ufe0f OSINT Using Kali Linux: I Am the Target!\ud83d\udca3",
+      "link": "https://www.youtube.com/watch?v=h8B0aori5Nc",
+      "published_at": "2026-09-28T06:06:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/h8B0aori5Nc/hqdefault.jpg"
+    },
+    {
+      "video_id": "sMbTbEdkqjY",
+      "channel": "Khaos_Farbauti",
+      "title": "QUI N'A JAMAIS FAIT CETTE ERREUR ? | HTB Kobold #2",
+      "link": "https://www.youtube.com/watch?v=sMbTbEdkqjY",
+      "published_at": "2026-09-28T05:52:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/sMbTbEdkqjY/hqdefault.jpg"
+    },
+    {
+      "video_id": "H62jxxmuOd4",
+      "channel": "mbcrump",
+      "title": "ShadowMountPlus Applies PS5 Backports Externally #Shorts",
+      "link": "https://www.youtube.com/watch?v=H62jxxmuOd4",
+      "published_at": "2026-09-28T04:00:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/H62jxxmuOd4/hqdefault.jpg"
+    },
+    {
+      "video_id": "13uGbCbEsTQ",
+      "channel": "freshforensics",
+      "title": "\ud83d\udea8 Find Me Something Like This\u2026 \ud83d\udc40 #youtubeshorts #coding #shorts #short #wifi",
+      "link": "https://www.youtube.com/watch?v=13uGbCbEsTQ",
+      "published_at": "2026-09-28T01:12:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/13uGbCbEsTQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "-AsaiNZbvHQ",
+      "channel": "mbcrump",
+      "title": "PS5 FPKG Support Moves to Firmware 11.60 #Shorts",
+      "link": "https://www.youtube.com/watch?v=-AsaiNZbvHQ",
+      "published_at": "2026-09-28T01:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-AsaiNZbvHQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "FkCcfnJyT-o",
+      "channel": "TheShyHat",
+      "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
+      "link": "https://www.youtube.com/watch?v=FkCcfnJyT-o",
+      "published_at": "2026-09-27T23:56:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FkCcfnJyT-o/hqdefault.jpg"
     }
   ]
 }
