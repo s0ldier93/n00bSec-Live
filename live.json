@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T20:50:12Z",
+  "updated": "2026-09-28T21:00:13Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "endingwithali",
       "title": "LEETCODE STUDYING !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 127
+      "viewers": 114
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "@alzivar's Madhuas Presents: Melodic Mondaze #2",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 60
+      "viewers": 59
     },
     {
       "platform": "twitch",
@@ -34,7 +34,7 @@
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 5
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 196,
+  "viewers_total": 184,
   "videos": [
     {
       "video_id": "CzuhD7i4eps",
