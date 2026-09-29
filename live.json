@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T13:07:40Z",
+  "updated": "2026-09-29T13:17:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 47
+      "viewers": 36
     },
     {
       "platform": "youtube",
@@ -20,11 +20,19 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Sep 29's Top Cyber News NOW! - Ep 1254",
       "link": "https://www.youtube.com/watch?v=lFCXViA9maE",
-      "viewers": 257
+      "viewers": 218
     }
   ],
-  "viewers_total": 307,
+  "viewers_total": 257,
   "videos": [
+    {
+      "video_id": "G5HvA2AZ0TI",
+      "channel": "team_whoami",
+      "title": "ensamblador multiplicacion 1",
+      "link": "https://www.youtube.com/watch?v=G5HvA2AZ0TI",
+      "published_at": "2026-09-29T13:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/G5HvA2AZ0TI/hqdefault.jpg"
+    },
     {
       "video_id": "ln711eTo9Aw",
       "channel": "DCCyberSec",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=iIv-pjcwD5Q",
       "published_at": "2026-09-28T12:00:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/iIv-pjcwD5Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "Y6ZAut6v64E",
-      "channel": "DCCyberSec",
-      "title": "Don't Start Cybersecurity Freelancing Until You Watch This",
-      "link": "https://www.youtube.com/watch?v=Y6ZAut6v64E",
-      "published_at": "2026-09-28T11:00:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Y6ZAut6v64E/hqdefault.jpg"
     }
   ]
 }
