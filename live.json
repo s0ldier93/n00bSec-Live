@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T14:47:40Z",
+  "updated": "2026-09-29T14:57:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "job interview live !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 69
+      "viewers": 77
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "Regularly Scheduled Shenanigans #7",
+      "title": "Regularly Scheduled Shenanigans #7 | ty: @djmattjack",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 13
+      "viewers": 18
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 83,
+  "viewers_total": 96,
   "videos": [
     {
       "video_id": "5BAs_gybt64",
