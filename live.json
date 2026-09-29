@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T15:47:40Z",
+  "updated": "2026-09-29T15:57:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "learning WEB SECURITY WITH GOLAN - !SPONSOR !jobathon day 2/?",
+      "title": "WEB SECURITY WITH GOLANG - !SPONSOR !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 73
+      "viewers": 77
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #7 | ty: @djzandr @djmattjack",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 93
+      "viewers": 86
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 167,
+  "viewers_total": 164,
   "videos": [
     {
       "video_id": "5BAs_gybt64",
