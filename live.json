@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-29T22:27:40Z",
+  "updated": "2026-09-29T22:37:08Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BrakeSec",
+      "title": "BSides SD announcement, finding fraudulent workers, Flock flocks things up, insider threat checks",
+      "link": "https://twitch.tv/BrakeSec",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 36
+      "viewers": 46
     },
     {
       "platform": "twitch",
@@ -24,6 +31,13 @@
     },
     {
       "platform": "youtube",
+      "name": "BrakeSec",
+      "title": "BSides SD announcement, finding fraudulent workers, Flock flocks things up, insider threat checks",
+      "link": "https://www.youtube.com/watch?v=y1Ms2HKMYFE",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
       "name": "FixIt42",
       "title": "Prepp for Kali as a daily driver stream :)",
       "link": "https://www.youtube.com/watch?v=VWSSInGE0yU",
@@ -37,7 +51,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 44,
+  "viewers_total": 56,
   "videos": [
     {
       "video_id": "kiKQc6jUlQ0",
