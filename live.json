@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T16:27:39Z",
+  "updated": "2026-09-29T16:37:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 115
+      "viewers": 107
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #7 | ty: @djzandr @djmattjack",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 96
+      "viewers": 98
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 212,
+  "viewers_total": 206,
   "videos": [
     {
       "video_id": "4PgkRlg0Z50",
