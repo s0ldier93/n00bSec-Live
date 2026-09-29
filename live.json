@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T21:47:40Z",
+  "updated": "2026-09-29T21:57:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 44
+      "viewers": 61
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Prepp for Kali as a daily driver stream :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
@@ -27,17 +27,17 @@
       "name": "FixIt42",
       "title": "Prepp for Kali as a daily driver stream :)",
       "link": "https://www.youtube.com/watch?v=VWSSInGE0yU",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 54,
+  "viewers_total": 68,
   "videos": [
     {
       "video_id": "VWSSInGE0yU",
