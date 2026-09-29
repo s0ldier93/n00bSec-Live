@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T01:07:44Z",
+  "updated": "2026-09-29T01:17:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "We have a lot to build, starting the homelab rebuild| Cybersecurity,Rants,Chill,&Linux Gaming|9-28-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 11
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 64
+      "viewers": 67
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 77,
+  "viewers_total": 81,
   "videos": [
+    {
+      "video_id": "WYCDacpRK6M",
+      "channel": "mbcrump",
+      "title": "World of Warcraft Runs Natively on PS4 With WoWPS #Shorts",
+      "link": "https://www.youtube.com/watch?v=WYCDacpRK6M",
+      "published_at": "2026-09-29T01:00:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/WYCDacpRK6M/hqdefault.jpg"
+    },
     {
       "video_id": "_m6VwWMmve0",
       "channel": "mbcrump",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=13uGbCbEsTQ",
       "published_at": "2026-09-28T01:12:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/13uGbCbEsTQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "-AsaiNZbvHQ",
-      "channel": "mbcrump",
-      "title": "PS5 FPKG Support Moves to Firmware 11.60 #Shorts",
-      "link": "https://www.youtube.com/watch?v=-AsaiNZbvHQ",
-      "published_at": "2026-09-28T01:00:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-AsaiNZbvHQ/hqdefault.jpg"
     }
   ]
 }
