@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T15:37:40Z",
+  "updated": "2026-09-29T15:47:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "cowork with me to get a job!!!! !jobathon day 2/?",
+      "title": "learning WEB SECURITY WITH GOLAN - !SPONSOR !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 76
+      "viewers": 73
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #7 | ty: @djzandr @djmattjack",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 104
+      "viewers": 93
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 181,
+  "viewers_total": 167,
   "videos": [
     {
       "video_id": "5BAs_gybt64",
