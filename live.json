@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T10:07:39Z",
+  "updated": "2026-09-29T10:17:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 27
+      "viewers": 29
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 35,
   "videos": [
+    {
+      "video_id": "73E6Sd6fA3s",
+      "channel": "antisyphon",
+      "title": "AI Up Your Incident Readiness and Response Planning | Gerard Johansen",
+      "link": "https://www.youtube.com/watch?v=73E6Sd6fA3s",
+      "published_at": "2026-09-29T10:00:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/73E6Sd6fA3s/hqdefault.jpg"
+    },
     {
       "video_id": "Vz0XWXOwPNI",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=2UqzvcAuaBk",
       "published_at": "2026-09-28T09:00:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2UqzvcAuaBk/hqdefault.jpg"
-    },
-    {
-      "video_id": "GYxpM_CJ5rk",
-      "channel": "SecurityWeekly",
-      "title": "Measuring the Value of SecOps; BH Interviews with Fortra, Helmet, Above, & Keeper - ESW #478",
-      "link": "https://www.youtube.com/watch?v=GYxpM_CJ5rk",
-      "published_at": "2026-09-28T09:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GYxpM_CJ5rk/hqdefault.jpg"
     }
   ]
 }
