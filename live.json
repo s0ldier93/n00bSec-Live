@@ -1,19 +1,12 @@
 {
-  "updated": "2026-09-29T01:47:41Z",
+  "updated": "2026-09-29T01:57:42Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "chiefgyk3d",
-      "title": "We have a lot to build, starting the homelab rebuild| Cybersecurity,Rants,Chill,&Linux Gaming|9-28-26",
-      "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 14
-    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 51
+      "viewers": 62
     },
     {
       "platform": "youtube",
@@ -23,8 +16,16 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 69,
+  "viewers_total": 66,
   "videos": [
+    {
+      "video_id": "R8ARdJx7ngA",
+      "channel": "KeonBowman",
+      "title": "How to Find Hidden Directories with Gobuster",
+      "link": "https://www.youtube.com/watch?v=R8ARdJx7ngA",
+      "published_at": "2026-09-29T01:49:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/R8ARdJx7ngA/hqdefault.jpg"
+    },
     {
       "video_id": "WYCDacpRK6M",
       "channel": "mbcrump",
@@ -176,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=H62jxxmuOd4",
       "published_at": "2026-09-28T04:00:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/H62jxxmuOd4/hqdefault.jpg"
-    },
-    {
-      "video_id": "13uGbCbEsTQ",
-      "channel": "freshforensics",
-      "title": "\ud83d\udea8 Find Me Something Like This\u2026 \ud83d\udc40 #youtubeshorts #coding #shorts #short #wifi",
-      "link": "https://www.youtube.com/watch?v=13uGbCbEsTQ",
-      "published_at": "2026-09-28T01:12:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/13uGbCbEsTQ/hqdefault.jpg"
     }
   ]
 }
