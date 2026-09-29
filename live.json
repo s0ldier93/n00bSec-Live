@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T12:37:39Z",
+  "updated": "2026-09-29T12:47:40Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Sep 29's Top Cyber News NOW! - Ep 1254",
       "link": "https://www.youtube.com/watch?v=lFCXViA9maE",
-      "viewers": 347
+      "viewers": 349
     }
   ],
   "viewers_total": 383,
