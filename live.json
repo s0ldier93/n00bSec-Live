@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T13:27:40Z",
+  "updated": "2026-09-29T13:37:28Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 41
+      "viewers": 47
     },
     {
       "platform": "youtube",
@@ -14,17 +14,18 @@
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 3
-    },
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Sep 29's Top Cyber News NOW! - Ep 1254",
-      "link": "https://www.youtube.com/watch?v=lFCXViA9maE",
-      "viewers": 212
     }
   ],
-  "viewers_total": 256,
+  "viewers_total": 50,
   "videos": [
+    {
+      "video_id": "9-2CSJC114k",
+      "channel": "LowLevelTV",
+      "title": "are containers still safe?",
+      "link": "https://www.youtube.com/watch?v=9-2CSJC114k",
+      "published_at": "2026-09-29T13:16:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9-2CSJC114k/hqdefault.jpg"
+    },
     {
       "video_id": "G5HvA2AZ0TI",
       "channel": "team_whoami",
@@ -176,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=Ee-5PFrsGtU",
       "published_at": "2026-09-28T12:45:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Ee-5PFrsGtU/hqdefault.jpg"
-    },
-    {
-      "video_id": "iIv-pjcwD5Q",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Tube II - Stack Calculation - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=iIv-pjcwD5Q",
-      "published_at": "2026-09-28T12:00:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/iIv-pjcwD5Q/hqdefault.jpg"
     }
   ]
 }
