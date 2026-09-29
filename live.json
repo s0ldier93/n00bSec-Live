@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T03:27:40Z",
+  "updated": "2026-09-29T03:47:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming cyber security news !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 45
+      "viewers": 36
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 51,
+  "viewers_total": 42,
   "videos": [
     {
       "video_id": "R8ARdJx7ngA",
