@@ -1,19 +1,26 @@
 {
-  "updated": "2026-09-29T03:57:41Z",
+  "updated": "2026-09-29T04:07:42Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "filming cyber security news !jobathon day 1/?",
+      "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 44
+      "viewers": 52
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 4
+    },
+    {
+      "platform": "twitch",
+      "name": "yourcyberdoctor",
+      "title": "Risk Quantification - measuring cyber risk- day 195",
+      "link": "https://twitch.tv/yourcyberdoctor",
+      "viewers": 0
     },
     {
       "platform": "youtube",
@@ -23,7 +30,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 49,
+  "viewers_total": 59,
   "videos": [
     {
       "video_id": "R8ARdJx7ngA",
