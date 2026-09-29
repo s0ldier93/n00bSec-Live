@@ -1,22 +1,29 @@
 {
-  "updated": "2026-09-29T02:37:40Z",
+  "updated": "2026-09-29T02:47:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming cyber security news !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 65
+      "viewers": 59
+    },
+    {
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "Ace Combat 8",
+      "link": "https://twitch.tv/irasakai",
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 4
     }
   ],
-  "viewers_total": 67,
+  "viewers_total": 64,
   "videos": [
     {
       "video_id": "R8ARdJx7ngA",
