@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T23:37:41Z",
+  "updated": "2026-09-29T23:47:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BrakeSec",
       "title": "BSides SD announcement, finding fraudulent workers, Flock flocks things up, insider threat checks",
       "link": "https://twitch.tv/BrakeSec",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 30
+      "viewers": 31
     },
     {
       "platform": "youtube",
@@ -27,11 +27,19 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 37,
+  "viewers_total": 38,
   "videos": [
+    {
+      "video_id": "QXSKHeSYoSE",
+      "channel": "mbcrump",
+      "title": "PS5 13.60 Jailbreak: Full Setup in Minutes",
+      "link": "https://www.youtube.com/watch?v=QXSKHeSYoSE",
+      "published_at": "2026-09-29T23:29:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QXSKHeSYoSE/hqdefault.jpg"
+    },
     {
       "video_id": "kiKQc6jUlQ0",
       "channel": "SecurityWeekly",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=_m6VwWMmve0",
       "published_at": "2026-09-29T00:07:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/_m6VwWMmve0/hqdefault.jpg"
-    },
-    {
-      "video_id": "LrpX2oJPckg",
-      "channel": "mbcrump",
-      "title": "Install PS5 Packages Over USB or Your Network #Shorts",
-      "link": "https://www.youtube.com/watch?v=LrpX2oJPckg",
-      "published_at": "2026-09-28T22:00:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LrpX2oJPckg/hqdefault.jpg"
     }
   ]
 }
