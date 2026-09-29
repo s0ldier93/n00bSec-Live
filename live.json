@@ -1,23 +1,31 @@
 {
-  "updated": "2026-09-29T06:57:42Z",
+  "updated": "2026-09-29T07:07:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 35
+      "viewers": 21
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 23,
   "videos": [
+    {
+      "video_id": "cPCpUWE8o8A",
+      "channel": "mbcrump",
+      "title": "kstuff-lite 1.11 Adds PS5 Firmware 13.xx Support #Shorts",
+      "link": "https://www.youtube.com/watch?v=cPCpUWE8o8A",
+      "published_at": "2026-09-29T04:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cPCpUWE8o8A/hqdefault.jpg"
+    },
     {
       "video_id": "R8ARdJx7ngA",
       "channel": "KeonBowman",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=sMbTbEdkqjY",
       "published_at": "2026-09-28T05:52:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/sMbTbEdkqjY/hqdefault.jpg"
-    },
-    {
-      "video_id": "H62jxxmuOd4",
-      "channel": "mbcrump",
-      "title": "ShadowMountPlus Applies PS5 Backports Externally #Shorts",
-      "link": "https://www.youtube.com/watch?v=H62jxxmuOd4",
-      "published_at": "2026-09-28T04:00:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/H62jxxmuOd4/hqdefault.jpg"
     }
   ]
 }
