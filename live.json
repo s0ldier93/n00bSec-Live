@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T10:17:40Z",
+  "updated": "2026-09-29T10:27:40Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 4
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "73E6Sd6fA3s",
