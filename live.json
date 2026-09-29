@@ -1,22 +1,29 @@
 {
-  "updated": "2026-09-29T20:17:40Z",
+  "updated": "2026-09-29T20:27:45Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 43
+      "viewers": 53
+    },
+    {
+      "platform": "twitch",
+      "name": "team_whoami",
+      "title": "Lenguaje ensamblador, instrucciones logicas",
+      "link": "https://twitch.tv/team_whoami",
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 44,
+  "viewers_total": 56,
   "videos": [
     {
       "video_id": "xrP5ClQFY2E",
