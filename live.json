@@ -1,19 +1,12 @@
 {
-  "updated": "2026-09-29T11:57:41Z",
+  "updated": "2026-09-29T12:07:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 41
-    },
-    {
-      "platform": "twitch",
-      "name": "nemax_3301",
-      "title": "Hacking & Tooling",
-      "link": "https://twitch.tv/nemax_3301",
-      "viewers": 4
+      "viewers": 31
     },
     {
       "platform": "youtube",
@@ -21,9 +14,16 @@
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 4
+    },
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Sep 29's Top Cyber News NOW! - Ep 1254",
+      "link": "https://www.youtube.com/watch?v=lFCXViA9maE",
+      "viewers": 161
     }
   ],
-  "viewers_total": 49,
+  "viewers_total": 196,
   "videos": [
     {
       "video_id": "ln711eTo9Aw",
