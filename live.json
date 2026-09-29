@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T02:57:39Z",
+  "updated": "2026-09-29T03:07:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming cyber security news !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 63
+      "viewers": 55
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 68,
+  "viewers_total": 58,
   "videos": [
     {
       "video_id": "R8ARdJx7ngA",
