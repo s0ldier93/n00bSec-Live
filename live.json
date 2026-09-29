@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T16:07:40Z",
+  "updated": "2026-09-29T16:17:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "WEB SECURITY WITH GOLANG - !SPONSOR !jobathon day 2/?",
+      "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 74
+      "viewers": 112
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #7 | ty: @djzandr @djmattjack",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 86
+      "viewers": 94
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 161,
+  "viewers_total": 207,
   "videos": [
+    {
+      "video_id": "4PgkRlg0Z50",
+      "channel": "thecybermentor",
+      "title": "Can Developers Switch to AppSec Roles?",
+      "link": "https://www.youtube.com/watch?v=4PgkRlg0Z50",
+      "published_at": "2026-09-29T16:00:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4PgkRlg0Z50/hqdefault.jpg"
+    },
     {
       "video_id": "5BAs_gybt64",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=KPmny83rpys",
       "published_at": "2026-09-28T14:45:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/KPmny83rpys/hqdefault.jpg"
-    },
-    {
-      "video_id": "GfO4sY_qd_Y",
-      "channel": "SecurityWeekly",
-      "title": "Why Security Spending Is So Hard",
-      "link": "https://www.youtube.com/watch?v=GfO4sY_qd_Y",
-      "published_at": "2026-09-28T14:00:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GfO4sY_qd_Y/hqdefault.jpg"
     }
   ]
 }
