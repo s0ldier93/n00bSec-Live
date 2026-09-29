@@ -1,19 +1,26 @@
 {
-  "updated": "2026-09-29T11:07:39Z",
+  "updated": "2026-09-29T11:17:17Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 26
+      "viewers": 30
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 5
+      "viewers": 7
+    },
+    {
+      "platform": "youtube",
+      "name": "DCCyberSec",
+      "title": "TSIP Pentest Session - 29 September 2026",
+      "link": "https://www.youtube.com/watch?v=ln711eTo9Aw",
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -23,8 +30,16 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 40,
   "videos": [
+    {
+      "video_id": "ln711eTo9Aw",
+      "channel": "DCCyberSec",
+      "title": "TSIP Pentest Session - 29 September 2026",
+      "link": "https://www.youtube.com/watch?v=ln711eTo9Aw",
+      "published_at": "2026-09-29T11:01:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ln711eTo9Aw/hqdefault.jpg"
+    },
     {
       "video_id": "73E6Sd6fA3s",
       "channel": "antisyphon",
@@ -176,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=Y6ZAut6v64E",
       "published_at": "2026-09-28T11:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Y6ZAut6v64E/hqdefault.jpg"
-    },
-    {
-      "video_id": "2UqzvcAuaBk",
-      "channel": "jarnobaselier",
-      "title": "Hacking QuickTip 99 - AD-AutoPWN - One tool to rule them all",
-      "link": "https://www.youtube.com/watch?v=2UqzvcAuaBk",
-      "published_at": "2026-09-28T09:00:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2UqzvcAuaBk/hqdefault.jpg"
     }
   ]
 }
