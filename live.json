@@ -1,33 +1,26 @@
 {
-  "updated": "2026-09-29T22:57:40Z",
+  "updated": "2026-09-29T23:07:42Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BrakeSec",
       "title": "BSides SD announcement, finding fraudulent workers, Flock flocks things up, insider threat checks",
       "link": "https://twitch.tv/BrakeSec",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 37
-    },
-    {
-      "platform": "twitch",
-      "name": "fixit42",
-      "title": "Prepp for Kali as a daily driver stream :)",
-      "link": "https://twitch.tv/fixit42",
-      "viewers": 8
+      "viewers": 27
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -41,7 +34,7 @@
       "name": "FixIt42",
       "title": "Prepp for Kali as a daily driver stream :)",
       "link": "https://www.youtube.com/watch?v=VWSSInGE0yU",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -51,7 +44,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 53,
+  "viewers_total": 36,
   "videos": [
     {
       "video_id": "kiKQc6jUlQ0",
