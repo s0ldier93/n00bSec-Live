@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T14:07:41Z",
+  "updated": "2026-09-29T14:17:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "job interview live !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 53
+      "viewers": 52
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #7",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 1
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 55,
+  "viewers_total": 57,
   "videos": [
+    {
+      "video_id": "5BAs_gybt64",
+      "channel": "SecurityWeekly",
+      "title": "Bug Bounty Rewards Constant Adaptation",
+      "link": "https://www.youtube.com/watch?v=5BAs_gybt64",
+      "published_at": "2026-09-29T14:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5BAs_gybt64/hqdefault.jpg"
+    },
     {
       "video_id": "BpOesb7yYJ4",
       "channel": "LiveOverflow",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=GfO4sY_qd_Y",
       "published_at": "2026-09-28T14:00:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GfO4sY_qd_Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "_JWWjKLt9-M",
-      "channel": "team_whoami",
-      "title": "ensamblador suma y resta 2",
-      "link": "https://www.youtube.com/watch?v=_JWWjKLt9-M",
-      "published_at": "2026-09-28T13:00:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/_JWWjKLt9-M/hqdefault.jpg"
     }
   ]
 }
