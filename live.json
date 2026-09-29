@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T13:17:40Z",
+  "updated": "2026-09-29T13:27:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 36
+      "viewers": 41
     },
     {
       "platform": "youtube",
@@ -20,10 +20,10 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Sep 29's Top Cyber News NOW! - Ep 1254",
       "link": "https://www.youtube.com/watch?v=lFCXViA9maE",
-      "viewers": 218
+      "viewers": 212
     }
   ],
-  "viewers_total": 257,
+  "viewers_total": 256,
   "videos": [
     {
       "video_id": "G5HvA2AZ0TI",
