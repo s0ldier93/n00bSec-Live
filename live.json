@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T22:07:41Z",
+  "updated": "2026-09-29T22:17:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 40
+      "viewers": 44
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Prepp for Kali as a daily driver stream :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -37,8 +37,24 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 47,
+  "viewers_total": 52,
   "videos": [
+    {
+      "video_id": "kiKQc6jUlQ0",
+      "channel": "SecurityWeekly",
+      "title": "Your Backup Can Still Fail",
+      "link": "https://www.youtube.com/watch?v=kiKQc6jUlQ0",
+      "published_at": "2026-09-29T22:00:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/kiKQc6jUlQ0/hqdefault.jpg"
+    },
+    {
+      "video_id": "cotXnZIc8lY",
+      "channel": "mbcrump",
+      "title": "PKG Viewer 1.14.1 Reads PS4 and PS5 Trophies #Shorts",
+      "link": "https://www.youtube.com/watch?v=cotXnZIc8lY",
+      "published_at": "2026-09-29T22:00:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cotXnZIc8lY/hqdefault.jpg"
+    },
     {
       "video_id": "VWSSInGE0yU",
       "channel": "FixIt42",
@@ -182,22 +198,6 @@
       "link": "https://www.youtube.com/watch?v=LrpX2oJPckg",
       "published_at": "2026-09-28T22:00:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LrpX2oJPckg/hqdefault.jpg"
-    },
-    {
-      "video_id": "CzuhD7i4eps",
-      "channel": "mbcrump",
-      "title": "PS4-Xplorer 2.08 Adds Firmware 13.52 Support #Shorts",
-      "link": "https://www.youtube.com/watch?v=CzuhD7i4eps",
-      "published_at": "2026-09-28T19:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CzuhD7i4eps/hqdefault.jpg"
-    },
-    {
-      "video_id": "NDj4MN-gPyo",
-      "channel": "SecurityWeekly",
-      "title": "Cybersecurity Is a Fire That Never Goes Away",
-      "link": "https://www.youtube.com/watch?v=NDj4MN-gPyo",
-      "published_at": "2026-09-28T19:00:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NDj4MN-gPyo/hqdefault.jpg"
     }
   ]
 }
