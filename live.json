@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T23:27:41Z",
+  "updated": "2026-09-29T23:37:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BrakeSec",
       "title": "BSides SD announcement, finding fraudulent workers, Flock flocks things up, insider threat checks",
       "link": "https://twitch.tv/BrakeSec",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 28
+      "viewers": 30
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "kiKQc6jUlQ0",
