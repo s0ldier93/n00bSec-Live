@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T00:37:41Z",
+  "updated": "2026-09-29T00:47:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "We have a lot to build, starting the homelab rebuild| Cybersecurity,Rants,Chill,&Linux Gaming|9-28-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 13
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 68
+      "viewers": 71
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 83,
+  "viewers_total": 90,
   "videos": [
     {
       "video_id": "_m6VwWMmve0",
