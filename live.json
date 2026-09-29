@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T11:17:17Z",
+  "updated": "2026-09-29T11:27:19Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,17 @@
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 7
-    },
-    {
-      "platform": "youtube",
-      "name": "DCCyberSec",
-      "title": "TSIP Pentest Session - 29 September 2026",
-      "link": "https://www.youtube.com/watch?v=ln711eTo9Aw",
-      "viewers": 1
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 40,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "ln711eTo9Aw",
