@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T05:57:40Z",
+  "updated": "2026-09-29T06:07:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 38
+      "viewers": 32
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 40,
+  "viewers_total": 36,
   "videos": [
     {
       "video_id": "R8ARdJx7ngA",
