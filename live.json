@@ -1,26 +1,19 @@
 {
-  "updated": "2026-09-29T23:17:08Z",
+  "updated": "2026-09-29T23:27:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BrakeSec",
       "title": "BSides SD announcement, finding fraudulent workers, Flock flocks things up, insider threat checks",
       "link": "https://twitch.tv/BrakeSec",
-      "viewers": 6
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 27
-    },
-    {
-      "platform": "twitch",
-      "name": "irasakai",
-      "title": "Ace Combat 8",
-      "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 28
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 37,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "kiKQc6jUlQ0",
