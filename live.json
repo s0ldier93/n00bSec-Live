@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T20:57:41Z",
+  "updated": "2026-09-29T21:07:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 62
+      "viewers": 57
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 67,
+  "viewers_total": 60,
   "videos": [
     {
       "video_id": "xrP5ClQFY2E",
