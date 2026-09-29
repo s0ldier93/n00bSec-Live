@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T15:57:39Z",
+  "updated": "2026-09-29T16:07:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "WEB SECURITY WITH GOLANG - !SPONSOR !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 77
+      "viewers": 74
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 164,
+  "viewers_total": 161,
   "videos": [
     {
       "video_id": "5BAs_gybt64",
