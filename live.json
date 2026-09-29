@@ -1,26 +1,19 @@
 {
-  "updated": "2026-09-29T00:57:40Z",
+  "updated": "2026-09-29T01:07:44Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "We have a lot to build, starting the homelab rebuild| Cybersecurity,Rants,Chill,&Linux Gaming|9-28-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 15
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 70
-    },
-    {
-      "platform": "twitch",
-      "name": "Whimmery",
-      "title": "Whimmery's Studio work",
-      "link": "https://twitch.tv/Whimmery",
-      "viewers": 1
+      "viewers": 64
     },
     {
       "platform": "youtube",
@@ -30,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 88,
+  "viewers_total": 77,
   "videos": [
     {
       "video_id": "_m6VwWMmve0",
