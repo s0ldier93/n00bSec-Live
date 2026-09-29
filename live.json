@@ -1,22 +1,22 @@
 {
-  "updated": "2026-09-29T02:17:40Z",
+  "updated": "2026-09-29T02:27:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 61
+      "viewers": 65
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 64,
+  "viewers_total": 67,
   "videos": [
     {
       "video_id": "R8ARdJx7ngA",
