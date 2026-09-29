@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T19:07:42Z",
+  "updated": "2026-09-29T19:17:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 67
+      "viewers": 57
     },
     {
       "platform": "twitch",
@@ -20,11 +20,19 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 70,
+  "viewers_total": 61,
   "videos": [
+    {
+      "video_id": "xrP5ClQFY2E",
+      "channel": "mbcrump",
+      "title": "Gran Turismo 7 Runs Offline but Cannot Save Yet #Shorts",
+      "link": "https://www.youtube.com/watch?v=xrP5ClQFY2E",
+      "published_at": "2026-09-29T19:00:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xrP5ClQFY2E/hqdefault.jpg"
+    },
     {
       "video_id": "d-zreyjQI0w",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=euTX2oQVVGA",
       "published_at": "2026-09-28T15:23:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/euTX2oQVVGA/hqdefault.jpg"
-    },
-    {
-      "video_id": "mk4VXMgcY6A",
-      "channel": "JohnHammond010",
-      "title": "Steam IPC Exploit",
-      "link": "https://www.youtube.com/watch?v=mk4VXMgcY6A",
-      "published_at": "2026-09-28T15:00:46+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mk4VXMgcY6A/hqdefault.jpg"
     }
   ]
 }
