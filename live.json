@@ -1,25 +1,18 @@
 {
-  "updated": "2026-09-29T21:07:41Z",
+  "updated": "2026-09-29T21:17:42Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 57
+      "viewers": 49
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Lenguaje ensamblador, instrucciones logicas",
-      "link": "https://twitch.tv/team_whoami",
       "viewers": 1
     },
     {
@@ -30,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 60,
+  "viewers_total": 51,
   "videos": [
     {
       "video_id": "xrP5ClQFY2E",
