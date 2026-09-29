@@ -1,22 +1,22 @@
 {
-  "updated": "2026-09-29T07:17:40Z",
+  "updated": "2026-09-29T07:27:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 30
+      "viewers": 36
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 4
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 40,
   "videos": [
     {
       "video_id": "cPCpUWE8o8A",
