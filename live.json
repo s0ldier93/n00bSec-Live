@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:57:41Z",
+  "updated": "2026-09-29T18:07:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,9 +11,9 @@
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "Regularly Scheduled Shenanigans #7 | ty: @kevin2it @djzandr @djmattjack",
+      "title": "Regularly Scheduled Shenanigans #7 | ty: @bruhitsdanny1",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 83
+      "viewers": 78
     },
     {
       "platform": "twitch",
@@ -27,17 +27,17 @@
       "name": "panekopanko",
       "title": "worst stream of all time?? [PHOTOSHOPPING SHITTY MEMES]",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 181,
+  "viewers_total": 174,
   "videos": [
     {
       "video_id": "4PgkRlg0Z50",
