@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T14:27:40Z",
+  "updated": "2026-09-29T14:37:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "job interview live !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 64
+      "viewers": 46
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 74,
+  "viewers_total": 56,
   "videos": [
     {
       "video_id": "5BAs_gybt64",
