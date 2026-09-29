@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T05:27:40Z",
+  "updated": "2026-09-29T05:37:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 32
+      "viewers": 34
     },
     {
       "platform": "twitch",
@@ -16,13 +16,6 @@
       "viewers": 1
     },
     {
-      "platform": "twitch",
-      "name": "yourcyberdoctor",
-      "title": "Risk Quantification - measuring cyber risk- day 195",
-      "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 3
-    },
-    {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
@@ -30,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "R8ARdJx7ngA",
