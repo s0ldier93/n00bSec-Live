@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T23:07:42Z",
+  "updated": "2026-09-29T23:17:08Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BrakeSec",
       "title": "BSides SD announcement, finding fraudulent workers, Flock flocks things up, insider threat checks",
       "link": "https://twitch.tv/BrakeSec",
-      "viewers": 4
+      "viewers": 6
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -31,20 +31,13 @@
     },
     {
       "platform": "youtube",
-      "name": "FixIt42",
-      "title": "Prepp for Kali as a daily driver stream :)",
-      "link": "https://www.youtube.com/watch?v=VWSSInGE0yU",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "kiKQc6jUlQ0",
