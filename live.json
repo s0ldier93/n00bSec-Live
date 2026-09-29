@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T09:07:41Z",
+  "updated": "2026-09-29T09:17:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 29
+      "viewers": 26
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 7
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "Vz0XWXOwPNI",
