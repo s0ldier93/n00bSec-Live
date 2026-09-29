@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T00:07:41Z",
+  "updated": "2026-09-29T00:17:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "We have a lot to build, starting the homelab rebuild| Cybersecurity,Rants,Chill,&Linux Gaming|9-28-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 11
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 86
+      "viewers": 76
     },
     {
       "platform": "twitch",
@@ -27,10 +27,10 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 100,
+  "viewers_total": 88,
   "videos": [
     {
       "video_id": "LrpX2oJPckg",
