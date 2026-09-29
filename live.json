@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T06:37:40Z",
+  "updated": "2026-09-29T06:47:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacker sleep times !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 42
+      "viewers": 31
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 44,
+  "viewers_total": 33,
   "videos": [
     {
       "video_id": "R8ARdJx7ngA",
