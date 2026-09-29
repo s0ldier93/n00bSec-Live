@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-29T18:27:41Z",
+  "updated": "2026-09-29T18:37:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 53
+      "viewers": 63
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #7 | ty: @bruhitsdanny1",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 84
+      "viewers": 89
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 169,
+  "viewers_total": 186,
   "videos": [
     {
       "video_id": "4PgkRlg0Z50",
