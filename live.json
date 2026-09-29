@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-29T00:17:41Z",
+  "updated": "2026-09-29T00:27:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "We have a lot to build, starting the homelab rebuild| Cybersecurity,Rants,Chill,&Linux Gaming|9-28-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 10
+      "viewers": 14
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REVIEWING CYBERSECURITY NEWS !jobathon day 1/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 76
+      "viewers": 67
     },
     {
       "platform": "twitch",
@@ -30,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 88,
+  "viewers_total": 83,
   "videos": [
+    {
+      "video_id": "_m6VwWMmve0",
+      "channel": "mbcrump",
+      "title": "PlayStation Homebrew News (PSN on 13.60 Still Works, Wolverine on KytyPS5 & KStuff Next Gen)",
+      "link": "https://www.youtube.com/watch?v=_m6VwWMmve0",
+      "published_at": "2026-09-29T00:07:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_m6VwWMmve0/hqdefault.jpg"
+    },
     {
       "video_id": "LrpX2oJPckg",
       "channel": "mbcrump",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=-AsaiNZbvHQ",
       "published_at": "2026-09-28T01:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-AsaiNZbvHQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "FkCcfnJyT-o",
-      "channel": "TheShyHat",
-      "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
-      "link": "https://www.youtube.com/watch?v=FkCcfnJyT-o",
-      "published_at": "2026-09-27T23:56:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FkCcfnJyT-o/hqdefault.jpg"
     }
   ]
 }
