@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T21:17:42Z",
+  "updated": "2026-09-29T21:27:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 49
+      "viewers": 45
     },
     {
       "platform": "twitch",
@@ -23,8 +23,24 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 51,
+  "viewers_total": 47,
   "videos": [
+    {
+      "video_id": "VWSSInGE0yU",
+      "channel": "FixIt42",
+      "title": "Prepp for Kali as a daily driver stream :)",
+      "link": "https://www.youtube.com/watch?v=VWSSInGE0yU",
+      "published_at": "2026-09-29T21:13:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VWSSInGE0yU/hqdefault.jpg"
+    },
+    {
+      "video_id": "_Snvl0WFL-o",
+      "channel": "SecurityWeekly",
+      "title": "Venus in Furs, Money Laundering, AI Hijinx, MCP, Thunderbastard, and Aaran Leyland  - SWN #620",
+      "link": "https://www.youtube.com/watch?v=_Snvl0WFL-o",
+      "published_at": "2026-09-29T21:00:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_Snvl0WFL-o/hqdefault.jpg"
+    },
     {
       "video_id": "xrP5ClQFY2E",
       "channel": "mbcrump",
@@ -168,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=NDj4MN-gPyo",
       "published_at": "2026-09-28T19:00:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NDj4MN-gPyo/hqdefault.jpg"
-    },
-    {
-      "video_id": "50TURLY_3GE",
-      "channel": "HackerMentor",
-      "title": "Curso Gratuito - Misi\u00f3n 3 Master Cracker",
-      "link": "https://www.youtube.com/watch?v=50TURLY_3GE",
-      "published_at": "2026-09-28T16:47:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/50TURLY_3GE/hqdefault.jpg"
-    },
-    {
-      "video_id": "euTX2oQVVGA",
-      "channel": "antisyphon",
-      "title": "When Your Logs Attack Your Security Agent | Faan Rossouw",
-      "link": "https://www.youtube.com/watch?v=euTX2oQVVGA",
-      "published_at": "2026-09-28T15:23:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/euTX2oQVVGA/hqdefault.jpg"
     }
   ]
 }
