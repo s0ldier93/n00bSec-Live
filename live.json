@@ -1,19 +1,12 @@
 {
-  "updated": "2026-09-30T08:17:18Z",
+  "updated": "2026-09-30T08:17:41Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "AWS CCP: Module 9.3 - Security in AWS",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
-    },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 12
+      "viewers": 11
     },
     {
       "platform": "youtube",
@@ -23,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "WzAWExMBNHc",
