@@ -1,25 +1,18 @@
 {
-  "updated": "2026-09-29T23:57:40Z",
+  "updated": "2026-09-30T00:07:07Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BrakeSec",
-      "title": "BSides SD announcement, finding fraudulent workers, Flock flocks things up, insider threat checks",
-      "link": "https://twitch.tv/BrakeSec",
-      "viewers": 2
-    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 33
+      "viewers": 26
     },
     {
-      "platform": "youtube",
-      "name": "BrakeSec",
-      "title": "BSides SD announcement, finding fraudulent workers, Flock flocks things up, insider threat checks",
-      "link": "https://www.youtube.com/watch?v=y1Ms2HKMYFE",
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "Ace Combat 8",
+      "link": "https://twitch.tv/irasakai",
       "viewers": 1
     },
     {
@@ -27,10 +20,10 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "QXSKHeSYoSE",
