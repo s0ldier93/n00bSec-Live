@@ -1,19 +1,12 @@
 {
-  "updated": "2026-09-30T06:07:12Z",
+  "updated": "2026-09-30T06:07:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 7
-    },
-    {
-      "platform": "twitch",
-      "name": "TheShyHat",
-      "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
-      "link": "https://twitch.tv/TheShyHat",
-      "viewers": 14
+      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -23,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 22,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
