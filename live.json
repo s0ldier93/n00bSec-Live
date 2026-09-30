@@ -1,33 +1,19 @@
 {
-  "updated": "2026-09-30T16:57:41Z",
+  "updated": "2026-09-30T17:07:25Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "antisyphon",
-      "title": "Turn Pentest Reports into Actionable Risk Intelligence w/ Dan DeCloss",
-      "link": "https://twitch.tv/antisyphon",
-      "viewers": 4
-    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 51
+      "viewers": 53
     },
     {
       "platform": "twitch",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Marshall Livingston | DITL",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 12
-    },
-    {
-      "platform": "youtube",
-      "name": "antisyphon",
-      "title": "Turn Pentest Reports into Actionable Risk Intelligence w/ Dan DeCloss",
-      "link": "https://www.youtube.com/watch?v=ZyE1uMREzbc",
-      "viewers": 27
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -41,10 +27,10 @@
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Marshall Livingston | DITL",
       "link": "https://www.youtube.com/watch?v=E4Fl5GTxiFY",
-      "viewers": 22
+      "viewers": 16
     }
   ],
-  "viewers_total": 117,
+  "viewers_total": 75,
   "videos": [
     {
       "video_id": "MxSPZze30_E",
