@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T04:57:40Z",
+  "updated": "2026-09-30T05:07:40Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 12
+      "viewers": 11
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
       "link": "https://www.youtube.com/watch?v=9VWtCY8hmWI",
-      "viewers": 11
+      "viewers": 13
     }
   ],
-  "viewers_total": 37,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
