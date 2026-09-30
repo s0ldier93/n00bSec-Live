@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T02:47:40Z",
+  "updated": "2026-09-30T02:57:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 39
+      "viewers": 35
     },
     {
       "platform": "twitch",
@@ -21,9 +21,16 @@
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "TheShyHat",
+      "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
+      "link": "https://www.youtube.com/watch?v=9VWtCY8hmWI",
+      "viewers": 2
     }
   ],
-  "viewers_total": 41,
+  "viewers_total": 39,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
