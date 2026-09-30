@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T00:17:06Z",
+  "updated": "2026-09-30T00:27:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 32
+      "viewers": 26
     },
     {
       "platform": "twitch",
@@ -20,18 +20,26 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Curso Gratuito - Misi\u00f3n 1 Gray Hacker Vulcan",
       "link": "https://www.youtube.com/watch?v=TvHgk7p67uw",
-      "viewers": 396
+      "viewers": 729
     }
   ],
-  "viewers_total": 432,
+  "viewers_total": 758,
   "videos": [
+    {
+      "video_id": "SRTtp5QX9dg",
+      "channel": "BrakeSec",
+      "title": "BSides SD announcement, finding fraudulent workers, Flock flocks things up, insider threat checks",
+      "link": "https://www.youtube.com/watch?v=SRTtp5QX9dg",
+      "published_at": "2026-09-30T00:01:59+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SRTtp5QX9dg/hqdefault.jpg"
+    },
     {
       "video_id": "QXSKHeSYoSE",
       "channel": "mbcrump",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=WYCDacpRK6M",
       "published_at": "2026-09-29T01:00:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/WYCDacpRK6M/hqdefault.jpg"
-    },
-    {
-      "video_id": "_m6VwWMmve0",
-      "channel": "mbcrump",
-      "title": "PlayStation Homebrew News (PSN on 13.60 Still Works, Wolverine on KytyPS5 & KStuff Next Gen)",
-      "link": "https://www.youtube.com/watch?v=_m6VwWMmve0",
-      "published_at": "2026-09-29T00:07:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/_m6VwWMmve0/hqdefault.jpg"
     }
   ]
 }
