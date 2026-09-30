@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T00:37:41Z",
+  "updated": "2026-09-30T00:47:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 26
+      "viewers": 31
     },
     {
       "platform": "twitch",
@@ -27,10 +27,10 @@
       "name": "HackerMentor",
       "title": "Curso Gratuito - Misi\u00f3n 1 Gray Hacker Vulcan",
       "link": "https://www.youtube.com/watch?v=TvHgk7p67uw",
-      "viewers": 2059
+      "viewers": 2425
     }
   ],
-  "viewers_total": 2089,
+  "viewers_total": 2460,
   "videos": [
     {
       "video_id": "SRTtp5QX9dg",
