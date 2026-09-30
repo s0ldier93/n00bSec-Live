@@ -1,22 +1,36 @@
 {
-  "updated": "2026-09-30T15:27:40Z",
+  "updated": "2026-09-30T15:37:29Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "Turn Pentest Reports into Actionable Risk Intelligence w/ Dan DeCloss",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 23
+      "viewers": 31
+    },
+    {
+      "platform": "youtube",
+      "name": "antisyphon",
+      "title": "Turn Pentest Reports into Actionable Risk Intelligence w/ Dan DeCloss",
+      "link": "https://www.youtube.com/watch?v=ZyE1uMREzbc",
+      "viewers": 8
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 42,
   "videos": [
     {
       "video_id": "XrKrCGSeNNo",
