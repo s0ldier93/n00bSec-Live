@@ -1,16 +1,24 @@
 {
-  "updated": "2026-09-30T08:37:42Z",
+  "updated": "2026-09-30T08:47:41Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 1,
+  "viewers_total": 2,
   "videos": [
+    {
+      "video_id": "03p_kieG-3M",
+      "channel": "BySepa",
+      "title": "OSINT en vivo - Probando God's Eye View! #teaminvierno #hacktheplanet",
+      "link": "https://www.youtube.com/watch?v=03p_kieG-3M",
+      "published_at": "2026-09-30T08:30:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/03p_kieG-3M/hqdefault.jpg"
+    },
     {
       "video_id": "WzAWExMBNHc",
       "channel": "censoredHacker",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=G5HvA2AZ0TI",
       "published_at": "2026-09-29T13:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/G5HvA2AZ0TI/hqdefault.jpg"
-    },
-    {
-      "video_id": "ln711eTo9Aw",
-      "channel": "DCCyberSec",
-      "title": "TSIP Pentest Session - 29 September 2026",
-      "link": "https://www.youtube.com/watch?v=ln711eTo9Aw",
-      "published_at": "2026-09-29T11:01:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ln711eTo9Aw/hqdefault.jpg"
     }
   ]
 }
