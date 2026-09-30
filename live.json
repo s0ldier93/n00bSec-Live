@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-30T20:17:41Z",
+  "updated": "2026-09-30T20:27:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "day 1: learning about compilers until I cry (or rage quit)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 194
+      "viewers": 368
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 52
+      "viewers": 31
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 248,
+  "viewers_total": 401,
   "videos": [
     {
       "video_id": "SdWVNQs80Pc",
