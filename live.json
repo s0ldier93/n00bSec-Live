@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-30T03:37:40Z",
+  "updated": "2026-09-30T03:47:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 12
+      "viewers": 15
     },
     {
       "platform": "youtube",
@@ -27,10 +27,10 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
       "link": "https://www.youtube.com/watch?v=9VWtCY8hmWI",
-      "viewers": 10
+      "viewers": 13
     }
   ],
-  "viewers_total": 25,
+  "viewers_total": 32,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
