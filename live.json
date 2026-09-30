@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T21:17:40Z",
+  "updated": "2026-09-30T21:27:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "day 1: learning about compilers until I cry (or rage quit)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 410
+      "viewers": 414
     },
     {
       "platform": "twitch",
@@ -20,14 +20,14 @@
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 31
+      "viewers": 43
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -48,10 +48,10 @@
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 11
+      "viewers": 9
     }
   ],
-  "viewers_total": 464,
+  "viewers_total": 477,
   "videos": [
     {
       "video_id": "9QXcBqej_iw",
