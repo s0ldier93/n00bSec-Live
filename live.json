@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T15:17:41Z",
+  "updated": "2026-09-30T15:27:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 6
+      "viewers": 23
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 24,
   "videos": [
     {
       "video_id": "XrKrCGSeNNo",
