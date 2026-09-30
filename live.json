@@ -1,16 +1,24 @@
 {
-  "updated": "2026-09-30T08:47:41Z",
+  "updated": "2026-09-30T09:17:40Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "GvIhgbf9veE",
+      "channel": "SecurityWeekly",
+      "title": "Defending at AI Speed as Quantum Threats and AI Policies Won't Save You - Nolan Karpinski - BSW #467",
+      "link": "https://www.youtube.com/watch?v=GvIhgbf9veE",
+      "published_at": "2026-09-30T09:00:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GvIhgbf9veE/hqdefault.jpg"
+    },
     {
       "video_id": "03p_kieG-3M",
       "channel": "BySepa",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=9-2CSJC114k",
       "published_at": "2026-09-29T13:16:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9-2CSJC114k/hqdefault.jpg"
-    },
-    {
-      "video_id": "G5HvA2AZ0TI",
-      "channel": "team_whoami",
-      "title": "ensamblador multiplicacion 1",
-      "link": "https://www.youtube.com/watch?v=G5HvA2AZ0TI",
-      "published_at": "2026-09-29T13:00:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/G5HvA2AZ0TI/hqdefault.jpg"
     }
   ]
 }
