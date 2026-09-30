@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T18:47:40Z",
+  "updated": "2026-09-30T18:57:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 49
+      "viewers": 40
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 51,
+  "viewers_total": 42,
   "videos": [
     {
       "video_id": "vFSEh4ctBz0",
@@ -25,6 +25,14 @@
       "link": "https://www.youtube.com/watch?v=vFSEh4ctBz0",
       "published_at": "2026-09-30T18:36:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/vFSEh4ctBz0/hqdefault.jpg"
+    },
+    {
+      "video_id": "si5yaewVWWg",
+      "channel": "BySepa",
+      "title": "Ciberseguridad desde CERO: perfiles, certificaciones, herramientas y trabajo! #hacktheplanet",
+      "link": "https://www.youtube.com/watch?v=si5yaewVWWg",
+      "published_at": "2026-09-30T18:26:45+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/si5yaewVWWg/hqdefault.jpg"
     },
     {
       "video_id": "dwX8G0yMTmc",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=SRTtp5QX9dg",
       "published_at": "2026-09-30T00:01:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SRTtp5QX9dg/hqdefault.jpg"
-    },
-    {
-      "video_id": "QXSKHeSYoSE",
-      "channel": "mbcrump",
-      "title": "PS5 13.60 Jailbreak: Full Setup in Minutes",
-      "link": "https://www.youtube.com/watch?v=QXSKHeSYoSE",
-      "published_at": "2026-09-29T23:29:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/QXSKHeSYoSE/hqdefault.jpg"
     }
   ]
 }
