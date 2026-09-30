@@ -1,37 +1,59 @@
 {
-  "updated": "2026-09-30T15:57:40Z",
+  "updated": "2026-09-30T16:07:32Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Turn Pentest Reports into Actionable Risk Intelligence w/ Dan DeCloss",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 43
+      "viewers": 40
+    },
+    {
+      "platform": "twitch",
+      "name": "thecybermentor",
+      "title": "Real Folks of Cyber | Marshall Livingston | DITL",
+      "link": "https://twitch.tv/thecybermentor",
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Turn Pentest Reports into Actionable Risk Intelligence w/ Dan DeCloss",
       "link": "https://www.youtube.com/watch?v=ZyE1uMREzbc",
-      "viewers": 20
+      "viewers": 26
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "thecybermentor",
+      "title": "Real Folks of Cyber | Marshall Livingston | DITL",
+      "link": "https://www.youtube.com/watch?v=E4Fl5GTxiFY",
+      "viewers": 21
     }
   ],
-  "viewers_total": 66,
+  "viewers_total": 91,
   "videos": [
+    {
+      "video_id": "exRuP7uD1-o",
+      "channel": "mbcrump",
+      "title": "LUAp0rt GBA Brings Game Boy Advance Games to PS5 #Shorts",
+      "link": "https://www.youtube.com/watch?v=exRuP7uD1-o",
+      "published_at": "2026-09-30T16:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/exRuP7uD1-o/hqdefault.jpg"
+    },
     {
       "video_id": "XrKrCGSeNNo",
       "channel": "LiveOverflow",
@@ -183,14 +205,6 @@
       "link": "https://www.youtube.com/watch?v=_Snvl0WFL-o",
       "published_at": "2026-09-29T21:00:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/_Snvl0WFL-o/hqdefault.jpg"
-    },
-    {
-      "video_id": "xrP5ClQFY2E",
-      "channel": "mbcrump",
-      "title": "Gran Turismo 7 Runs Offline but Cannot Save Yet #Shorts",
-      "link": "https://www.youtube.com/watch?v=xrP5ClQFY2E",
-      "published_at": "2026-09-29T19:00:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xrP5ClQFY2E/hqdefault.jpg"
     }
   ]
 }
