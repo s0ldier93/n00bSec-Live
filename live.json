@@ -1,13 +1,6 @@
 {
-  "updated": "2026-09-30T03:07:40Z",
+  "updated": "2026-09-30T03:17:41Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "endingwithali",
-      "title": "COWORKING SESSION!!!  !jobathon day 2/?",
-      "link": "https://twitch.tv/endingwithali",
-      "viewers": 36
-    },
     {
       "platform": "twitch",
       "name": "irasakai",
@@ -20,7 +13,7 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 7
+      "viewers": 12
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 8
     }
   ],
-  "viewers_total": 53,
+  "viewers_total": 22,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
