@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T06:57:40Z",
+  "updated": "2026-09-30T07:07:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 8
+      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -16,8 +16,32 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 10,
   "videos": [
+    {
+      "video_id": "M3dhEfvbGNs",
+      "channel": "TheShyHat",
+      "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
+      "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
+      "published_at": "2026-09-30T06:50:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/M3dhEfvbGNs/hqdefault.jpg"
+    },
+    {
+      "video_id": "1XqWPROw49s",
+      "channel": "Security_Live",
+      "title": "UVC relative pan/tilt/zoom speed test.",
+      "link": "https://www.youtube.com/watch?v=1XqWPROw49s",
+      "published_at": "2026-09-30T05:10:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1XqWPROw49s/hqdefault.jpg"
+    },
+    {
+      "video_id": "HX65Ok4BQCg",
+      "channel": "mbcrump",
+      "title": "FlappyC0re Brings a Tiny Payload Game to PS4 and PS5 #Shorts",
+      "link": "https://www.youtube.com/watch?v=HX65Ok4BQCg",
+      "published_at": "2026-09-30T04:00:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/HX65Ok4BQCg/hqdefault.jpg"
+    },
     {
       "video_id": "9VWtCY8hmWI",
       "channel": "TheShyHat",
@@ -153,30 +177,6 @@
       "link": "https://www.youtube.com/watch?v=73E6Sd6fA3s",
       "published_at": "2026-09-29T10:00:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/73E6Sd6fA3s/hqdefault.jpg"
-    },
-    {
-      "video_id": "Vz0XWXOwPNI",
-      "channel": "SecurityWeekly",
-      "title": "Going From Bug Bounty Bugs to More Secure Systems - Shlomie Liberow - ASW #402",
-      "link": "https://www.youtube.com/watch?v=Vz0XWXOwPNI",
-      "published_at": "2026-09-29T09:00:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Vz0XWXOwPNI/hqdefault.jpg"
-    },
-    {
-      "video_id": "F4ED4qDDF8M",
-      "channel": "Khaos_Farbauti",
-      "title": "Le port knocking",
-      "link": "https://www.youtube.com/watch?v=F4ED4qDDF8M",
-      "published_at": "2026-09-29T08:16:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/F4ED4qDDF8M/hqdefault.jpg"
-    },
-    {
-      "video_id": "cPCpUWE8o8A",
-      "channel": "mbcrump",
-      "title": "kstuff-lite 1.11 Adds PS5 Firmware 13.xx Support #Shorts",
-      "link": "https://www.youtube.com/watch?v=cPCpUWE8o8A",
-      "published_at": "2026-09-29T04:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cPCpUWE8o8A/hqdefault.jpg"
     }
   ]
 }
