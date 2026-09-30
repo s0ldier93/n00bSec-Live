@@ -1,19 +1,12 @@
 {
-  "updated": "2026-09-30T05:37:42Z",
+  "updated": "2026-09-30T05:47:41Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "irasakai",
-      "title": "Ace Combat 8",
-      "link": "https://twitch.tv/irasakai",
-      "viewers": 2
-    },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -21,13 +14,6 @@
       "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
       "link": "https://twitch.tv/TheShyHat",
       "viewers": 13
-    },
-    {
-      "platform": "twitch",
-      "name": "yourcyberdoctor",
-      "title": "What's the deal with VPNs - day 196",
-      "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -41,10 +27,10 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
       "link": "https://www.youtube.com/watch?v=9VWtCY8hmWI",
-      "viewers": 12
+      "viewers": 11
     }
   ],
-  "viewers_total": 41,
+  "viewers_total": 27,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
