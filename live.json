@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T04:47:39Z",
+  "updated": "2026-09-30T04:57:40Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 14
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "yourcyberdoctor",
       "title": "What's the deal with VPNs - day 196",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 8
+      "viewers": 10
     },
     {
       "platform": "youtube",
@@ -34,10 +34,10 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
       "link": "https://www.youtube.com/watch?v=9VWtCY8hmWI",
-      "viewers": 10
+      "viewers": 11
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
