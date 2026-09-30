@@ -1,22 +1,22 @@
 {
-  "updated": "2026-09-30T13:07:40Z",
+  "updated": "2026-09-30T13:17:40Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Sep 30's Top Cyber News NOW! - Ep 1255",
       "link": "https://www.youtube.com/watch?v=Hl1d_6eYvzM",
-      "viewers": 159
+      "viewers": 146
     }
   ],
-  "viewers_total": 160,
+  "viewers_total": 148,
   "videos": [
     {
       "video_id": "XPeHlqIfZIM",
