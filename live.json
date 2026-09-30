@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T02:17:41Z",
+  "updated": "2026-09-30T02:27:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 20
+      "viewers": 24
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
+      "viewers": 1
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 26,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
