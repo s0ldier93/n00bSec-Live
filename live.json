@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T21:27:40Z",
+  "updated": "2026-09-30T21:37:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "day 1: learning about compilers until I cry (or rage quit)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 414
+      "viewers": 422
     },
     {
       "platform": "twitch",
@@ -20,39 +20,47 @@
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 43
+      "viewers": 41
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 4
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Ciberseguridad desde CERO: perfiles, certificaciones, herramientas y trabajo!",
       "link": "https://www.youtube.com/watch?v=si5yaewVWWg",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 9
+      "viewers": 10
     }
   ],
-  "viewers_total": 477,
+  "viewers_total": 486,
   "videos": [
+    {
+      "video_id": "RmSse4-NSLc",
+      "channel": "freshforensics",
+      "title": "\u26a0\ufe0f Car Exploit from Halehound \ud83d\ude97 #youtubeshorts #coding #shorts #short #wifi",
+      "link": "https://www.youtube.com/watch?v=RmSse4-NSLc",
+      "published_at": "2026-09-30T21:19:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RmSse4-NSLc/hqdefault.jpg"
+    },
     {
       "video_id": "9QXcBqej_iw",
       "channel": "0reoByte",
@@ -204,14 +212,6 @@
       "link": "https://www.youtube.com/watch?v=1XqWPROw49s",
       "published_at": "2026-09-30T05:10:53+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1XqWPROw49s/hqdefault.jpg"
-    },
-    {
-      "video_id": "HX65Ok4BQCg",
-      "channel": "mbcrump",
-      "title": "FlappyC0re Brings a Tiny Payload Game to PS4 and PS5 #Shorts",
-      "link": "https://www.youtube.com/watch?v=HX65Ok4BQCg",
-      "published_at": "2026-09-30T04:00:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/HX65Ok4BQCg/hqdefault.jpg"
     }
   ]
 }
