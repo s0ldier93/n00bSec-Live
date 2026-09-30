@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T07:07:40Z",
+  "updated": "2026-09-30T07:17:15Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,14 +10,29 @@
     },
     {
       "platform": "youtube",
+      "name": "censoredHacker",
+      "title": "AWS CCP: Module 9.3 - Security in AWS",
+      "link": "https://www.youtube.com/watch?v=WzAWExMBNHc",
+      "viewers": 3
+    },
+    {
+      "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
     }
   ],
-  "viewers_total": 10,
+  "viewers_total": 13,
   "videos": [
+    {
+      "video_id": "WzAWExMBNHc",
+      "channel": "censoredHacker",
+      "title": "AWS CCP: Module 9.3 - Security in AWS",
+      "link": "https://www.youtube.com/watch?v=WzAWExMBNHc",
+      "published_at": "2026-09-30T07:08:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/WzAWExMBNHc/hqdefault.jpg"
+    },
     {
       "video_id": "M3dhEfvbGNs",
       "channel": "TheShyHat",
@@ -169,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=ln711eTo9Aw",
       "published_at": "2026-09-29T11:01:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ln711eTo9Aw/hqdefault.jpg"
-    },
-    {
-      "video_id": "73E6Sd6fA3s",
-      "channel": "antisyphon",
-      "title": "AI Up Your Incident Readiness and Response Planning | Gerard Johansen",
-      "link": "https://www.youtube.com/watch?v=73E6Sd6fA3s",
-      "published_at": "2026-09-29T10:00:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/73E6Sd6fA3s/hqdefault.jpg"
     }
   ]
 }
