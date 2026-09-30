@@ -1,19 +1,12 @@
 {
-  "updated": "2026-09-30T17:07:25Z",
+  "updated": "2026-09-30T17:17:34Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 53
-    },
-    {
-      "platform": "twitch",
-      "name": "thecybermentor",
-      "title": "Real Folks of Cyber | Marshall Livingston | DITL",
-      "link": "https://twitch.tv/thecybermentor",
-      "viewers": 5
+      "viewers": 54
     },
     {
       "platform": "youtube",
@@ -21,17 +14,18 @@
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "thecybermentor",
-      "title": "Real Folks of Cyber | Marshall Livingston | DITL",
-      "link": "https://www.youtube.com/watch?v=E4Fl5GTxiFY",
-      "viewers": 16
     }
   ],
-  "viewers_total": 75,
+  "viewers_total": 55,
   "videos": [
+    {
+      "video_id": "dwX8G0yMTmc",
+      "channel": "SecurityWeekly",
+      "title": "Where Does AI Take Your Data?",
+      "link": "https://www.youtube.com/watch?v=dwX8G0yMTmc",
+      "published_at": "2026-09-30T17:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dwX8G0yMTmc/hqdefault.jpg"
+    },
     {
       "video_id": "MxSPZze30_E",
       "channel": "SecurityWeekly",
@@ -183,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=kiKQc6jUlQ0",
       "published_at": "2026-09-29T22:00:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kiKQc6jUlQ0/hqdefault.jpg"
-    },
-    {
-      "video_id": "cotXnZIc8lY",
-      "channel": "mbcrump",
-      "title": "PKG Viewer 1.14.1 Reads PS4 and PS5 Trophies #Shorts",
-      "link": "https://www.youtube.com/watch?v=cotXnZIc8lY",
-      "published_at": "2026-09-29T22:00:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cotXnZIc8lY/hqdefault.jpg"
     }
   ]
 }
