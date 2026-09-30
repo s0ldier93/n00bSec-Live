@@ -1,33 +1,33 @@
 {
-  "updated": "2026-09-30T21:07:16Z",
+  "updated": "2026-09-30T21:17:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "day 1: learning about compilers until I cry (or rage quit)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 401
+      "viewers": 410
     },
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Ciberseguridad desde CERO: perfiles, certificaciones, herramientas y trabajo! #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 30
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 7
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -41,18 +41,34 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 9
+      "viewers": 11
     }
   ],
-  "viewers_total": 453,
+  "viewers_total": 464,
   "videos": [
+    {
+      "video_id": "9QXcBqej_iw",
+      "channel": "0reoByte",
+      "title": "How To Cross Build Windows Installer or MSI Files On Linux",
+      "link": "https://www.youtube.com/watch?v=9QXcBqej_iw",
+      "published_at": "2026-09-30T21:06:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9QXcBqej_iw/hqdefault.jpg"
+    },
+    {
+      "video_id": "j-5zqRoj2i8",
+      "channel": "SecurityWeekly",
+      "title": "Security Is Not an Afterthought",
+      "link": "https://www.youtube.com/watch?v=j-5zqRoj2i8",
+      "published_at": "2026-09-30T21:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/j-5zqRoj2i8/hqdefault.jpg"
+    },
     {
       "video_id": "SdWVNQs80Pc",
       "channel": "mbcrump",
@@ -196,22 +212,6 @@
       "link": "https://www.youtube.com/watch?v=HX65Ok4BQCg",
       "published_at": "2026-09-30T04:00:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/HX65Ok4BQCg/hqdefault.jpg"
-    },
-    {
-      "video_id": "9VWtCY8hmWI",
-      "channel": "TheShyHat",
-      "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
-      "link": "https://www.youtube.com/watch?v=9VWtCY8hmWI",
-      "published_at": "2026-09-30T01:37:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9VWtCY8hmWI/hqdefault.jpg"
-    },
-    {
-      "video_id": "ZFBk4vuIqco",
-      "channel": "mbcrump",
-      "title": "Mario Kart Wii Runs Natively on a PS5 #Shorts",
-      "link": "https://www.youtube.com/watch?v=ZFBk4vuIqco",
-      "published_at": "2026-09-30T01:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ZFBk4vuIqco/hqdefault.jpg"
     }
   ]
 }
