@@ -1,22 +1,22 @@
 {
-  "updated": "2026-09-30T18:07:41Z",
+  "updated": "2026-09-30T18:17:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 46
+      "viewers": 57
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 49,
+  "viewers_total": 59,
   "videos": [
     {
       "video_id": "dwX8G0yMTmc",
