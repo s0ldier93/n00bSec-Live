@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T17:27:40Z",
+  "updated": "2026-09-30T17:37:42Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 55,
+  "viewers_total": 54,
   "videos": [
     {
       "video_id": "dwX8G0yMTmc",
