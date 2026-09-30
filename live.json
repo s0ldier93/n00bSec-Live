@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T00:07:07Z",
+  "updated": "2026-09-30T00:17:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 26
+      "viewers": 32
     },
     {
       "platform": "twitch",
@@ -20,10 +20,17 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 3
+    },
+    {
+      "platform": "youtube",
+      "name": "HackerMentor",
+      "title": "Curso Gratuito - Misi\u00f3n 1 Gray Hacker Vulcan",
+      "link": "https://www.youtube.com/watch?v=TvHgk7p67uw",
+      "viewers": 396
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 432,
   "videos": [
     {
       "video_id": "QXSKHeSYoSE",
