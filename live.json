@@ -1,26 +1,33 @@
 {
-  "updated": "2026-09-30T23:27:41Z",
+  "updated": "2026-09-30T23:37:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "day 1: learning about compilers until I cry (or rage quit)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 346
+      "viewers": 321
+    },
+    {
+      "platform": "twitch",
+      "name": "chiefgyk3d",
+      "title": "Long Day | Let's Chill | Cybersecurity,Rants,Chill,&Linux Gaming|9-30-26",
+      "link": "https://twitch.tv/chiefgyk3d",
+      "viewers": 0
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "LEARN TECH LLIVE !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 23
+      "viewers": 22
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 21
+      "viewers": 19
     },
     {
       "platform": "youtube",
@@ -37,8 +44,16 @@
       "viewers": 15
     }
   ],
-  "viewers_total": 406,
+  "viewers_total": 378,
   "videos": [
+    {
+      "video_id": "dTW24i8eIso",
+      "channel": "KeonBowman",
+      "title": "Port 873 Open? Here\u2019s How to Enumerate RSYNC",
+      "link": "https://www.youtube.com/watch?v=dTW24i8eIso",
+      "published_at": "2026-09-30T23:28:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dTW24i8eIso/hqdefault.jpg"
+    },
     {
       "video_id": "ZxX9rjciui0",
       "channel": "mbcrump",
@@ -190,14 +205,6 @@
       "link": "https://www.youtube.com/watch?v=WzAWExMBNHc",
       "published_at": "2026-09-30T07:08:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/WzAWExMBNHc/hqdefault.jpg"
-    },
-    {
-      "video_id": "M3dhEfvbGNs",
-      "channel": "TheShyHat",
-      "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
-      "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "published_at": "2026-09-30T06:50:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/M3dhEfvbGNs/hqdefault.jpg"
     }
   ]
 }
