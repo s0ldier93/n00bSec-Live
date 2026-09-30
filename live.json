@@ -1,40 +1,40 @@
 {
-  "updated": "2026-09-30T21:57:41Z",
+  "updated": "2026-09-30T22:07:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "day 1: learning about compilers until I cry (or rage quit)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 398
+      "viewers": 428
     },
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Ciberseguridad desde CERO: perfiles, certificaciones, herramientas y trabajo! #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 5
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "filming tech commentary videos !jobathon day 3/?",
+      "title": "LEARN TECH LLIVE !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 37
+      "viewers": 38
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 5
+      "viewers": 11
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Ciberseguridad desde CERO: perfiles, certificaciones, herramientas y trabajo!",
       "link": "https://www.youtube.com/watch?v=si5yaewVWWg",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -48,11 +48,19 @@
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 3
+      "viewers": 8
     }
   ],
-  "viewers_total": 452,
+  "viewers_total": 496,
   "videos": [
+    {
+      "video_id": "ZxX9rjciui0",
+      "channel": "mbcrump",
+      "title": "WinPS5 Tests Windows Executables on PlayStation 5 #Shorts",
+      "link": "https://www.youtube.com/watch?v=ZxX9rjciui0",
+      "published_at": "2026-09-30T22:00:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ZxX9rjciui0/hqdefault.jpg"
+    },
     {
       "video_id": "RmSse4-NSLc",
       "channel": "freshforensics",
@@ -204,14 +212,6 @@
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
       "published_at": "2026-09-30T06:50:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/M3dhEfvbGNs/hqdefault.jpg"
-    },
-    {
-      "video_id": "1XqWPROw49s",
-      "channel": "Security_Live",
-      "title": "UVC relative pan/tilt/zoom speed test.",
-      "link": "https://www.youtube.com/watch?v=1XqWPROw49s",
-      "published_at": "2026-09-30T05:10:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1XqWPROw49s/hqdefault.jpg"
     }
   ]
 }
