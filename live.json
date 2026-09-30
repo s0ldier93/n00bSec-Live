@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T23:07:07Z",
+  "updated": "2026-09-30T23:07:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,13 +7,6 @@
       "title": "day 1: learning about compilers until I cry (or rage quit)",
       "link": "https://twitch.tv/bashbunni",
       "viewers": 351
-    },
-    {
-      "platform": "twitch",
-      "name": "BySepa",
-      "title": "Ciberseguridad desde CERO: perfiles, certificaciones, herramientas y trabajo! #hacktheplanet",
-      "link": "https://twitch.tv/BySepa",
-      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -44,7 +37,7 @@
       "viewers": 8
     }
   ],
-  "viewers_total": 405,
+  "viewers_total": 400,
   "videos": [
     {
       "video_id": "ZxX9rjciui0",
