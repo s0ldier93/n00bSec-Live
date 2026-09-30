@@ -1,36 +1,29 @@
 {
-  "updated": "2026-09-30T01:57:40Z",
+  "updated": "2026-09-30T02:07:08Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 20
+      "viewers": 24
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 3
-    },
-    {
-      "platform": "youtube",
-      "name": "HackerMentor",
-      "title": "Curso Gratuito - Misi\u00f3n 1 Gray Hacker Vulcan",
-      "link": "https://www.youtube.com/watch?v=TvHgk7p67uw",
-      "viewers": 1999
+      "viewers": 4
     }
   ],
-  "viewers_total": 2023,
+  "viewers_total": 30,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
