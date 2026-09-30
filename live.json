@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T18:37:41Z",
+  "updated": "2026-09-30T18:47:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 43
+      "viewers": 49
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 45,
+  "viewers_total": 51,
   "videos": [
+    {
+      "video_id": "vFSEh4ctBz0",
+      "channel": "KeonBowman",
+      "title": "How I make 150K in Cyber Security (Red Team)",
+      "link": "https://www.youtube.com/watch?v=vFSEh4ctBz0",
+      "published_at": "2026-09-30T18:36:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vFSEh4ctBz0/hqdefault.jpg"
+    },
     {
       "video_id": "dwX8G0yMTmc",
       "channel": "SecurityWeekly",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=QXSKHeSYoSE",
       "published_at": "2026-09-29T23:29:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QXSKHeSYoSE/hqdefault.jpg"
-    },
-    {
-      "video_id": "kiKQc6jUlQ0",
-      "channel": "SecurityWeekly",
-      "title": "Your Backup Can Still Fail",
-      "link": "https://www.youtube.com/watch?v=kiKQc6jUlQ0",
-      "published_at": "2026-09-29T22:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/kiKQc6jUlQ0/hqdefault.jpg"
     }
   ]
 }
