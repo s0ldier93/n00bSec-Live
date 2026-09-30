@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T02:57:06Z",
+  "updated": "2026-09-30T02:57:40Z",
   "streams": [
     {
       "platform": "twitch",
@@ -16,6 +16,13 @@
       "viewers": 1
     },
     {
+      "platform": "twitch",
+      "name": "TheShyHat",
+      "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
+      "link": "https://twitch.tv/TheShyHat",
+      "viewers": 6
+    },
+    {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
@@ -30,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 45,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
