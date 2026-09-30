@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T16:07:32Z",
+  "updated": "2026-09-30T16:17:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 40
+      "viewers": 50
     },
     {
       "platform": "twitch",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Marshall Livingston | DITL",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 1
+      "viewers": 10
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Turn Pentest Reports into Actionable Risk Intelligence w/ Dan DeCloss",
       "link": "https://www.youtube.com/watch?v=ZyE1uMREzbc",
-      "viewers": 26
+      "viewers": 30
     },
     {
       "platform": "youtube",
@@ -41,11 +41,27 @@
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Marshall Livingston | DITL",
       "link": "https://www.youtube.com/watch?v=E4Fl5GTxiFY",
-      "viewers": 21
+      "viewers": 25
     }
   ],
-  "viewers_total": 91,
+  "viewers_total": 118,
   "videos": [
+    {
+      "video_id": "MxSPZze30_E",
+      "channel": "SecurityWeekly",
+      "title": "AI Automation Can Cost More",
+      "link": "https://www.youtube.com/watch?v=MxSPZze30_E",
+      "published_at": "2026-09-30T16:06:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MxSPZze30_E/hqdefault.jpg"
+    },
+    {
+      "video_id": "E4Fl5GTxiFY",
+      "channel": "thecybermentor",
+      "title": "Real Folks of Cyber | Marshall Livingston | DITL",
+      "link": "https://www.youtube.com/watch?v=E4Fl5GTxiFY",
+      "published_at": "2026-09-30T16:00:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/E4Fl5GTxiFY/hqdefault.jpg"
+    },
     {
       "video_id": "exRuP7uD1-o",
       "channel": "mbcrump",
@@ -189,22 +205,6 @@
       "link": "https://www.youtube.com/watch?v=cotXnZIc8lY",
       "published_at": "2026-09-29T22:00:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cotXnZIc8lY/hqdefault.jpg"
-    },
-    {
-      "video_id": "VWSSInGE0yU",
-      "channel": "FixIt42",
-      "title": "Prepp for Kali as a daily driver stream :)",
-      "link": "https://www.youtube.com/watch?v=VWSSInGE0yU",
-      "published_at": "2026-09-29T21:13:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VWSSInGE0yU/hqdefault.jpg"
-    },
-    {
-      "video_id": "_Snvl0WFL-o",
-      "channel": "SecurityWeekly",
-      "title": "Venus in Furs, Money Laundering, AI Hijinx, MCP, Thunderbastard, and Aaran Leyland  - SWN #620",
-      "link": "https://www.youtube.com/watch?v=_Snvl0WFL-o",
-      "published_at": "2026-09-29T21:00:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/_Snvl0WFL-o/hqdefault.jpg"
     }
   ]
 }
