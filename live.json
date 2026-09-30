@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T16:37:41Z",
+  "updated": "2026-09-30T16:47:40Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "endingwithali",
       "title": "filming tech commentary videos !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 52
+      "viewers": 45
     },
     {
       "platform": "twitch",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Marshall Livingston | DITL",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -41,10 +41,10 @@
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Marshall Livingston | DITL",
       "link": "https://www.youtube.com/watch?v=E4Fl5GTxiFY",
-      "viewers": 19
+      "viewers": 22
     }
   ],
-  "viewers_total": 108,
+  "viewers_total": 107,
   "videos": [
     {
       "video_id": "MxSPZze30_E",
