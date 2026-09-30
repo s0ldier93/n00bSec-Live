@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-30T22:17:40Z",
+  "updated": "2026-09-30T22:27:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "day 1: learning about compilers until I cry (or rage quit)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 412
+      "viewers": 375
     },
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Ciberseguridad desde CERO: perfiles, certificaciones, herramientas y trabajo! #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -27,14 +27,14 @@
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 17
+      "viewers": 12
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Ciberseguridad desde CERO: perfiles, certificaciones, herramientas y trabajo!",
       "link": "https://www.youtube.com/watch?v=si5yaewVWWg",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -51,7 +51,7 @@
       "viewers": 8
     }
   ],
-  "viewers_total": 479,
+  "viewers_total": 441,
   "videos": [
     {
       "video_id": "ZxX9rjciui0",
