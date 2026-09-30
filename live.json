@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T02:37:40Z",
+  "updated": "2026-09-30T02:47:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 25
+      "viewers": 39
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 27,
+  "viewers_total": 41,
   "videos": [
     {
       "video_id": "9VWtCY8hmWI",
