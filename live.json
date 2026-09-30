@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T01:37:40Z",
+  "updated": "2026-09-30T01:47:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORKING SESSION!!!  !jobathon day 2/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 27
+      "viewers": 22
     },
     {
       "platform": "twitch",
@@ -20,18 +20,26 @@
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Curso Gratuito - Misi\u00f3n 1 Gray Hacker Vulcan",
       "link": "https://www.youtube.com/watch?v=TvHgk7p67uw",
-      "viewers": 2521
+      "viewers": 2238
     }
   ],
-  "viewers_total": 2551,
+  "viewers_total": 2264,
   "videos": [
+    {
+      "video_id": "9VWtCY8hmWI",
+      "channel": "TheShyHat",
+      "title": "CYBERSECURITY CO-STUDY LIVE! C Coding Course",
+      "link": "https://www.youtube.com/watch?v=9VWtCY8hmWI",
+      "published_at": "2026-09-30T01:37:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9VWtCY8hmWI/hqdefault.jpg"
+    },
     {
       "video_id": "ZFBk4vuIqco",
       "channel": "mbcrump",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=cPCpUWE8o8A",
       "published_at": "2026-09-29T04:00:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cPCpUWE8o8A/hqdefault.jpg"
-    },
-    {
-      "video_id": "R8ARdJx7ngA",
-      "channel": "KeonBowman",
-      "title": "How to Find Hidden Directories with Gobuster",
-      "link": "https://www.youtube.com/watch?v=R8ARdJx7ngA",
-      "published_at": "2026-09-29T01:49:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/R8ARdJx7ngA/hqdefault.jpg"
     }
   ]
 }
