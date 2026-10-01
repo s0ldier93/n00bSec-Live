@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T00:17:06Z",
+  "updated": "2026-10-01T00:17:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Long Day | Let's Chill | Cybersecurity,Rants,Chill,&Linux Gaming|9-30-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 6
+      "viewers": 10
     },
     {
       "platform": "twitch",
@@ -51,7 +51,7 @@
       "viewers": 11
     }
   ],
-  "viewers_total": 213,
+  "viewers_total": 217,
   "videos": [
     {
       "video_id": "dTW24i8eIso",
