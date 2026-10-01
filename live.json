@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-01T15:07:40Z",
+  "updated": "2026-10-01T15:17:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 80
+      "viewers": 78
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Launch",
       "link": "https://twitch.tv/nasa",
-      "viewers": 27320
+      "viewers": 37216
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -30,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 27404,
+  "viewers_total": 37297,
   "videos": [
+    {
+      "video_id": "u1WrihLCKhI",
+      "channel": "hack_smarter",
+      "title": "[LIVE] OSCP Giveway and Ask Me Anything (AMA)",
+      "link": "https://www.youtube.com/watch?v=u1WrihLCKhI",
+      "published_at": "2026-10-01T15:06:59+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/u1WrihLCKhI/hqdefault.jpg"
+    },
     {
       "video_id": "to9jid5ZY6c",
       "channel": "LowLevelTV",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=vFSEh4ctBz0",
       "published_at": "2026-09-30T18:36:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/vFSEh4ctBz0/hqdefault.jpg"
-    },
-    {
-      "video_id": "si5yaewVWWg",
-      "channel": "BySepa",
-      "title": "Ciberseguridad desde CERO: perfiles, certificaciones, herramientas y trabajo! #hacktheplanet",
-      "link": "https://www.youtube.com/watch?v=si5yaewVWWg",
-      "published_at": "2026-09-30T18:26:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/si5yaewVWWg/hqdefault.jpg"
     }
   ]
 }
