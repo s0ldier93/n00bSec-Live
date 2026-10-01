@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:14:10Z",
+  "updated": "2026-10-01T20:24:10Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "hadzah_fr",
       "title": "PREPA OSEP - Had The Box (FR / EN) - ABSOLUTE",
       "link": "https://twitch.tv/hadzah_fr",
-      "viewers": 20
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "ITS SPOOKY SEASON [local hacker doing anything but hack]",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, instrucciones de control",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 156,
+  "viewers_total": 159,
   "videos": [
     {
       "video_id": "RXmAjLC5xtw",
