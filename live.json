@@ -1,33 +1,33 @@
 {
-  "updated": "2026-10-01T20:24:10Z",
+  "updated": "2026-10-01T20:34:11Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 104
+      "viewers": 112
     },
     {
       "platform": "twitch",
       "name": "hadzah_fr",
       "title": "PREPA OSEP - Had The Box (FR / EN) - ABSOLUTE",
       "link": "https://twitch.tv/hadzah_fr",
-      "viewers": 21
+      "viewers": 17
+    },
+    {
+      "platform": "twitch",
+      "name": "mchow01",
+      "title": "Distributed Denial of Service (DDoS) and Take Down the Internet (Episode 4, Season 13)",
+      "link": "https://twitch.tv/mchow01",
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "ITS SPOOKY SEASON [local hacker doing anything but hack]",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 31
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Lenguaje ensamblador, instrucciones de control",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 2
+      "viewers": 27
     },
     {
       "platform": "youtube",
