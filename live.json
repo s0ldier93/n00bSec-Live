@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-01T08:07:40Z",
+  "updated": "2026-10-01T08:17:42Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUPERRRR MEAT BOYYY \ud83c\udfc621/24\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 58
-    },
-    {
-      "platform": "twitch",
-      "name": "nemax_3301",
-      "title": "Hacking & Tooling",
-      "link": "https://twitch.tv/nemax_3301",
-      "viewers": 1
+      "viewers": 55
     },
     {
       "platform": "youtube",
@@ -30,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 63,
+  "viewers_total": 58,
   "videos": [
     {
       "video_id": "uutoYqtev28",
