@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T15:54:08Z",
+  "updated": "2026-10-01T16:04:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "MORNING STANDUP AND DAY REVIEW  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 100
+      "viewers": 90
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 4
+      "viewers": 12
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 105,
+  "viewers_total": 103,
   "videos": [
     {
       "video_id": "-JI1C8sYwFE",
