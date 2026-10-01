@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-01T18:34:10Z",
+  "updated": "2026-10-01T18:44:10Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 112
+      "viewers": 116
+    },
+    {
+      "platform": "twitch",
+      "name": "hadzah_fr",
+      "title": "PREPA OSEP - Had The Box (FR / EN) - ABSOLUTE",
+      "link": "https://twitch.tv/hadzah_fr",
+      "viewers": 0
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "ITS SPOOKY SEASON [local hacker doing anything but hack]",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 32
+      "viewers": 29
     },
     {
       "platform": "youtube",
@@ -23,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 145,
+  "viewers_total": 146,
   "videos": [
     {
       "video_id": "Gm_tFR_9M8A",
