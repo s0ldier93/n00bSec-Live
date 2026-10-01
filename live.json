@@ -1,26 +1,33 @@
 {
-  "updated": "2026-10-01T16:44:10Z",
+  "updated": "2026-10-01T16:54:10Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Something Wicked This Way Enrolls: Abusing ADCS with ESC17",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 1
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "MORNING STANDUP AND DAY REVIEW  !jobathon day 4/?",
+      "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 89
+      "viewers": 94
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 6
+      "viewers": 8
+    },
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "ITS SPOOKY SEASON [local hacker doing anything but hack]",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 10
     },
     {
       "platform": "youtube",
@@ -30,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 97,
+  "viewers_total": 117,
   "videos": [
     {
       "video_id": "Gm_tFR_9M8A",
