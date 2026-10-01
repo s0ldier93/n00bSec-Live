@@ -1,33 +1,33 @@
 {
-  "updated": "2026-10-01T23:34:11Z",
+  "updated": "2026-10-01T23:44:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 25
+      "viewers": 27
     },
     {
       "platform": "twitch",
       "name": "kinslay3r",
       "title": "Starting out spooky month by summoning the undead - Vessel of Hatred expansion",
       "link": "https://twitch.tv/kinslay3r",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Arrival & Welcome Remarks",
       "link": "https://twitch.tv/nasa",
-      "viewers": 10190
+      "viewers": 9648
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "ROP CSE466!",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 0
+      "viewers": 17
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 10218,
+  "viewers_total": 9694,
   "videos": [
     {
       "video_id": "dxrMIV_e5Ls",
