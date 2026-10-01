@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T06:27:41Z",
+  "updated": "2026-10-01T06:37:19Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,14 +20,14 @@
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 9.4 - Security in AWS",
       "link": "https://www.youtube.com/watch?v=E146c8mBFVU",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -35,9 +35,16 @@
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "IC_null",
+      "title": "Fully blind hacker tries SANS Holiday Challenge",
+      "link": "https://www.youtube.com/watch?v=MbJLf99H4I0",
+      "viewers": 1
     }
   ],
-  "viewers_total": 70,
+  "viewers_total": 75,
   "videos": [
     {
       "video_id": "W-lgskJTXO8",
