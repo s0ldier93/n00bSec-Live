@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T22:14:10Z",
+  "updated": "2026-10-01T22:24:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 36
+      "viewers": 29
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Arrival & Welcome Remarks",
       "link": "https://twitch.tv/nasa",
-      "viewers": 10485
+      "viewers": 10471
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 10522,
+  "viewers_total": 10501,
   "videos": [
     {
       "video_id": "1-9OXFvYW_Q",
@@ -32,6 +32,14 @@
       "link": "https://www.youtube.com/watch?v=1-9OXFvYW_Q",
       "published_at": "2026-10-01T22:00:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1-9OXFvYW_Q/hqdefault.jpg"
+    },
+    {
+      "video_id": "CNWDwAaexWE",
+      "channel": "mbcrump",
+      "title": "Dead Cells Runs on Windows Through AnyPS5 #Shorts",
+      "link": "https://www.youtube.com/watch?v=CNWDwAaexWE",
+      "published_at": "2026-10-01T22:00:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CNWDwAaexWE/hqdefault.jpg"
     },
     {
       "video_id": "ux7I14DTH8Y",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=W-lgskJTXO8",
       "published_at": "2026-10-01T02:39:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/W-lgskJTXO8/hqdefault.jpg"
-    },
-    {
-      "video_id": "PXzVGyk1XcM",
-      "channel": "mbcrump",
-      "title": "Wolverine and Silent Hill Townfall Work Offline on PS5 #Shorts",
-      "link": "https://www.youtube.com/watch?v=PXzVGyk1XcM",
-      "published_at": "2026-10-01T01:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PXzVGyk1XcM/hqdefault.jpg"
     }
   ]
 }
