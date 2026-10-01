@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T14:27:40Z",
+  "updated": "2026-10-01T14:37:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 87
+      "viewers": 89
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Launch",
       "link": "https://twitch.tv/nasa",
-      "viewers": 16073
+      "viewers": 17918
     },
     {
       "platform": "youtube",
@@ -23,8 +23,24 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 16161,
+  "viewers_total": 18008,
   "videos": [
+    {
+      "video_id": "to9jid5ZY6c",
+      "channel": "LowLevelTV",
+      "title": "Massive corporate hack",
+      "link": "https://www.youtube.com/watch?v=to9jid5ZY6c",
+      "published_at": "2026-10-01T14:27:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/to9jid5ZY6c/hqdefault.jpg"
+    },
+    {
+      "video_id": "CgMyI2lG5xo",
+      "channel": "MDISEC",
+      "title": "Konuk : Yagiz Nizipli @yagiznizipli  Principal Engineer at SpaceXAI",
+      "link": "https://www.youtube.com/watch?v=CgMyI2lG5xo",
+      "published_at": "2026-10-01T14:25:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CgMyI2lG5xo/hqdefault.jpg"
+    },
     {
       "video_id": "9POa2NlMULc",
       "channel": "antisyphon",
@@ -168,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=si5yaewVWWg",
       "published_at": "2026-09-30T18:26:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/si5yaewVWWg/hqdefault.jpg"
-    },
-    {
-      "video_id": "dwX8G0yMTmc",
-      "channel": "SecurityWeekly",
-      "title": "Where Does AI Take Your Data?",
-      "link": "https://www.youtube.com/watch?v=dwX8G0yMTmc",
-      "published_at": "2026-09-30T17:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dwX8G0yMTmc/hqdefault.jpg"
-    },
-    {
-      "video_id": "MxSPZze30_E",
-      "channel": "SecurityWeekly",
-      "title": "AI Automation Can Cost More",
-      "link": "https://www.youtube.com/watch?v=MxSPZze30_E",
-      "published_at": "2026-09-30T16:06:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MxSPZze30_E/hqdefault.jpg"
     }
   ]
 }
