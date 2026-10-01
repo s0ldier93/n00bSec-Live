@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T03:07:09Z",
+  "updated": "2026-10-01T03:07:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -9,13 +9,6 @@
       "viewers": 35
     },
     {
-      "platform": "twitch",
-      "name": "TheShyHat",
-      "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
-      "link": "https://twitch.tv/TheShyHat",
-      "viewers": 21
-    },
-    {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
@@ -23,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 57,
+  "viewers_total": 36,
   "videos": [
     {
       "video_id": "PXzVGyk1XcM",
