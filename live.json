@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T01:57:41Z",
+  "updated": "2026-10-01T02:07:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "REACTING TO THE AI CONCIOUSNESS SITUATION + COOKING !jobathon day 3/?",
+      "title": "making soup and hanging out !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 33
+      "viewers": 26
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] OSCP Giveway and Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 18
+      "viewers": 23
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 18
+      "viewers": 24
     },
     {
       "platform": "youtube",
@@ -41,24 +41,24 @@
       "name": "hack_smarter",
       "title": "[LIVE] OSCP Giveway and Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=u1WrihLCKhI",
-      "viewers": 61
+      "viewers": 63
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Curso Gratuito -  Misi\u00f3n 2 Pentester Mentor Junior",
       "link": "https://www.youtube.com/watch?v=FwumtA0aFNI",
-      "viewers": 1254
+      "viewers": 1137
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 7
+      "viewers": 8
     }
   ],
-  "viewers_total": 1396,
+  "viewers_total": 1286,
   "videos": [
     {
       "video_id": "PXzVGyk1XcM",
