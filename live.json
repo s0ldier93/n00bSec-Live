@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T10:17:39Z",
+  "updated": "2026-10-01T10:27:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUPERRRR MEAT BOYYY \ud83c\udfc621/24\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 60,
+  "viewers_total": 61,
   "videos": [
     {
       "video_id": "uutoYqtev28",
