@@ -1,26 +1,12 @@
 {
-  "updated": "2026-10-01T17:54:09Z",
+  "updated": "2026-10-01T18:04:11Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "antisyphon",
-      "title": "Something Wicked This Way Enrolls: Abusing ADCS with ESC17",
-      "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
-    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
       "viewers": 98
-    },
-    {
-      "platform": "twitch",
-      "name": "nemax_3301",
-      "title": "Hacking & Tooling",
-      "link": "https://twitch.tv/nemax_3301",
-      "viewers": 6
     },
     {
       "platform": "twitch",
@@ -37,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 133,
+  "viewers_total": 124,
   "videos": [
     {
       "video_id": "Gm_tFR_9M8A",
