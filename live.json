@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T22:24:09Z",
+  "updated": "2026-10-01T22:34:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 29
+      "viewers": 28
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Arrival & Welcome Remarks",
       "link": "https://twitch.tv/nasa",
-      "viewers": 10471
+      "viewers": 11180
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 10501,
+  "viewers_total": 11209,
   "videos": [
     {
       "video_id": "1-9OXFvYW_Q",
