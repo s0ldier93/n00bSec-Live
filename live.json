@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T16:34:10Z",
+  "updated": "2026-10-01T16:44:10Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Something Wicked This Way Enrolls: Abusing ADCS with ESC17",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 0
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 7
+      "viewers": 6
     },
     {
       "platform": "youtube",
