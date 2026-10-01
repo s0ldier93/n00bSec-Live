@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T00:07:41Z",
+  "updated": "2026-10-01T00:17:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "msec",
       "title": "FF8 Remastered Playthrough",
       "link": "https://twitch.tv/msec",
-      "viewers": 2
+      "viewers": 4
     },
     {
       "platform": "twitch",
@@ -38,13 +38,20 @@
     },
     {
       "platform": "youtube",
+      "name": "HackerMentor",
+      "title": "Curso Gratuito -  Misi\u00f3n 2 Pentester Mentor Junior",
+      "link": "https://www.youtube.com/watch?v=FwumtA0aFNI",
+      "viewers": 154
+    },
+    {
+      "platform": "youtube",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 14
+      "viewers": 11
     }
   ],
-  "viewers_total": 60,
+  "viewers_total": 213,
   "videos": [
     {
       "video_id": "dTW24i8eIso",
