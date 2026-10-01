@@ -1,40 +1,40 @@
 {
-  "updated": "2026-10-01T01:37:41Z",
+  "updated": "2026-10-01T01:47:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Long Day | Let's Chill | Cybersecurity,Rants,Chill,&Linux Gaming|9-30-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 13
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REACTING TO THE AI CONCIOUSNESS SITUATION + COOKING !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 32
+      "viewers": 30
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] OSCP Giveway and Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 17
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "FF8 Remastered Playthrough",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 20
+      "viewers": 21
     },
     {
       "platform": "youtube",
@@ -48,24 +48,24 @@
       "name": "hack_smarter",
       "title": "[LIVE] OSCP Giveway and Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=u1WrihLCKhI",
-      "viewers": 63
+      "viewers": 56
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Curso Gratuito -  Misi\u00f3n 2 Pentester Mentor Junior",
       "link": "https://www.youtube.com/watch?v=FwumtA0aFNI",
-      "viewers": 1499
+      "viewers": 1421
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 10
+      "viewers": 8
     }
   ],
-  "viewers_total": 1659,
+  "viewers_total": 1574,
   "videos": [
     {
       "video_id": "PXzVGyk1XcM",
