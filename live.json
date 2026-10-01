@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:54:09Z",
+  "updated": "2026-10-01T19:04:09Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "hadzah_fr",
       "title": "PREPA OSEP - Had The Box (FR / EN) - ABSOLUTE",
       "link": "https://twitch.tv/hadzah_fr",
-      "viewers": 10
+      "viewers": 13
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "ITS SPOOKY SEASON [local hacker doing anything but hack]",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 21
+      "viewers": 16
     },
     {
       "platform": "youtube",
@@ -30,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 148,
+  "viewers_total": 146,
   "videos": [
+    {
+      "video_id": "RXmAjLC5xtw",
+      "channel": "mbcrump",
+      "title": "AnyPS5 Adds Random and Real-Time Clock Support #Shorts",
+      "link": "https://www.youtube.com/watch?v=RXmAjLC5xtw",
+      "published_at": "2026-10-01T19:00:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RXmAjLC5xtw/hqdefault.jpg"
+    },
     {
       "video_id": "Gm_tFR_9M8A",
       "channel": "JohnHammond010",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=ZxX9rjciui0",
       "published_at": "2026-09-30T22:00:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ZxX9rjciui0/hqdefault.jpg"
-    },
-    {
-      "video_id": "RmSse4-NSLc",
-      "channel": "freshforensics",
-      "title": "\u26a0\ufe0f Car Exploit from Halehound \ud83d\ude97 #youtubeshorts #coding #shorts #short #wifi",
-      "link": "https://www.youtube.com/watch?v=RmSse4-NSLc",
-      "published_at": "2026-09-30T21:19:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RmSse4-NSLc/hqdefault.jpg"
     }
   ]
 }
