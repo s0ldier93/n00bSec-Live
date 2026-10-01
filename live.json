@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T13:57:40Z",
+  "updated": "2026-10-01T14:07:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 83
+      "viewers": 81
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Launch",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13289
+      "viewers": 14080
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 13373,
+  "viewers_total": 14162,
   "videos": [
+    {
+      "video_id": "vipwobhPuag",
+      "channel": "SecurityWeekly",
+      "title": "Advanced Tech Still Needs Basic Hygiene",
+      "link": "https://www.youtube.com/watch?v=vipwobhPuag",
+      "published_at": "2026-10-01T14:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vipwobhPuag/hqdefault.jpg"
+    },
     {
       "video_id": "xHDc6-7bjyw",
       "channel": "JohnHammond010",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=exRuP7uD1-o",
       "published_at": "2026-09-30T16:00:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/exRuP7uD1-o/hqdefault.jpg"
-    },
-    {
-      "video_id": "XrKrCGSeNNo",
-      "channel": "LiveOverflow",
-      "title": "Why Old Threat Models Are Dead #shorts",
-      "link": "https://www.youtube.com/watch?v=XrKrCGSeNNo",
-      "published_at": "2026-09-30T13:55:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XrKrCGSeNNo/hqdefault.jpg"
     }
   ]
 }
