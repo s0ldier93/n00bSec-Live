@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-01T01:17:43Z",
+  "updated": "2026-10-01T01:27:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Long Day | Let's Chill | Cybersecurity,Rants,Chill,&Linux Gaming|9-30-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 13
+      "viewers": 14
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REACTING TO THE AI CONCIOUSNESS SITUATION + COOKING !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 33
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] OSCP Giveway and Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 3
+      "viewers": 22
     },
     {
       "platform": "twitch",
@@ -34,7 +34,7 @@
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 19
+      "viewers": 25
     },
     {
       "platform": "youtube",
@@ -48,24 +48,24 @@
       "name": "hack_smarter",
       "title": "[LIVE] OSCP Giveway and Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=u1WrihLCKhI",
-      "viewers": 42
+      "viewers": 58
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Curso Gratuito -  Misi\u00f3n 2 Pentester Mentor Junior",
       "link": "https://www.youtube.com/watch?v=FwumtA0aFNI",
-      "viewers": 1585
+      "viewers": 1573
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 12
+      "viewers": 13
     }
   ],
-  "viewers_total": 1712,
+  "viewers_total": 1741,
   "videos": [
     {
       "video_id": "PXzVGyk1XcM",
