@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T02:27:40Z",
+  "updated": "2026-10-01T02:37:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "making soup and hanging out !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 31
+      "viewers": 36
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 22
+      "viewers": 17
     },
     {
       "platform": "youtube",
@@ -27,10 +27,10 @@
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 6
+      "viewers": 11
     }
   ],
-  "viewers_total": 60,
+  "viewers_total": 65,
   "videos": [
     {
       "video_id": "PXzVGyk1XcM",
