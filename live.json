@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T13:27:53Z",
+  "updated": "2026-10-01T13:37:25Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 72
+      "viewers": 75
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Launch",
       "link": "https://twitch.tv/nasa",
-      "viewers": 9089
+      "viewers": 10754
     },
     {
       "platform": "youtube",
@@ -21,16 +21,9 @@
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 1's Top Cyber News NOW! - Ep 1256",
-      "link": "https://www.youtube.com/watch?v=pIwz92mmgAY",
-      "viewers": 192
     }
   ],
-  "viewers_total": 9354,
+  "viewers_total": 10830,
   "videos": [
     {
       "video_id": "xHDc6-7bjyw",
