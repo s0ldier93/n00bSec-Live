@@ -1,33 +1,19 @@
 {
-  "updated": "2026-10-01T21:44:09Z",
+  "updated": "2026-10-01T21:54:11Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 62
-    },
-    {
-      "platform": "twitch",
-      "name": "hadzah_fr",
-      "title": "PREPA OSEP - Had The Box (FR / EN) - ABSOLUTE",
-      "link": "https://twitch.tv/hadzah_fr",
-      "viewers": 12
-    },
-    {
-      "platform": "twitch",
-      "name": "mchow01",
-      "title": "Distributed Denial of Service (DDoS) and Take Down the Internet (Episode 4, Season 13)",
-      "link": "https://twitch.tv/mchow01",
-      "viewers": 28
+      "viewers": 49
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Arrival & Welcome Remarks",
       "link": "https://twitch.tv/nasa",
-      "viewers": 8599
+      "viewers": 9900
     },
     {
       "platform": "youtube",
@@ -37,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 8702,
+  "viewers_total": 9950,
   "videos": [
     {
       "video_id": "ux7I14DTH8Y",
