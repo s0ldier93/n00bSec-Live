@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T21:04:11Z",
+  "updated": "2026-10-01T21:14:10Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 126
+      "viewers": 114
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "mchow01",
       "title": "Distributed Denial of Service (DDoS) and Take Down the Internet (Episode 4, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 34
+      "viewers": 25
     },
     {
       "platform": "twitch",
@@ -37,8 +37,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 207,
+  "viewers_total": 186,
   "videos": [
+    {
+      "video_id": "ux7I14DTH8Y",
+      "channel": "SecurityWeekly",
+      "title": "Hacking Without Boundaries - Michael Jenkins - PSW #946",
+      "link": "https://www.youtube.com/watch?v=ux7I14DTH8Y",
+      "published_at": "2026-10-01T21:00:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ux7I14DTH8Y/hqdefault.jpg"
+    },
     {
       "video_id": "RXmAjLC5xtw",
       "channel": "mbcrump",
@@ -190,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=dTW24i8eIso",
       "published_at": "2026-09-30T23:28:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dTW24i8eIso/hqdefault.jpg"
-    },
-    {
-      "video_id": "ZxX9rjciui0",
-      "channel": "mbcrump",
-      "title": "WinPS5 Tests Windows Executables on PlayStation 5 #Shorts",
-      "link": "https://www.youtube.com/watch?v=ZxX9rjciui0",
-      "published_at": "2026-09-30T22:00:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ZxX9rjciui0/hqdefault.jpg"
     }
   ]
 }
