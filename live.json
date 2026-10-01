@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T00:57:40Z",
+  "updated": "2026-10-01T01:07:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Long Day | Let's Chill | Cybersecurity,Rants,Chill,&Linux Gaming|9-30-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 10
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "REACTING TO THE AI CONCIOUSNESS SITUATION + COOKING !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 23
+      "viewers": 24
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 25
+      "viewers": 22
     },
     {
       "platform": "youtube",
@@ -41,18 +41,26 @@
       "name": "HackerMentor",
       "title": "Curso Gratuito -  Misi\u00f3n 2 Pentester Mentor Junior",
       "link": "https://www.youtube.com/watch?v=FwumtA0aFNI",
-      "viewers": 1504
+      "viewers": 1558
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 6
+      "viewers": 10
     }
   ],
-  "viewers_total": 1573,
+  "viewers_total": 1634,
   "videos": [
+    {
+      "video_id": "PXzVGyk1XcM",
+      "channel": "mbcrump",
+      "title": "Wolverine and Silent Hill Townfall Work Offline on PS5 #Shorts",
+      "link": "https://www.youtube.com/watch?v=PXzVGyk1XcM",
+      "published_at": "2026-10-01T01:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PXzVGyk1XcM/hqdefault.jpg"
+    },
     {
       "video_id": "dTW24i8eIso",
       "channel": "KeonBowman",
@@ -204,14 +212,6 @@
       "link": "https://www.youtube.com/watch?v=03p_kieG-3M",
       "published_at": "2026-09-30T08:30:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/03p_kieG-3M/hqdefault.jpg"
-    },
-    {
-      "video_id": "WzAWExMBNHc",
-      "channel": "censoredHacker",
-      "title": "AWS CCP: Module 9.3 - Security in AWS",
-      "link": "https://www.youtube.com/watch?v=WzAWExMBNHc",
-      "published_at": "2026-09-30T07:08:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WzAWExMBNHc/hqdefault.jpg"
     }
   ]
 }
