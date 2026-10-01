@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T12:37:39Z",
+  "updated": "2026-10-01T12:47:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 75
+      "viewers": 82
     },
     {
       "platform": "youtube",
@@ -20,10 +20,10 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 1's Top Cyber News NOW! - Ep 1256",
       "link": "https://www.youtube.com/watch?v=pIwz92mmgAY",
-      "viewers": 262
+      "viewers": 279
     }
   ],
-  "viewers_total": 338,
+  "viewers_total": 362,
   "videos": [
     {
       "video_id": "ixh__TliQ3M",
