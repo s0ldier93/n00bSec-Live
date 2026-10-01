@@ -1,33 +1,33 @@
 {
-  "updated": "2026-10-01T00:27:41Z",
+  "updated": "2026-10-01T00:37:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Long Day | Let's Chill | Cybersecurity,Rants,Chill,&Linux Gaming|9-30-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 10
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "LEARN TECH LLIVE !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 17
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "FF8 Remastered Playthrough",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 30
+      "viewers": 20
     },
     {
       "platform": "youtube",
@@ -41,7 +41,7 @@
       "name": "HackerMentor",
       "title": "Curso Gratuito -  Misi\u00f3n 2 Pentester Mentor Junior",
       "link": "https://www.youtube.com/watch?v=FwumtA0aFNI",
-      "viewers": 362
+      "viewers": 1179
     },
     {
       "platform": "youtube",
@@ -51,7 +51,7 @@
       "viewers": 11
     }
   ],
-  "viewers_total": 434,
+  "viewers_total": 1243,
   "videos": [
     {
       "video_id": "dTW24i8eIso",
