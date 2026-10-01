@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T16:04:09Z",
+  "updated": "2026-10-01T16:14:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "MORNING STANDUP AND DAY REVIEW  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 90
+      "viewers": 85
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 103,
+  "viewers_total": 98,
   "videos": [
+    {
+      "video_id": "oF5NDRG4I00",
+      "channel": "mbcrump",
+      "title": "Marvel's Wolverine Reaches the KytyPS5 Title Screen #Shorts",
+      "link": "https://www.youtube.com/watch?v=oF5NDRG4I00",
+      "published_at": "2026-10-01T16:00:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oF5NDRG4I00/hqdefault.jpg"
+    },
     {
       "video_id": "-JI1C8sYwFE",
       "channel": "Khaos_Farbauti",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=9QXcBqej_iw",
       "published_at": "2026-09-30T21:06:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9QXcBqej_iw/hqdefault.jpg"
-    },
-    {
-      "video_id": "j-5zqRoj2i8",
-      "channel": "SecurityWeekly",
-      "title": "Security Is Not an Afterthought",
-      "link": "https://www.youtube.com/watch?v=j-5zqRoj2i8",
-      "published_at": "2026-09-30T21:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/j-5zqRoj2i8/hqdefault.jpg"
     }
   ]
 }
