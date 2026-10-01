@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T20:54:09Z",
+  "updated": "2026-10-01T21:04:11Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 115
+      "viewers": 126
     },
     {
       "platform": "twitch",
       "name": "hadzah_fr",
       "title": "PREPA OSEP - Had The Box (FR / EN) - ABSOLUTE",
       "link": "https://twitch.tv/hadzah_fr",
-      "viewers": 20
+      "viewers": 13
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 203,
+  "viewers_total": 207,
   "videos": [
     {
       "video_id": "RXmAjLC5xtw",
