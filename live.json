@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T22:44:10Z",
+  "updated": "2026-10-01T22:54:09Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Arrival & Welcome Remarks",
       "link": "https://twitch.tv/nasa",
-      "viewers": 11298
+      "viewers": 11646
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 11335,
+  "viewers_total": 11683,
   "videos": [
     {
       "video_id": "1-9OXFvYW_Q",
