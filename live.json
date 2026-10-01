@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-01T13:07:40Z",
+  "updated": "2026-10-01T13:17:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 70
+      "viewers": 76
+    },
+    {
+      "platform": "twitch",
+      "name": "nasa",
+      "title": "NASA's SpaceX Crew-13 Launch",
+      "link": "https://twitch.tv/nasa",
+      "viewers": 10
     },
     {
       "platform": "youtube",
@@ -20,11 +27,19 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 1's Top Cyber News NOW! - Ep 1256",
       "link": "https://www.youtube.com/watch?v=pIwz92mmgAY",
-      "viewers": 214
+      "viewers": 206
     }
   ],
-  "viewers_total": 285,
+  "viewers_total": 293,
   "videos": [
+    {
+      "video_id": "xHDc6-7bjyw",
+      "channel": "JohnHammond010",
+      "title": "Black Hat AI",
+      "link": "https://www.youtube.com/watch?v=xHDc6-7bjyw",
+      "published_at": "2026-10-01T13:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xHDc6-7bjyw/hqdefault.jpg"
+    },
     {
       "video_id": "ixh__TliQ3M",
       "channel": "TheShyHat",
@@ -176,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=XrKrCGSeNNo",
       "published_at": "2026-09-30T13:55:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XrKrCGSeNNo/hqdefault.jpg"
-    },
-    {
-      "video_id": "Dru2PuG4Wuk",
-      "channel": "gerald_auger_simplycyber",
-      "title": "Listening is the Super Power in the World of AI",
-      "link": "https://www.youtube.com/watch?v=Dru2PuG4Wuk",
-      "published_at": "2026-09-30T13:30:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Dru2PuG4Wuk/hqdefault.jpg"
     }
   ]
 }
