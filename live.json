@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T11:27:39Z",
+  "updated": "2026-10-01T11:37:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 64
+      "viewers": 72
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 65,
+  "viewers_total": 73,
   "videos": [
     {
       "video_id": "uutoYqtev28",
