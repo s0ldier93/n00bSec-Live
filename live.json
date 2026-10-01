@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T06:37:19Z",
+  "updated": "2026-10-01T06:47:22Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 60
+      "viewers": 61
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -35,16 +35,9 @@
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "IC_null",
-      "title": "Fully blind hacker tries SANS Holiday Challenge",
-      "link": "https://www.youtube.com/watch?v=MbJLf99H4I0",
-      "viewers": 1
     }
   ],
-  "viewers_total": 75,
+  "viewers_total": 78,
   "videos": [
     {
       "video_id": "W-lgskJTXO8",
