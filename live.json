@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T07:07:40Z",
+  "updated": "2026-10-01T07:17:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 9.4 - Security in AWS",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -20,21 +20,21 @@
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 60
+      "viewers": 59
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 6
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 9.4 - Security in AWS",
       "link": "https://www.youtube.com/watch?v=E146c8mBFVU",
-      "viewers": 9
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 78,
+  "viewers_total": 73,
   "videos": [
     {
       "video_id": "E146c8mBFVU",
