@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T00:47:40Z",
+  "updated": "2026-10-01T00:57:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Long Day | Let's Chill | Cybersecurity,Rants,Chill,&Linux Gaming|9-30-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 9
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "LEARN TECH LLIVE !jobathon day 3/?",
+      "title": "REACTING TO THE AI CONCIOUSNESS SITUATION + COOKING !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 20
+      "viewers": 23
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 24
+      "viewers": 25
     },
     {
       "platform": "youtube",
@@ -41,17 +41,17 @@
       "name": "HackerMentor",
       "title": "Curso Gratuito -  Misi\u00f3n 2 Pentester Mentor Junior",
       "link": "https://www.youtube.com/watch?v=FwumtA0aFNI",
-      "viewers": 1384
+      "viewers": 1504
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://www.youtube.com/watch?v=M3dhEfvbGNs",
-      "viewers": 11
+      "viewers": 6
     }
   ],
-  "viewers_total": 1453,
+  "viewers_total": 1573,
   "videos": [
     {
       "video_id": "dTW24i8eIso",
