@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T00:17:41Z",
+  "updated": "2026-10-01T00:27:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "endingwithali",
       "title": "LEARN TECH LLIVE !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 13
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "FF8 Remastered Playthrough",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 24
+      "viewers": 30
     },
     {
       "platform": "youtube",
@@ -41,7 +41,7 @@
       "name": "HackerMentor",
       "title": "Curso Gratuito -  Misi\u00f3n 2 Pentester Mentor Junior",
       "link": "https://www.youtube.com/watch?v=FwumtA0aFNI",
-      "viewers": 154
+      "viewers": 362
     },
     {
       "platform": "youtube",
@@ -51,7 +51,7 @@
       "viewers": 11
     }
   ],
-  "viewers_total": 217,
+  "viewers_total": 434,
   "videos": [
     {
       "video_id": "dTW24i8eIso",
