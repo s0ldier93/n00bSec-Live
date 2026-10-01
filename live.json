@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-01T14:37:40Z",
+  "updated": "2026-10-01T14:47:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 89
+      "viewers": 83
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Launch",
       "link": "https://twitch.tv/nasa",
-      "viewers": 17918
+      "viewers": 20189
+    },
+    {
+      "platform": "twitch",
+      "name": "nemax_3301",
+      "title": "Hacking & Tooling",
+      "link": "https://twitch.tv/nemax_3301",
+      "viewers": 0
     },
     {
       "platform": "youtube",
@@ -23,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 18008,
+  "viewers_total": 20273,
   "videos": [
     {
       "video_id": "to9jid5ZY6c",
