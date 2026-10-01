@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T11:57:39Z",
+  "updated": "2026-10-01T12:07:26Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 71
+      "viewers": 66
     },
     {
       "platform": "youtube",
@@ -14,10 +14,25 @@
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 1's Top Cyber News NOW! - Ep 1256",
+      "link": "https://www.youtube.com/watch?v=pIwz92mmgAY",
+      "viewers": 142
     }
   ],
-  "viewers_total": 72,
+  "viewers_total": 209,
   "videos": [
+    {
+      "video_id": "ixh__TliQ3M",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Emoji - Emoji Lookup - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=ixh__TliQ3M",
+      "published_at": "2026-10-01T12:00:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ixh__TliQ3M/hqdefault.jpg"
+    },
     {
       "video_id": "uutoYqtev28",
       "channel": "MDISEC",
@@ -169,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=Dru2PuG4Wuk",
       "published_at": "2026-09-30T13:30:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Dru2PuG4Wuk/hqdefault.jpg"
-    },
-    {
-      "video_id": "XPeHlqIfZIM",
-      "channel": "team_whoami",
-      "title": "ensamblador multiplicacion 2",
-      "link": "https://www.youtube.com/watch?v=XPeHlqIfZIM",
-      "published_at": "2026-09-30T13:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XPeHlqIfZIM/hqdefault.jpg"
     }
   ]
 }
