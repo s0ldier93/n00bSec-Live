@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T07:57:40Z",
+  "updated": "2026-10-01T08:07:40Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 55
+      "viewers": 58
     },
     {
       "platform": "twitch",
@@ -30,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 60,
+  "viewers_total": 63,
   "videos": [
+    {
+      "video_id": "uutoYqtev28",
+      "channel": "MDISEC",
+      "title": "14 Ekimde PostgreSQL Istanbul'a Beklerim Efenim",
+      "link": "https://www.youtube.com/watch?v=uutoYqtev28",
+      "published_at": "2026-10-01T07:52:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/uutoYqtev28/hqdefault.jpg"
+    },
     {
       "video_id": "E146c8mBFVU",
       "channel": "censoredHacker",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=XPeHlqIfZIM",
       "published_at": "2026-09-30T13:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XPeHlqIfZIM/hqdefault.jpg"
-    },
-    {
-      "video_id": "RkIQ0E9_3EQ",
-      "channel": "NahamSec",
-      "title": "Google built PageBreak and it found 500 XSS on Google\u2019s own application. That kinda hurts \ud83d\ude2d",
-      "link": "https://www.youtube.com/watch?v=RkIQ0E9_3EQ",
-      "published_at": "2026-09-30T13:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RkIQ0E9_3EQ/hqdefault.jpg"
     }
   ]
 }
