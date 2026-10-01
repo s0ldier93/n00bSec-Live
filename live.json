@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T22:04:10Z",
+  "updated": "2026-10-01T22:14:10Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 44
+      "viewers": 36
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Arrival & Welcome Remarks",
       "link": "https://twitch.tv/nasa",
-      "viewers": 11071
+      "viewers": 10485
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 11116,
+  "viewers_total": 10522,
   "videos": [
+    {
+      "video_id": "1-9OXFvYW_Q",
+      "channel": "SecurityWeekly",
+      "title": "What If One Machine Gets Breached?",
+      "link": "https://www.youtube.com/watch?v=1-9OXFvYW_Q",
+      "published_at": "2026-10-01T22:00:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1-9OXFvYW_Q/hqdefault.jpg"
+    },
     {
       "video_id": "ux7I14DTH8Y",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=PXzVGyk1XcM",
       "published_at": "2026-10-01T01:00:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PXzVGyk1XcM/hqdefault.jpg"
-    },
-    {
-      "video_id": "dTW24i8eIso",
-      "channel": "KeonBowman",
-      "title": "Port 873 Open? Here\u2019s How to Enumerate RSYNC",
-      "link": "https://www.youtube.com/watch?v=dTW24i8eIso",
-      "published_at": "2026-09-30T23:28:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dTW24i8eIso/hqdefault.jpg"
     }
   ]
 }
