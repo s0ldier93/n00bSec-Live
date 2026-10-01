@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T01:17:10Z",
+  "updated": "2026-10-01T01:17:43Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Long Day | Let's Chill | Cybersecurity,Rants,Chill,&Linux Gaming|9-30-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 15
+      "viewers": 13
     },
     {
       "platform": "twitch",
@@ -34,7 +34,7 @@
       "name": "TheShyHat",
       "title": "SMART DEVICE HACKING LIVE! IoT Security, Python & Web Hacking",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 22
+      "viewers": 19
     },
     {
       "platform": "youtube",
@@ -65,7 +65,7 @@
       "viewers": 12
     }
   ],
-  "viewers_total": 1717,
+  "viewers_total": 1712,
   "videos": [
     {
       "video_id": "PXzVGyk1XcM",
