@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-01T16:24:09Z",
+  "updated": "2026-10-01T16:34:10Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "Something Wicked This Way Enrolls: Abusing ADCS with ESC17",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "MORNING STANDUP AND DAY REVIEW  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 86
+      "viewers": 89
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 13
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -23,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 100,
+  "viewers_total": 97,
   "videos": [
+    {
+      "video_id": "Gm_tFR_9M8A",
+      "channel": "JohnHammond010",
+      "title": "Firefox Profile Payload",
+      "link": "https://www.youtube.com/watch?v=Gm_tFR_9M8A",
+      "published_at": "2026-10-01T16:15:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Gm_tFR_9M8A/hqdefault.jpg"
+    },
     {
       "video_id": "oF5NDRG4I00",
       "channel": "mbcrump",
@@ -176,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=RmSse4-NSLc",
       "published_at": "2026-09-30T21:19:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RmSse4-NSLc/hqdefault.jpg"
-    },
-    {
-      "video_id": "9QXcBqej_iw",
-      "channel": "0reoByte",
-      "title": "How To Cross Build Windows Installer or MSI Files On Linux",
-      "link": "https://www.youtube.com/watch?v=9QXcBqej_iw",
-      "published_at": "2026-09-30T21:06:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9QXcBqej_iw/hqdefault.jpg"
     }
   ]
 }
