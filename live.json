@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T07:37:39Z",
+  "updated": "2026-10-01T07:47:18Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 58
+      "viewers": 59
     },
     {
       "platform": "twitch",
@@ -31,20 +31,13 @@
     },
     {
       "platform": "youtube",
-      "name": "censoredHacker",
-      "title": "AWS CCP: Module 9.4 - Security in AWS",
-      "link": "https://www.youtube.com/watch?v=E146c8mBFVU",
-      "viewers": 5
-    },
-    {
-      "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
     }
   ],
-  "viewers_total": 70,
+  "viewers_total": 66,
   "videos": [
     {
       "video_id": "E146c8mBFVU",
