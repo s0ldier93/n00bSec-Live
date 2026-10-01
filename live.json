@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-01T15:34:08Z",
+  "updated": "2026-10-01T15:44:10Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "MORNING STANDUP AND DAY REVIEW  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 87
-    },
-    {
-      "platform": "twitch",
-      "name": "nasa",
-      "title": "NASA's SpaceX Crew-13 Launch",
-      "link": "https://twitch.tv/nasa",
-      "viewers": 23058
+      "viewers": 92
     },
     {
       "platform": "twitch",
       "name": "nemax_3301",
       "title": "Hacking & Tooling",
       "link": "https://twitch.tv/nemax_3301",
-      "viewers": 2
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -30,8 +23,24 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 23148,
+  "viewers_total": 97,
   "videos": [
+    {
+      "video_id": "-JI1C8sYwFE",
+      "channel": "Khaos_Farbauti",
+      "title": "Moi aussi j'ai eu un compte pirat\u00e9",
+      "link": "https://www.youtube.com/watch?v=-JI1C8sYwFE",
+      "published_at": "2026-10-01T15:32:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-JI1C8sYwFE/hqdefault.jpg"
+    },
+    {
+      "video_id": "AV3Uy9h2vBQ",
+      "channel": "HaxrByte",
+      "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (01 Oct 2026)",
+      "link": "https://www.youtube.com/watch?v=AV3Uy9h2vBQ",
+      "published_at": "2026-10-01T15:28:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/AV3Uy9h2vBQ/hqdefault.jpg"
+    },
     {
       "video_id": "u1WrihLCKhI",
       "channel": "hack_smarter",
@@ -175,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=j-5zqRoj2i8",
       "published_at": "2026-09-30T21:00:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/j-5zqRoj2i8/hqdefault.jpg"
-    },
-    {
-      "video_id": "SdWVNQs80Pc",
-      "channel": "mbcrump",
-      "title": "Can This Tool Bring PS3 Games to a Jailbroken PS5? #Shorts",
-      "link": "https://www.youtube.com/watch?v=SdWVNQs80Pc",
-      "published_at": "2026-09-30T19:00:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SdWVNQs80Pc/hqdefault.jpg"
-    },
-    {
-      "video_id": "vFSEh4ctBz0",
-      "channel": "KeonBowman",
-      "title": "How I make 150K in Cyber Security (Red Team)",
-      "link": "https://www.youtube.com/watch?v=vFSEh4ctBz0",
-      "published_at": "2026-09-30T18:36:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/vFSEh4ctBz0/hqdefault.jpg"
     }
   ]
 }
