@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T14:07:40Z",
+  "updated": "2026-10-01T14:17:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Launch",
       "link": "https://twitch.tv/nasa",
-      "viewers": 14080
+      "viewers": 14955
     },
     {
       "platform": "youtube",
@@ -23,8 +23,24 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 14162,
+  "viewers_total": 15037,
   "videos": [
+    {
+      "video_id": "9POa2NlMULc",
+      "channel": "antisyphon",
+      "title": "Ask Us Anything: Straight Answers on AI",
+      "link": "https://www.youtube.com/watch?v=9POa2NlMULc",
+      "published_at": "2026-10-01T14:12:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9POa2NlMULc/hqdefault.jpg"
+    },
+    {
+      "video_id": "wLOv0ixcHCw",
+      "channel": "LiveOverflow",
+      "title": "Finding a vulnerability in libheif #shorts",
+      "link": "https://www.youtube.com/watch?v=wLOv0ixcHCw",
+      "published_at": "2026-10-01T14:03:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wLOv0ixcHCw/hqdefault.jpg"
+    },
     {
       "video_id": "vipwobhPuag",
       "channel": "SecurityWeekly",
@@ -168,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=MxSPZze30_E",
       "published_at": "2026-09-30T16:06:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/MxSPZze30_E/hqdefault.jpg"
-    },
-    {
-      "video_id": "E4Fl5GTxiFY",
-      "channel": "thecybermentor",
-      "title": "Real Folks of Cyber | Marshall Livingston | DITL",
-      "link": "https://www.youtube.com/watch?v=E4Fl5GTxiFY",
-      "published_at": "2026-09-30T16:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/E4Fl5GTxiFY/hqdefault.jpg"
-    },
-    {
-      "video_id": "exRuP7uD1-o",
-      "channel": "mbcrump",
-      "title": "LUAp0rt GBA Brings Game Boy Advance Games to PS5 #Shorts",
-      "link": "https://www.youtube.com/watch?v=exRuP7uD1-o",
-      "published_at": "2026-09-30T16:00:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/exRuP7uD1-o/hqdefault.jpg"
     }
   ]
 }
