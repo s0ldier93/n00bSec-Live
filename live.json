@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T13:47:39Z",
+  "updated": "2026-10-01T13:57:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 81
+      "viewers": 83
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Launch",
       "link": "https://twitch.tv/nasa",
-      "viewers": 12004
+      "viewers": 13289
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 12086,
+  "viewers_total": 13373,
   "videos": [
     {
       "video_id": "xHDc6-7bjyw",
