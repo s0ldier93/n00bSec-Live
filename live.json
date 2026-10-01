@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-01T07:47:18Z",
+  "updated": "2026-10-01T07:47:42Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "AWS CCP: Module 9.4 - Security in AWS",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
-    },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 66,
+  "viewers_total": 63,
   "videos": [
     {
       "video_id": "E146c8mBFVU",
