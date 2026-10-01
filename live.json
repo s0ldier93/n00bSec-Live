@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-01T04:57:40Z",
+  "updated": "2026-10-01T05:07:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "hacking lessons and sleeping!  !jobathon day 3/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 61
+      "viewers": 66
     },
     {
       "platform": "twitch",
       "name": "yourcyberdoctor",
       "title": "Tinfoil theories - day 197",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 65,
+  "viewers_total": 71,
   "videos": [
     {
       "video_id": "W-lgskJTXO8",
