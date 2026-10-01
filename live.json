@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-01T17:14:09Z",
+  "updated": "2026-10-01T17:24:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Something Wicked This Way Enrolls: Abusing ADCS with ESC17",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 130,
+  "viewers_total": 133,
   "videos": [
     {
       "video_id": "Gm_tFR_9M8A",
