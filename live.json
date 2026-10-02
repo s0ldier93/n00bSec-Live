@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-02T02:54:10Z",
+  "updated": "2026-10-02T03:03:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "every live streamer should be using this to make videos (new YT feature)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 182
+      "viewers": 220
     },
     {
       "platform": "twitch",
@@ -31,17 +31,10 @@
     },
     {
       "platform": "twitch",
-      "name": "hack_smarter",
-      "title": "[LIVE] Active Directory Hacking & Ask Me Anything (10/1/26)",
-      "link": "https://twitch.tv/hack_smarter",
-      "viewers": 21
-    },
-    {
-      "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -56,16 +49,9 @@
       "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
       "link": "https://www.youtube.com/watch?v=dxrMIV_e5Ls",
       "viewers": 26
-    },
-    {
-      "platform": "youtube",
-      "name": "hack_smarter",
-      "title": "[LIVE] Active Directory Hacking & Ask Me Anything (10/1/26)",
-      "link": "https://www.youtube.com/watch?v=p7jOIZzm0O8",
-      "viewers": 36
     }
   ],
-  "viewers_total": 313,
+  "viewers_total": 291,
   "videos": [
     {
       "video_id": "dxrMIV_e5Ls",
