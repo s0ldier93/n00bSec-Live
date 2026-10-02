@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-02T07:44:11Z",
+  "updated": "2026-10-02T07:54:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 9.5 - Security Assessment",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 6
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 12
+      "viewers": 9
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 9.5 - Security Assessment",
       "link": "https://www.youtube.com/watch?v=k6AwNiS_fvA",
-      "viewers": 7
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "k6AwNiS_fvA",
