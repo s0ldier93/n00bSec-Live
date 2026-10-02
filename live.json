@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-02T00:34:09Z",
+  "updated": "2026-10-02T00:44:10Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 22
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (01 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -27,14 +27,7 @@
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Arrival & Welcome Remarks",
       "link": "https://twitch.tv/nasa",
-      "viewers": 9124
-    },
-    {
-      "platform": "twitch",
-      "name": "pwncollege",
-      "title": "ROP CSE466!",
-      "link": "https://twitch.tv/pwncollege",
-      "viewers": 35
+      "viewers": 9001
     },
     {
       "platform": "youtube",
@@ -48,7 +41,7 @@
       "name": "HackerMentor",
       "title": "Curso Gratuito - Misi\u00f3n 3 Master Cracker",
       "link": "https://www.youtube.com/watch?v=50TURLY_3GE",
-      "viewers": 853
+      "viewers": 1214
     },
     {
       "platform": "youtube",
@@ -58,7 +51,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 10047,
+  "viewers_total": 10250,
   "videos": [
     {
       "video_id": "dxrMIV_e5Ls",
