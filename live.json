@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-02T14:03:55Z",
+  "updated": "2026-10-02T14:13:21Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "RRxd1pTbRjM",
+      "channel": "SecurityWeekly",
+      "title": "Which Binaries Have the Least Protection?",
+      "link": "https://www.youtube.com/watch?v=RRxd1pTbRjM",
+      "published_at": "2026-10-02T14:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RRxd1pTbRjM/hqdefault.jpg"
+    },
     {
       "video_id": "RSoVGuK0l3U",
       "channel": "team_whoami",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=u1WrihLCKhI",
       "published_at": "2026-10-01T15:06:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/u1WrihLCKhI/hqdefault.jpg"
-    },
-    {
-      "video_id": "to9jid5ZY6c",
-      "channel": "LowLevelTV",
-      "title": "Massive corporate hack",
-      "link": "https://www.youtube.com/watch?v=to9jid5ZY6c",
-      "published_at": "2026-10-01T14:27:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/to9jid5ZY6c/hqdefault.jpg"
     }
   ]
 }
