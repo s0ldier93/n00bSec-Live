@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-02T10:04:09Z",
+  "updated": "2026-10-02T10:14:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 10
+      "viewers": 16
     }
   ],
-  "viewers_total": 10,
+  "viewers_total": 16,
   "videos": [
+    {
+      "video_id": "U2Tlfmfu6pw",
+      "channel": "LiveOverflow",
+      "title": "OpenAI has shifted threat models #shorts",
+      "link": "https://www.youtube.com/watch?v=U2Tlfmfu6pw",
+      "published_at": "2026-10-02T10:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/U2Tlfmfu6pw/hqdefault.jpg"
+    },
     {
       "video_id": "k6AwNiS_fvA",
       "channel": "censoredHacker",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=9POa2NlMULc",
       "published_at": "2026-10-01T14:12:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9POa2NlMULc/hqdefault.jpg"
-    },
-    {
-      "video_id": "wLOv0ixcHCw",
-      "channel": "LiveOverflow",
-      "title": "Finding a vulnerability in libheif #shorts",
-      "link": "https://www.youtube.com/watch?v=wLOv0ixcHCw",
-      "published_at": "2026-10-01T14:03:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wLOv0ixcHCw/hqdefault.jpg"
     }
   ]
 }
