@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-02T08:33:48Z",
+  "updated": "2026-10-02T08:34:10Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "AWS CCP: Module 9.5 - Security Assessment",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 5
-    },
     {
       "platform": "twitch",
       "name": "endingwithali",
@@ -23,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 17,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "k6AwNiS_fvA",
