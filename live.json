@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-02T00:04:10Z",
+  "updated": "2026-10-02T00:14:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 26
+      "viewers": 25
     },
     {
       "platform": "twitch",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (01 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "twitch",
@@ -27,31 +27,31 @@
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Arrival & Welcome Remarks",
       "link": "https://twitch.tv/nasa",
-      "viewers": 8802
+      "viewers": 8792
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "ROP CSE466!",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 30
+      "viewers": 33
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (01 Oct 2026)",
       "link": "https://www.youtube.com/watch?v=AV3Uy9h2vBQ",
-      "viewers": 4
+      "viewers": 6
     }
   ],
-  "viewers_total": 8867,
+  "viewers_total": 8865,
   "videos": [
     {
       "video_id": "dxrMIV_e5Ls",
