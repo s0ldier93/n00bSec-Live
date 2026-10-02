@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-02T20:37:41Z",
+  "updated": "2026-10-02T20:47:09Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "aRZDpYNmsJw",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 7's Top Cyber News NOW! - Ep 1260",
+      "link": "https://www.youtube.com/watch?v=aRZDpYNmsJw",
+      "published_at": "2026-10-02T20:33:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/aRZDpYNmsJw/hqdefault.jpg"
+    },
     {
       "video_id": "Hl_Ayy0jwMs",
       "channel": "mbcrump",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=1-9OXFvYW_Q",
       "published_at": "2026-10-01T22:00:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1-9OXFvYW_Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "CNWDwAaexWE",
-      "channel": "mbcrump",
-      "title": "Dead Cells Runs on Windows Through AnyPS5 #Shorts",
-      "link": "https://www.youtube.com/watch?v=CNWDwAaexWE",
-      "published_at": "2026-10-01T22:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CNWDwAaexWE/hqdefault.jpg"
     }
   ]
 }
