@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T07:14:08Z",
+  "updated": "2026-10-02T07:24:09Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 7
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 9.5 - Security Assessment",
       "link": "https://www.youtube.com/watch?v=k6AwNiS_fvA",
-      "viewers": 9
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "k6AwNiS_fvA",
