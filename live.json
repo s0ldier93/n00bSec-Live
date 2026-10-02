@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-02T21:38:02Z",
+  "updated": "2026-10-02T21:48:02Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 12
+      "viewers": 18
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
-      "viewers": 8
+      "viewers": 11
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "8oBquTjPK3U",
@@ -25,6 +25,14 @@
       "link": "https://www.youtube.com/watch?v=8oBquTjPK3U",
       "published_at": "2026-10-02T21:32:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8oBquTjPK3U/hqdefault.jpg"
+    },
+    {
+      "video_id": "BvzOiO1rqLs",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 9's Top Cyber News NOW! - Ep 1262",
+      "link": "https://www.youtube.com/watch?v=BvzOiO1rqLs",
+      "published_at": "2026-10-02T21:20:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/BvzOiO1rqLs/hqdefault.jpg"
     },
     {
       "video_id": "6ZFeuEHsU0g",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=nSlNB7cz4yM",
       "published_at": "2026-10-02T04:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nSlNB7cz4yM/hqdefault.jpg"
-    },
-    {
-      "video_id": "p7jOIZzm0O8",
-      "channel": "hack_smarter",
-      "title": "[LIVE] Active Directory Hacking & Ask Me Anything (10/1/26)",
-      "link": "https://www.youtube.com/watch?v=p7jOIZzm0O8",
-      "published_at": "2026-10-02T01:21:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/p7jOIZzm0O8/hqdefault.jpg"
     }
   ]
 }
