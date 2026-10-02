@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-02T16:34:09Z",
+  "updated": "2026-10-02T16:44:08Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "johnhammond010",
       "title": "Payload Podcast 012 - Yarden Shafir",
       "link": "https://twitch.tv/johnhammond010",
-      "viewers": 20
+      "viewers": 22
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "JohnHammond010",
       "title": "Payload Podcast 012 - Yarden Shafir",
       "link": "https://www.youtube.com/watch?v=1bVmur6vXe4",
-      "viewers": 53
+      "viewers": 51
     }
   ],
-  "viewers_total": 76,
+  "viewers_total": 75,
   "videos": [
     {
       "video_id": "vB7-NI2xszs",
