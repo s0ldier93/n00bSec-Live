@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-02T01:34:10Z",
+  "updated": "2026-10-02T01:44:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 13
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 18
+      "viewers": 16
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "hack_smarter",
       "title": "[LIVE] Active Directory Hacking & Ask Me Anything (10/1/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 9
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -38,17 +38,10 @@
     },
     {
       "platform": "twitch",
-      "name": "kinslay3r",
-      "title": "Starting out spooky month by summoning the undead - Vessel of Hatred expansion",
-      "link": "https://twitch.tv/kinslay3r",
-      "viewers": 1
-    },
-    {
-      "platform": "twitch",
       "name": "nasa",
       "title": "NASA's SpaceX Crew-13 Arrival & Welcome Remarks",
       "link": "https://twitch.tv/nasa",
-      "viewers": 9489
+      "viewers": 8457
     },
     {
       "platform": "youtube",
@@ -62,31 +55,31 @@
       "name": "freshforensics",
       "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
       "link": "https://www.youtube.com/watch?v=dxrMIV_e5Ls",
-      "viewers": 6
+      "viewers": 12
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] Active Directory Hacking & Ask Me Anything (10/1/26)",
       "link": "https://www.youtube.com/watch?v=p7jOIZzm0O8",
-      "viewers": 39
+      "viewers": 53
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Curso Gratuito - Misi\u00f3n 3 Master Cracker",
       "link": "https://www.youtube.com/watch?v=50TURLY_3GE",
-      "viewers": 1533
+      "viewers": 1507
     },
     {
       "platform": "youtube",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (01 Oct 2026)",
       "link": "https://www.youtube.com/watch?v=AV3Uy9h2vBQ",
-      "viewers": 7
+      "viewers": 4
     }
   ],
-  "viewers_total": 11123,
+  "viewers_total": 10084,
   "videos": [
     {
       "video_id": "dxrMIV_e5Ls",
