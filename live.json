@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-02T02:04:10Z",
+  "updated": "2026-10-02T02:14:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "every live streamer should be using this to make videos (new YT feature)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 3
+      "viewers": 115
     },
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 14
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 18
+      "viewers": 19
     },
     {
       "platform": "twitch",
@@ -34,14 +34,21 @@
       "name": "hack_smarter",
       "title": "[LIVE] Active Directory Hacking & Ask Me Anything (10/1/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 11
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (01 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 4
+      "viewers": 7
+    },
+    {
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "Ace Combat 8",
+      "link": "https://twitch.tv/irasakai",
+      "viewers": 0
     },
     {
       "platform": "youtube",
@@ -55,31 +62,31 @@
       "name": "freshforensics",
       "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
       "link": "https://www.youtube.com/watch?v=dxrMIV_e5Ls",
-      "viewers": 22
+      "viewers": 20
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] Active Directory Hacking & Ask Me Anything (10/1/26)",
       "link": "https://www.youtube.com/watch?v=p7jOIZzm0O8",
-      "viewers": 47
+      "viewers": 54
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Curso Gratuito - Misi\u00f3n 3 Master Cracker",
       "link": "https://www.youtube.com/watch?v=50TURLY_3GE",
-      "viewers": 1309
+      "viewers": 1098
     },
     {
       "platform": "youtube",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (01 Oct 2026)",
       "link": "https://www.youtube.com/watch?v=AV3Uy9h2vBQ",
-      "viewers": 5
+      "viewers": 6
     }
   ],
-  "viewers_total": 1440,
+  "viewers_total": 1351,
   "videos": [
     {
       "video_id": "dxrMIV_e5Ls",
