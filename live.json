@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-02T12:54:09Z",
+  "updated": "2026-10-02T13:04:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 19
+      "viewers": 22
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 2's Top Cyber News NOW! - Ep 1257",
       "link": "https://www.youtube.com/watch?v=sKlonP-cZm8",
-      "viewers": 298
+      "viewers": 247
     }
   ],
-  "viewers_total": 317,
+  "viewers_total": 269,
   "videos": [
+    {
+      "video_id": "RSoVGuK0l3U",
+      "channel": "team_whoami",
+      "title": "ensamblador instrucciones logicas",
+      "link": "https://www.youtube.com/watch?v=RSoVGuK0l3U",
+      "published_at": "2026-10-02T13:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RSoVGuK0l3U/hqdefault.jpg"
+    },
     {
       "video_id": "Ihf9_7t48qs",
       "channel": "antisyphon",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=to9jid5ZY6c",
       "published_at": "2026-10-01T14:27:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/to9jid5ZY6c/hqdefault.jpg"
-    },
-    {
-      "video_id": "CgMyI2lG5xo",
-      "channel": "MDISEC",
-      "title": "Konuk : Yagiz Nizipli @yagiznizipli  Principal Engineer at SpaceXAI",
-      "link": "https://www.youtube.com/watch?v=CgMyI2lG5xo",
-      "published_at": "2026-10-01T14:25:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CgMyI2lG5xo/hqdefault.jpg"
     }
   ]
 }
