@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-02T04:24:09Z",
+  "updated": "2026-10-02T04:34:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "every live streamer should be using this to make videos (new YT feature)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 282
+      "viewers": 209
     },
     {
       "platform": "twitch",
@@ -34,17 +34,17 @@
       "name": "yourcyberdoctor",
       "title": "Cyber News! - day 198",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
       "link": "https://www.youtube.com/watch?v=dxrMIV_e5Ls",
-      "viewers": 15
+      "viewers": 14
     }
   ],
-  "viewers_total": 311,
+  "viewers_total": 238,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
@@ -53,6 +53,14 @@
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
       "published_at": "2026-10-02T04:03:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GtFV7qPAOMA/hqdefault.jpg"
+    },
+    {
+      "video_id": "p7jOIZzm0O8",
+      "channel": "hack_smarter",
+      "title": "[LIVE] Active Directory Hacking & Ask Me Anything (10/1/26)",
+      "link": "https://www.youtube.com/watch?v=p7jOIZzm0O8",
+      "published_at": "2026-10-02T01:21:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/p7jOIZzm0O8/hqdefault.jpg"
     },
     {
       "video_id": "xfimQIXODCw",
@@ -197,14 +205,6 @@
       "link": "https://www.youtube.com/watch?v=ixh__TliQ3M",
       "published_at": "2026-10-01T12:00:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ixh__TliQ3M/hqdefault.jpg"
-    },
-    {
-      "video_id": "uutoYqtev28",
-      "channel": "MDISEC",
-      "title": "14 Ekimde PostgreSQL Istanbul'a Beklerim Efenim",
-      "link": "https://www.youtube.com/watch?v=uutoYqtev28",
-      "published_at": "2026-10-01T07:52:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/uutoYqtev28/hqdefault.jpg"
     }
   ]
 }
