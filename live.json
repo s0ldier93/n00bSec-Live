@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-02T05:04:11Z",
+  "updated": "2026-10-02T05:14:08Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "every live streamer should be using this to make videos (new YT feature)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 242
+      "viewers": 244
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 10
+      "viewers": 8
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "yourcyberdoctor",
       "title": "Cyber News! - day 198",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 258,
+  "viewers_total": 257,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
@@ -46,6 +46,22 @@
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
       "published_at": "2026-10-02T04:03:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GtFV7qPAOMA/hqdefault.jpg"
+    },
+    {
+      "video_id": "e-LeM4H2_qk",
+      "channel": "antisyphon",
+      "title": "Password Cracking | Free Lab Fridays",
+      "link": "https://www.youtube.com/watch?v=e-LeM4H2_qk",
+      "published_at": "2026-10-02T04:00:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/e-LeM4H2_qk/hqdefault.jpg"
+    },
+    {
+      "video_id": "nSlNB7cz4yM",
+      "channel": "mbcrump",
+      "title": "PS4 Firmware 14.00 Kernel Offsets Land #Shorts",
+      "link": "https://www.youtube.com/watch?v=nSlNB7cz4yM",
+      "published_at": "2026-10-02T04:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nSlNB7cz4yM/hqdefault.jpg"
     },
     {
       "video_id": "p7jOIZzm0O8",
@@ -182,22 +198,6 @@
       "link": "https://www.youtube.com/watch?v=vipwobhPuag",
       "published_at": "2026-10-01T14:00:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/vipwobhPuag/hqdefault.jpg"
-    },
-    {
-      "video_id": "xHDc6-7bjyw",
-      "channel": "JohnHammond010",
-      "title": "Black Hat AI",
-      "link": "https://www.youtube.com/watch?v=xHDc6-7bjyw",
-      "published_at": "2026-10-01T13:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xHDc6-7bjyw/hqdefault.jpg"
-    },
-    {
-      "video_id": "ixh__TliQ3M",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Emoji - Emoji Lookup - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=ixh__TliQ3M",
-      "published_at": "2026-10-01T12:00:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ixh__TliQ3M/hqdefault.jpg"
     }
   ]
 }
