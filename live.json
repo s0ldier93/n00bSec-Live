@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-02T21:28:02Z",
+  "updated": "2026-10-02T21:38:02Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 7
+      "viewers": 12
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
-      "viewers": 9
+      "viewers": 8
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 20,
   "videos": [
+    {
+      "video_id": "8oBquTjPK3U",
+      "channel": "blacksincybersecurity",
+      "title": "Help desk to DevOps w/ Greg Greenlee - BIC Podcast Episode #26",
+      "link": "https://www.youtube.com/watch?v=8oBquTjPK3U",
+      "published_at": "2026-10-02T21:32:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8oBquTjPK3U/hqdefault.jpg"
+    },
     {
       "video_id": "6ZFeuEHsU0g",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=p7jOIZzm0O8",
       "published_at": "2026-10-02T01:21:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/p7jOIZzm0O8/hqdefault.jpg"
-    },
-    {
-      "video_id": "xfimQIXODCw",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Cyber Security News & QA",
-      "link": "https://www.youtube.com/watch?v=xfimQIXODCw",
-      "published_at": "2026-10-02T01:02:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xfimQIXODCw/hqdefault.jpg"
     }
   ]
 }
