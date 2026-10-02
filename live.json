@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-02T05:54:09Z",
+  "updated": "2026-10-02T06:04:08Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 15
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 18,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
