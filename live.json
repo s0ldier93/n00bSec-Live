@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-02T06:04:08Z",
+  "updated": "2026-10-02T06:14:08Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 17
+      "viewers": 19
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
