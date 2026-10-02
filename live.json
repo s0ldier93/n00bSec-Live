@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-02T13:34:08Z",
+  "updated": "2026-10-02T13:44:10Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "endingwithali",
-      "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
-      "link": "https://twitch.tv/endingwithali",
-      "viewers": 21
-    },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 2's Top Cyber News NOW! - Ep 1257",
       "link": "https://www.youtube.com/watch?v=sKlonP-cZm8",
-      "viewers": 212
+      "viewers": 198
     }
   ],
-  "viewers_total": 233,
+  "viewers_total": 198,
   "videos": [
     {
       "video_id": "RSoVGuK0l3U",
