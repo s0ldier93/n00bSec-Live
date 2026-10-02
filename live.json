@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-02T14:43:19Z",
+  "updated": "2026-10-02T15:13:20Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "bINbSomSxb4",
+      "channel": "antisyphon",
+      "title": "Linux CLI | Free Lab Fridays [Full Lab Walkthrough]",
+      "link": "https://www.youtube.com/watch?v=bINbSomSxb4",
+      "published_at": "2026-10-02T14:58:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bINbSomSxb4/hqdefault.jpg"
+    },
     {
       "video_id": "qypnjORyWNI",
       "channel": "LiveOverflow",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=oF5NDRG4I00",
       "published_at": "2026-10-01T16:00:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oF5NDRG4I00/hqdefault.jpg"
-    },
-    {
-      "video_id": "-JI1C8sYwFE",
-      "channel": "Khaos_Farbauti",
-      "title": "Moi aussi j'ai eu un compte pirat\u00e9",
-      "link": "https://www.youtube.com/watch?v=-JI1C8sYwFE",
-      "published_at": "2026-10-01T15:32:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-JI1C8sYwFE/hqdefault.jpg"
     }
   ]
 }
