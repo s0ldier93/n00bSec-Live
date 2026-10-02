@@ -1,16 +1,46 @@
 {
-  "updated": "2026-10-02T16:04:10Z",
+  "updated": "2026-10-02T16:13:50Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "johnhammond010",
+      "title": "Payload Podcast 012 - Yarden Shafir",
+      "link": "https://twitch.tv/johnhammond010",
+      "viewers": 7
+    },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 4
+      "viewers": 6
+    },
+    {
+      "platform": "youtube",
+      "name": "JohnHammond010",
+      "title": "Payload Podcast 012 - Yarden Shafir",
+      "link": "https://www.youtube.com/watch?v=1bVmur6vXe4",
+      "viewers": 43
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 56,
   "videos": [
+    {
+      "video_id": "vB7-NI2xszs",
+      "channel": "thecybermentor",
+      "title": "DEF CON CTF Walkthrough: Packet Analysis",
+      "link": "https://www.youtube.com/watch?v=vB7-NI2xszs",
+      "published_at": "2026-10-02T16:00:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vB7-NI2xszs/hqdefault.jpg"
+    },
+    {
+      "video_id": "8Cw0c2pN_EQ",
+      "channel": "mbcrump",
+      "title": "Could This PS3 Hardware Glitch Unlock CFW on Every Model? #Shorts",
+      "link": "https://www.youtube.com/watch?v=8Cw0c2pN_EQ",
+      "published_at": "2026-10-02T16:00:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8Cw0c2pN_EQ/hqdefault.jpg"
+    },
     {
       "video_id": "bINbSomSxb4",
       "channel": "antisyphon",
@@ -154,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=RXmAjLC5xtw",
       "published_at": "2026-10-01T19:00:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RXmAjLC5xtw/hqdefault.jpg"
-    },
-    {
-      "video_id": "Gm_tFR_9M8A",
-      "channel": "JohnHammond010",
-      "title": "Firefox Profile Payload",
-      "link": "https://www.youtube.com/watch?v=Gm_tFR_9M8A",
-      "published_at": "2026-10-01T16:15:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Gm_tFR_9M8A/hqdefault.jpg"
-    },
-    {
-      "video_id": "oF5NDRG4I00",
-      "channel": "mbcrump",
-      "title": "Marvel's Wolverine Reaches the KytyPS5 Title Screen #Shorts",
-      "link": "https://www.youtube.com/watch?v=oF5NDRG4I00",
-      "published_at": "2026-10-01T16:00:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oF5NDRG4I00/hqdefault.jpg"
     }
   ]
 }
