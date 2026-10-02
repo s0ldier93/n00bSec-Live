@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-02T23:18:02Z",
+  "updated": "2026-10-02T23:28:02Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Viernes lluvioso y nocturno... sale Fortnite! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 28
+      "viewers": 24
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 17
     }
   ],
-  "viewers_total": 51,
+  "viewers_total": 48,
   "videos": [
     {
       "video_id": "nS2xpt-4cdg",
