@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-02T05:44:08Z",
+  "updated": "2026-10-02T05:54:09Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "bashbunni",
-      "title": "every live streamer should be using this to make videos (new YT feature)",
-      "link": "https://twitch.tv/bashbunni",
-      "viewers": 211
-    },
     {
       "platform": "twitch",
       "name": "endingwithali",
@@ -20,7 +13,7 @@
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -30,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 228,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
