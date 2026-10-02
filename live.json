@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T08:24:09Z",
+  "updated": "2026-10-02T08:33:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -17,20 +17,13 @@
     },
     {
       "platform": "youtube",
-      "name": "censoredHacker",
-      "title": "AWS CCP: Module 9.5 - Security Assessment",
-      "link": "https://www.youtube.com/watch?v=k6AwNiS_fvA",
-      "viewers": 3
-    },
-    {
-      "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 17,
   "videos": [
     {
       "video_id": "k6AwNiS_fvA",
