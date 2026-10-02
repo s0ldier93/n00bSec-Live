@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-02T06:14:08Z",
+  "updated": "2026-10-02T06:23:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 19
+      "viewers": 15
     },
     {
       "platform": "twitch",
@@ -17,13 +17,20 @@
     },
     {
       "platform": "youtube",
+      "name": "censoredHacker",
+      "title": "AWS CCP: Module 9.5 - Security Assessment",
+      "link": "https://www.youtube.com/watch?v=k6AwNiS_fvA",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
       "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
       "viewers": 1
     }
   ],
-  "viewers_total": 21,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
