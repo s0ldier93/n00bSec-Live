@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-02T03:44:08Z",
+  "updated": "2026-10-02T03:54:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "every live streamer should be using this to make videos (new YT feature)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 225
+      "viewers": 224
     },
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 30
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 19
+      "viewers": 18
     },
     {
       "platform": "twitch",
@@ -41,17 +41,17 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=xfimQIXODCw",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
       "link": "https://www.youtube.com/watch?v=dxrMIV_e5Ls",
-      "viewers": 22
+      "viewers": 18
     }
   ],
-  "viewers_total": 303,
+  "viewers_total": 299,
   "videos": [
     {
       "video_id": "dxrMIV_e5Ls",
