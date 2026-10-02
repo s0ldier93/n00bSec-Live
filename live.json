@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T04:23:37Z",
+  "updated": "2026-10-02T04:24:09Z",
   "streams": [
     {
       "platform": "twitch",
@@ -30,6 +30,13 @@
       "viewers": 1
     },
     {
+      "platform": "twitch",
+      "name": "yourcyberdoctor",
+      "title": "Cyber News! - day 198",
+      "link": "https://twitch.tv/yourcyberdoctor",
+      "viewers": 1
+    },
+    {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
@@ -37,7 +44,7 @@
       "viewers": 15
     }
   ],
-  "viewers_total": 310,
+  "viewers_total": 311,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
