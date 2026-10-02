@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-02T14:23:19Z",
+  "updated": "2026-10-02T14:43:19Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "qypnjORyWNI",
+      "channel": "LiveOverflow",
+      "title": "OpenAI Hacked with a 1-Year-Old Bug",
+      "link": "https://www.youtube.com/watch?v=qypnjORyWNI",
+      "published_at": "2026-10-02T14:36:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qypnjORyWNI/hqdefault.jpg"
+    },
     {
       "video_id": "RRxd1pTbRjM",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=-JI1C8sYwFE",
       "published_at": "2026-10-01T15:32:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-JI1C8sYwFE/hqdefault.jpg"
-    },
-    {
-      "video_id": "AV3Uy9h2vBQ",
-      "channel": "HaxrByte",
-      "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (01 Oct 2026)",
-      "link": "https://www.youtube.com/watch?v=AV3Uy9h2vBQ",
-      "published_at": "2026-10-01T15:28:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/AV3Uy9h2vBQ/hqdefault.jpg"
     }
   ]
 }
