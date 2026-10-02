@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-02T04:54:09Z",
+  "updated": "2026-10-02T05:04:11Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "every live streamer should be using this to make videos (new YT feature)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 259
+      "viewers": 242
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 9
-    },
-    {
-      "platform": "twitch",
-      "name": "freshforensics",
-      "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
-      "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
+      "viewers": 10
     },
     {
       "platform": "twitch",
@@ -34,17 +27,17 @@
       "name": "yourcyberdoctor",
       "title": "Cyber News! - day 198",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 2
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
-      "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
-      "link": "https://www.youtube.com/watch?v=dxrMIV_e5Ls",
-      "viewers": 9
+      "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
+      "link": "https://www.youtube.com/watch?v=AVsfUUEpRaE",
+      "viewers": 1
     }
   ],
-  "viewers_total": 281,
+  "viewers_total": 258,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
