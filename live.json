@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T14:13:21Z",
+  "updated": "2026-10-02T14:23:19Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
@@ -10,6 +10,14 @@
       "link": "https://www.youtube.com/watch?v=RRxd1pTbRjM",
       "published_at": "2026-10-02T14:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RRxd1pTbRjM/hqdefault.jpg"
+    },
+    {
+      "video_id": "u-4byGPXE20",
+      "channel": "NahamSec",
+      "title": "Favebook\u2019s market place is just getting weirder especially with AI in the mix. #ai #meta #facebook",
+      "link": "https://www.youtube.com/watch?v=u-4byGPXE20",
+      "published_at": "2026-10-02T14:00:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/u-4byGPXE20/hqdefault.jpg"
     },
     {
       "video_id": "RSoVGuK0l3U",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=AV3Uy9h2vBQ",
       "published_at": "2026-10-01T15:28:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/AV3Uy9h2vBQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "u1WrihLCKhI",
-      "channel": "hack_smarter",
-      "title": "[LIVE] OSCP Giveway and Ask Me Anything (AMA)",
-      "link": "https://www.youtube.com/watch?v=u1WrihLCKhI",
-      "published_at": "2026-10-01T15:06:59+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/u1WrihLCKhI/hqdefault.jpg"
     }
   ]
 }
