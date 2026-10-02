@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-02T21:08:02Z",
+  "updated": "2026-10-02T21:18:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 1
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
-      "viewers": 15
+      "viewers": 10
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 15,
   "videos": [
+    {
+      "video_id": "tJURzDilels",
+      "channel": "SecurityWeekly",
+      "title": "RAM, Muse, CloudSyncD, Springsteen, Software, Persistence, and Michael Jenkins, CTO - SWN #621",
+      "link": "https://www.youtube.com/watch?v=tJURzDilels",
+      "published_at": "2026-10-02T21:00:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tJURzDilels/hqdefault.jpg"
+    },
     {
       "video_id": "aRZDpYNmsJw",
       "channel": "gerald_auger_simplycyber",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=dxrMIV_e5Ls",
       "published_at": "2026-10-01T22:56:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dxrMIV_e5Ls/hqdefault.jpg"
-    },
-    {
-      "video_id": "1-9OXFvYW_Q",
-      "channel": "SecurityWeekly",
-      "title": "What If One Machine Gets Breached?",
-      "link": "https://www.youtube.com/watch?v=1-9OXFvYW_Q",
-      "published_at": "2026-10-01T22:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1-9OXFvYW_Q/hqdefault.jpg"
     }
   ]
 }
