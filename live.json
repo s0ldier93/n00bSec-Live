@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-02T06:54:08Z",
+  "updated": "2026-10-02T07:04:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 9.5 - Security Assessment",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 16
+      "viewers": 15
     },
     {
       "platform": "twitch",
@@ -37,8 +37,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 27,
+  "viewers_total": 25,
   "videos": [
+    {
+      "video_id": "k6AwNiS_fvA",
+      "channel": "censoredHacker",
+      "title": "AWS CCP: Module 9.5 - Security Assessment",
+      "link": "https://www.youtube.com/watch?v=k6AwNiS_fvA",
+      "published_at": "2026-10-02T06:18:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/k6AwNiS_fvA/hqdefault.jpg"
+    },
     {
       "video_id": "GtFV7qPAOMA",
       "channel": "TheShyHat",
@@ -190,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=wLOv0ixcHCw",
       "published_at": "2026-10-01T14:03:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wLOv0ixcHCw/hqdefault.jpg"
-    },
-    {
-      "video_id": "vipwobhPuag",
-      "channel": "SecurityWeekly",
-      "title": "Advanced Tech Still Needs Basic Hygiene",
-      "link": "https://www.youtube.com/watch?v=vipwobhPuag",
-      "published_at": "2026-10-01T14:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/vipwobhPuag/hqdefault.jpg"
     }
   ]
 }
