@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-02T01:23:36Z",
+  "updated": "2026-10-02T01:24:10Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 7
+      "viewers": 10
     },
     {
       "platform": "twitch",
@@ -79,7 +79,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 10386,
+  "viewers_total": 10389,
   "videos": [
     {
       "video_id": "dxrMIV_e5Ls",
