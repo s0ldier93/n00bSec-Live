@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-02T05:34:11Z",
+  "updated": "2026-10-02T05:44:08Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "every live streamer should be using this to make videos (new YT feature)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 260
+      "viewers": 211
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 18
+      "viewers": 15
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 280,
+  "viewers_total": 228,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
