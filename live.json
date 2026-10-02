@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-02T21:18:04Z",
+  "updated": "2026-10-02T21:28:02Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 5
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
-      "viewers": 10
+      "viewers": 9
     }
   ],
-  "viewers_total": 15,
+  "viewers_total": 16,
   "videos": [
+    {
+      "video_id": "6ZFeuEHsU0g",
+      "channel": "mbcrump",
+      "title": "PS5 Jailbreak & Homebrew Beginner's Guide: Firmware, Payloads & Tools",
+      "link": "https://www.youtube.com/watch?v=6ZFeuEHsU0g",
+      "published_at": "2026-10-02T21:17:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6ZFeuEHsU0g/hqdefault.jpg"
+    },
     {
       "video_id": "tJURzDilels",
       "channel": "SecurityWeekly",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=xfimQIXODCw",
       "published_at": "2026-10-02T01:02:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xfimQIXODCw/hqdefault.jpg"
-    },
-    {
-      "video_id": "dxrMIV_e5Ls",
-      "channel": "freshforensics",
-      "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
-      "link": "https://www.youtube.com/watch?v=dxrMIV_e5Ls",
-      "published_at": "2026-10-01T22:56:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dxrMIV_e5Ls/hqdefault.jpg"
     }
   ]
 }
