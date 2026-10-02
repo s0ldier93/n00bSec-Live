@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-02T04:34:09Z",
+  "updated": "2026-10-02T04:44:10Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "every live streamer should be using this to make videos (new YT feature)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 209
+      "viewers": 271
     },
     {
       "platform": "twitch",
@@ -34,17 +34,17 @@
       "name": "yourcyberdoctor",
       "title": "Cyber News! - day 198",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
       "link": "https://www.youtube.com/watch?v=dxrMIV_e5Ls",
-      "viewers": 14
+      "viewers": 16
     }
   ],
-  "viewers_total": 238,
+  "viewers_total": 301,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
