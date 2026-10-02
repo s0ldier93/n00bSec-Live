@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-02T05:24:09Z",
+  "updated": "2026-10-02T05:34:11Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "every live streamer should be using this to make videos (new YT feature)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 270
+      "viewers": 260
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 11
+      "viewers": 18
     },
     {
       "platform": "twitch",
@@ -23,13 +23,6 @@
       "viewers": 1
     },
     {
-      "platform": "twitch",
-      "name": "yourcyberdoctor",
-      "title": "Cyber News! - day 198",
-      "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 4
-    },
-    {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udca3Fresh Forensics Radio | Linux, Cybersecurity & Hacker Music\ud83c\udfb5",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 287,
+  "viewers_total": 280,
   "videos": [
     {
       "video_id": "GtFV7qPAOMA",
