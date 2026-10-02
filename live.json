@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-02T02:33:35Z",
+  "updated": "2026-10-02T02:44:08Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "every live streamer should be using this to make videos (new YT feature)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 182
+      "viewers": 154
     },
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 15
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 22
+      "viewers": 19
     },
     {
       "platform": "twitch",
@@ -34,38 +34,38 @@
       "name": "hack_smarter",
       "title": "[LIVE] Active Directory Hacking & Ask Me Anything (10/1/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 17
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=xfimQIXODCw",
-      "viewers": 7
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "freshforensics",
       "title": "\ud83d\udd0eHunting Google Data with OSINT | Fresh Forensics Live!\ud83d\udca3",
       "link": "https://www.youtube.com/watch?v=dxrMIV_e5Ls",
-      "viewers": 26
+      "viewers": 24
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] Active Directory Hacking & Ask Me Anything (10/1/26)",
       "link": "https://www.youtube.com/watch?v=p7jOIZzm0O8",
-      "viewers": 46
+      "viewers": 48
     }
   ],
-  "viewers_total": 317,
+  "viewers_total": 290,
   "videos": [
     {
       "video_id": "dxrMIV_e5Ls",
