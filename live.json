@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-02T17:54:09Z",
+  "updated": "2026-10-02T18:04:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 2,
   "videos": [
+    {
+      "video_id": "H2zV76wm8uE",
+      "channel": "or0to",
+      "title": "Isaac\u2019s New Home Reveal Leaves Him Speechless",
+      "link": "https://www.youtube.com/watch?v=H2zV76wm8uE",
+      "published_at": "2026-10-02T17:53:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/H2zV76wm8uE/hqdefault.jpg"
+    },
     {
       "video_id": "vB7-NI2xszs",
       "channel": "thecybermentor",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=ux7I14DTH8Y",
       "published_at": "2026-10-01T21:00:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ux7I14DTH8Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "RXmAjLC5xtw",
-      "channel": "mbcrump",
-      "title": "AnyPS5 Adds Random and Real-Time Clock Support #Shorts",
-      "link": "https://www.youtube.com/watch?v=RXmAjLC5xtw",
-      "published_at": "2026-10-01T19:00:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RXmAjLC5xtw/hqdefault.jpg"
     }
   ]
 }
