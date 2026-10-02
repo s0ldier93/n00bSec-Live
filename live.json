@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-02T18:50:55Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "ritsec",
-      "title": "RITSEC Fall Week 6 - Intro to Linux",
-      "link": "https://twitch.tv/ritsec",
-      "viewers": 3
-    }
-  ],
-  "viewers_total": 3,
+  "updated": "2026-10-02T19:11:15Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "Hl_Ayy0jwMs",
+      "channel": "mbcrump",
+      "title": "PS5 RetroArch Moves Every Core to RADV #Shorts",
+      "link": "https://www.youtube.com/watch?v=Hl_Ayy0jwMs",
+      "published_at": "2026-10-02T19:00:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Hl_Ayy0jwMs/hqdefault.jpg"
+    },
     {
       "video_id": "H2zV76wm8uE",
       "channel": "or0to",
@@ -162,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=CNWDwAaexWE",
       "published_at": "2026-10-01T22:00:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CNWDwAaexWE/hqdefault.jpg"
-    },
-    {
-      "video_id": "ux7I14DTH8Y",
-      "channel": "SecurityWeekly",
-      "title": "Hacking Without Boundaries - Michael Jenkins - PSW #946",
-      "link": "https://www.youtube.com/watch?v=ux7I14DTH8Y",
-      "published_at": "2026-10-01T21:00:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ux7I14DTH8Y/hqdefault.jpg"
     }
   ]
 }
