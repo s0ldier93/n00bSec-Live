@@ -1,23 +1,46 @@
 {
-  "updated": "2026-10-02T21:58:02Z",
+  "updated": "2026-10-02T22:08:04Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BySepa",
+      "title": "Viernes lluvioso y nocturno... sale Fortnite! #teaminvierno #hacktheplanet",
+      "link": "https://twitch.tv/BySepa",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 12
+      "viewers": 14
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
-      "viewers": 12
+      "viewers": 9
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 23,
   "videos": [
+    {
+      "video_id": "y3KAJC_1nd8",
+      "channel": "SecurityWeekly",
+      "title": "AI Turned One Hacker Into an Army",
+      "link": "https://www.youtube.com/watch?v=y3KAJC_1nd8",
+      "published_at": "2026-10-02T22:00:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/y3KAJC_1nd8/hqdefault.jpg"
+    },
+    {
+      "video_id": "EkX4ARZ1diA",
+      "channel": "mbcrump",
+      "title": "PS5SX2 Gets Its First Public Test Build #Shorts",
+      "link": "https://www.youtube.com/watch?v=EkX4ARZ1diA",
+      "published_at": "2026-10-02T22:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/EkX4ARZ1diA/hqdefault.jpg"
+    },
     {
       "video_id": "8oBquTjPK3U",
       "channel": "blacksincybersecurity",
@@ -161,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
       "published_at": "2026-10-02T04:03:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GtFV7qPAOMA/hqdefault.jpg"
-    },
-    {
-      "video_id": "e-LeM4H2_qk",
-      "channel": "antisyphon",
-      "title": "Password Cracking | Free Lab Fridays",
-      "link": "https://www.youtube.com/watch?v=e-LeM4H2_qk",
-      "published_at": "2026-10-02T04:00:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/e-LeM4H2_qk/hqdefault.jpg"
-    },
-    {
-      "video_id": "nSlNB7cz4yM",
-      "channel": "mbcrump",
-      "title": "PS4 Firmware 14.00 Kernel Offsets Land #Shorts",
-      "link": "https://www.youtube.com/watch?v=nSlNB7cz4yM",
-      "published_at": "2026-10-02T04:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nSlNB7cz4yM/hqdefault.jpg"
     }
   ]
 }
