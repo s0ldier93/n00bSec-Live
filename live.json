@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-02T12:44:08Z",
+  "updated": "2026-10-02T12:54:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODING FOR THE FIRST TIME EVER??  !jobathon day 4/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 24
+      "viewers": 19
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 2's Top Cyber News NOW! - Ep 1257",
       "link": "https://www.youtube.com/watch?v=sKlonP-cZm8",
-      "viewers": 295
+      "viewers": 298
     }
   ],
-  "viewers_total": 319,
+  "viewers_total": 317,
   "videos": [
+    {
+      "video_id": "Ihf9_7t48qs",
+      "channel": "antisyphon",
+      "title": "Password Cracking | Free Lab Fridays [Full Lab Walkthrough]",
+      "link": "https://www.youtube.com/watch?v=Ihf9_7t48qs",
+      "published_at": "2026-10-02T12:45:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Ihf9_7t48qs/hqdefault.jpg"
+    },
     {
       "video_id": "U2Tlfmfu6pw",
       "channel": "LiveOverflow",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=CgMyI2lG5xo",
       "published_at": "2026-10-01T14:25:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CgMyI2lG5xo/hqdefault.jpg"
-    },
-    {
-      "video_id": "9POa2NlMULc",
-      "channel": "antisyphon",
-      "title": "Ask Us Anything: Straight Answers on AI",
-      "link": "https://www.youtube.com/watch?v=9POa2NlMULc",
-      "published_at": "2026-10-01T14:12:52+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9POa2NlMULc/hqdefault.jpg"
     }
   ]
 }
