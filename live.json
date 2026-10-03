@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-03T19:59:58Z",
+  "updated": "2026-10-03T20:09:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "Unboxing MTG Spider Man Gift Bundle | New Player",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 372
+      "viewers": 382
     },
     {
-      "platform": "youtube",
-      "name": "blacksincybersecurity",
-      "title": "Help desk to DevOps w/ Greg Greenlee - BIC Podcast Episode #26",
-      "link": "https://www.youtube.com/watch?v=8oBquTjPK3U",
-      "viewers": 2
+      "platform": "twitch",
+      "name": "team_whoami",
+      "title": "Lenguaje ensamblador, ciclos",
+      "link": "https://twitch.tv/team_whoami",
+      "viewers": 0
     }
   ],
-  "viewers_total": 374,
+  "viewers_total": 382,
   "videos": [
     {
       "video_id": "l4BUVQJh7gU",
