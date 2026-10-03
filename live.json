@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-03T12:07:47Z",
+  "updated": "2026-10-03T12:17:15Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "iHF3jYa7PD4",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Elements - Secret Messages - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=iHF3jYa7PD4",
+      "published_at": "2026-10-03T12:00:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/iHF3jYa7PD4/hqdefault.jpg"
+    },
     {
       "video_id": "-r1HLyc9Hbs",
       "channel": "hack_smarter",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=bINbSomSxb4",
       "published_at": "2026-10-02T14:58:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bINbSomSxb4/hqdefault.jpg"
-    },
-    {
-      "video_id": "qypnjORyWNI",
-      "channel": "LiveOverflow",
-      "title": "OpenAI Hacked with a 1-Year-Old Bug",
-      "link": "https://www.youtube.com/watch?v=qypnjORyWNI",
-      "published_at": "2026-10-02T14:36:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qypnjORyWNI/hqdefault.jpg"
     }
   ]
 }
