@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-03T20:19:58Z",
+  "updated": "2026-10-03T20:29:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "Unboxing MTG Spider Man Gift Bundle | New Player",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 398
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Lenguaje ensamblador, ciclos",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 0
+      "viewers": 338
     }
   ],
-  "viewers_total": 398,
+  "viewers_total": 338,
   "videos": [
     {
       "video_id": "l4BUVQJh7gU",
