@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-03T00:58:03Z",
+  "updated": "2026-10-03T01:08:03Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BlaiseBits",
+      "title": "Hacker plays | Cyberpunk 2077 | First Run!",
+      "link": "https://twitch.tv/BlaiseBits",
+      "viewers": 3
+    },
     {
       "platform": "twitch",
       "name": "BySepa",
@@ -13,7 +20,7 @@
       "name": "fixit42",
       "title": "Prepp for Kali as a daily driver stream :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 2
+      "viewers": 0
     },
     {
       "platform": "twitch",
@@ -27,7 +34,7 @@
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 21
+      "viewers": 18
     },
     {
       "platform": "youtube",
@@ -44,7 +51,7 @@
       "viewers": 13
     }
   ],
-  "viewers_total": 40,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "nS2xpt-4cdg",
