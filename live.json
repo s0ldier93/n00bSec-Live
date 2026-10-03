@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-03T18:49:58Z",
+  "updated": "2026-10-03T18:59:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "its so spooky in here",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 38
+      "viewers": 43
     }
   ],
-  "viewers_total": 38,
+  "viewers_total": 43,
   "videos": [
     {
       "video_id": "lMZyBl_Nt_Y",
