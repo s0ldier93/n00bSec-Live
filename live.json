@@ -1,19 +1,12 @@
 {
-  "updated": "2026-10-03T01:18:05Z",
+  "updated": "2026-10-03T01:28:03Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 8
-    },
-    {
-      "platform": "twitch",
-      "name": "fixit42",
-      "title": "Prepp for Kali as a daily driver stream :)",
-      "link": "https://twitch.tv/fixit42",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "twitch",
@@ -27,18 +20,26 @@
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 20
+      "viewers": 22
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
-      "viewers": 17
+      "viewers": 12
     }
   ],
-  "viewers_total": 49,
+  "viewers_total": 41,
   "videos": [
+    {
+      "video_id": "AMLNieOcBuM",
+      "channel": "mbcrump",
+      "title": "SOCOM II Networking Gets Closer in PS5SX2 #Shorts",
+      "link": "https://www.youtube.com/watch?v=AMLNieOcBuM",
+      "published_at": "2026-10-03T01:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/AMLNieOcBuM/hqdefault.jpg"
+    },
     {
       "video_id": "nS2xpt-4cdg",
       "channel": "BySepa",
@@ -190,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=U2Tlfmfu6pw",
       "published_at": "2026-10-02T10:00:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/U2Tlfmfu6pw/hqdefault.jpg"
-    },
-    {
-      "video_id": "k6AwNiS_fvA",
-      "channel": "censoredHacker",
-      "title": "AWS CCP: Module 9.5 - Security Assessment",
-      "link": "https://www.youtube.com/watch?v=k6AwNiS_fvA",
-      "published_at": "2026-10-02T06:18:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/k6AwNiS_fvA/hqdefault.jpg"
     }
   ]
 }
