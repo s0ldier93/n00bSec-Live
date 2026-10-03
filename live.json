@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-03T02:08:04Z",
+  "updated": "2026-10-03T02:18:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 9
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udd75\ufe0fMastering Linux OSINT: New Tools, Tactics & Scripts!\ud83d\udca3",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 0
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
-      "viewers": 10
+      "viewers": 13
     }
   ],
-  "viewers_total": 51,
+  "viewers_total": 57,
   "videos": [
     {
       "video_id": "AMLNieOcBuM",
