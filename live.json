@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-03T08:28:03Z",
+  "updated": "2026-10-03T08:38:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Birthday stream!",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "VJeg1CTzlxE",
