@@ -1,23 +1,16 @@
 {
-  "updated": "2026-10-03T08:48:01Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "Birthday stream!",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
-    },
-    {
-      "platform": "youtube",
-      "name": "censoredHacker",
-      "title": "Birthday Stream! Love 2 all of you who made it amazing",
-      "link": "https://www.youtube.com/watch?v=0m95RxEnaPo",
-      "viewers": 3
-    }
-  ],
-  "viewers_total": 6,
+  "updated": "2026-10-03T08:57:42Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "EEu-XBAjM-Q",
+      "channel": "censoredHacker",
+      "title": "Birthday Stream! Love 2 all of you who made it amazing",
+      "link": "https://www.youtube.com/watch?v=EEu-XBAjM-Q",
+      "published_at": "2026-10-03T08:50:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/EEu-XBAjM-Q/hqdefault.jpg"
+    },
     {
       "video_id": "VJeg1CTzlxE",
       "channel": "KeonBowman",
@@ -169,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=RSoVGuK0l3U",
       "published_at": "2026-10-02T13:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RSoVGuK0l3U/hqdefault.jpg"
-    },
-    {
-      "video_id": "Ihf9_7t48qs",
-      "channel": "antisyphon",
-      "title": "Password Cracking | Free Lab Fridays [Full Lab Walkthrough]",
-      "link": "https://www.youtube.com/watch?v=Ihf9_7t48qs",
-      "published_at": "2026-10-02T12:45:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Ihf9_7t48qs/hqdefault.jpg"
     }
   ]
 }
