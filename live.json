@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:38:02Z",
+  "updated": "2026-10-03T00:48:02Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 21
+      "viewers": 23
     },
     {
       "platform": "youtube",
@@ -34,10 +34,10 @@
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
-      "viewers": 11
+      "viewers": 10
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "nS2xpt-4cdg",
