@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-03T04:18:01Z",
+  "updated": "2026-10-03T04:28:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 13
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 7
+      "viewers": 6
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 27,
   "videos": [
     {
       "video_id": "AMLNieOcBuM",
