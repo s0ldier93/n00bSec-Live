@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-03T07:57:39Z",
+  "updated": "2026-10-03T07:58:02Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "censoredHacker",
+      "title": "Birthday stream!",
+      "link": "https://twitch.tv/censoredHacker",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Late Jank Stream|First Stream back! Still working out bugs!\ud83d\udcbb",
       "link": "https://twitch.tv/dal3ksec",
       "viewers": 4
-    },
-    {
-      "platform": "twitch",
-      "name": "freshforensics",
-      "title": "\ud83d\udd75\ufe0fMastering Linux OSINT: New Tools, Tactics & Scripts!\ud83d\udca3",
-      "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 10,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "VJeg1CTzlxE",
