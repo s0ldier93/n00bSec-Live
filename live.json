@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-03T01:28:03Z",
+  "updated": "2026-10-03T01:38:02Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 6
+      "viewers": 8
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 22
+      "viewers": 24
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 12
     }
   ],
-  "viewers_total": 41,
+  "viewers_total": 45,
   "videos": [
     {
       "video_id": "AMLNieOcBuM",
