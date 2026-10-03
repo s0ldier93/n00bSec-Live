@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T01:17:30Z",
+  "updated": "2026-10-03T01:18:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,17 +10,10 @@
     },
     {
       "platform": "twitch",
-      "name": "BySepa",
-      "title": "Viernes lluvioso y nocturno... sale Fortnite! #teaminvierno #hacktheplanet",
-      "link": "https://twitch.tv/BySepa",
-      "viewers": 2
-    },
-    {
-      "platform": "twitch",
       "name": "fixit42",
       "title": "Prepp for Kali as a daily driver stream :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 0
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -34,7 +27,7 @@
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 18
+      "viewers": 20
     },
     {
       "platform": "youtube",
@@ -44,7 +37,7 @@
       "viewers": 17
     }
   ],
-  "viewers_total": 46,
+  "viewers_total": 49,
   "videos": [
     {
       "video_id": "nS2xpt-4cdg",
