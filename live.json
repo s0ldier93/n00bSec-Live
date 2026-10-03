@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-03T10:27:12Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-03T10:37:44Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "fixit42",
+      "title": "Prepp for Kali as a daily driver stream :)",
+      "link": "https://twitch.tv/fixit42",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "FixIt42",
+      "title": "Kali as a daily driver? Let's do some more prepp and probably install kali on my main machine!",
+      "link": "https://www.youtube.com/watch?v=dmbyMs5boBY",
+      "viewers": 1
+    }
+  ],
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "dmbyMs5boBY",
