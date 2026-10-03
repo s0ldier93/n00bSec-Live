@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T03:28:03Z",
+  "updated": "2026-10-03T03:38:01Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "freshforensics",
       "title": "\ud83d\udd75\ufe0fMastering Linux OSINT: New Tools, Tactics & Scripts!\ud83d\udca3",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 18,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "AMLNieOcBuM",
