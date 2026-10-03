@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T11:48:01Z",
+  "updated": "2026-10-03T11:58:01Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "FixIt42",
       "title": "Kali as a daily driver? Let's do some more prepp and probably install kali on my main machine!",
       "link": "https://www.youtube.com/watch?v=dmbyMs5boBY",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 15,
+  "viewers_total": 16,
   "videos": [
     {
       "video_id": "-r1HLyc9Hbs",
