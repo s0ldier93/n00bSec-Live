@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-03T14:08:00Z",
+  "updated": "2026-10-03T14:18:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Prepp for Kali as a daily driver stream :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 11
+      "viewers": 9
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 9,
   "videos": [
+    {
+      "video_id": "NkiOznojoWk",
+      "channel": "SecurityWeekly",
+      "title": "Fake Zoom Steals Your Password",
+      "link": "https://www.youtube.com/watch?v=NkiOznojoWk",
+      "published_at": "2026-10-03T14:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NkiOznojoWk/hqdefault.jpg"
+    },
     {
       "video_id": "t1APmm7V9Xk",
       "channel": "team_whoami",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=vB7-NI2xszs",
       "published_at": "2026-10-02T16:00:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/vB7-NI2xszs/hqdefault.jpg"
-    },
-    {
-      "video_id": "8Cw0c2pN_EQ",
-      "channel": "mbcrump",
-      "title": "Could This PS3 Hardware Glitch Unlock CFW on Every Model? #Shorts",
-      "link": "https://www.youtube.com/watch?v=8Cw0c2pN_EQ",
-      "published_at": "2026-10-02T16:00:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8Cw0c2pN_EQ/hqdefault.jpg"
     }
   ]
 }
