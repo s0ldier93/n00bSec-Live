@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T08:18:01Z",
+  "updated": "2026-10-03T08:28:03Z",
   "streams": [
     {
       "platform": "twitch",
@@ -9,21 +9,14 @@
       "viewers": 4
     },
     {
-      "platform": "twitch",
-      "name": "dal3ksec",
-      "title": "\ud83d\udcbbFriday Night Late Jank Stream|First Stream back! Still working out bugs!\ud83d\udcbb",
-      "link": "https://twitch.tv/dal3ksec",
-      "viewers": 4
-    },
-    {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Birthday Stream! Love 2 all of you who made it amazing",
       "link": "https://www.youtube.com/watch?v=0m95RxEnaPo",
-      "viewers": 4
+      "viewers": 5
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "VJeg1CTzlxE",
