@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T07:18:02Z",
+  "updated": "2026-10-03T07:57:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,9 +14,16 @@
       "title": "\ud83d\udd75\ufe0fMastering Linux OSINT: New Tools, Tactics & Scripts!\ud83d\udca3",
       "link": "https://twitch.tv/freshforensics",
       "viewers": 2
+    },
+    {
+      "platform": "youtube",
+      "name": "censoredHacker",
+      "title": "Birthday Stream! Love 2 all of you who made it amazing",
+      "link": "https://www.youtube.com/watch?v=0m95RxEnaPo",
+      "viewers": 4
     }
   ],
-  "viewers_total": 6,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "VJeg1CTzlxE",
