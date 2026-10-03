@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T12:58:01Z",
+  "updated": "2026-10-03T13:08:00Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 10,
   "videos": [
+    {
+      "video_id": "t1APmm7V9Xk",
+      "channel": "team_whoami",
+      "title": "ensamblador instrucciones control",
+      "link": "https://www.youtube.com/watch?v=t1APmm7V9Xk",
+      "published_at": "2026-10-03T13:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/t1APmm7V9Xk/hqdefault.jpg"
+    },
     {
       "video_id": "iHF3jYa7PD4",
       "channel": "TheShyHat",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=8Cw0c2pN_EQ",
       "published_at": "2026-10-02T16:00:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8Cw0c2pN_EQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "bINbSomSxb4",
-      "channel": "antisyphon",
-      "title": "Linux CLI | Free Lab Fridays [Full Lab Walkthrough]",
-      "link": "https://www.youtube.com/watch?v=bINbSomSxb4",
-      "published_at": "2026-10-02T14:58:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bINbSomSxb4/hqdefault.jpg"
     }
   ]
 }
