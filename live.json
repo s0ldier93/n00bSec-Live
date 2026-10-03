@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-03T21:59:57Z",
+  "updated": "2026-10-03T22:09:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "Unboxing MTG Spider Man Gift Bundle | New Player",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 375
+      "viewers": 365
     }
   ],
-  "viewers_total": 375,
+  "viewers_total": 365,
   "videos": [
+    {
+      "video_id": "2CzVGWYdZ0Q",
+      "channel": "mbcrump",
+      "title": "Mari0 Brings Portal Mechanics to PS4 #Shorts",
+      "link": "https://www.youtube.com/watch?v=2CzVGWYdZ0Q",
+      "published_at": "2026-10-03T22:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2CzVGWYdZ0Q/hqdefault.jpg"
+    },
     {
       "video_id": "l4BUVQJh7gU",
       "channel": "mbcrump",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=tJURzDilels",
       "published_at": "2026-10-02T21:00:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tJURzDilels/hqdefault.jpg"
-    },
-    {
-      "video_id": "aRZDpYNmsJw",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 7's Top Cyber News NOW! - Ep 1260",
-      "link": "https://www.youtube.com/watch?v=aRZDpYNmsJw",
-      "published_at": "2026-10-02T20:33:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/aRZDpYNmsJw/hqdefault.jpg"
     }
   ]
 }
