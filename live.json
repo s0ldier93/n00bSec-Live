@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-03T08:57:42Z",
+  "updated": "2026-10-03T09:27:13Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "Le7xKU29UEg",
+      "channel": "ElPinguinoDeMario",
+      "title": "\u00bfRealmente son Seguras las VPN?",
+      "link": "https://www.youtube.com/watch?v=Le7xKU29UEg",
+      "published_at": "2026-10-03T09:18:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Le7xKU29UEg/hqdefault.jpg"
+    },
     {
       "video_id": "EEu-XBAjM-Q",
       "channel": "censoredHacker",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=u-4byGPXE20",
       "published_at": "2026-10-02T14:00:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/u-4byGPXE20/hqdefault.jpg"
-    },
-    {
-      "video_id": "RSoVGuK0l3U",
-      "channel": "team_whoami",
-      "title": "ensamblador instrucciones logicas",
-      "link": "https://www.youtube.com/watch?v=RSoVGuK0l3U",
-      "published_at": "2026-10-02T13:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RSoVGuK0l3U/hqdefault.jpg"
     }
   ]
 }
