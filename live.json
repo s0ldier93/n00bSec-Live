@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-03T05:48:01Z",
+  "updated": "2026-10-03T05:58:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 10
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "AMLNieOcBuM",
