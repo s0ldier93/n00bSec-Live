@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-03T14:48:02Z",
+  "updated": "2026-10-03T15:08:02Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Prepp for Kali as a daily driver stream :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 12
+      "viewers": 10
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 10,
   "videos": [
+    {
+      "video_id": "-mBxWU9vrJQ",
+      "channel": "ippsec",
+      "title": "HackTheBox - Reactor",
+      "link": "https://www.youtube.com/watch?v=-mBxWU9vrJQ",
+      "published_at": "2026-10-03T15:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-mBxWU9vrJQ/hqdefault.jpg"
+    },
     {
       "video_id": "NkiOznojoWk",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=H2zV76wm8uE",
       "published_at": "2026-10-02T17:53:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/H2zV76wm8uE/hqdefault.jpg"
-    },
-    {
-      "video_id": "vB7-NI2xszs",
-      "channel": "thecybermentor",
-      "title": "DEF CON CTF Walkthrough: Packet Analysis",
-      "link": "https://www.youtube.com/watch?v=vB7-NI2xszs",
-      "published_at": "2026-10-02T16:00:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/vB7-NI2xszs/hqdefault.jpg"
     }
   ]
 }
