@@ -1,29 +1,22 @@
 {
-  "updated": "2026-10-03T07:08:01Z",
+  "updated": "2026-10-03T07:18:02Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hacker plays | Cyberpunk 2077 | First Run!",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 21
-    },
     {
       "platform": "twitch",
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Late Jank Stream|First Stream back! Still working out bugs!\ud83d\udcbb",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 6
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udd75\ufe0fMastering Linux OSINT: New Tools, Tactics & Scripts!\ud83d\udca3",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 6,
   "videos": [
     {
       "video_id": "VJeg1CTzlxE",
