@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-03T12:48:01Z",
+  "updated": "2026-10-03T12:58:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Prepp for Kali as a daily driver stream :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 9
+      "viewers": 10
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "iHF3jYa7PD4",
