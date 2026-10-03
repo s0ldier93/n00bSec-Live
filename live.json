@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-03T09:27:13Z",
+  "updated": "2026-10-03T10:27:12Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "dmbyMs5boBY",
+      "channel": "FixIt42",
+      "title": "Kali as a daily driver? Let's do some more prepp and probably install kali on my main machine!",
+      "link": "https://www.youtube.com/watch?v=dmbyMs5boBY",
+      "published_at": "2026-10-03T10:23:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dmbyMs5boBY/hqdefault.jpg"
+    },
     {
       "video_id": "Le7xKU29UEg",
       "channel": "ElPinguinoDeMario",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=RRxd1pTbRjM",
       "published_at": "2026-10-02T14:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RRxd1pTbRjM/hqdefault.jpg"
-    },
-    {
-      "video_id": "u-4byGPXE20",
-      "channel": "NahamSec",
-      "title": "Favebook\u2019s market place is just getting weirder especially with AI in the mix. #ai #meta #facebook",
-      "link": "https://www.youtube.com/watch?v=u-4byGPXE20",
-      "published_at": "2026-10-02T14:00:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/u-4byGPXE20/hqdefault.jpg"
     }
   ]
 }
