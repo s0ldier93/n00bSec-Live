@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-03T05:38:01Z",
+  "updated": "2026-10-03T05:48:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 11
+      "viewers": 10
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Late Jank Stream|First Stream back! Still working out bugs!\ud83d\udcbb",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 20,
   "videos": [
     {
       "video_id": "AMLNieOcBuM",
