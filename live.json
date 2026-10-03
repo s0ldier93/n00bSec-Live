@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-03T00:18:02Z",
+  "updated": "2026-10-03T00:28:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Viernes lluvioso y nocturno... sale Fortnite! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 2
+      "viewers": 3
+    },
+    {
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "Ace Combat 8",
+      "link": "https://twitch.tv/irasakai",
+      "viewers": 0
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 20
+      "viewers": 24
     },
     {
       "platform": "youtube",
@@ -27,10 +34,10 @@
       "name": "TheShyHat",
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
-      "viewers": 11
+      "viewers": 13
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 41,
   "videos": [
     {
       "video_id": "nS2xpt-4cdg",
