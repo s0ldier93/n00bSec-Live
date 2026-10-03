@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-03T19:49:57Z",
+  "updated": "2026-10-03T19:59:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "Unboxing MTG Spider Man Gift Bundle | New Player",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 283
+      "viewers": 372
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 285,
+  "viewers_total": 374,
   "videos": [
     {
       "video_id": "l4BUVQJh7gU",
