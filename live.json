@@ -1,16 +1,38 @@
 {
-  "updated": "2026-10-03T18:59:58Z",
+  "updated": "2026-10-03T19:09:33Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "bashbunni",
+      "title": "Unboxing MTG Spider Man Gift Bundle | New Player",
+      "link": "https://twitch.tv/bashbunni",
+      "viewers": 107
+    },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "its so spooky in here",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 43
+      "viewers": 39
+    },
+    {
+      "platform": "youtube",
+      "name": "blacksincybersecurity",
+      "title": "Help desk to DevOps w/ Greg Greenlee - BIC Podcast Episode #26",
+      "link": "https://www.youtube.com/watch?v=8oBquTjPK3U",
+      "viewers": 2
     }
   ],
-  "viewers_total": 43,
+  "viewers_total": 148,
   "videos": [
+    {
+      "video_id": "l4BUVQJh7gU",
+      "channel": "mbcrump",
+      "title": "Ocarina of Time PS5 Port Ships Version 1.0.0 #Shorts",
+      "link": "https://www.youtube.com/watch?v=l4BUVQJh7gU",
+      "published_at": "2026-10-03T19:00:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/l4BUVQJh7gU/hqdefault.jpg"
+    },
     {
       "video_id": "lMZyBl_Nt_Y",
       "channel": "mbcrump",
@@ -162,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=aRZDpYNmsJw",
       "published_at": "2026-10-02T20:33:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/aRZDpYNmsJw/hqdefault.jpg"
-    },
-    {
-      "video_id": "Hl_Ayy0jwMs",
-      "channel": "mbcrump",
-      "title": "PS5 RetroArch Moves Every Core to RADV #Shorts",
-      "link": "https://www.youtube.com/watch?v=Hl_Ayy0jwMs",
-      "published_at": "2026-10-02T19:00:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Hl_Ayy0jwMs/hqdefault.jpg"
     }
   ]
 }
