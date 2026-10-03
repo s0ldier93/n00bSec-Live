@@ -1,37 +1,38 @@
 {
-  "updated": "2026-10-03T06:58:01Z",
+  "updated": "2026-10-03T07:08:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 16
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Late Jank Stream|First Stream back! Still working out bugs!\ud83d\udcbb",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 4
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udd75\ufe0fMastering Linux OSINT: New Tools, Tactics & Scripts!\ud83d\udca3",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
-    },
-    {
-      "platform": "twitch",
-      "name": "irasakai",
-      "title": "Ace Combat 8",
-      "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 30,
   "videos": [
+    {
+      "video_id": "VJeg1CTzlxE",
+      "channel": "KeonBowman",
+      "title": "SSH Private Key Locked? Here\u2019s How It Gets Cracked",
+      "link": "https://www.youtube.com/watch?v=VJeg1CTzlxE",
+      "published_at": "2026-10-03T02:22:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VJeg1CTzlxE/hqdefault.jpg"
+    },
     {
       "video_id": "AMLNieOcBuM",
       "channel": "mbcrump",
@@ -183,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=Ihf9_7t48qs",
       "published_at": "2026-10-02T12:45:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Ihf9_7t48qs/hqdefault.jpg"
-    },
-    {
-      "video_id": "U2Tlfmfu6pw",
-      "channel": "LiveOverflow",
-      "title": "OpenAI has shifted threat models #shorts",
-      "link": "https://www.youtube.com/watch?v=U2Tlfmfu6pw",
-      "published_at": "2026-10-02T10:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/U2Tlfmfu6pw/hqdefault.jpg"
     }
   ]
 }
