@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-03T16:19:57Z",
+  "updated": "2026-10-03T16:29:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "its so spooky in here",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 0
+      "viewers": 32
     }
   ],
-  "viewers_total": 0,
+  "viewers_total": 32,
   "videos": [
+    {
+      "video_id": "lMZyBl_Nt_Y",
+      "channel": "mbcrump",
+      "title": "Mario Kart 64 Hits 60 FPS in a PS5SX2 Test #Shorts",
+      "link": "https://www.youtube.com/watch?v=lMZyBl_Nt_Y",
+      "published_at": "2026-10-03T16:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lMZyBl_Nt_Y/hqdefault.jpg"
+    },
     {
       "video_id": "-mBxWU9vrJQ",
       "channel": "ippsec",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Hl_Ayy0jwMs",
       "published_at": "2026-10-02T19:00:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Hl_Ayy0jwMs/hqdefault.jpg"
-    },
-    {
-      "video_id": "H2zV76wm8uE",
-      "channel": "or0to",
-      "title": "Isaac\u2019s New Home Reveal Leaves Him Speechless",
-      "link": "https://www.youtube.com/watch?v=H2zV76wm8uE",
-      "published_at": "2026-10-02T17:53:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/H2zV76wm8uE/hqdefault.jpg"
     }
   ]
 }
