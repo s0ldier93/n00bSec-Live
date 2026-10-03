@@ -1,29 +1,22 @@
 {
-  "updated": "2026-10-03T19:19:58Z",
+  "updated": "2026-10-03T19:29:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "Unboxing MTG Spider Man Gift Bundle | New Player",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 258
-    },
-    {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "its so spooky in here",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 37
+      "viewers": 336
     },
     {
       "platform": "youtube",
       "name": "blacksincybersecurity",
       "title": "Help desk to DevOps w/ Greg Greenlee - BIC Podcast Episode #26",
       "link": "https://www.youtube.com/watch?v=8oBquTjPK3U",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 298,
+  "viewers_total": 338,
   "videos": [
     {
       "video_id": "l4BUVQJh7gU",
