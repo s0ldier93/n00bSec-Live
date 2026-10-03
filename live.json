@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T04:28:00Z",
+  "updated": "2026-10-03T04:38:01Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Late Jank Stream|First Stream back! Still working out bugs!\ud83d\udcbb",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 6
+      "viewers": 7
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 27,
+  "viewers_total": 28,
   "videos": [
     {
       "video_id": "AMLNieOcBuM",
