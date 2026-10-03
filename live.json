@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T02:58:00Z",
+  "updated": "2026-10-03T03:07:27Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "irasakai",
       "title": "Ace Combat 8",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -28,16 +28,9 @@
       "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
       "viewers": 28
-    },
-    {
-      "platform": "youtube",
-      "name": "TheShyHat",
-      "title": "PYTHON SCRIPTING LIVE! Cybersecurity, Linux & CTF Challenges",
-      "link": "https://www.youtube.com/watch?v=GtFV7qPAOMA",
-      "viewers": 13
     }
   ],
-  "viewers_total": 55,
+  "viewers_total": 41,
   "videos": [
     {
       "video_id": "AMLNieOcBuM",
