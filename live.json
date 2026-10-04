@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T20:26:06Z",
+  "updated": "2026-10-04T20:36:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "panekopanko",
       "title": "[SHORT STREAM] its so spooky in here",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 16
+      "viewers": 27
     },
     {
       "platform": "twitch",
@@ -27,10 +27,10 @@
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 28
+      "viewers": 20
     }
   ],
-  "viewers_total": 95,
+  "viewers_total": 98,
   "videos": [
     {
       "video_id": "tsCz2tBorhw",
