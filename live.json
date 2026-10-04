@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T22:07:38Z",
+  "updated": "2026-10-04T22:17:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,17 +7,18 @@
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
       "viewers": 40
-    },
-    {
-      "platform": "youtube",
-      "name": "pebl3",
-      "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 18
     }
   ],
-  "viewers_total": 58,
+  "viewers_total": 40,
   "videos": [
+    {
+      "video_id": "F199_KrTF_4",
+      "channel": "LiveOverflow",
+      "title": "Security Through Complexity #shorts",
+      "link": "https://www.youtube.com/watch?v=F199_KrTF_4",
+      "published_at": "2026-10-04T22:02:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/F199_KrTF_4/hqdefault.jpg"
+    },
     {
       "video_id": "tsCz2tBorhw",
       "channel": "mbcrump",
@@ -169,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=dmbyMs5boBY",
       "published_at": "2026-10-03T10:23:53+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dmbyMs5boBY/hqdefault.jpg"
-    },
-    {
-      "video_id": "Le7xKU29UEg",
-      "channel": "ElPinguinoDeMario",
-      "title": "\u00bfRealmente son Seguras las VPN?",
-      "link": "https://www.youtube.com/watch?v=Le7xKU29UEg",
-      "published_at": "2026-10-03T09:18:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Le7xKU29UEg/hqdefault.jpg"
     }
   ]
 }
