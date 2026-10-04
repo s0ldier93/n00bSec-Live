@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-04T17:06:06Z",
+  "updated": "2026-10-04T17:16:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux] Cours Shell : d\u00e9couvrez la ligne de commande !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 35
+      "viewers": 31
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 28
+      "viewers": 33
     }
   ],
-  "viewers_total": 112,
+  "viewers_total": 113,
   "videos": [
     {
       "video_id": "hnxaJvIjxvc",
