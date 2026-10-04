@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-04T12:09:58Z",
+  "updated": "2026-10-04T12:19:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "linux et service informatique",
       "link": "https://twitch.tv/topklean",
-      "viewers": 8
+      "viewers": 29
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "zJdy0NxAp6c",
