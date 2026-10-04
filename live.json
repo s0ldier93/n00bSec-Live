@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-03T23:19:57Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-04T01:09:22Z",
+  "streams": [
+    {
+      "platform": "youtube",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=zJdy0NxAp6c",
+      "viewers": 3
+    }
+  ],
+  "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "zJdy0NxAp6c",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=zJdy0NxAp6c",
+      "published_at": "2026-10-04T01:03:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zJdy0NxAp6c/hqdefault.jpg"
+    },
     {
       "video_id": "2CzVGWYdZ0Q",
       "channel": "mbcrump",
@@ -154,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=6ZFeuEHsU0g",
       "published_at": "2026-10-02T21:17:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6ZFeuEHsU0g/hqdefault.jpg"
-    },
-    {
-      "video_id": "tJURzDilels",
-      "channel": "SecurityWeekly",
-      "title": "RAM, Muse, CloudSyncD, Springsteen, Software, Persistence, and Michael Jenkins, CTO - SWN #621",
-      "link": "https://www.youtube.com/watch?v=tJURzDilels",
-      "published_at": "2026-10-02T21:00:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tJURzDilels/hqdefault.jpg"
     }
   ]
 }
