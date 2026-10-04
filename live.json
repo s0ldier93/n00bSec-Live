@@ -1,43 +1,36 @@
 {
-  "updated": "2026-10-04T20:56:06Z",
+  "updated": "2026-10-04T21:06:06Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "msec",
-      "title": "Laguna & Alexander Acquired! Whoooo",
-      "link": "https://twitch.tv/msec",
-      "viewers": 1
-    },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "[SHORT STREAM] its so spooky in here",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 35
+      "viewers": 41
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 49
+      "viewers": 50
     },
     {
       "platform": "twitch",
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, funciones",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 21
+      "viewers": 20
     }
   ],
-  "viewers_total": 107,
+  "viewers_total": 114,
   "videos": [
     {
       "video_id": "tsCz2tBorhw",
