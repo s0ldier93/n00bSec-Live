@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-04T16:50:26Z",
+  "updated": "2026-10-04T16:55:47Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux] Cours Shell : d\u00e9couvrez la ligne de commande !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 34
+      "viewers": 35
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 28
+      "viewers": 37
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 26
     }
   ],
-  "viewers_total": 88,
+  "viewers_total": 98,
   "videos": [
     {
       "video_id": "hnxaJvIjxvc",
@@ -122,6 +122,14 @@
       "thumbnail": "https://i.ytimg.com/vi/iHF3jYa7PD4/hqdefault.jpg"
     },
     {
+      "video_id": "mKgW56i4Z8E",
+      "channel": "EJSA",
+      "title": "I like trains and I'm playing this game for the first time..am I screwed? Transport Fever 3 (Part 1)",
+      "link": "https://www.youtube.com/watch?v=mKgW56i4Z8E",
+      "published_at": "2026-10-03T11:05:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mKgW56i4Z8E/hqdefault.jpg"
+    },
+    {
       "video_id": "-r1HLyc9Hbs",
       "channel": "hack_smarter",
       "title": "Part 3: Hacking Active Directory - (StellarComms)",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=nS2xpt-4cdg",
       "published_at": "2026-10-02T22:03:48+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nS2xpt-4cdg/hqdefault.jpg"
-    },
-    {
-      "video_id": "y3KAJC_1nd8",
-      "channel": "SecurityWeekly",
-      "title": "AI Turned One Hacker Into an Army",
-      "link": "https://www.youtube.com/watch?v=y3KAJC_1nd8",
-      "published_at": "2026-10-02T22:00:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/y3KAJC_1nd8/hqdefault.jpg"
     }
   ]
 }
