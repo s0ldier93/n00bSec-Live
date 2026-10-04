@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-04T19:46:07Z",
+  "updated": "2026-10-04T19:56:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "msec",
-      "title": "Laguna Card... FML",
+      "title": "Laguna & Alexander Acquired! Whoooo",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 51
+      "viewers": 46
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 30
+      "viewers": 25
     }
   ],
-  "viewers_total": 84,
+  "viewers_total": 73,
   "videos": [
     {
       "video_id": "35Hi1hix0mQ",
