@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-04T14:49:58Z",
+  "updated": "2026-10-04T14:59:58Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "Khaos_Farbauti",
+      "title": "Retour vers le futur | State of Mind #2",
+      "link": "https://twitch.tv/Khaos_Farbauti",
+      "viewers": 5
+    },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "linux et service informatique",
       "link": "https://twitch.tv/topklean",
-      "viewers": 86
+      "viewers": 92
     }
   ],
-  "viewers_total": 86,
+  "viewers_total": 97,
   "videos": [
     {
       "video_id": "8Q0pnKZnHgM",
