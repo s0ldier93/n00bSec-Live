@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-04T13:19:57Z",
+  "updated": "2026-10-04T13:29:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "linux et service informatique",
       "link": "https://twitch.tv/topklean",
-      "viewers": 71
+      "viewers": 67
     }
   ],
-  "viewers_total": 71,
+  "viewers_total": 67,
   "videos": [
+    {
+      "video_id": "8Q0pnKZnHgM",
+      "channel": "FixIt42",
+      "title": "Prepp for Kali as a daily driver stream :)",
+      "link": "https://www.youtube.com/watch?v=8Q0pnKZnHgM",
+      "published_at": "2026-10-04T13:18:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8Q0pnKZnHgM/hqdefault.jpg"
+    },
     {
       "video_id": "aGy8sBLu0YA",
       "channel": "FixIt42",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=8oBquTjPK3U",
       "published_at": "2026-10-02T21:32:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8oBquTjPK3U/hqdefault.jpg"
-    },
-    {
-      "video_id": "BvzOiO1rqLs",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 9's Top Cyber News NOW! - Ep 1262",
-      "link": "https://www.youtube.com/watch?v=BvzOiO1rqLs",
-      "published_at": "2026-10-02T21:20:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/BvzOiO1rqLs/hqdefault.jpg"
     }
   ]
 }
