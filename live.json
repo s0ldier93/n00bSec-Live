@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T19:06:06Z",
+  "updated": "2026-10-04T19:16:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 28
+      "viewers": 23
     }
   ],
-  "viewers_total": 84,
+  "viewers_total": 79,
   "videos": [
+    {
+      "video_id": "35Hi1hix0mQ",
+      "channel": "mbcrump",
+      "title": "New PS4 and PS5 Games for Jailbroken Consoles #Shorts",
+      "link": "https://www.youtube.com/watch?v=35Hi1hix0mQ",
+      "published_at": "2026-10-04T19:00:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/35Hi1hix0mQ/hqdefault.jpg"
+    },
     {
       "video_id": "J7_5xyFS9dk",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=EEu-XBAjM-Q",
       "published_at": "2026-10-03T08:50:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/EEu-XBAjM-Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "VJeg1CTzlxE",
-      "channel": "KeonBowman",
-      "title": "SSH Private Key Locked? Here\u2019s How It Gets Cracked",
-      "link": "https://www.youtube.com/watch?v=VJeg1CTzlxE",
-      "published_at": "2026-10-03T02:22:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VJeg1CTzlxE/hqdefault.jpg"
     }
   ]
 }
