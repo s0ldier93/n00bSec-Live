@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-04T16:20:27Z",
+  "updated": "2026-10-04T16:30:27Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux] Cours Shell : d\u00e9couvrez la ligne de commande !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 15
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 25
+      "viewers": 37
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 23
+      "viewers": 34
     }
   ],
-  "viewers_total": 63,
+  "viewers_total": 92,
   "videos": [
+    {
+      "video_id": "hnxaJvIjxvc",
+      "channel": "pebl3",
+      "title": "Hacking CTFs",
+      "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
+      "published_at": "2026-10-04T16:04:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/hnxaJvIjxvc/hqdefault.jpg"
+    },
     {
       "video_id": "bBl4OyaMLyk",
       "channel": "mbcrump",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=y3KAJC_1nd8",
       "published_at": "2026-10-02T22:00:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/y3KAJC_1nd8/hqdefault.jpg"
-    },
-    {
-      "video_id": "EkX4ARZ1diA",
-      "channel": "mbcrump",
-      "title": "PS5SX2 Gets Its First Public Test Build #Shorts",
-      "link": "https://www.youtube.com/watch?v=EkX4ARZ1diA",
-      "published_at": "2026-10-02T22:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/EkX4ARZ1diA/hqdefault.jpg"
     }
   ]
 }
