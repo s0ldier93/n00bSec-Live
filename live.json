@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-04T03:19:57Z",
+  "updated": "2026-10-04T03:29:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 30
+      "viewers": 39
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 45,
   "videos": [
     {
       "video_id": "zJdy0NxAp6c",
