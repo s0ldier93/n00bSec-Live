@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-04T05:09:57Z",
+  "updated": "2026-10-04T05:19:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udd75\ufe0fFinding Everything With Linux OSINT Tools Live!\ud83d\udca3",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 16
+      "viewers": 12
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "zJdy0NxAp6c",
