@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-04T17:26:06Z",
+  "updated": "2026-10-04T17:36:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux] Cours Shell : d\u00e9couvrez la ligne de commande !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 30
+      "viewers": 36
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 58
+      "viewers": 52
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 36
+      "viewers": 32
     }
   ],
-  "viewers_total": 124,
+  "viewers_total": 120,
   "videos": [
+    {
+      "video_id": "-ALBA_ev1lk",
+      "channel": "mbcrump",
+      "title": "PS5 Jailbreak Guide: Update from 12.xx to 13.60",
+      "link": "https://www.youtube.com/watch?v=-ALBA_ev1lk",
+      "published_at": "2026-10-04T17:27:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-ALBA_ev1lk/hqdefault.jpg"
+    },
     {
       "video_id": "hnxaJvIjxvc",
       "channel": "pebl3",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=AMLNieOcBuM",
       "published_at": "2026-10-03T01:00:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/AMLNieOcBuM/hqdefault.jpg"
-    },
-    {
-      "video_id": "nS2xpt-4cdg",
-      "channel": "BySepa",
-      "title": "Viernes lluvioso y nocturno... sale Fortnite! #teaminvierno #hacktheplanet",
-      "link": "https://www.youtube.com/watch?v=nS2xpt-4cdg",
-      "published_at": "2026-10-02T22:03:48+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nS2xpt-4cdg/hqdefault.jpg"
     }
   ]
 }
