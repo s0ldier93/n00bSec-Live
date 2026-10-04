@@ -1,15 +1,29 @@
 {
-  "updated": "2026-10-04T16:00:04Z",
+  "updated": "2026-10-04T16:10:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "Retour vers le futur | State of Mind #2",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 5
+      "viewers": 9
+    },
+    {
+      "platform": "twitch",
+      "name": "pebl3",
+      "title": "Hacking CTFs | !htb !discord !youtube",
+      "link": "https://twitch.tv/pebl3",
+      "viewers": 0
+    },
+    {
+      "platform": "youtube",
+      "name": "pebl3",
+      "title": "Hacking CTFs",
+      "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
+      "viewers": 10
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "8Q0pnKZnHgM",
