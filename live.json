@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T19:56:06Z",
+  "updated": "2026-10-04T20:06:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,18 +13,26 @@
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 46
+      "viewers": 41
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 25
+      "viewers": 29
     }
   ],
-  "viewers_total": 73,
+  "viewers_total": 72,
   "videos": [
+    {
+      "video_id": "tsCz2tBorhw",
+      "channel": "mbcrump",
+      "title": "The PS5 Jailbreak Chain in Four Steps #Shorts",
+      "link": "https://www.youtube.com/watch?v=tsCz2tBorhw",
+      "published_at": "2026-10-04T20:00:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tsCz2tBorhw/hqdefault.jpg"
+    },
     {
       "video_id": "35Hi1hix0mQ",
       "channel": "mbcrump",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=Le7xKU29UEg",
       "published_at": "2026-10-03T09:18:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Le7xKU29UEg/hqdefault.jpg"
-    },
-    {
-      "video_id": "EEu-XBAjM-Q",
-      "channel": "censoredHacker",
-      "title": "Birthday Stream! Love 2 all of you who made it amazing",
-      "link": "https://www.youtube.com/watch?v=EEu-XBAjM-Q",
-      "published_at": "2026-10-03T08:50:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/EEu-XBAjM-Q/hqdefault.jpg"
     }
   ]
 }
