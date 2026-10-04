@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-04T22:17:05Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "pebl3",
-      "title": "Hacking CTFs | !htb !discord !youtube",
-      "link": "https://twitch.tv/pebl3",
-      "viewers": 40
-    }
-  ],
-  "viewers_total": 40,
+  "updated": "2026-10-04T22:17:38Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "F199_KrTF_4",
