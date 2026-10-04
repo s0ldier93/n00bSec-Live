@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-04T23:17:39Z",
+  "updated": "2026-10-04T23:37:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Morrowind, New Camera, Hammunition Update, and Chill|Cybersecurity,Rants,Chill,&Linux Gaming|10-4-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 8
+      "viewers": 7
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 7,
   "videos": [
+    {
+      "video_id": "oz3_Wl2eQu0",
+      "channel": "TheShyHat",
+      "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
+      "link": "https://www.youtube.com/watch?v=oz3_Wl2eQu0",
+      "published_at": "2026-10-04T23:23:48+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oz3_Wl2eQu0/hqdefault.jpg"
+    },
     {
       "video_id": "F199_KrTF_4",
       "channel": "LiveOverflow",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=mKgW56i4Z8E",
       "published_at": "2026-10-03T11:05:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mKgW56i4Z8E/hqdefault.jpg"
-    },
-    {
-      "video_id": "-r1HLyc9Hbs",
-      "channel": "hack_smarter",
-      "title": "Part 3: Hacking Active Directory - (StellarComms)",
-      "link": "https://www.youtube.com/watch?v=-r1HLyc9Hbs",
-      "published_at": "2026-10-03T11:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-r1HLyc9Hbs/hqdefault.jpg"
     }
   ]
 }
