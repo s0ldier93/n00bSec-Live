@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-04T18:46:06Z",
+  "updated": "2026-10-04T18:56:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 62
+      "viewers": 50
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 21
+      "viewers": 15
     }
   ],
-  "viewers_total": 83,
+  "viewers_total": 65,
   "videos": [
     {
       "video_id": "J7_5xyFS9dk",
