@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-04T19:26:06Z",
+  "updated": "2026-10-04T19:36:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Laguna Card... FML",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 50
+      "viewers": 49
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "viewers": 26
+      "viewers": 29
     }
   ],
-  "viewers_total": 77,
+  "viewers_total": 80,
   "videos": [
     {
       "video_id": "35Hi1hix0mQ",
