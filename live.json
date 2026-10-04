@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T22:17:38Z",
+  "updated": "2026-10-04T22:26:45Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
@@ -10,6 +10,14 @@
       "link": "https://www.youtube.com/watch?v=F199_KrTF_4",
       "published_at": "2026-10-04T22:02:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/F199_KrTF_4/hqdefault.jpg"
+    },
+    {
+      "video_id": "42hcJ6sZ040",
+      "channel": "mbcrump",
+      "title": "PS5 Jailbreak Entry Points Explained #Shorts",
+      "link": "https://www.youtube.com/watch?v=42hcJ6sZ040",
+      "published_at": "2026-10-04T22:00:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/42hcJ6sZ040/hqdefault.jpg"
     },
     {
       "video_id": "tsCz2tBorhw",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=-r1HLyc9Hbs",
       "published_at": "2026-10-03T11:00:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-r1HLyc9Hbs/hqdefault.jpg"
-    },
-    {
-      "video_id": "dmbyMs5boBY",
-      "channel": "FixIt42",
-      "title": "Kali as a daily driver? Let's do some more prepp and probably install kali on my main machine!",
-      "link": "https://www.youtube.com/watch?v=dmbyMs5boBY",
-      "published_at": "2026-10-03T10:23:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dmbyMs5boBY/hqdefault.jpg"
     }
   ]
 }
