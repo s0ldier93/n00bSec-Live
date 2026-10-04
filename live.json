@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T03:59:58Z",
+  "updated": "2026-10-04T04:09:23Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,16 +14,9 @@
       "title": "\ud83d\udd75\ufe0fFinding Everything With Linux OSINT Tools Live!\ud83d\udca3",
       "link": "https://twitch.tv/freshforensics",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
-      "link": "https://www.youtube.com/watch?v=zJdy0NxAp6c",
-      "viewers": 5
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "zJdy0NxAp6c",
