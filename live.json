@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-05T04:07:38Z",
+  "updated": "2026-10-05T04:17:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 18
+      "viewers": 14
+    },
+    {
+      "platform": "twitch",
+      "name": "yourcyberdoctor",
+      "title": "Discovering Ransomware Gangs- day 199",
+      "link": "https://twitch.tv/yourcyberdoctor",
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -23,7 +30,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 25,
+  "viewers_total": 26,
   "videos": [
     {
       "video_id": "oz3_Wl2eQu0",
