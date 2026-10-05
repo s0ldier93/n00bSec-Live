@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-05T21:38:04Z",
+  "updated": "2026-10-05T21:48:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 515
+      "viewers": 512
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "CYBER SECURITY NEWS WALK !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 58
+      "viewers": 43
     }
   ],
-  "viewers_total": 573,
+  "viewers_total": 555,
   "videos": [
+    {
+      "video_id": "ninqvNwzLw0",
+      "channel": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 10/5/26",
+      "link": "https://www.youtube.com/watch?v=ninqvNwzLw0",
+      "published_at": "2026-10-05T21:44:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ninqvNwzLw0/hqdefault.jpg"
+    },
     {
       "video_id": "cQf8g0_KFsg",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=42hcJ6sZ040",
       "published_at": "2026-10-04T22:00:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/42hcJ6sZ040/hqdefault.jpg"
-    },
-    {
-      "video_id": "tsCz2tBorhw",
-      "channel": "mbcrump",
-      "title": "The PS5 Jailbreak Chain in Four Steps #Shorts",
-      "link": "https://www.youtube.com/watch?v=tsCz2tBorhw",
-      "published_at": "2026-10-04T20:00:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tsCz2tBorhw/hqdefault.jpg"
     }
   ]
 }
