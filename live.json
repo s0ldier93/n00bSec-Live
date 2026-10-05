@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-05T13:37:18Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-05T14:07:38Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "endingwithali",
+      "title": "COWORK AND INTERIVEW WITH ME IRL !jobathon day 5/?",
+      "link": "https://twitch.tv/endingwithali",
+      "viewers": 14
+    }
+  ],
+  "viewers_total": 14,
   "videos": [
+    {
+      "video_id": "8-qJbGd1j_Q",
+      "channel": "SecurityWeekly",
+      "title": "AI SOCs Need More Than AI",
+      "link": "https://www.youtube.com/watch?v=8-qJbGd1j_Q",
+      "published_at": "2026-10-05T14:00:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8-qJbGd1j_Q/hqdefault.jpg"
+    },
     {
       "video_id": "XpGoqylk0bk",
       "channel": "team_whoami",
@@ -154,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=aGy8sBLu0YA",
       "published_at": "2026-10-04T12:39:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/aGy8sBLu0YA/hqdefault.jpg"
-    },
-    {
-      "video_id": "zJdy0NxAp6c",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
-      "link": "https://www.youtube.com/watch?v=zJdy0NxAp6c",
-      "published_at": "2026-10-04T01:03:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/zJdy0NxAp6c/hqdefault.jpg"
     }
   ]
 }
