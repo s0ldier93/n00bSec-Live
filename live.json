@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-05T01:37:38Z",
+  "updated": "2026-10-05T01:47:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Morrowind, New Camera, Hammunition Update, and Chill|Cybersecurity,Rants,Chill,&Linux Gaming|10-4-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 7
-    },
-    {
-      "platform": "twitch",
-      "name": "het_tanis",
-      "title": "Hanging out and playing video games with the ProLUG.",
-      "link": "https://twitch.tv/het_tanis",
-      "viewers": 17
+      "viewers": 6
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 6,
   "videos": [
     {
       "video_id": "oz3_Wl2eQu0",
