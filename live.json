@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-05T17:27:38Z",
+  "updated": "2026-10-05T17:37:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 450
+      "viewers": 470
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "PEWDIEPIE IS A CYBER CRIMINAL !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 62
+      "viewers": 48
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://www.youtube.com/watch?v=dmMcGGBMEWc",
-      "viewers": 74
+      "viewers": 72
     }
   ],
-  "viewers_total": 586,
+  "viewers_total": 590,
   "videos": [
+    {
+      "video_id": "tYrGrzZ-CEs",
+      "channel": "JohnHammond010",
+      "title": "PowerShell Payload Unpacked",
+      "link": "https://www.youtube.com/watch?v=tYrGrzZ-CEs",
+      "published_at": "2026-10-05T17:19:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tYrGrzZ-CEs/hqdefault.jpg"
+    },
     {
       "video_id": "DfPdXKYF-hc",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=-ALBA_ev1lk",
       "published_at": "2026-10-04T17:27:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-ALBA_ev1lk/hqdefault.jpg"
-    },
-    {
-      "video_id": "hnxaJvIjxvc",
-      "channel": "pebl3",
-      "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
-      "published_at": "2026-10-04T16:04:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hnxaJvIjxvc/hqdefault.jpg"
     }
   ]
 }
