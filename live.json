@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-05T19:07:39Z",
+  "updated": "2026-10-05T19:17:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 563
+      "viewers": 552
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "LIVE JOB INTERVIEW !jobathon day 5/?",
+      "title": "COWORK WITH ME !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 54
+      "viewers": 56
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://www.youtube.com/watch?v=dmMcGGBMEWc",
-      "viewers": 82
+      "viewers": 78
     }
   ],
-  "viewers_total": 699,
+  "viewers_total": 686,
   "videos": [
+    {
+      "video_id": "njwyh0DG-TA",
+      "channel": "SecurityWeekly",
+      "title": "Pen Testing Isn\u2019t a Video Game",
+      "link": "https://www.youtube.com/watch?v=njwyh0DG-TA",
+      "published_at": "2026-10-05T19:00:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/njwyh0DG-TA/hqdefault.jpg"
+    },
     {
       "video_id": "A4zGVG2bVxA",
       "channel": "mbcrump",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=35Hi1hix0mQ",
       "published_at": "2026-10-04T19:00:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/35Hi1hix0mQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "J7_5xyFS9dk",
-      "channel": "mbcrump",
-      "title": "Is a PS5 Jailbreak Permanent? #Shorts",
-      "link": "https://www.youtube.com/watch?v=J7_5xyFS9dk",
-      "published_at": "2026-10-04T18:00:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/J7_5xyFS9dk/hqdefault.jpg"
     }
   ]
 }
