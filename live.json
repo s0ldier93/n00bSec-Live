@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-05T21:48:05Z",
+  "updated": "2026-10-05T21:58:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 512
+      "viewers": 544
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "CYBER SECURITY NEWS WALK !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 43
+      "viewers": 53
     }
   ],
-  "viewers_total": 555,
+  "viewers_total": 597,
   "videos": [
     {
       "video_id": "ninqvNwzLw0",
