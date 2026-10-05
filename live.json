@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-05T17:17:38Z",
+  "updated": "2026-10-05T17:27:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 436
+      "viewers": 450
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "PEWDIEPIE IS A CYBER CRIMINAL !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 49
+      "viewers": 62
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://www.youtube.com/watch?v=dmMcGGBMEWc",
-      "viewers": 72
+      "viewers": 74
     }
   ],
-  "viewers_total": 557,
+  "viewers_total": 586,
   "videos": [
+    {
+      "video_id": "DfPdXKYF-hc",
+      "channel": "SecurityWeekly",
+      "title": "State of the AI SOC, regulating AI, and can AI agents feel pain? - Aqsa Taylor - ESW #479",
+      "link": "https://www.youtube.com/watch?v=DfPdXKYF-hc",
+      "published_at": "2026-10-05T17:11:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/DfPdXKYF-hc/hqdefault.jpg"
+    },
     {
       "video_id": "i2qvA7wOjvE",
       "channel": "ElPinguinoDeMario",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=hnxaJvIjxvc",
       "published_at": "2026-10-04T16:04:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/hnxaJvIjxvc/hqdefault.jpg"
-    },
-    {
-      "video_id": "bBl4OyaMLyk",
-      "channel": "mbcrump",
-      "title": "How to Find Your PS5 Firmware Version #Shorts",
-      "link": "https://www.youtube.com/watch?v=bBl4OyaMLyk",
-      "published_at": "2026-10-04T16:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bBl4OyaMLyk/hqdefault.jpg"
     }
   ]
 }
