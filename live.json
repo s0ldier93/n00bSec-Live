@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-05T06:17:38Z",
+  "updated": "2026-10-05T07:06:51Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "DO26Ttclt98",
+      "channel": "Khaos_Farbauti",
+      "title": "JE PASSE MON FILS AU CONTROLE TECHNIQUE | State of Mind #2",
+      "link": "https://www.youtube.com/watch?v=DO26Ttclt98",
+      "published_at": "2026-10-05T05:35:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/DO26Ttclt98/hqdefault.jpg"
+    },
     {
       "video_id": "oz3_Wl2eQu0",
       "channel": "TheShyHat",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=iHF3jYa7PD4",
       "published_at": "2026-10-03T12:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/iHF3jYa7PD4/hqdefault.jpg"
-    },
-    {
-      "video_id": "mKgW56i4Z8E",
-      "channel": "EJSA",
-      "title": "I like trains and I'm playing this game for the first time..am I screwed? Transport Fever 3 (Part 1)",
-      "link": "https://www.youtube.com/watch?v=mKgW56i4Z8E",
-      "published_at": "2026-10-03T11:05:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mKgW56i4Z8E/hqdefault.jpg"
     }
   ]
 }
