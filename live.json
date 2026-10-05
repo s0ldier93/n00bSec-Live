@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-05T12:07:18Z",
+  "updated": "2026-10-05T12:17:37Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "fixit42",
-      "title": "Touching grass n planning kali linux daily driver",
-      "link": "https://twitch.tv/fixit42",
-      "viewers": 5
-    },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 5's Top Cyber News NOW! - Ep 1258",
       "link": "https://www.youtube.com/watch?v=dzsu4ECd468",
-      "viewers": 177
+      "viewers": 275
     }
   ],
-  "viewers_total": 182,
+  "viewers_total": 275,
   "videos": [
     {
       "video_id": "R_5rAERwzUM",
