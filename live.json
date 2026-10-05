@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-05T17:07:39Z",
+  "updated": "2026-10-05T17:17:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 394
+      "viewers": 436
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "PEWDIEPIE IS A CYBER CRIMINAL !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 44
+      "viewers": 49
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://www.youtube.com/watch?v=dmMcGGBMEWc",
-      "viewers": 63
+      "viewers": 72
     }
   ],
-  "viewers_total": 501,
+  "viewers_total": 557,
   "videos": [
+    {
+      "video_id": "i2qvA7wOjvE",
+      "channel": "ElPinguinoDeMario",
+      "title": "Qu\u00e9 es John The Ripper y tu Utilidad en la Ciberseguridad",
+      "link": "https://www.youtube.com/watch?v=i2qvA7wOjvE",
+      "published_at": "2026-10-05T16:58:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/i2qvA7wOjvE/hqdefault.jpg"
+    },
     {
       "video_id": "R6RMQzkzATo",
       "channel": "mbcrump",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=bBl4OyaMLyk",
       "published_at": "2026-10-04T16:00:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bBl4OyaMLyk/hqdefault.jpg"
-    },
-    {
-      "video_id": "8Q0pnKZnHgM",
-      "channel": "FixIt42",
-      "title": "Prepp for Kali as a daily driver stream :)",
-      "link": "https://www.youtube.com/watch?v=8Q0pnKZnHgM",
-      "published_at": "2026-10-04T13:18:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8Q0pnKZnHgM/hqdefault.jpg"
     }
   ]
 }
