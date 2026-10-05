@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-05T19:27:38Z",
+  "updated": "2026-10-05T19:37:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 561
+      "viewers": 595
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORK WITH ME !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 52
+      "viewers": 55
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://www.youtube.com/watch?v=dmMcGGBMEWc",
-      "viewers": 77
+      "viewers": 85
     }
   ],
-  "viewers_total": 690,
+  "viewers_total": 735,
   "videos": [
     {
       "video_id": "njwyh0DG-TA",
