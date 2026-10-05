@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-05T07:06:51Z",
+  "updated": "2026-10-05T08:36:47Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "2PCwNzbgZYw",
+      "channel": "BySepa",
+      "title": "Video DEFINITIVO para empezar en Ciberseguridad y conseguir tu PRIMER trabajo !!!",
+      "link": "https://www.youtube.com/watch?v=2PCwNzbgZYw",
+      "published_at": "2026-10-05T08:30:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2PCwNzbgZYw/hqdefault.jpg"
+    },
     {
       "video_id": "DO26Ttclt98",
       "channel": "Khaos_Farbauti",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=t1APmm7V9Xk",
       "published_at": "2026-10-03T13:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/t1APmm7V9Xk/hqdefault.jpg"
-    },
-    {
-      "video_id": "iHF3jYa7PD4",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Elements - Secret Messages - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=iHF3jYa7PD4",
-      "published_at": "2026-10-03T12:00:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/iHF3jYa7PD4/hqdefault.jpg"
     }
   ]
 }
