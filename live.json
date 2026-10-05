@@ -1,16 +1,31 @@
 {
-  "updated": "2026-10-05T11:57:37Z",
+  "updated": "2026-10-05T12:07:18Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Touching grass n planning kali linux daily driver",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 3
+      "viewers": 5
+    },
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 5's Top Cyber News NOW! - Ep 1258",
+      "link": "https://www.youtube.com/watch?v=dzsu4ECd468",
+      "viewers": 177
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 182,
   "videos": [
+    {
+      "video_id": "R_5rAERwzUM",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Tedious Work II - Adding Patterns of Numbers - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=R_5rAERwzUM",
+      "published_at": "2026-10-05T12:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/R_5rAERwzUM/hqdefault.jpg"
+    },
     {
       "video_id": "M1liz48ObIc",
       "channel": "DCCyberSec",
@@ -162,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=l4BUVQJh7gU",
       "published_at": "2026-10-03T19:00:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/l4BUVQJh7gU/hqdefault.jpg"
-    },
-    {
-      "video_id": "lMZyBl_Nt_Y",
-      "channel": "mbcrump",
-      "title": "Mario Kart 64 Hits 60 FPS in a PS5SX2 Test #Shorts",
-      "link": "https://www.youtube.com/watch?v=lMZyBl_Nt_Y",
-      "published_at": "2026-10-03T16:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lMZyBl_Nt_Y/hqdefault.jpg"
     }
   ]
 }
