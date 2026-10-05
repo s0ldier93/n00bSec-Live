@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T04:17:38Z",
+  "updated": "2026-10-05T04:27:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 14
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "yourcyberdoctor",
       "title": "Discovering Ransomware Gangs- day 199",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
       "link": "https://www.youtube.com/watch?v=oz3_Wl2eQu0",
-      "viewers": 5
+      "viewers": 9
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "oz3_Wl2eQu0",
