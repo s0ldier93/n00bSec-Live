@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T21:17:39Z",
+  "updated": "2026-10-05T21:24:47Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,10 @@
       "name": "endingwithali",
       "title": "CYBER SECURITY NEWS WALK !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 68
-    },
-    {
-      "platform": "youtube",
-      "name": "EJSA",
-      "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
-      "link": "https://www.youtube.com/watch?v=dmMcGGBMEWc",
-      "viewers": 81
+      "viewers": 62
     }
   ],
-  "viewers_total": 797,
+  "viewers_total": 710,
   "videos": [
     {
       "video_id": "cQf8g0_KFsg",
