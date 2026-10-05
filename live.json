@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-05T11:37:37Z",
+  "updated": "2026-10-05T11:57:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Touching grass n planning kali linux daily driver",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "M1liz48ObIc",
