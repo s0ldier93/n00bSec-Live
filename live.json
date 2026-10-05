@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-05T21:24:47Z",
+  "updated": "2026-10-05T21:25:19Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
+      "title": "EJ's Space and Rocket Revue! 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 648
+      "viewers": 536
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 62
     }
   ],
-  "viewers_total": 710,
+  "viewers_total": 598,
   "videos": [
     {
       "video_id": "cQf8g0_KFsg",
