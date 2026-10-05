@@ -1,16 +1,32 @@
 {
-  "updated": "2026-10-05T12:57:37Z",
+  "updated": "2026-10-05T13:07:38Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 5's Top Cyber News NOW! - Ep 1258",
       "link": "https://www.youtube.com/watch?v=dzsu4ECd468",
-      "viewers": 403
+      "viewers": 331
     }
   ],
-  "viewers_total": 403,
+  "viewers_total": 331,
   "videos": [
+    {
+      "video_id": "XpGoqylk0bk",
+      "channel": "team_whoami",
+      "title": "ensamblador ciclos",
+      "link": "https://www.youtube.com/watch?v=XpGoqylk0bk",
+      "published_at": "2026-10-05T13:00:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XpGoqylk0bk/hqdefault.jpg"
+    },
+    {
+      "video_id": "uoYslOzW7Sk",
+      "channel": "NahamSec",
+      "title": "I Gave Claude Access to My Hacking Traffic",
+      "link": "https://www.youtube.com/watch?v=uoYslOzW7Sk",
+      "published_at": "2026-10-05T12:45:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/uoYslOzW7Sk/hqdefault.jpg"
+    },
     {
       "video_id": "R_5rAERwzUM",
       "channel": "TheShyHat",
@@ -154,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=zJdy0NxAp6c",
       "published_at": "2026-10-04T01:03:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zJdy0NxAp6c/hqdefault.jpg"
-    },
-    {
-      "video_id": "2CzVGWYdZ0Q",
-      "channel": "mbcrump",
-      "title": "Mari0 Brings Portal Mechanics to PS4 #Shorts",
-      "link": "https://www.youtube.com/watch?v=2CzVGWYdZ0Q",
-      "published_at": "2026-10-03T22:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2CzVGWYdZ0Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "l4BUVQJh7gU",
-      "channel": "mbcrump",
-      "title": "Ocarina of Time PS5 Port Ships Version 1.0.0 #Shorts",
-      "link": "https://www.youtube.com/watch?v=l4BUVQJh7gU",
-      "published_at": "2026-10-03T19:00:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/l4BUVQJh7gU/hqdefault.jpg"
     }
   ]
 }
