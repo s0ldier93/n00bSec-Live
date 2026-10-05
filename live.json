@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T16:17:38Z",
+  "updated": "2026-10-05T16:27:22Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,13 +11,28 @@
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "COWORK AND INTERIVEW WITH ME IRL !jobathon day 5/?",
+      "title": "PEWDIEPIE IS A CYBER CRIMINAL !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 52
+      "viewers": 56
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
+      "link": "https://www.youtube.com/watch?v=dmMcGGBMEWc",
+      "viewers": 25
     }
   ],
-  "viewers_total": 169,
+  "viewers_total": 198,
   "videos": [
+    {
+      "video_id": "R6RMQzkzATo",
+      "channel": "mbcrump",
+      "title": "What Is a PS5 Payload? ELF Files Explained #Shorts",
+      "link": "https://www.youtube.com/watch?v=R6RMQzkzATo",
+      "published_at": "2026-10-05T16:00:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/R6RMQzkzATo/hqdefault.jpg"
+    },
     {
       "video_id": "8-qJbGd1j_Q",
       "channel": "SecurityWeekly",
@@ -169,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=8Q0pnKZnHgM",
       "published_at": "2026-10-04T13:18:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8Q0pnKZnHgM/hqdefault.jpg"
-    },
-    {
-      "video_id": "aGy8sBLu0YA",
-      "channel": "FixIt42",
-      "title": "Prepp for Kali as a daily driver stream :)",
-      "link": "https://www.youtube.com/watch?v=aGy8sBLu0YA",
-      "published_at": "2026-10-04T12:39:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/aGy8sBLu0YA/hqdefault.jpg"
     }
   ]
 }
