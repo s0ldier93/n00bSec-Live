@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-05T16:27:39Z",
+  "updated": "2026-10-05T16:37:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 214
+      "viewers": 275
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "EJSA",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://www.youtube.com/watch?v=dmMcGGBMEWc",
-      "viewers": 25
+      "viewers": 37
     }
   ],
-  "viewers_total": 295,
+  "viewers_total": 368,
   "videos": [
     {
       "video_id": "R6RMQzkzATo",
