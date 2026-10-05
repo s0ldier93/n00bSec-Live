@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-05T08:36:47Z",
+  "updated": "2026-10-05T09:06:48Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "dGaeG10fLUA",
+      "channel": "jarnobaselier",
+      "title": "Hacking QuickTip 100 - AZPT, de AZure Pentesting-suiTe",
+      "link": "https://www.youtube.com/watch?v=dGaeG10fLUA",
+      "published_at": "2026-10-05T09:00:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dGaeG10fLUA/hqdefault.jpg"
+    },
+    {
+      "video_id": "ucTfK7YdHNY",
+      "channel": "SecurityWeekly",
+      "title": "State of the AI SOC, regulating AI, and can AI agents feel pain? - Aqsa Taylor - ESW #479",
+      "link": "https://www.youtube.com/watch?v=ucTfK7YdHNY",
+      "published_at": "2026-10-05T09:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ucTfK7YdHNY/hqdefault.jpg"
+    },
     {
       "video_id": "2PCwNzbgZYw",
       "channel": "BySepa",
@@ -146,22 +162,6 @@
       "link": "https://www.youtube.com/watch?v=-mBxWU9vrJQ",
       "published_at": "2026-10-03T15:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-mBxWU9vrJQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "NkiOznojoWk",
-      "channel": "SecurityWeekly",
-      "title": "Fake Zoom Steals Your Password",
-      "link": "https://www.youtube.com/watch?v=NkiOznojoWk",
-      "published_at": "2026-10-03T14:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NkiOznojoWk/hqdefault.jpg"
-    },
-    {
-      "video_id": "t1APmm7V9Xk",
-      "channel": "team_whoami",
-      "title": "ensamblador instrucciones control",
-      "link": "https://www.youtube.com/watch?v=t1APmm7V9Xk",
-      "published_at": "2026-10-03T13:00:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/t1APmm7V9Xk/hqdefault.jpg"
     }
   ]
 }
