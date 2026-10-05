@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-05T19:57:38Z",
+  "updated": "2026-10-05T20:07:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 595
+      "viewers": 603
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "COWORK WITH ME !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 62
+      "viewers": 116
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://www.youtube.com/watch?v=dmMcGGBMEWc",
-      "viewers": 87
+      "viewers": 90
     }
   ],
-  "viewers_total": 744,
+  "viewers_total": 809,
   "videos": [
+    {
+      "video_id": "cQf8g0_KFsg",
+      "channel": "mbcrump",
+      "title": "Where etaHEN Fits in a PS5 Jailbreak #Shorts",
+      "link": "https://www.youtube.com/watch?v=cQf8g0_KFsg",
+      "published_at": "2026-10-05T20:00:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cQf8g0_KFsg/hqdefault.jpg"
+    },
     {
       "video_id": "njwyh0DG-TA",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=tsCz2tBorhw",
       "published_at": "2026-10-04T20:00:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tsCz2tBorhw/hqdefault.jpg"
-    },
-    {
-      "video_id": "35Hi1hix0mQ",
-      "channel": "mbcrump",
-      "title": "New PS4 and PS5 Games for Jailbroken Consoles #Shorts",
-      "link": "https://www.youtube.com/watch?v=35Hi1hix0mQ",
-      "published_at": "2026-10-04T19:00:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/35Hi1hix0mQ/hqdefault.jpg"
     }
   ]
 }
