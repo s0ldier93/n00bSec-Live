@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T03:17:38Z",
+  "updated": "2026-10-05T03:27:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "chiefgyk3d",
       "title": "Morrowind, New Camera, Hammunition Update, and Chill|Cybersecurity,Rants,Chill,&Linux Gaming|10-4-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 10
+      "viewers": 8
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-STUDY LIVE! HackTheBox Academy, PCAP Forensics",
       "link": "https://www.youtube.com/watch?v=oz3_Wl2eQu0",
-      "viewers": 3
+      "viewers": 6
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "oz3_Wl2eQu0",
