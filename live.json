@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-05T16:37:38Z",
+  "updated": "2026-10-05T16:47:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 275
+      "viewers": 315
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "PEWDIEPIE IS A CYBER CRIMINAL !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 56
+      "viewers": 60
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "Building railroads and more! Transport Fever 3 (Part 2) 10/5/26",
       "link": "https://www.youtube.com/watch?v=dmMcGGBMEWc",
-      "viewers": 37
+      "viewers": 50
     }
   ],
-  "viewers_total": 368,
+  "viewers_total": 425,
   "videos": [
     {
       "video_id": "R6RMQzkzATo",
