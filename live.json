@@ -1,29 +1,15 @@
 {
-  "updated": "2026-10-06T15:38:04Z",
+  "updated": "2026-10-06T15:47:52Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "LIVE TAKE HOME JOB INTERVIEW !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 28
-    },
-    {
-      "platform": "twitch",
-      "name": "hack_smarter",
-      "title": "Ask Me Anything (Cybersecurity / Business)",
-      "link": "https://twitch.tv/hack_smarter",
-      "viewers": 21
-    },
-    {
-      "platform": "youtube",
-      "name": "hack_smarter",
-      "title": "Ask Me Anything (Cybersecurity / Business)",
-      "link": "https://www.youtube.com/watch?v=ydu1aCZNvvo",
-      "viewers": 64
+      "viewers": 26
     }
   ],
-  "viewers_total": 113,
+  "viewers_total": 26,
   "videos": [
     {
       "video_id": "1sIKm5Zyp3I",
