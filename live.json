@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-06T17:17:56Z",
+  "updated": "2026-10-06T17:18:03Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 316
+      "viewers": 358
     },
     {
       "platform": "twitch",
@@ -44,7 +44,7 @@
       "viewers": 82
     }
   ],
-  "viewers_total": 567,
+  "viewers_total": 609,
   "videos": [
     {
       "video_id": "3-6IvBRsaTU",
