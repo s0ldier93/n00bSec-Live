@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-06T21:08:04Z",
+  "updated": "2026-10-06T21:18:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "alh4zr3d",
       "title": "Cthulhu Cthursday: Spicy Active Directory hacking via HacktheBox's \"Tombwatcher\"!",
       "link": "https://twitch.tv/alh4zr3d",
-      "viewers": 66
+      "viewers": 112
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 571
+      "viewers": 557
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
-      "viewers": 87
+      "viewers": 96
     }
   ],
-  "viewers_total": 724,
+  "viewers_total": 765,
   "videos": [
     {
       "video_id": "XaRystCwltc",
@@ -32,6 +32,14 @@
       "link": "https://www.youtube.com/watch?v=XaRystCwltc",
       "published_at": "2026-10-06T21:00:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XaRystCwltc/hqdefault.jpg"
+    },
+    {
+      "video_id": "kk19MyeBIlI",
+      "channel": "TheShyHat",
+      "title": "CYBERSECURITY CO-WORKING LIVE! Learning C /w W3Schools",
+      "link": "https://www.youtube.com/watch?v=kk19MyeBIlI",
+      "published_at": "2026-10-06T20:59:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/kk19MyeBIlI/hqdefault.jpg"
     },
     {
       "video_id": "38M_MPhs_8k",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=yUiVXhQb-Yk",
       "published_at": "2026-10-05T22:00:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yUiVXhQb-Yk/hqdefault.jpg"
-    },
-    {
-      "video_id": "ninqvNwzLw0",
-      "channel": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 10/5/26",
-      "link": "https://www.youtube.com/watch?v=ninqvNwzLw0",
-      "published_at": "2026-10-05T21:44:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ninqvNwzLw0/hqdefault.jpg"
     }
   ]
 }
