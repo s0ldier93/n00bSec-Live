@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-06T19:28:05Z",
+  "updated": "2026-10-06T19:38:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 504
+      "viewers": 486
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODE WITH ME !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 39
+      "viewers": 34
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #8",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 38
+      "viewers": 40
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "[KARAOKE] spooky songs",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 24
+      "viewers": 21
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
-      "viewers": 81
+      "viewers": 78
     }
   ],
-  "viewers_total": 686,
+  "viewers_total": 659,
   "videos": [
     {
       "video_id": "qsradr6dAmc",
