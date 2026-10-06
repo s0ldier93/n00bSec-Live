@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-06T03:47:31Z",
+  "updated": "2026-10-06T03:48:03Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "MONDAY WARDOGGIN! ALWAYS BLUE! 10/5/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 222
-    },
     {
       "platform": "twitch",
       "name": "endingwithali",
@@ -20,10 +13,10 @@
       "name": "goproflowyo",
       "title": "JUST US DJ'S - PROGRESSIVE / MELODIC MONDAY RAID TRAIN | ty: @hamooniii @infiltrate808",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 61
+      "viewers": 60
     }
   ],
-  "viewers_total": 303,
+  "viewers_total": 80,
   "videos": [
     {
       "video_id": "8vNidvKaP-g",
