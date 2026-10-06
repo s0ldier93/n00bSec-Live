@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-06T23:33:32Z",
+  "updated": "2026-10-06T23:43:32Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "alh4zr3d",
       "title": "Cthulhu Cthursday: Spicy Active Directory hacking via HacktheBox's \"Tombwatcher\"!",
       "link": "https://twitch.tv/alh4zr3d",
-      "viewers": 127
+      "viewers": 123
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Bloqueando anuncios de la red con Pi-Hole \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 586
+      "viewers": 578
     }
   ],
-  "viewers_total": 716,
+  "viewers_total": 703,
   "videos": [
     {
       "video_id": "Hacgs563YJM",
