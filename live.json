@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-06T13:58:03Z",
+  "updated": "2026-10-06T14:08:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "TIME FOR MORNING STANDUP !jobathon day 6/?",
+      "title": "LIVE TAKE HOME JOB INTERVIEW !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 46
+      "viewers": 48
     }
   ],
-  "viewers_total": 46,
+  "viewers_total": 48,
   "videos": [
+    {
+      "video_id": "GUpgYIBFXZ8",
+      "channel": "SecurityWeekly",
+      "title": "Your Permissions Can Betray You",
+      "link": "https://www.youtube.com/watch?v=GUpgYIBFXZ8",
+      "published_at": "2026-10-06T14:00:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GUpgYIBFXZ8/hqdefault.jpg"
+    },
     {
       "video_id": "oFb6ivHRscQ",
       "channel": "team_whoami",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=R_5rAERwzUM",
       "published_at": "2026-10-05T12:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/R_5rAERwzUM/hqdefault.jpg"
-    },
-    {
-      "video_id": "M1liz48ObIc",
-      "channel": "DCCyberSec",
-      "title": "IS THIS THE END?",
-      "link": "https://www.youtube.com/watch?v=M1liz48ObIc",
-      "published_at": "2026-10-05T11:00:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/M1liz48ObIc/hqdefault.jpg"
     }
   ]
 }
