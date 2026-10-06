@@ -1,37 +1,45 @@
 {
-  "updated": "2026-10-06T00:28:04Z",
+  "updated": "2026-10-06T00:38:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Let's talk DevOps and Hammunition|ISP Upgrade Soon! Cybersecurity,Rants,Chill,&Linux Gaming|10-5-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 12
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "EJ's Space and Rocket Revue! 10/5/26",
+      "title": "MONDAY WARDOGGIN! ALWAYS BLUE! 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 509
+      "viewers": 420
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "AI AGENTS KEEP MESSING UP !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 30
+      "viewers": 37
     },
     {
       "platform": "youtube",
       "name": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 10/5/26",
-      "link": "https://www.youtube.com/watch?v=ninqvNwzLw0",
-      "viewers": 138
+      "title": "MONDAY WARDOGGIN! ALWAYS BLUE! 10/5/26",
+      "link": "https://www.youtube.com/watch?v=ZoHBH5cbXjo",
+      "viewers": 15
     }
   ],
-  "viewers_total": 689,
+  "viewers_total": 482,
   "videos": [
+    {
+      "video_id": "ZoHBH5cbXjo",
+      "channel": "EJSA",
+      "title": "MONDAY WARDOGGIN! ALWAYS BLUE! 10/5/26",
+      "link": "https://www.youtube.com/watch?v=ZoHBH5cbXjo",
+      "published_at": "2026-10-06T00:33:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ZoHBH5cbXjo/hqdefault.jpg"
+    },
     {
       "video_id": "yUiVXhQb-Yk",
       "channel": "mbcrump",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=oz3_Wl2eQu0",
       "published_at": "2026-10-04T23:23:48+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oz3_Wl2eQu0/hqdefault.jpg"
-    },
-    {
-      "video_id": "F199_KrTF_4",
-      "channel": "LiveOverflow",
-      "title": "Security Through Complexity #shorts",
-      "link": "https://www.youtube.com/watch?v=F199_KrTF_4",
-      "published_at": "2026-10-04T22:02:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/F199_KrTF_4/hqdefault.jpg"
     }
   ]
 }
