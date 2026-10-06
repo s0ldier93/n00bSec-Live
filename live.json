@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T15:47:52Z",
+  "updated": "2026-10-06T16:08:03Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 26,
   "videos": [
+    {
+      "video_id": "qg4pksnIcJk",
+      "channel": "thecybermentor",
+      "title": "What Do Security Professionals Look for in Code?",
+      "link": "https://www.youtube.com/watch?v=qg4pksnIcJk",
+      "published_at": "2026-10-06T16:00:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qg4pksnIcJk/hqdefault.jpg"
+    },
     {
       "video_id": "1sIKm5Zyp3I",
       "channel": "ElPinguinoDeMario",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=R6RMQzkzATo",
       "published_at": "2026-10-05T16:00:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/R6RMQzkzATo/hqdefault.jpg"
-    },
-    {
-      "video_id": "8-qJbGd1j_Q",
-      "channel": "SecurityWeekly",
-      "title": "AI SOCs Need More Than AI",
-      "link": "https://www.youtube.com/watch?v=8-qJbGd1j_Q",
-      "published_at": "2026-10-05T14:00:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8-qJbGd1j_Q/hqdefault.jpg"
     }
   ]
 }
