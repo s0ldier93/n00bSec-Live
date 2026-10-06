@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-06T14:58:04Z",
+  "updated": "2026-10-06T15:08:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "LIVE TAKE HOME JOB INTERVIEW !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 30
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "Ask Me Anything (Cybersecurity / Business)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 18
+      "viewers": 17
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "Ask Me Anything (Cybersecurity / Business)",
       "link": "https://www.youtube.com/watch?v=ydu1aCZNvvo",
-      "viewers": 73
+      "viewers": 65
     }
   ],
-  "viewers_total": 121,
+  "viewers_total": 113,
   "videos": [
+    {
+      "video_id": "1sIKm5Zyp3I",
+      "channel": "ElPinguinoDeMario",
+      "title": "El RIESGO de Desarrollar IA en cuanto a la CIBERSEGURIDAD",
+      "link": "https://www.youtube.com/watch?v=1sIKm5Zyp3I",
+      "published_at": "2026-10-06T14:54:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1sIKm5Zyp3I/hqdefault.jpg"
+    },
     {
       "video_id": "P4Hnrep44mM",
       "channel": "HaxrByte",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=8-qJbGd1j_Q",
       "published_at": "2026-10-05T14:00:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8-qJbGd1j_Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "XpGoqylk0bk",
-      "channel": "team_whoami",
-      "title": "ensamblador ciclos",
-      "link": "https://www.youtube.com/watch?v=XpGoqylk0bk",
-      "published_at": "2026-10-05T13:00:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XpGoqylk0bk/hqdefault.jpg"
     }
   ]
 }
