@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:18:04Z",
+  "updated": "2026-10-06T20:28:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "endingwithali",
       "title": "VIBE CODE WITH ME !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 39
+      "viewers": 41
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #8",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 28
+      "viewers": 29
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
-      "viewers": 88
+      "viewers": 86
     }
   ],
-  "viewers_total": 702,
+  "viewers_total": 703,
   "videos": [
     {
       "video_id": "38M_MPhs_8k",
