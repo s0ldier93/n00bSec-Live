@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:23:32Z",
+  "updated": "2026-10-06T23:33:32Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "c04tl",
       "title": "Bloqueando anuncios de la red con Pi-Hole \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 601
+      "viewers": 586
     }
   ],
-  "viewers_total": 730,
+  "viewers_total": 716,
   "videos": [
     {
       "video_id": "Hacgs563YJM",
