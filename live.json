@@ -1,44 +1,45 @@
 {
-  "updated": "2026-10-06T20:08:05Z",
+  "updated": "2026-10-06T20:18:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 533
+      "viewers": 547
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODE WITH ME !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 44
+      "viewers": 39
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #8",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 33
-    },
-    {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "[KARAOKE] spooky songs",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
-      "viewers": 79
+      "viewers": 88
     }
   ],
-  "viewers_total": 716,
+  "viewers_total": 702,
   "videos": [
+    {
+      "video_id": "38M_MPhs_8k",
+      "channel": "mbcrump",
+      "title": "Avoid These Four PS5 Jailbreak Mistakes #Shorts",
+      "link": "https://www.youtube.com/watch?v=38M_MPhs_8k",
+      "published_at": "2026-10-06T20:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/38M_MPhs_8k/hqdefault.jpg"
+    },
     {
       "video_id": "qsradr6dAmc",
       "channel": "Khaos_Farbauti",
@@ -190,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=cQf8g0_KFsg",
       "published_at": "2026-10-05T20:00:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cQf8g0_KFsg/hqdefault.jpg"
-    },
-    {
-      "video_id": "njwyh0DG-TA",
-      "channel": "SecurityWeekly",
-      "title": "Pen Testing Isn\u2019t a Video Game",
-      "link": "https://www.youtube.com/watch?v=njwyh0DG-TA",
-      "published_at": "2026-10-05T19:00:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/njwyh0DG-TA/hqdefault.jpg"
     }
   ]
 }
