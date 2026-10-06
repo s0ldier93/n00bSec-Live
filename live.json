@@ -1,51 +1,59 @@
 {
-  "updated": "2026-10-06T17:58:04Z",
+  "updated": "2026-10-06T18:08:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 444
+      "viewers": 436
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODE WITH ME !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 41
+      "viewers": 44
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #8",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 26
+      "viewers": 36
     },
     {
       "platform": "twitch",
       "name": "MDISEC",
       "title": "MDI Experience | Konuk: Yagiz Nizipli Principal Engineer at SpaceXAI",
       "link": "https://twitch.tv/MDISEC",
-      "viewers": 47
+      "viewers": 49
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
-      "viewers": 81
+      "viewers": 74
     },
     {
       "platform": "youtube",
       "name": "MDISEC",
       "title": "Konuk : Yagiz Nizipli",
       "link": "https://www.youtube.com/watch?v=CgMyI2lG5xo",
-      "viewers": 124
+      "viewers": 136
     }
   ],
-  "viewers_total": 763,
+  "viewers_total": 775,
   "videos": [
+    {
+      "video_id": "5hcRwmxW3yQ",
+      "channel": "mbcrump",
+      "title": "PS5 Homebrew Emulation: RetroArch, PS5SX2 & Eden #Shorts",
+      "link": "https://www.youtube.com/watch?v=5hcRwmxW3yQ",
+      "published_at": "2026-10-06T18:00:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5hcRwmxW3yQ/hqdefault.jpg"
+    },
     {
       "video_id": "3-6IvBRsaTU",
       "channel": "EJSA",
@@ -197,14 +205,6 @@
       "link": "https://www.youtube.com/watch?v=tYrGrzZ-CEs",
       "published_at": "2026-10-05T17:19:53+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tYrGrzZ-CEs/hqdefault.jpg"
-    },
-    {
-      "video_id": "DfPdXKYF-hc",
-      "channel": "SecurityWeekly",
-      "title": "State of the AI SOC, regulating AI, and can AI agents feel pain? - Aqsa Taylor - ESW #479",
-      "link": "https://www.youtube.com/watch?v=DfPdXKYF-hc",
-      "published_at": "2026-10-05T17:11:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DfPdXKYF-hc/hqdefault.jpg"
     }
   ]
 }
