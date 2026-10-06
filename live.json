@@ -1,23 +1,38 @@
 {
-  "updated": "2026-10-06T16:18:03Z",
+  "updated": "2026-10-06T16:28:04Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ej_sa",
+      "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 49
+    },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "LIVE TAKE HOME JOB INTERVIEW !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 26
+      "viewers": 28
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #8",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 1
+      "viewers": 18
     }
   ],
-  "viewers_total": 27,
+  "viewers_total": 95,
   "videos": [
+    {
+      "video_id": "3-6IvBRsaTU",
+      "channel": "EJSA",
+      "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
+      "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
+      "published_at": "2026-10-06T16:24:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3-6IvBRsaTU/hqdefault.jpg"
+    },
     {
       "video_id": "WtreHmk506M",
       "channel": "mbcrump",
@@ -169,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=DfPdXKYF-hc",
       "published_at": "2026-10-05T17:11:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/DfPdXKYF-hc/hqdefault.jpg"
-    },
-    {
-      "video_id": "i2qvA7wOjvE",
-      "channel": "ElPinguinoDeMario",
-      "title": "Qu\u00e9 es John The Ripper y tu Utilidad en la Ciberseguridad",
-      "link": "https://www.youtube.com/watch?v=i2qvA7wOjvE",
-      "published_at": "2026-10-05T16:58:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/i2qvA7wOjvE/hqdefault.jpg"
     }
   ]
 }
