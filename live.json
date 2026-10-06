@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:08:04Z",
+  "updated": "2026-10-06T17:17:56Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,31 +13,38 @@
       "name": "endingwithali",
       "title": "VIBE CODE WITH ME !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 38
+      "viewers": 35
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #8",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 32
+      "viewers": 25
     },
     {
       "platform": "twitch",
       "name": "MDISEC",
       "title": "MDI Experience | Konuk: Yagiz Nizipli Principal Engineer at SpaceXAI",
       "link": "https://twitch.tv/MDISEC",
-      "viewers": 8
+      "viewers": 45
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
-      "viewers": 66
+      "viewers": 64
+    },
+    {
+      "platform": "youtube",
+      "name": "MDISEC",
+      "title": "Konuk : Yagiz Nizipli",
+      "link": "https://www.youtube.com/watch?v=CgMyI2lG5xo",
+      "viewers": 82
     }
   ],
-  "viewers_total": 460,
+  "viewers_total": 567,
   "videos": [
     {
       "video_id": "3-6IvBRsaTU",
