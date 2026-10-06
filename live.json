@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-06T19:18:06Z",
+  "updated": "2026-10-06T19:28:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 497
+      "viewers": 504
     },
     {
       "platform": "twitch",
@@ -20,24 +20,24 @@
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #8",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 35
+      "viewers": 38
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "[KARAOKE] spooky songs",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 25
+      "viewers": 24
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
-      "viewers": 83
+      "viewers": 81
     }
   ],
-  "viewers_total": 679,
+  "viewers_total": 686,
   "videos": [
     {
       "video_id": "qsradr6dAmc",
