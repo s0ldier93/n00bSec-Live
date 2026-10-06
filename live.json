@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-06T21:28:04Z",
+  "updated": "2026-10-06T21:38:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "alh4zr3d",
       "title": "Cthulhu Cthursday: Spicy Active Directory hacking via HacktheBox's \"Tombwatcher\"!",
       "link": "https://twitch.tv/alh4zr3d",
-      "viewers": 124
+      "viewers": 128
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 578
+      "viewers": 577
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
-      "viewers": 91
+      "viewers": 89
     }
   ],
-  "viewers_total": 793,
+  "viewers_total": 794,
   "videos": [
     {
       "video_id": "XaRystCwltc",
