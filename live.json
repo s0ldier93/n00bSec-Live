@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-06T00:08:04Z",
+  "updated": "2026-10-06T00:18:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Let's talk DevOps and Hammunition|ISP Upgrade Soon! Cybersecurity,Rants,Chill,&Linux Gaming|10-5-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 9
+      "viewers": 13
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 524
+      "viewers": 506
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "AI AGENTS KEEP MESSING UP !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 26
+      "viewers": 30
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "EJ's Space and Rocket Revue! 10/5/26",
       "link": "https://www.youtube.com/watch?v=ninqvNwzLw0",
-      "viewers": 167
+      "viewers": 168
     }
   ],
-  "viewers_total": 726,
+  "viewers_total": 717,
   "videos": [
     {
       "video_id": "yUiVXhQb-Yk",
