@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T07:58:03Z",
+  "updated": "2026-10-06T08:08:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 14,
   "videos": [
+    {
+      "video_id": "pwU0EmxP3hE",
+      "channel": "BySepa",
+      "title": "La ruta para trabajar en CIBERSEGURIDAD",
+      "link": "https://www.youtube.com/watch?v=pwU0EmxP3hE",
+      "published_at": "2026-10-06T08:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/pwU0EmxP3hE/hqdefault.jpg"
+    },
     {
       "video_id": "8vNidvKaP-g",
       "channel": "mbcrump",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=2PCwNzbgZYw",
       "published_at": "2026-10-05T08:30:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2PCwNzbgZYw/hqdefault.jpg"
-    },
-    {
-      "video_id": "DO26Ttclt98",
-      "channel": "Khaos_Farbauti",
-      "title": "JE PASSE MON FILS AU CONTROLE TECHNIQUE | State of Mind #2",
-      "link": "https://www.youtube.com/watch?v=DO26Ttclt98",
-      "published_at": "2026-10-05T05:35:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DO26Ttclt98/hqdefault.jpg"
     }
   ]
 }
