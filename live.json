@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-06T02:48:03Z",
+  "updated": "2026-10-06T02:58:03Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MONDAY WARDOGGIN! ALWAYS BLUE! 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 250
+      "viewers": 244
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "Filmed Threatwire !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 32
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "JUST US DJ'S - PROGRESSIVE / MELODIC MONDAY RAID TRAIN | ty: @hamooniii @infiltrate808",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 84
+      "viewers": 81
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "MONDAY WARDOGGIN! ALWAYS BLUE! 10/5/26",
       "link": "https://www.youtube.com/watch?v=ZoHBH5cbXjo",
-      "viewers": 27
+      "viewers": 22
     }
   ],
-  "viewers_total": 393,
+  "viewers_total": 378,
   "videos": [
     {
       "video_id": "8vNidvKaP-g",
