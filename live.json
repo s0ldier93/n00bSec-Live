@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-06T19:58:04Z",
+  "updated": "2026-10-06T20:08:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 518
+      "viewers": 533
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODE WITH ME !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 41
+      "viewers": 44
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "EJSA",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
-      "viewers": 78
+      "viewers": 79
     }
   ],
-  "viewers_total": 697,
+  "viewers_total": 716,
   "videos": [
     {
       "video_id": "qsradr6dAmc",
