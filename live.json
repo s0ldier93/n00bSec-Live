@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-06T10:58:04Z",
+  "updated": "2026-10-06T11:18:03Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "SLEEP TIME + HACKER STORIES  !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 12
+      "viewers": 11
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 11,
   "videos": [
+    {
+      "video_id": "qtQcP1TJt0Q",
+      "channel": "hack_smarter",
+      "title": "Part 4: Hacking Active Directory - (StellarComms)",
+      "link": "https://www.youtube.com/watch?v=qtQcP1TJt0Q",
+      "published_at": "2026-10-06T11:00:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qtQcP1TJt0Q/hqdefault.jpg"
+    },
     {
       "video_id": "40fWN-NJFck",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=dGaeG10fLUA",
       "published_at": "2026-10-05T09:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dGaeG10fLUA/hqdefault.jpg"
-    },
-    {
-      "video_id": "ucTfK7YdHNY",
-      "channel": "SecurityWeekly",
-      "title": "State of the AI SOC, regulating AI, and can AI agents feel pain? - Aqsa Taylor - ESW #479",
-      "link": "https://www.youtube.com/watch?v=ucTfK7YdHNY",
-      "published_at": "2026-10-05T09:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ucTfK7YdHNY/hqdefault.jpg"
     }
   ]
 }
