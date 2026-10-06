@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-06T22:13:32Z",
+  "updated": "2026-10-06T22:23:32Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "alh4zr3d",
       "title": "Cthulhu Cthursday: Spicy Active Directory hacking via HacktheBox's \"Tombwatcher\"!",
       "link": "https://twitch.tv/alh4zr3d",
-      "viewers": 151
+      "viewers": 144
     },
     {
       "platform": "twitch",
       "name": "c04tl",
-      "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
+      "title": "Bloqueando anuncios de la red \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
       "viewers": 1
     },
@@ -20,11 +20,27 @@
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 560
+      "viewers": 781
     }
   ],
-  "viewers_total": 712,
+  "viewers_total": 926,
   "videos": [
+    {
+      "video_id": "Hacgs563YJM",
+      "channel": "SecurityWeekly",
+      "title": "Passwordless Authentication Can Still Fail",
+      "link": "https://www.youtube.com/watch?v=Hacgs563YJM",
+      "published_at": "2026-10-06T22:00:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Hacgs563YJM/hqdefault.jpg"
+    },
+    {
+      "video_id": "-eqy-k7VSZM",
+      "channel": "mbcrump",
+      "title": "PS5 Homebrew Beginner Checklist #Shorts",
+      "link": "https://www.youtube.com/watch?v=-eqy-k7VSZM",
+      "published_at": "2026-10-06T22:00:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-eqy-k7VSZM/hqdefault.jpg"
+    },
     {
       "video_id": "XaRystCwltc",
       "channel": "SecurityWeekly",
@@ -168,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=8vNidvKaP-g",
       "published_at": "2026-10-06T01:09:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8vNidvKaP-g/hqdefault.jpg"
-    },
-    {
-      "video_id": "ZoHBH5cbXjo",
-      "channel": "EJSA",
-      "title": "MONDAY WARDOGGIN! ALWAYS BLUE! 10/5/26",
-      "link": "https://www.youtube.com/watch?v=ZoHBH5cbXjo",
-      "published_at": "2026-10-06T00:33:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ZoHBH5cbXjo/hqdefault.jpg"
-    },
-    {
-      "video_id": "yUiVXhQb-Yk",
-      "channel": "mbcrump",
-      "title": "Why PS5 Payload Manager Helps Beginners #Shorts",
-      "link": "https://www.youtube.com/watch?v=yUiVXhQb-Yk",
-      "published_at": "2026-10-05T22:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yUiVXhQb-Yk/hqdefault.jpg"
     }
   ]
 }
