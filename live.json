@@ -1,44 +1,60 @@
 {
-  "updated": "2026-10-06T19:08:05Z",
+  "updated": "2026-10-06T19:18:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 500
+      "viewers": 497
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "VIBE CODE WITH ME !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 44
+      "viewers": 39
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #8",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 38
+      "viewers": 35
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "[KARAOKE] spooky songs",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 24
+      "viewers": 25
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
-      "viewers": 85
+      "viewers": 83
     }
   ],
-  "viewers_total": 691,
+  "viewers_total": 679,
   "videos": [
+    {
+      "video_id": "qsradr6dAmc",
+      "channel": "Khaos_Farbauti",
+      "title": "Le dilemme du t\u00e9l\u00e9porteur",
+      "link": "https://www.youtube.com/watch?v=qsradr6dAmc",
+      "published_at": "2026-10-06T19:14:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qsradr6dAmc/hqdefault.jpg"
+    },
+    {
+      "video_id": "wyqnVNV98nw",
+      "channel": "SecurityWeekly",
+      "title": "Patch Faster or Reduce Risk?",
+      "link": "https://www.youtube.com/watch?v=wyqnVNV98nw",
+      "published_at": "2026-10-06T19:00:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wyqnVNV98nw/hqdefault.jpg"
+    },
     {
       "video_id": "5hcRwmxW3yQ",
       "channel": "mbcrump",
@@ -182,22 +198,6 @@
       "link": "https://www.youtube.com/watch?v=njwyh0DG-TA",
       "published_at": "2026-10-05T19:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/njwyh0DG-TA/hqdefault.jpg"
-    },
-    {
-      "video_id": "A4zGVG2bVxA",
-      "channel": "mbcrump",
-      "title": "kstuff-lite, ShadowMountPlus & nanoDNS Explained #Shorts",
-      "link": "https://www.youtube.com/watch?v=A4zGVG2bVxA",
-      "published_at": "2026-10-05T18:00:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/A4zGVG2bVxA/hqdefault.jpg"
-    },
-    {
-      "video_id": "tYrGrzZ-CEs",
-      "channel": "JohnHammond010",
-      "title": "PowerShell Payload Unpacked",
-      "link": "https://www.youtube.com/watch?v=tYrGrzZ-CEs",
-      "published_at": "2026-10-05T17:19:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tYrGrzZ-CEs/hqdefault.jpg"
     }
   ]
 }
