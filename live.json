@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-06T00:38:04Z",
+  "updated": "2026-10-06T00:48:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Let's talk DevOps and Hammunition|ISP Upgrade Soon! Cybersecurity,Rants,Chill,&Linux Gaming|10-5-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 10
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MONDAY WARDOGGIN! ALWAYS BLUE! 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 420
+      "viewers": 383
     },
     {
       "platform": "twitch",
       "name": "endingwithali",
-      "title": "AI AGENTS KEEP MESSING UP !jobathon day 5/?",
+      "title": "build OS YouTube tutorial while doing make-up !jobathon day 5/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 37
+      "viewers": 45
     },
     {
       "platform": "youtube",
       "name": "EJSA",
       "title": "MONDAY WARDOGGIN! ALWAYS BLUE! 10/5/26",
       "link": "https://www.youtube.com/watch?v=ZoHBH5cbXjo",
-      "viewers": 15
+      "viewers": 24
     }
   ],
-  "viewers_total": 482,
+  "viewers_total": 457,
   "videos": [
     {
       "video_id": "ZoHBH5cbXjo",
