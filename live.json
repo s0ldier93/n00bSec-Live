@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-06T00:18:04Z",
+  "updated": "2026-10-06T00:28:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Let's talk DevOps and Hammunition|ISP Upgrade Soon! Cybersecurity,Rants,Chill,&Linux Gaming|10-5-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 13
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/5/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 506
+      "viewers": 509
     },
     {
       "platform": "twitch",
@@ -27,10 +27,10 @@
       "name": "EJSA",
       "title": "EJ's Space and Rocket Revue! 10/5/26",
       "link": "https://www.youtube.com/watch?v=ninqvNwzLw0",
-      "viewers": 168
+      "viewers": 138
     }
   ],
-  "viewers_total": 717,
+  "viewers_total": 689,
   "videos": [
     {
       "video_id": "yUiVXhQb-Yk",
