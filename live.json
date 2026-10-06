@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-06T14:27:49Z",
+  "updated": "2026-10-06T14:38:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "LIVE TAKE HOME JOB INTERVIEW !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 49
+      "viewers": 44
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "Ask Me Anything (Cybersecurity / Business)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 9
+      "viewers": 16
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "Ask Me Anything (Cybersecurity / Business)",
       "link": "https://www.youtube.com/watch?v=ydu1aCZNvvo",
-      "viewers": 39
+      "viewers": 61
     }
   ],
-  "viewers_total": 97,
+  "viewers_total": 121,
   "videos": [
+    {
+      "video_id": "ydu1aCZNvvo",
+      "channel": "hack_smarter",
+      "title": "Ask Me Anything (Cybersecurity / Business)",
+      "link": "https://www.youtube.com/watch?v=ydu1aCZNvvo",
+      "published_at": "2026-10-06T14:20:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ydu1aCZNvvo/hqdefault.jpg"
+    },
     {
       "video_id": "GUpgYIBFXZ8",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=uoYslOzW7Sk",
       "published_at": "2026-10-05T12:45:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/uoYslOzW7Sk/hqdefault.jpg"
-    },
-    {
-      "video_id": "R_5rAERwzUM",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Tedious Work II - Adding Patterns of Numbers - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=R_5rAERwzUM",
-      "published_at": "2026-10-05T12:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/R_5rAERwzUM/hqdefault.jpg"
     }
   ]
 }
