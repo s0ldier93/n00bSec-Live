@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-06T12:58:03Z",
+  "updated": "2026-10-06T13:08:03Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "endingwithali",
       "title": "MORNING ROUTINE !morning  !jobathon day 6/?",
       "link": "https://twitch.tv/endingwithali",
-      "viewers": 23
+      "viewers": 26
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 6's Top Cyber News NOW! - Ep 1259",
       "link": "https://www.youtube.com/watch?v=8gjOcIfWt_Y",
-      "viewers": 367
+      "viewers": 342
     }
   ],
-  "viewers_total": 390,
+  "viewers_total": 368,
   "videos": [
+    {
+      "video_id": "oFb6ivHRscQ",
+      "channel": "team_whoami",
+      "title": "ensamblador funciones",
+      "link": "https://www.youtube.com/watch?v=oFb6ivHRscQ",
+      "published_at": "2026-10-06T13:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oFb6ivHRscQ/hqdefault.jpg"
+    },
     {
       "video_id": "qtQcP1TJt0Q",
       "channel": "hack_smarter",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=M1liz48ObIc",
       "published_at": "2026-10-05T11:00:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/M1liz48ObIc/hqdefault.jpg"
-    },
-    {
-      "video_id": "dGaeG10fLUA",
-      "channel": "jarnobaselier",
-      "title": "Hacking QuickTip 100 - AZPT, de AZure Pentesting-suiTe",
-      "link": "https://www.youtube.com/watch?v=dGaeG10fLUA",
-      "published_at": "2026-10-05T09:00:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dGaeG10fLUA/hqdefault.jpg"
     }
   ]
 }
