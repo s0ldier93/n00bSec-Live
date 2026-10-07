@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T06:47:55Z",
+  "updated": "2026-10-07T06:57:55Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "censoredHacker",
       "title": "AWS CCP: Module 10 - Monitoring, Compliance and Governance",
       "link": "https://www.youtube.com/watch?v=EEu-XBAjM-Q",
-      "viewers": 4
+      "viewers": 5
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "AIflFk6tG4I",
