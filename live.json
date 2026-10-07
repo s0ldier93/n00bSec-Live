@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T13:07:55Z",
+  "updated": "2026-10-07T13:17:56Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,18 +13,26 @@
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 7's Top Cyber News NOW! - Ep 1260",
       "link": "https://www.youtube.com/watch?v=aRZDpYNmsJw",
-      "viewers": 283
+      "viewers": 262
     }
   ],
-  "viewers_total": 775,
+  "viewers_total": 755,
   "videos": [
+    {
+      "video_id": "IBpw-GJ7zoA",
+      "channel": "HackerMentor",
+      "title": "Clase extra - Ethical Hacking  una empresa",
+      "link": "https://www.youtube.com/watch?v=IBpw-GJ7zoA",
+      "published_at": "2026-10-07T13:13:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IBpw-GJ7zoA/hqdefault.jpg"
+    },
     {
       "video_id": "1sB95-QhQGU",
       "channel": "JohnHammond010",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=P4Hnrep44mM",
       "published_at": "2026-10-06T14:45:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/P4Hnrep44mM/hqdefault.jpg"
-    },
-    {
-      "video_id": "ydu1aCZNvvo",
-      "channel": "hack_smarter",
-      "title": "Ask Me Anything (Cybersecurity / Business)",
-      "link": "https://www.youtube.com/watch?v=ydu1aCZNvvo",
-      "published_at": "2026-10-06T14:20:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ydu1aCZNvvo/hqdefault.jpg"
     }
   ]
 }
