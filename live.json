@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-07T00:03:32Z",
+  "updated": "2026-10-07T00:13:33Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "alh4zr3d",
       "title": "Newbie Tuesday: Hacking TryHackMe's \"Proxy\"!",
       "link": "https://twitch.tv/alh4zr3d",
-      "viewers": 99
+      "viewers": 95
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Bloqueando anuncios de la red con Pi-Hole \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 543
     }
   ],
-  "viewers_total": 644,
+  "viewers_total": 641,
   "videos": [
     {
       "video_id": "Hacgs563YJM",
