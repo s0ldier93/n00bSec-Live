@@ -1,23 +1,39 @@
 {
-  "updated": "2026-10-07T14:07:56Z",
+  "updated": "2026-10-07T14:17:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew 12 Undocking and Ship 40 Arrival Revue! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 554
+      "viewers": 556
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 4
+      "viewers": 7
     }
   ],
-  "viewers_total": 558,
+  "viewers_total": 563,
   "videos": [
+    {
+      "video_id": "4QjVIgKkp60",
+      "channel": "SecurityWeekly",
+      "title": "Your Data Is Already Vulnerable",
+      "link": "https://www.youtube.com/watch?v=4QjVIgKkp60",
+      "published_at": "2026-10-07T14:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4QjVIgKkp60/hqdefault.jpg"
+    },
+    {
+      "video_id": "H9jby9JX1b0",
+      "channel": "LowLevelTV",
+      "title": "we need to do better.",
+      "link": "https://www.youtube.com/watch?v=H9jby9JX1b0",
+      "published_at": "2026-10-07T13:56:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/H9jby9JX1b0/hqdefault.jpg"
+    },
     {
       "video_id": "IBpw-GJ7zoA",
       "channel": "HackerMentor",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=qg4pksnIcJk",
       "published_at": "2026-10-06T16:00:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qg4pksnIcJk/hqdefault.jpg"
-    },
-    {
-      "video_id": "1sIKm5Zyp3I",
-      "channel": "ElPinguinoDeMario",
-      "title": "El RIESGO de Desarrollar IA en cuanto a la CIBERSEGURIDAD",
-      "link": "https://www.youtube.com/watch?v=1sIKm5Zyp3I",
-      "published_at": "2026-10-06T14:54:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1sIKm5Zyp3I/hqdefault.jpg"
-    },
-    {
-      "video_id": "P4Hnrep44mM",
-      "channel": "HaxrByte",
-      "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (08 Oct 2026)",
-      "link": "https://www.youtube.com/watch?v=P4Hnrep44mM",
-      "published_at": "2026-10-06T14:45:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/P4Hnrep44mM/hqdefault.jpg"
     }
   ]
 }
