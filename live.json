@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-07T14:57:56Z",
+  "updated": "2026-10-07T15:17:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew 12 Undocking and Ship 40 Arrival Revue! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 620
+      "viewers": 636
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 626,
+  "viewers_total": 642,
   "videos": [
     {
       "video_id": "4QjVIgKkp60",
