@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-07T16:27:06Z",
+  "updated": "2026-10-07T17:17:14Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "zr6w1Py8B6M",
+      "channel": "SecurityWeekly",
+      "title": "Your AI Assistant Comes to Work",
+      "link": "https://www.youtube.com/watch?v=zr6w1Py8B6M",
+      "published_at": "2026-10-07T17:00:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zr6w1Py8B6M/hqdefault.jpg"
+    },
     {
       "video_id": "tbu4XoYcfrk",
       "channel": "ElPinguinoDeMario",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=wyqnVNV98nw",
       "published_at": "2026-10-06T19:00:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wyqnVNV98nw/hqdefault.jpg"
-    },
-    {
-      "video_id": "5hcRwmxW3yQ",
-      "channel": "mbcrump",
-      "title": "PS5 Homebrew Emulation: RetroArch, PS5SX2 & Eden #Shorts",
-      "link": "https://www.youtube.com/watch?v=5hcRwmxW3yQ",
-      "published_at": "2026-10-06T18:00:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5hcRwmxW3yQ/hqdefault.jpg"
     }
   ]
 }
