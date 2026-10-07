@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-07T15:57:56Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "fixit42",
-      "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
-      "link": "https://twitch.tv/fixit42",
-      "viewers": 5
-    }
-  ],
-  "viewers_total": 5,
+  "updated": "2026-10-07T16:07:57Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "GFf215C6zU8",
+      "channel": "LuNiZz",
+      "title": "Bir fikir soyledik, ortaya sirket cikti!!!",
+      "link": "https://www.youtube.com/watch?v=GFf215C6zU8",
+      "published_at": "2026-10-07T16:00:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GFf215C6zU8/hqdefault.jpg"
+    },
     {
       "video_id": "dYakJmeCAuw",
       "channel": "EJSA",
@@ -162,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=3-6IvBRsaTU",
       "published_at": "2026-10-06T16:24:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/3-6IvBRsaTU/hqdefault.jpg"
-    },
-    {
-      "video_id": "WtreHmk506M",
-      "channel": "mbcrump",
-      "title": "Your First PS5 Jailbreak Session: The Order #Shorts",
-      "link": "https://www.youtube.com/watch?v=WtreHmk506M",
-      "published_at": "2026-10-06T16:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WtreHmk506M/hqdefault.jpg"
     }
   ]
 }
