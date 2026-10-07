@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-07T09:07:57Z",
+  "updated": "2026-10-07T09:17:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 5
+      "viewers": 3
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "OEYI2cejEaM",
+      "channel": "SecurityWeekly",
+      "title": "Building Quantum Safe Security as AI Safety and Governance Won't Save You - BSW #468",
+      "link": "https://www.youtube.com/watch?v=OEYI2cejEaM",
+      "published_at": "2026-10-07T09:00:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/OEYI2cejEaM/hqdefault.jpg"
+    },
     {
       "video_id": "krxj5PhHrDI",
       "channel": "BySepa",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=qtQcP1TJt0Q",
       "published_at": "2026-10-06T11:00:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qtQcP1TJt0Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "40fWN-NJFck",
-      "channel": "SecurityWeekly",
-      "title": "Getting Granular with Access, Attributes, and Intent - Alex Olivier - ASW #403",
-      "link": "https://www.youtube.com/watch?v=40fWN-NJFck",
-      "published_at": "2026-10-06T09:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/40fWN-NJFck/hqdefault.jpg"
     }
   ]
 }
