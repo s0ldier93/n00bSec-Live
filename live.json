@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-07T01:43:00Z",
+  "updated": "2026-10-07T01:43:32Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 478
-    },
     {
       "platform": "twitch",
       "name": "irasakai",
@@ -16,7 +9,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 479,
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "AIflFk6tG4I",
