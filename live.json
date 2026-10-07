@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T13:27:55Z",
+  "updated": "2026-10-07T13:37:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,10 @@
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 7
-    },
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 7's Top Cyber News NOW! - Ep 1260",
-      "link": "https://www.youtube.com/watch?v=aRZDpYNmsJw",
-      "viewers": 240
+      "viewers": 6
     }
   ],
-  "viewers_total": 757,
+  "viewers_total": 516,
   "videos": [
     {
       "video_id": "IBpw-GJ7zoA",
