@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-07T22:47:57Z",
+  "updated": "2026-10-07T22:57:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "CyberInfoHQ",
       "title": "NODE: PROTOCOL - Hacking for fun and profit! | Streamer: w33t",
       "link": "https://twitch.tv/CyberInfoHQ",
-      "viewers": 5
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 540
+      "viewers": 525
     }
   ],
-  "viewers_total": 545,
+  "viewers_total": 532,
   "videos": [
+    {
+      "video_id": "MbKoFnZXnv0",
+      "channel": "Cyber_Insecurity",
+      "title": "Could you spot a deepfake? Soon, nobody can.",
+      "link": "https://www.youtube.com/watch?v=MbKoFnZXnv0",
+      "published_at": "2026-10-07T22:55:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MbKoFnZXnv0/hqdefault.jpg"
+    },
     {
       "video_id": "USfUOlS38uc",
       "channel": "SecurityWeekly",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=-eqy-k7VSZM",
       "published_at": "2026-10-06T22:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-eqy-k7VSZM/hqdefault.jpg"
-    },
-    {
-      "video_id": "XaRystCwltc",
-      "channel": "SecurityWeekly",
-      "title": "Typing, textGrain, NetScaler, Fortinet, Copilot, LibreOffice, Dots, Aaran Leyland - SWN #622",
-      "link": "https://www.youtube.com/watch?v=XaRystCwltc",
-      "published_at": "2026-10-06T21:00:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XaRystCwltc/hqdefault.jpg"
     }
   ]
 }
