@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-07T05:17:56Z",
+  "updated": "2026-10-07T05:27:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Galactic Racer",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-WORKING LIVE! Learning C /w W3Schools",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 34
+      "viewers": 36
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-WORKING LIVE! Learning C /w Leetcode",
       "link": "https://www.youtube.com/watch?v=kk19MyeBIlI",
-      "viewers": 5
+      "viewers": 8
     }
   ],
-  "viewers_total": 43,
+  "viewers_total": 47,
   "videos": [
     {
       "video_id": "AIflFk6tG4I",
