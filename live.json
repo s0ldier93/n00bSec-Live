@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T00:53:32Z",
+  "updated": "2026-10-07T01:03:32Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "c04tl",
       "title": "Bloqueando anuncios de la red con Pi-Hole \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 504
+      "viewers": 480
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, strings",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 0
+      "viewers": 1
     }
   ],
-  "viewers_total": 615,
+  "viewers_total": 593,
   "videos": [
     {
       "video_id": "Hacgs563YJM",
