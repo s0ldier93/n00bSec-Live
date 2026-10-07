@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-07T14:17:56Z",
+  "updated": "2026-10-07T14:27:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew 12 Undocking and Ship 40 Arrival Revue! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 556
+      "viewers": 538
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 7
+      "viewers": 3
     }
   ],
-  "viewers_total": 563,
+  "viewers_total": 541,
   "videos": [
     {
       "video_id": "4QjVIgKkp60",
