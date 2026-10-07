@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-07T21:17:56Z",
+  "updated": "2026-10-07T21:27:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "REACTING TO TECH CULTURE | cozy + canadian",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 680
+      "viewers": 642
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "ej_sa",
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 524
+      "viewers": 543
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charla con Fran Amato - Co-Fundador de Ekoparty y Faraday -",
       "link": "https://www.youtube.com/watch?v=8tcS1oWtViw",
-      "viewers": 3
+      "viewers": 6
     }
   ],
-  "viewers_total": 1208,
+  "viewers_total": 1192,
   "videos": [
     {
       "video_id": "USfUOlS38uc",
