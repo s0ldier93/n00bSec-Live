@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-07T07:17:55Z",
+  "updated": "2026-10-07T08:07:05Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "krxj5PhHrDI",
+      "channel": "BySepa",
+      "title": "\u00a1NO TE F\u00cdES de los titulos de los puestos en Ciberseguridad!",
+      "link": "https://www.youtube.com/watch?v=krxj5PhHrDI",
+      "published_at": "2026-10-07T08:00:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/krxj5PhHrDI/hqdefault.jpg"
+    },
     {
       "video_id": "AIflFk6tG4I",
       "channel": "FixIt42",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=40fWN-NJFck",
       "published_at": "2026-10-06T09:00:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/40fWN-NJFck/hqdefault.jpg"
-    },
-    {
-      "video_id": "pwU0EmxP3hE",
-      "channel": "BySepa",
-      "title": "La ruta para trabajar en CIBERSEGURIDAD",
-      "link": "https://www.youtube.com/watch?v=pwU0EmxP3hE",
-      "published_at": "2026-10-06T08:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/pwU0EmxP3hE/hqdefault.jpg"
     }
   ]
 }
