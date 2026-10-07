@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T12:37:55Z",
+  "updated": "2026-10-07T12:47:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 314
     }
   ],
-  "viewers_total": 660,
+  "viewers_total": 661,
   "videos": [
+    {
+      "video_id": "1sB95-QhQGU",
+      "channel": "JohnHammond010",
+      "title": "Just Hacking Training Turns 2!",
+      "link": "https://www.youtube.com/watch?v=1sB95-QhQGU",
+      "published_at": "2026-10-07T12:36:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1sB95-QhQGU/hqdefault.jpg"
+    },
     {
       "video_id": "wP4keLbFFL0",
       "channel": "Khaos_Farbauti",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=ydu1aCZNvvo",
       "published_at": "2026-10-06T14:20:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ydu1aCZNvvo/hqdefault.jpg"
-    },
-    {
-      "video_id": "GUpgYIBFXZ8",
-      "channel": "SecurityWeekly",
-      "title": "Your Permissions Can Betray You",
-      "link": "https://www.youtube.com/watch?v=GUpgYIBFXZ8",
-      "published_at": "2026-10-06T14:00:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GUpgYIBFXZ8/hqdefault.jpg"
     }
   ]
 }
