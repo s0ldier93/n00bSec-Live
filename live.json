@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-07T00:13:33Z",
+  "updated": "2026-10-07T00:23:32Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "alh4zr3d",
       "title": "Newbie Tuesday: Hacking TryHackMe's \"Proxy\"!",
       "link": "https://twitch.tv/alh4zr3d",
-      "viewers": 95
+      "viewers": 102
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 543
+      "viewers": 536
     }
   ],
   "viewers_total": 641,
