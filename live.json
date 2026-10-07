@@ -1,22 +1,29 @@
 {
-  "updated": "2026-10-07T05:47:55Z",
+  "updated": "2026-10-07T05:57:57Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "censoredHacker",
+      "title": "AWS CCP: Module 10 - Monitoring, Compliance and Governance",
+      "link": "https://twitch.tv/censoredHacker",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-WORKING LIVE! Learning C /w W3Schools",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 25
+      "viewers": 23
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-WORKING LIVE! Learning C /w Leetcode",
       "link": "https://www.youtube.com/watch?v=kk19MyeBIlI",
-      "viewers": 11
+      "viewers": 10
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 33,
   "videos": [
     {
       "video_id": "AIflFk6tG4I",
