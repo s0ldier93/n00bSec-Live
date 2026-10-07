@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-07T02:33:31Z",
+  "updated": "2026-10-07T02:43:31Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Galactic Racer",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "AIflFk6tG4I",
