@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-07T22:07:56Z",
+  "updated": "2026-10-07T22:17:56Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "bashbunni",
-      "title": "REACTING TO TECH CULTURE | cozy + canadian",
-      "link": "https://twitch.tv/bashbunni",
-      "viewers": 593
-    },
     {
       "platform": "twitch",
       "name": "BySepa",
@@ -20,24 +13,24 @@
       "name": "CyberInfoHQ",
       "title": "NODE: PROTOCOL - Hacking for fun and profit! | Streamer: w33t",
       "link": "https://twitch.tv/CyberInfoHQ",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 543
+      "viewers": 537
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charla con Fran Amato - Co-Fundador de Ekoparty y Faraday -",
       "link": "https://www.youtube.com/watch?v=8tcS1oWtViw",
-      "viewers": 9
+      "viewers": 6
     }
   ],
-  "viewers_total": 1149,
+  "viewers_total": 548,
   "videos": [
     {
       "video_id": "USfUOlS38uc",
