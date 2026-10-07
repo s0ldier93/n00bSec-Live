@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T21:07:31Z",
+  "updated": "2026-10-07T21:07:57Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ej_sa",
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 508
+      "viewers": 502
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 1236,
+  "viewers_total": 1230,
   "videos": [
     {
       "video_id": "13pP-IqS-mo",
