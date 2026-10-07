@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-07T23:07:56Z",
+  "updated": "2026-10-07T23:17:56Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "BHIS - Talkin' Bout [infosec] News 2026-10-07",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "CyberInfoHQ",
@@ -13,10 +20,10 @@
       "name": "ej_sa",
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 522
+      "viewers": 527
     }
   ],
-  "viewers_total": 527,
+  "viewers_total": 532,
   "videos": [
     {
       "video_id": "MbKoFnZXnv0",
