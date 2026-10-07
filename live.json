@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-07T12:27:56Z",
+  "updated": "2026-10-07T12:37:55Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew 12 Undocking and Ship 40 Arrival Revue! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 314
+      "viewers": 341
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 7's Top Cyber News NOW! - Ep 1260",
       "link": "https://www.youtube.com/watch?v=aRZDpYNmsJw",
-      "viewers": 281
+      "viewers": 314
     }
   ],
-  "viewers_total": 598,
+  "viewers_total": 660,
   "videos": [
+    {
+      "video_id": "wP4keLbFFL0",
+      "channel": "Khaos_Farbauti",
+      "title": "Comment hacker un LLM",
+      "link": "https://www.youtube.com/watch?v=wP4keLbFFL0",
+      "published_at": "2026-10-07T12:18:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wP4keLbFFL0/hqdefault.jpg"
+    },
     {
       "video_id": "xc_b_w73YQk",
       "channel": "EJSA",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=GUpgYIBFXZ8",
       "published_at": "2026-10-06T14:00:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GUpgYIBFXZ8/hqdefault.jpg"
-    },
-    {
-      "video_id": "oFb6ivHRscQ",
-      "channel": "team_whoami",
-      "title": "ensamblador funciones",
-      "link": "https://www.youtube.com/watch?v=oFb6ivHRscQ",
-      "published_at": "2026-10-06T13:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oFb6ivHRscQ/hqdefault.jpg"
     }
   ]
 }
