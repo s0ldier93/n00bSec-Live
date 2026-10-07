@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-07T12:07:56Z",
+  "updated": "2026-10-07T12:17:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew 12 Undocking and Ship 40 Arrival Revue! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 4
+      "viewers": 215
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 7's Top Cyber News NOW! - Ep 1260",
       "link": "https://www.youtube.com/watch?v=aRZDpYNmsJw",
-      "viewers": 155
+      "viewers": 219
     }
   ],
-  "viewers_total": 162,
+  "viewers_total": 440,
   "videos": [
+    {
+      "video_id": "xc_b_w73YQk",
+      "channel": "EJSA",
+      "title": "EJ's Crew 12 Undocking and Ship 40 Arrival Revue! 10/7/26",
+      "link": "https://www.youtube.com/watch?v=xc_b_w73YQk",
+      "published_at": "2026-10-07T12:04:57+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xc_b_w73YQk/hqdefault.jpg"
+    },
     {
       "video_id": "OEYI2cejEaM",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=oFb6ivHRscQ",
       "published_at": "2026-10-06T13:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oFb6ivHRscQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "qtQcP1TJt0Q",
-      "channel": "hack_smarter",
-      "title": "Part 4: Hacking Active Directory - (StellarComms)",
-      "link": "https://www.youtube.com/watch?v=qtQcP1TJt0Q",
-      "published_at": "2026-10-06T11:00:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qtQcP1TJt0Q/hqdefault.jpg"
     }
   ]
 }
