@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T23:37:56Z",
+  "updated": "2026-10-07T23:47:57Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "CyberInfoHQ",
       "title": "NODE: PROTOCOL - Hacking for fun and profit! | Streamer: w33t",
       "link": "https://twitch.tv/CyberInfoHQ",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
+      "title": "WEDNESDAY NIGHT CONFLICT PUPPIES! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 518
+      "viewers": 472
     }
   ],
-  "viewers_total": 522,
+  "viewers_total": 477,
   "videos": [
     {
       "video_id": "MbKoFnZXnv0",
