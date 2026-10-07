@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T23:47:57Z",
+  "updated": "2026-10-07T23:57:22Z",
   "streams": [
     {
       "platform": "twitch",
@@ -25,6 +25,14 @@
   ],
   "viewers_total": 477,
   "videos": [
+    {
+      "video_id": "P1c-bnDV2Xo",
+      "channel": "EJSA",
+      "title": "WEDNESDAY NIGHT CONFLICT PUPPIES! 10/7/26",
+      "link": "https://www.youtube.com/watch?v=P1c-bnDV2Xo",
+      "published_at": "2026-10-07T23:46:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/P1c-bnDV2Xo/hqdefault.jpg"
+    },
     {
       "video_id": "MbKoFnZXnv0",
       "channel": "Cyber_Insecurity",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=Hacgs563YJM",
       "published_at": "2026-10-06T22:00:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Hacgs563YJM/hqdefault.jpg"
-    },
-    {
-      "video_id": "-eqy-k7VSZM",
-      "channel": "mbcrump",
-      "title": "PS5 Homebrew Beginner Checklist #Shorts",
-      "link": "https://www.youtube.com/watch?v=-eqy-k7VSZM",
-      "published_at": "2026-10-06T22:00:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-eqy-k7VSZM/hqdefault.jpg"
     }
   ]
 }
