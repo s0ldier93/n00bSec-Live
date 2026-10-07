@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-07T13:17:56Z",
+  "updated": "2026-10-07T13:27:55Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew 12 Undocking and Ship 40 Arrival Revue! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 487
+      "viewers": 510
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 6
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 7's Top Cyber News NOW! - Ep 1260",
       "link": "https://www.youtube.com/watch?v=aRZDpYNmsJw",
-      "viewers": 262
+      "viewers": 240
     }
   ],
-  "viewers_total": 755,
+  "viewers_total": 757,
   "videos": [
     {
       "video_id": "IBpw-GJ7zoA",
