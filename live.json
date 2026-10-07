@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-07T18:57:58Z",
+  "updated": "2026-10-07T19:07:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 356
+      "viewers": 370
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making VTUBERS",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 23
+      "viewers": 33
     }
   ],
-  "viewers_total": 379,
+  "viewers_total": 403,
   "videos": [
+    {
+      "video_id": "8tcS1oWtViw",
+      "channel": "BySepa",
+      "title": "Charla con Fran Amato - Co-Fundador de Ekoparty y Faraday - #hacktheplanet #teaminvierno",
+      "link": "https://www.youtube.com/watch?v=8tcS1oWtViw",
+      "published_at": "2026-10-07T18:57:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8tcS1oWtViw/hqdefault.jpg"
+    },
     {
       "video_id": "zr6w1Py8B6M",
       "channel": "SecurityWeekly",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=qsradr6dAmc",
       "published_at": "2026-10-06T19:14:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qsradr6dAmc/hqdefault.jpg"
-    },
-    {
-      "video_id": "wyqnVNV98nw",
-      "channel": "SecurityWeekly",
-      "title": "Patch Faster or Reduce Risk?",
-      "link": "https://www.youtube.com/watch?v=wyqnVNV98nw",
-      "published_at": "2026-10-06T19:00:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wyqnVNV98nw/hqdefault.jpg"
     }
   ]
 }
