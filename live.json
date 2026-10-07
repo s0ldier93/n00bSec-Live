@@ -1,19 +1,12 @@
 {
-  "updated": "2026-10-07T01:13:32Z",
+  "updated": "2026-10-07T01:23:32Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 497
-    },
-    {
-      "platform": "twitch",
-      "name": "het_tanis",
-      "title": "Hanging out and playing video games with the ProLUG.",
-      "link": "https://twitch.tv/het_tanis",
-      "viewers": 6
+      "viewers": 495
     },
     {
       "platform": "twitch",
@@ -30,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 505,
+  "viewers_total": 497,
   "videos": [
     {
       "video_id": "Hacgs563YJM",
