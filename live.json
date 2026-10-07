@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-07T15:37:57Z",
+  "updated": "2026-10-07T15:47:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 3
+      "viewers": 8
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 8,
   "videos": [
+    {
+      "video_id": "dYakJmeCAuw",
+      "channel": "EJSA",
+      "title": "EJ's Space and Ship 40 Arrival Revue! 10/7/26",
+      "link": "https://www.youtube.com/watch?v=dYakJmeCAuw",
+      "published_at": "2026-10-07T15:32:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dYakJmeCAuw/hqdefault.jpg"
+    },
     {
       "video_id": "4QjVIgKkp60",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=WtreHmk506M",
       "published_at": "2026-10-06T16:00:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/WtreHmk506M/hqdefault.jpg"
-    },
-    {
-      "video_id": "qg4pksnIcJk",
-      "channel": "thecybermentor",
-      "title": "What Do Security Professionals Look for in Code?",
-      "link": "https://www.youtube.com/watch?v=qg4pksnIcJk",
-      "published_at": "2026-10-06T16:00:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qg4pksnIcJk/hqdefault.jpg"
     }
   ]
 }
