@@ -1,37 +1,45 @@
 {
-  "updated": "2026-10-07T21:07:57Z",
+  "updated": "2026-10-07T21:17:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "REACTING TO TECH CULTURE | cozy + canadian",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 724
+      "viewers": 680
     },
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charla con Fran Amato - Co-Fundador de Ekoparty y Faraday - #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 502
+      "viewers": 524
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charla con Fran Amato - Co-Fundador de Ekoparty y Faraday -",
       "link": "https://www.youtube.com/watch?v=8tcS1oWtViw",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 1230,
+  "viewers_total": 1208,
   "videos": [
+    {
+      "video_id": "USfUOlS38uc",
+      "channel": "SecurityWeekly",
+      "title": "AI Governance Needs More Than Checkboxes",
+      "link": "https://www.youtube.com/watch?v=USfUOlS38uc",
+      "published_at": "2026-10-07T21:00:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/USfUOlS38uc/hqdefault.jpg"
+    },
     {
       "video_id": "13pP-IqS-mo",
       "channel": "mbcrump",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=XaRystCwltc",
       "published_at": "2026-10-06T21:00:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XaRystCwltc/hqdefault.jpg"
-    },
-    {
-      "video_id": "kk19MyeBIlI",
-      "channel": "TheShyHat",
-      "title": "CYBERSECURITY CO-WORKING LIVE! Learning C /w W3Schools",
-      "link": "https://www.youtube.com/watch?v=kk19MyeBIlI",
-      "published_at": "2026-10-06T20:59:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/kk19MyeBIlI/hqdefault.jpg"
     }
   ]
 }
