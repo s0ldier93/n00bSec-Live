@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-07T17:37:57Z",
+  "updated": "2026-10-07T17:47:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "soup eating stream",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 19
+      "viewers": 20
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 20,
   "videos": [
     {
       "video_id": "zr6w1Py8B6M",
