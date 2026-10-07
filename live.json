@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T22:17:56Z",
+  "updated": "2026-10-07T22:27:24Z",
   "streams": [
     {
       "platform": "twitch",
@@ -21,16 +21,9 @@
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 537
-    },
-    {
-      "platform": "youtube",
-      "name": "BySepa",
-      "title": "Charla con Fran Amato - Co-Fundador de Ekoparty y Faraday -",
-      "link": "https://www.youtube.com/watch?v=8tcS1oWtViw",
-      "viewers": 6
     }
   ],
-  "viewers_total": 548,
+  "viewers_total": 542,
   "videos": [
     {
       "video_id": "USfUOlS38uc",
