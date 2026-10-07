@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-07T20:17:57Z",
+  "updated": "2026-10-07T20:27:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "REACTING TO TECH CULTURE | cozy + canadian",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 519
+      "viewers": 664
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 476
+      "viewers": 510
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making VTUBERS",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 29
     }
   ],
-  "viewers_total": 1023,
+  "viewers_total": 1203,
   "videos": [
     {
       "video_id": "13pP-IqS-mo",
