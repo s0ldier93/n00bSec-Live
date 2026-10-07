@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T00:33:32Z",
+  "updated": "2026-10-07T00:43:32Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,10 +20,24 @@
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 538
+      "viewers": 542
+    },
+    {
+      "platform": "twitch",
+      "name": "het_tanis",
+      "title": "Hanging out and playing video games with the ProLUG.",
+      "link": "https://twitch.tv/het_tanis",
+      "viewers": 3
+    },
+    {
+      "platform": "twitch",
+      "name": "team_whoami",
+      "title": "Lenguaje ensamblador, strings",
+      "link": "https://twitch.tv/team_whoami",
+      "viewers": 0
     }
   ],
-  "viewers_total": 640,
+  "viewers_total": 647,
   "videos": [
     {
       "video_id": "Hacgs563YJM",
