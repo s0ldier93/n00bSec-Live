@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-07T03:13:32Z",
+  "updated": "2026-10-07T03:17:26Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Galactic Racer",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-WORKING LIVE! Learning C /w Leetcode",
       "link": "https://www.youtube.com/watch?v=kk19MyeBIlI",
-      "viewers": 9
+      "viewers": 5
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 22,
   "videos": [
     {
       "video_id": "AIflFk6tG4I",
