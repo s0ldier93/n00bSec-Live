@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-07T11:07:57Z",
+  "updated": "2026-10-07T11:17:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Building Obs on Kali Linux! :) Will the camera play nice?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 4
+      "viewers": 6
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 6,
   "videos": [
     {
       "video_id": "OEYI2cejEaM",
