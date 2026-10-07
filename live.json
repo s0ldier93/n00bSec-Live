@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T02:53:31Z",
+  "updated": "2026-10-07T03:03:32Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-WORKING LIVE! Learning C /w W3Schools",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 1
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "AIflFk6tG4I",
