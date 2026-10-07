@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-07T20:07:57Z",
+  "updated": "2026-10-07T20:17:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "REACTING TO TECH CULTURE | cozy + canadian",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 588
+      "viewers": 519
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 477
+      "viewers": 476
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making VTUBERS",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 28
     }
   ],
-  "viewers_total": 1094,
+  "viewers_total": 1023,
   "videos": [
+    {
+      "video_id": "13pP-IqS-mo",
+      "channel": "mbcrump",
+      "title": "PS5SX2 Setup Guide: Play PS2 Games on a Jailbroken PS5 (13.60 Test)",
+      "link": "https://www.youtube.com/watch?v=13pP-IqS-mo",
+      "published_at": "2026-10-07T20:11:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/13pP-IqS-mo/hqdefault.jpg"
+    },
     {
       "video_id": "DmbaxGSK-xE",
       "channel": "TheShyHat",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=kk19MyeBIlI",
       "published_at": "2026-10-06T20:59:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kk19MyeBIlI/hqdefault.jpg"
-    },
-    {
-      "video_id": "38M_MPhs_8k",
-      "channel": "mbcrump",
-      "title": "Avoid These Four PS5 Jailbreak Mistakes #Shorts",
-      "link": "https://www.youtube.com/watch?v=38M_MPhs_8k",
-      "published_at": "2026-10-06T20:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/38M_MPhs_8k/hqdefault.jpg"
     }
   ]
 }
