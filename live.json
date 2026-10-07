@@ -1,33 +1,26 @@
 {
-  "updated": "2026-10-07T01:03:32Z",
+  "updated": "2026-10-07T01:13:32Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "alh4zr3d",
-      "title": "Newbie Tuesday: Hacking TryHackMe's \"Proxy\"!",
-      "link": "https://twitch.tv/alh4zr3d",
-      "viewers": 98
-    },
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Bloqueando anuncios de la red con Pi-Hole \ud83e\udd75\ud83e\udd75",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 4
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 480
+      "viewers": 497
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 10
+      "viewers": 6
+    },
+    {
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "Galactic Racer",
+      "link": "https://twitch.tv/irasakai",
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 593,
+  "viewers_total": 505,
   "videos": [
     {
       "video_id": "Hacgs563YJM",
