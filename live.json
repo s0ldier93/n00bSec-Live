@@ -1,29 +1,22 @@
 {
-  "updated": "2026-10-07T22:27:24Z",
+  "updated": "2026-10-07T22:27:56Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BySepa",
-      "title": "Charla con Fran Amato - Co-Fundador de Ekoparty y Faraday - #hacktheplanet #teaminvierno",
-      "link": "https://twitch.tv/BySepa",
-      "viewers": 1
-    },
     {
       "platform": "twitch",
       "name": "CyberInfoHQ",
       "title": "NODE: PROTOCOL - Hacking for fun and profit! | Streamer: w33t",
       "link": "https://twitch.tv/CyberInfoHQ",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "GUESS WHAT! I GOTTA HAVE MORE CHOO CHOO BABY! Transport Fever 3 (Part 4) 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 537
+      "viewers": 518
     }
   ],
-  "viewers_total": 542,
+  "viewers_total": 521,
   "videos": [
     {
       "video_id": "USfUOlS38uc",
