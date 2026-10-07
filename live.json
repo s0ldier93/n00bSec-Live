@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-07T01:23:32Z",
+  "updated": "2026-10-07T01:33:33Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 495
+      "viewers": 478
     },
     {
       "platform": "twitch",
@@ -14,16 +14,9 @@
       "title": "Galactic Racer",
       "link": "https://twitch.tv/irasakai",
       "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Lenguaje ensamblador, strings",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 1
     }
   ],
-  "viewers_total": 497,
+  "viewers_total": 479,
   "videos": [
     {
       "video_id": "Hacgs563YJM",
