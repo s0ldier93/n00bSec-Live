@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-08T00:27:56Z",
+  "updated": "2026-10-08T00:37:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Got some new hardware in! | ISP & 4K Soon! | Cybersecurity,Rants,Chill,&Linux Gaming|10-7-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 14
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT CONFLICT PUPPIES! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 373
+      "viewers": 361
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Clase extra - Ethical Hacking  una empresa",
       "link": "https://www.youtube.com/watch?v=IBpw-GJ7zoA",
-      "viewers": 142
+      "viewers": 397
     }
   ],
-  "viewers_total": 529,
+  "viewers_total": 768,
   "videos": [
     {
       "video_id": "P1c-bnDV2Xo",
