@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T00:47:56Z",
+  "updated": "2026-10-08T00:57:56Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT CONFLICT PUPPIES! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 359
+      "viewers": 358
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Clase extra - Ethical Hacking  una empresa",
       "link": "https://www.youtube.com/watch?v=IBpw-GJ7zoA",
-      "viewers": 540
+      "viewers": 661
     }
   ],
-  "viewers_total": 908,
+  "viewers_total": 1028,
   "videos": [
     {
       "video_id": "P1c-bnDV2Xo",
