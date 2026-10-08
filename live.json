@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T18:57:57Z",
+  "updated": "2026-10-08T19:07:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,27 @@
       "name": "panekopanko",
       "title": "LIVE ANIME GIRL HACKING monitorsfour",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 28
     }
   ],
-  "viewers_total": 527,
+  "viewers_total": 528,
   "videos": [
+    {
+      "video_id": "D2S-mYwpk6Q",
+      "channel": "EJSA",
+      "title": "EJ's Crew-12 Splashdown landing coverage! 10/8/26",
+      "link": "https://www.youtube.com/watch?v=D2S-mYwpk6Q",
+      "published_at": "2026-10-08T19:01:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/D2S-mYwpk6Q/hqdefault.jpg"
+    },
+    {
+      "video_id": "xc-D_1n1zSw",
+      "channel": "JohnHammond010",
+      "title": "Following The Payload",
+      "link": "https://www.youtube.com/watch?v=xc-D_1n1zSw",
+      "published_at": "2026-10-08T19:01:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xc-D_1n1zSw/hqdefault.jpg"
+    },
     {
       "video_id": "ITJuyp41Z1I",
       "channel": "blacksincybersecurity",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=zr6w1Py8B6M",
       "published_at": "2026-10-07T17:00:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zr6w1Py8B6M/hqdefault.jpg"
-    },
-    {
-      "video_id": "tbu4XoYcfrk",
-      "channel": "ElPinguinoDeMario",
-      "title": "Aprende WIRESHARK en 15 minutos",
-      "link": "https://www.youtube.com/watch?v=tbu4XoYcfrk",
-      "published_at": "2026-10-07T16:15:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tbu4XoYcfrk/hqdefault.jpg"
-    },
-    {
-      "video_id": "GFf215C6zU8",
-      "channel": "LuNiZz",
-      "title": "Bir fikir soyledik, ortaya sirket cikti!!!",
-      "link": "https://www.youtube.com/watch?v=GFf215C6zU8",
-      "published_at": "2026-10-07T16:00:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GFf215C6zU8/hqdefault.jpg"
     }
   ]
 }
