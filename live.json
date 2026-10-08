@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-08T15:27:56Z",
+  "updated": "2026-10-08T15:37:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew-12 Splashdown landing coverage! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 460
+      "viewers": 604
     }
   ],
-  "viewers_total": 460,
+  "viewers_total": 604,
   "videos": [
     {
       "video_id": "xScKzxNuGhQ",
