@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-08T02:57:56Z",
+  "updated": "2026-10-08T03:07:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 25
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-WORKING LIVE! Learning GDB (GNU Debugger)",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 4
+      "viewers": 11
     },
     {
       "platform": "youtube",
@@ -27,10 +27,10 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-WORKING LIVE! Learning GDB (GNU Debugger)",
       "link": "https://www.youtube.com/watch?v=DmbaxGSK-xE",
-      "viewers": 2
+      "viewers": 4
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 51,
   "videos": [
     {
       "video_id": "uUQrEFZYMVQ",
