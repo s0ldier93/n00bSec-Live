@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-08T08:07:56Z",
+  "updated": "2026-10-08T08:17:06Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "pXoowX0LD2U",
+      "channel": "BySepa",
+      "title": "EL CISO SIN MFA: EL ERROR QUE MATA TU SEGURIDAD",
+      "link": "https://www.youtube.com/watch?v=pXoowX0LD2U",
+      "published_at": "2026-10-08T08:00:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/pXoowX0LD2U/hqdefault.jpg"
+    },
     {
       "video_id": "uUQrEFZYMVQ",
       "channel": "BlaiseBits",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=OEYI2cejEaM",
       "published_at": "2026-10-07T09:00:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/OEYI2cejEaM/hqdefault.jpg"
-    },
-    {
-      "video_id": "krxj5PhHrDI",
-      "channel": "BySepa",
-      "title": "\u00a1NO TE F\u00cdES de los titulos de los puestos en Ciberseguridad!",
-      "link": "https://www.youtube.com/watch?v=krxj5PhHrDI",
-      "published_at": "2026-10-07T08:00:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/krxj5PhHrDI/hqdefault.jpg"
     }
   ]
 }
