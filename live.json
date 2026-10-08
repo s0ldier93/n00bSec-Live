@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T02:47:24Z",
+  "updated": "2026-10-08T02:47:56Z",
   "streams": [
     {
       "platform": "twitch",
@@ -9,13 +9,6 @@
       "viewers": 23
     },
     {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "WEDNESDAY NIGHT CONFLICT PUPPIES! 10/7/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 282
-    },
-    {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
@@ -23,7 +16,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 311,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "uUQrEFZYMVQ",
