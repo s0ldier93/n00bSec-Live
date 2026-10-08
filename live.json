@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-08T22:57:56Z",
+  "updated": "2026-10-08T23:07:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "0reobyte",
       "title": "Automating Cyber Tools. ;'..;' \ud83d\udc4d",
       "link": "https://twitch.tv/0reobyte",
-      "viewers": 8
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "ai took my job now im playing games...",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 472
+      "viewers": 425
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 440
+      "viewers": 443
     }
   ],
-  "viewers_total": 920,
+  "viewers_total": 878,
   "videos": [
     {
       "video_id": "Qc1gIQu2qrE",
