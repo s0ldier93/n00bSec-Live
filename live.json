@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T06:07:56Z",
+  "updated": "2026-10-08T06:17:25Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,13 +10,13 @@
     },
     {
       "platform": "youtube",
-      "name": "TheShyHat",
-      "title": "CYBERSECURITY CO-WORKING LIVE! Learning GDB (GNU Debugger)",
-      "link": "https://www.youtube.com/watch?v=DmbaxGSK-xE",
-      "viewers": 10
+      "name": "censoredHacker",
+      "title": "AWS CCP: Module 10.2 - Monitoring, Compliance and Governance",
+      "link": "https://www.youtube.com/watch?v=I36zBpERU_o",
+      "viewers": 1
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 26,
   "videos": [
     {
       "video_id": "uUQrEFZYMVQ",
