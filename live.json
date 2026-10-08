@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-08T01:17:22Z",
+  "updated": "2026-10-08T01:17:56Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
+      "link": "https://twitch.tv/BlaiseBits",
+      "viewers": 2
+    },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Got some new hardware in! | ISP & 4K Soon! | Cybersecurity,Rants,Chill,&Linux Gaming|10-7-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 12
+      "viewers": 14
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT CONFLICT PUPPIES! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 355
+      "viewers": 350
     },
     {
       "platform": "twitch",
@@ -37,7 +44,7 @@
       "viewers": 631
     }
   ],
-  "viewers_total": 1000,
+  "viewers_total": 999,
   "videos": [
     {
       "video_id": "uUQrEFZYMVQ",
