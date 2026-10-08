@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-08T18:47:57Z",
+  "updated": "2026-10-08T18:57:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew-12 Splashdown landing coverage! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 496
+      "viewers": 500
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "LIVE ANIME GIRL HACKING monitorsfour",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
+      "viewers": 27
     }
   ],
-  "viewers_total": 526,
+  "viewers_total": 527,
   "videos": [
     {
       "video_id": "ITJuyp41Z1I",
@@ -33,6 +33,14 @@
       "link": "https://www.youtube.com/watch?v=Q-rrFmWTkAo",
       "published_at": "2026-10-08T16:42:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Q-rrFmWTkAo/hqdefault.jpg"
+    },
+    {
+      "video_id": "Ix9o-H7FJjQ",
+      "channel": "gerald_auger_simplycyber",
+      "title": "The Lab That Proved AI Makes Hacking Easier",
+      "link": "https://www.youtube.com/watch?v=Ix9o-H7FJjQ",
+      "published_at": "2026-10-08T15:13:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Ix9o-H7FJjQ/hqdefault.jpg"
     },
     {
       "video_id": "xScKzxNuGhQ",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=GFf215C6zU8",
       "published_at": "2026-10-07T16:00:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GFf215C6zU8/hqdefault.jpg"
-    },
-    {
-      "video_id": "dYakJmeCAuw",
-      "channel": "EJSA",
-      "title": "EJ's Space and Ship 40 Arrival Revue! 10/7/26",
-      "link": "https://www.youtube.com/watch?v=dYakJmeCAuw",
-      "published_at": "2026-10-07T15:32:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dYakJmeCAuw/hqdefault.jpg"
     }
   ]
 }
