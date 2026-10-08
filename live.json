@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-08T16:37:57Z",
+  "updated": "2026-10-08T16:47:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew-12 Splashdown landing coverage! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 670
+      "viewers": 580
     }
   ],
-  "viewers_total": 670,
+  "viewers_total": 580,
   "videos": [
+    {
+      "video_id": "Q-rrFmWTkAo",
+      "channel": "blacksincybersecurity",
+      "title": "Help desk to DevOps w/ Munir Muhammed - BIC Podcast Episode #27",
+      "link": "https://www.youtube.com/watch?v=Q-rrFmWTkAo",
+      "published_at": "2026-10-08T16:42:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Q-rrFmWTkAo/hqdefault.jpg"
+    },
     {
       "video_id": "xScKzxNuGhQ",
       "channel": "EJSA",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=4QjVIgKkp60",
       "published_at": "2026-10-07T14:00:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4QjVIgKkp60/hqdefault.jpg"
-    },
-    {
-      "video_id": "H9jby9JX1b0",
-      "channel": "LowLevelTV",
-      "title": "we need to do better.",
-      "link": "https://www.youtube.com/watch?v=H9jby9JX1b0",
-      "published_at": "2026-10-07T13:56:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/H9jby9JX1b0/hqdefault.jpg"
     }
   ]
 }
