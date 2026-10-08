@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-08T12:07:46Z",
+  "updated": "2026-10-08T12:17:55Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 8's Top Cyber News NOW! - Ep 1261",
       "link": "https://www.youtube.com/watch?v=j03G9JTUGsU",
-      "viewers": 170
+      "viewers": 267
     }
   ],
-  "viewers_total": 170,
+  "viewers_total": 267,
   "videos": [
+    {
+      "video_id": "WXe874ghqYU",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - ROT13 - ROT13 Cipher - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=WXe874ghqYU",
+      "published_at": "2026-10-08T12:00:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/WXe874ghqYU/hqdefault.jpg"
+    },
     {
       "video_id": "pXoowX0LD2U",
       "channel": "BySepa",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=xc_b_w73YQk",
       "published_at": "2026-10-07T12:04:57+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xc_b_w73YQk/hqdefault.jpg"
-    },
-    {
-      "video_id": "OEYI2cejEaM",
-      "channel": "SecurityWeekly",
-      "title": "Building Quantum Safe Security as AI Safety and Governance Won't Save You - BSW #468",
-      "link": "https://www.youtube.com/watch?v=OEYI2cejEaM",
-      "published_at": "2026-10-07T09:00:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OEYI2cejEaM/hqdefault.jpg"
     }
   ]
 }
