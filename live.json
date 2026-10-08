@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-08T19:07:57Z",
+  "updated": "2026-10-08T19:17:57Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "bashbunni",
+      "title": "cozy coding today",
+      "link": "https://twitch.tv/bashbunni",
+      "viewers": 13
+    },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "LIVE ANIME GIRL HACKING monitorsfour",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 30
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 43,
   "videos": [
     {
       "video_id": "D2S-mYwpk6Q",
