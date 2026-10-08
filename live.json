@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-08T01:17:56Z",
+  "updated": "2026-10-08T01:27:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 2
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT CONFLICT PUPPIES! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 350
+      "viewers": 338
     },
     {
       "platform": "twitch",
@@ -34,17 +34,17 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
       "link": "https://www.youtube.com/watch?v=uUQrEFZYMVQ",
-      "viewers": 1
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Clase extra - Ethical Hacking  una empresa",
       "link": "https://www.youtube.com/watch?v=IBpw-GJ7zoA",
-      "viewers": 631
+      "viewers": 654
     }
   ],
-  "viewers_total": 999,
+  "viewers_total": 1023,
   "videos": [
     {
       "video_id": "uUQrEFZYMVQ",
