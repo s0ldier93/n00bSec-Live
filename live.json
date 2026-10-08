@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-08T19:47:57Z",
+  "updated": "2026-10-08T19:57:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "cozy coding today w2000s rock music",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 436
+      "viewers": 509
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "LIVE ANIME GIRL HACKING monitorsfour",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 23
+      "viewers": 24
     }
   ],
-  "viewers_total": 459,
+  "viewers_total": 533,
   "videos": [
     {
       "video_id": "D2S-mYwpk6Q",
