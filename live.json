@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-08T12:37:56Z",
+  "updated": "2026-10-08T12:57:56Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 8's Top Cyber News NOW! - Ep 1261",
       "link": "https://www.youtube.com/watch?v=j03G9JTUGsU",
-      "viewers": 333
+      "viewers": 354
     }
   ],
-  "viewers_total": 333,
+  "viewers_total": 354,
   "videos": [
+    {
+      "video_id": "puMGdblvg9I",
+      "channel": "Cyber_Insecurity",
+      "title": "Is AI already running your SOC?",
+      "link": "https://www.youtube.com/watch?v=puMGdblvg9I",
+      "published_at": "2026-10-08T12:53:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/puMGdblvg9I/hqdefault.jpg"
+    },
     {
       "video_id": "WXe874ghqYU",
       "channel": "TheShyHat",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=wP4keLbFFL0",
       "published_at": "2026-10-07T12:18:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wP4keLbFFL0/hqdefault.jpg"
-    },
-    {
-      "video_id": "xc_b_w73YQk",
-      "channel": "EJSA",
-      "title": "EJ's Crew 12 Undocking and Ship 40 Arrival Revue! 10/7/26",
-      "link": "https://www.youtube.com/watch?v=xc_b_w73YQk",
-      "published_at": "2026-10-07T12:04:57+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xc_b_w73YQk/hqdefault.jpg"
     }
   ]
 }
