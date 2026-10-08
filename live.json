@@ -1,50 +1,43 @@
 {
-  "updated": "2026-10-08T01:27:56Z",
+  "updated": "2026-10-08T01:37:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 9
+      "viewers": 16
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Got some new hardware in! | ISP & 4K Soon! | Cybersecurity,Rants,Chill,&Linux Gaming|10-7-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 14
+      "viewers": 16
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT CONFLICT PUPPIES! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 338
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Lenguaje ensamblador, Libreria C",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 1
+      "viewers": 325
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
       "link": "https://www.youtube.com/watch?v=uUQrEFZYMVQ",
-      "viewers": 7
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Clase extra - Ethical Hacking  una empresa",
       "link": "https://www.youtube.com/watch?v=IBpw-GJ7zoA",
-      "viewers": 654
+      "viewers": 629
     }
   ],
-  "viewers_total": 1023,
+  "viewers_total": 992,
   "videos": [
     {
       "video_id": "uUQrEFZYMVQ",
