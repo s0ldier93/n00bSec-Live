@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-08T16:47:57Z",
+  "updated": "2026-10-08T16:57:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew-12 Splashdown landing coverage! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 580
+      "viewers": 588
     }
   ],
-  "viewers_total": 580,
+  "viewers_total": 588,
   "videos": [
+    {
+      "video_id": "ITJuyp41Z1I",
+      "channel": "blacksincybersecurity",
+      "title": "AppSec and Mentorship w/ Munir Muhammed - BIC Podcast Episode #27",
+      "link": "https://www.youtube.com/watch?v=ITJuyp41Z1I",
+      "published_at": "2026-10-08T16:47:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ITJuyp41Z1I/hqdefault.jpg"
+    },
     {
       "video_id": "Q-rrFmWTkAo",
       "channel": "blacksincybersecurity",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=dYakJmeCAuw",
       "published_at": "2026-10-07T15:32:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dYakJmeCAuw/hqdefault.jpg"
-    },
-    {
-      "video_id": "4QjVIgKkp60",
-      "channel": "SecurityWeekly",
-      "title": "Your Data Is Already Vulnerable",
-      "link": "https://www.youtube.com/watch?v=4QjVIgKkp60",
-      "published_at": "2026-10-07T14:00:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/4QjVIgKkp60/hqdefault.jpg"
     }
   ]
 }
