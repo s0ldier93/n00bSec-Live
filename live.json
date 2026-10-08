@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-08T12:57:56Z",
+  "updated": "2026-10-08T13:07:55Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 8's Top Cyber News NOW! - Ep 1261",
       "link": "https://www.youtube.com/watch?v=j03G9JTUGsU",
-      "viewers": 354
+      "viewers": 285
     }
   ],
-  "viewers_total": 354,
+  "viewers_total": 285,
   "videos": [
+    {
+      "video_id": "YtONRsokHOg",
+      "channel": "team_whoami",
+      "title": "ensamblador strings",
+      "link": "https://www.youtube.com/watch?v=YtONRsokHOg",
+      "published_at": "2026-10-08T13:00:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/YtONRsokHOg/hqdefault.jpg"
+    },
     {
       "video_id": "puMGdblvg9I",
       "channel": "Cyber_Insecurity",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=1sB95-QhQGU",
       "published_at": "2026-10-07T12:36:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1sB95-QhQGU/hqdefault.jpg"
-    },
-    {
-      "video_id": "wP4keLbFFL0",
-      "channel": "Khaos_Farbauti",
-      "title": "Comment hacker un LLM",
-      "link": "https://www.youtube.com/watch?v=wP4keLbFFL0",
-      "published_at": "2026-10-07T12:18:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wP4keLbFFL0/hqdefault.jpg"
     }
   ]
 }
