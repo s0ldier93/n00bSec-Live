@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-08T00:07:57Z",
+  "updated": "2026-10-08T00:17:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Got some new hardware in! | ISP & 4K Soon! | Cybersecurity,Rants,Chill,&Linux Gaming|10-7-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 10
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "CyberInfoHQ",
       "title": "NODE: PROTOCOL - Hacking for fun and profit! | Streamer: w33t",
       "link": "https://twitch.tv/CyberInfoHQ",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT CONFLICT PUPPIES! 10/7/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 383
+      "viewers": 387
     }
   ],
-  "viewers_total": 399,
+  "viewers_total": 409,
   "videos": [
     {
       "video_id": "P1c-bnDV2Xo",
