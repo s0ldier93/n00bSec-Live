@@ -1,36 +1,29 @@
 {
-  "updated": "2026-10-08T21:47:57Z",
+  "updated": "2026-10-08T21:57:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "0reobyte",
       "title": "Automating Cyber Tools. ;'..;' \ud83d\udc4d",
       "link": "https://twitch.tv/0reobyte",
-      "viewers": 12
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "working on a shell w/2000s rock music",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 537
+      "viewers": 565
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 377
-    },
-    {
-      "platform": "twitch",
-      "name": "mchow01",
-      "title": "Password Cracking (Episode 5, Season 13)",
-      "link": "https://twitch.tv/mchow01",
-      "viewers": 29
+      "viewers": 391
     }
   ],
-  "viewers_total": 955,
+  "viewers_total": 967,
   "videos": [
     {
       "video_id": "uYsGmtKSzNE",
