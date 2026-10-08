@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-08T15:07:56Z",
+  "updated": "2026-10-08T15:17:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew-12 Splashdown landing coverage! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 144
+      "viewers": 339
     }
   ],
-  "viewers_total": 144,
+  "viewers_total": 339,
   "videos": [
+    {
+      "video_id": "xScKzxNuGhQ",
+      "channel": "EJSA",
+      "title": "EJ's Crew-12 Splashdown landing coverage! 10/8/26",
+      "link": "https://www.youtube.com/watch?v=xScKzxNuGhQ",
+      "published_at": "2026-10-08T15:02:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xScKzxNuGhQ/hqdefault.jpg"
+    },
     {
       "video_id": "M01M8uIFRpE",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=H9jby9JX1b0",
       "published_at": "2026-10-07T13:56:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/H9jby9JX1b0/hqdefault.jpg"
-    },
-    {
-      "video_id": "IBpw-GJ7zoA",
-      "channel": "HackerMentor",
-      "title": "Clase extra - Ethical Hacking  una empresa",
-      "link": "https://www.youtube.com/watch?v=IBpw-GJ7zoA",
-      "published_at": "2026-10-07T13:13:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IBpw-GJ7zoA/hqdefault.jpg"
     }
   ]
 }
