@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-08T20:17:57Z",
+  "updated": "2026-10-08T20:27:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "working on a shell w/2000s rock music",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 523
+      "viewers": 560
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 26
     }
   ],
-  "viewers_total": 549,
+  "viewers_total": 586,
   "videos": [
     {
       "video_id": "D2S-mYwpk6Q",
