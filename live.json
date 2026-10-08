@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-08T17:57:57Z",
+  "updated": "2026-10-08T18:07:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Crew-12 Splashdown landing coverage! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 512
+      "viewers": 511
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
-      "title": "I'm so sorry.",
+      "title": "streamer got evicted",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 21
+      "viewers": 30
     }
   ],
-  "viewers_total": 533,
+  "viewers_total": 541,
   "videos": [
     {
       "video_id": "ITJuyp41Z1I",
