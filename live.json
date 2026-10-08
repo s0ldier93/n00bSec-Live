@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T01:07:56Z",
+  "updated": "2026-10-08T01:17:22Z",
   "streams": [
     {
       "platform": "twitch",
@@ -24,14 +24,29 @@
     },
     {
       "platform": "youtube",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=uUQrEFZYMVQ",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
       "name": "HackerMentor",
       "title": "Clase extra - Ethical Hacking  una empresa",
       "link": "https://www.youtube.com/watch?v=IBpw-GJ7zoA",
-      "viewers": 664
+      "viewers": 631
     }
   ],
-  "viewers_total": 1032,
+  "viewers_total": 1000,
   "videos": [
+    {
+      "video_id": "uUQrEFZYMVQ",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=uUQrEFZYMVQ",
+      "published_at": "2026-10-08T01:07:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/uUQrEFZYMVQ/hqdefault.jpg"
+    },
     {
       "video_id": "P1c-bnDV2Xo",
       "channel": "EJSA",
@@ -183,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=AIflFk6tG4I",
       "published_at": "2026-10-07T01:13:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/AIflFk6tG4I/hqdefault.jpg"
-    },
-    {
-      "video_id": "Hacgs563YJM",
-      "channel": "SecurityWeekly",
-      "title": "Passwordless Authentication Can Still Fail",
-      "link": "https://www.youtube.com/watch?v=Hacgs563YJM",
-      "published_at": "2026-10-06T22:00:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Hacgs563YJM/hqdefault.jpg"
     }
   ]
 }
