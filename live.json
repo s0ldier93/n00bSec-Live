@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-08T02:17:56Z",
+  "updated": "2026-10-08T02:27:24Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 17
+      "viewers": 20
     },
     {
       "platform": "twitch",
@@ -21,16 +21,9 @@
       "title": "Hack the planet! HackSmarter DarkHaven Range + Q&A",
       "link": "https://www.youtube.com/watch?v=uUQrEFZYMVQ",
       "viewers": 4
-    },
-    {
-      "platform": "youtube",
-      "name": "HackerMentor",
-      "title": "Clase extra - Ethical Hacking  una empresa",
-      "link": "https://www.youtube.com/watch?v=IBpw-GJ7zoA",
-      "viewers": 332
     }
   ],
-  "viewers_total": 651,
+  "viewers_total": 322,
   "videos": [
     {
       "video_id": "uUQrEFZYMVQ",
