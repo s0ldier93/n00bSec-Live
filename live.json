@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-08T04:57:55Z",
+  "updated": "2026-10-08T05:07:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CO-WORKING LIVE! Learning GDB (GNU Debugger)",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 21
+      "viewers": 23
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 8
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 31,
   "videos": [
     {
       "video_id": "uUQrEFZYMVQ",
