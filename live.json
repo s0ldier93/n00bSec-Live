@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-08T06:57:56Z",
+  "updated": "2026-10-08T07:07:55Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 10.2 - Monitoring, Compliance and Governance",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 10.2 - Monitoring, Compliance and Governance",
       "link": "https://www.youtube.com/watch?v=I36zBpERU_o",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 7,
   "videos": [
     {
       "video_id": "uUQrEFZYMVQ",
@@ -65,6 +65,14 @@
       "link": "https://www.youtube.com/watch?v=DmbaxGSK-xE",
       "published_at": "2026-10-07T19:35:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/DmbaxGSK-xE/hqdefault.jpg"
+    },
+    {
+      "video_id": "I36zBpERU_o",
+      "channel": "censoredHacker",
+      "title": "AWS CCP: Module 10.2 - Monitoring, Compliance and Governance",
+      "link": "https://www.youtube.com/watch?v=I36zBpERU_o",
+      "published_at": "2026-10-07T19:14:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/I36zBpERU_o/hqdefault.jpg"
     },
     {
       "video_id": "8tcS1oWtViw",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=krxj5PhHrDI",
       "published_at": "2026-10-07T08:00:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/krxj5PhHrDI/hqdefault.jpg"
-    },
-    {
-      "video_id": "AIflFk6tG4I",
-      "channel": "FixIt42",
-      "title": "Prepp for Kali as a daily driver stream :)",
-      "link": "https://www.youtube.com/watch?v=AIflFk6tG4I",
-      "published_at": "2026-10-07T01:13:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/AIflFk6tG4I/hqdefault.jpg"
     }
   ]
 }
