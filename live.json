@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:57:57Z",
+  "updated": "2026-10-09T18:07:34Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,28 +10,22 @@
     },
     {
       "platform": "twitch",
-      "name": "johnhammond010",
-      "title": "Just Hacking Training Turns 2!",
-      "link": "https://twitch.tv/johnhammond010",
-      "viewers": 27
-    },
-    {
-      "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
       "viewers": 3
-    },
-    {
-      "platform": "youtube",
-      "name": "JohnHammond010",
-      "title": "Just Hacking Training Turns 2!",
-      "link": "https://www.youtube.com/watch?v=1sB95-QhQGU",
-      "viewers": 81
     }
   ],
-  "viewers_total": 317,
+  "viewers_total": 209,
   "videos": [
+    {
+      "video_id": "105bEfa3A2s",
+      "channel": "Hackavis",
+      "title": "C\u00f3mo Configurar Tu Asistente de Voz Para que no Te Esp\u00eden",
+      "link": "https://www.youtube.com/watch?v=105bEfa3A2s",
+      "published_at": "2026-10-09T18:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/105bEfa3A2s/hqdefault.jpg"
+    },
     {
       "video_id": "PiM2iBhLY1s",
       "channel": "TheShyHat",
@@ -183,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=xScKzxNuGhQ",
       "published_at": "2026-10-08T15:02:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xScKzxNuGhQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "M01M8uIFRpE",
-      "channel": "SecurityWeekly",
-      "title": "More Vulnerabilities Don\u2019t Mean More Risk",
-      "link": "https://www.youtube.com/watch?v=M01M8uIFRpE",
-      "published_at": "2026-10-08T14:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/M01M8uIFRpE/hqdefault.jpg"
     }
   ]
 }
