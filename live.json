@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-09T07:07:59Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "freshforensics",
-      "title": "\ud83d\udc80I Connect an iPhone to Linux\u2026 And Find EVERYTHING! \ud83d\udd25",
-      "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
-    }
-  ],
-  "viewers_total": 1,
+  "updated": "2026-10-09T07:17:59Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "fe5Q6jXqpq0",
