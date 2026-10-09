@@ -1,19 +1,12 @@
 {
-  "updated": "2026-10-09T18:37:57Z",
+  "updated": "2026-10-09T18:48:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 244
-    },
-    {
-      "platform": "twitch",
-      "name": "ritsec",
-      "title": "RITSEC Fall Week 6 - Intro to Linux",
-      "link": "https://twitch.tv/ritsec",
-      "viewers": 6
+      "viewers": 250
     }
   ],
   "viewers_total": 250,
