@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-09T23:18:00Z",
+  "updated": "2026-10-09T23:28:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 421
+      "viewers": 416
     }
   ],
-  "viewers_total": 421,
+  "viewers_total": 416,
   "videos": [
+    {
+      "video_id": "kgXbBu7Ii6w",
+      "channel": "mbcrump",
+      "title": "PlayStation Homebrew News (PS5 NFC Launcher, PS5SX2 2.00 & Wind Waker HD)",
+      "link": "https://www.youtube.com/watch?v=kgXbBu7Ii6w",
+      "published_at": "2026-10-09T23:22:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/kgXbBu7Ii6w/hqdefault.jpg"
+    },
     {
       "video_id": "0Cn2YLazKzU",
       "channel": "Cyber_Insecurity",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=8EY-jL5mvP0",
       "published_at": "2026-10-09T01:24:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8EY-jL5mvP0/hqdefault.jpg"
-    },
-    {
-      "video_id": "ciMj6IQj_Hk",
-      "channel": "EJSA",
-      "title": "THURSDAY CONFLICT CANINES! 10/8/26",
-      "link": "https://www.youtube.com/watch?v=ciMj6IQj_Hk",
-      "published_at": "2026-10-09T00:40:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ciMj6IQj_Hk/hqdefault.jpg"
     }
   ]
 }
