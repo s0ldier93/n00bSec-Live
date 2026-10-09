@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T03:37:56Z",
+  "updated": "2026-10-09T04:17:56Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "WmP6bn8H3Iw",
+      "channel": "EJSA",
+      "title": "THURSDAY CONFLICT CANINES! 10/8/26",
+      "link": "https://www.youtube.com/watch?v=WmP6bn8H3Iw",
+      "published_at": "2026-10-09T03:29:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/WmP6bn8H3Iw/hqdefault.jpg"
+    },
     {
       "video_id": "8EY-jL5mvP0",
       "channel": "KeonBowman",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=USfUOlS38uc",
       "published_at": "2026-10-07T21:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/USfUOlS38uc/hqdefault.jpg"
-    },
-    {
-      "video_id": "13pP-IqS-mo",
-      "channel": "mbcrump",
-      "title": "PS5SX2 Setup Guide: Play PS2 Games on a Jailbroken PS5 (13.60 Test)",
-      "link": "https://www.youtube.com/watch?v=13pP-IqS-mo",
-      "published_at": "2026-10-07T20:11:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/13pP-IqS-mo/hqdefault.jpg"
     }
   ]
 }
