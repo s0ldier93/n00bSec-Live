@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-09T07:57:59Z",
+  "updated": "2026-10-09T08:08:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
-      "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
+      "title": "wassuppp!!!",
       "link": "https://twitch.tv/censoredHacker",
       "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
-      "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
+      "title": "wassuppp!!!",
       "link": "https://www.youtube.com/watch?v=fe5Q6jXqpq0",
       "viewers": 2
     }
   ],
   "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "8kuUVjSKLC8",
+      "channel": "BySepa",
+      "title": "Pentester vs Red Teamer  \u00bfCu\u00e1l es la diferencia?",
+      "link": "https://www.youtube.com/watch?v=8kuUVjSKLC8",
+      "published_at": "2026-10-09T08:00:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8kuUVjSKLC8/hqdefault.jpg"
+    },
     {
       "video_id": "uID6Ne48ENo",
       "channel": "NahamSec",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=uUQrEFZYMVQ",
       "published_at": "2026-10-08T01:07:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/uUQrEFZYMVQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "P1c-bnDV2Xo",
-      "channel": "EJSA",
-      "title": "WEDNESDAY NIGHT CONFLICT PUPPIES! 10/7/26",
-      "link": "https://www.youtube.com/watch?v=P1c-bnDV2Xo",
-      "published_at": "2026-10-07T23:46:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/P1c-bnDV2Xo/hqdefault.jpg"
     }
   ]
 }
