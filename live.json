@@ -1,43 +1,36 @@
 {
-  "updated": "2026-10-09T00:27:57Z",
+  "updated": "2026-10-09T00:37:57Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "0reobyte",
-      "title": "Automating Cyber Tools. ;'..;' \ud83d\udc4d",
-      "link": "https://twitch.tv/0reobyte",
-      "viewers": 3
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 453
+      "viewers": 402
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 9
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Getting pissed off at Galactic Racer",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "ROP/Heap Hybrid - CSE466 Week 8",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 28
+      "viewers": 30
     }
   ],
-  "viewers_total": 495,
+  "viewers_total": 444,
   "videos": [
     {
       "video_id": "Qc1gIQu2qrE",
