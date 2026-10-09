@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T16:47:57Z",
+  "updated": "2026-10-09T16:57:36Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,9 +7,16 @@
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
       "viewers": 2
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
+      "link": "https://www.youtube.com/watch?v=WmP6bn8H3Iw",
+      "viewers": 14
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 16,
   "videos": [
     {
       "video_id": "Ho8uwmXYuMA",
