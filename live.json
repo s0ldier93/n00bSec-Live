@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-09T17:07:39Z",
+  "updated": "2026-10-09T17:07:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 55
+      "viewers": 171
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 65
     }
   ],
-  "viewers_total": 135,
+  "viewers_total": 251,
   "videos": [
     {
       "video_id": "Ho8uwmXYuMA",
