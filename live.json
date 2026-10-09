@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T21:38:00Z",
+  "updated": "2026-10-09T21:47:25Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,22 @@
   ],
   "viewers_total": 318,
   "videos": [
+    {
+      "video_id": "IBYq3s91DBA",
+      "channel": "EJSA",
+      "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
+      "link": "https://www.youtube.com/watch?v=IBYq3s91DBA",
+      "published_at": "2026-10-09T21:40:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IBYq3s91DBA/hqdefault.jpg"
+    },
+    {
+      "video_id": "NjzUwDvsurc",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 15's Top Cyber News NOW! - Ep 1266",
+      "link": "https://www.youtube.com/watch?v=NjzUwDvsurc",
+      "published_at": "2026-10-09T21:36:59+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NjzUwDvsurc/hqdefault.jpg"
+    },
     {
       "video_id": "wvmFVfoF0F4",
       "channel": "gerald_auger_simplycyber",
@@ -154,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=xc-D_1n1zSw",
       "published_at": "2026-10-08T19:01:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xc-D_1n1zSw/hqdefault.jpg"
-    },
-    {
-      "video_id": "ITJuyp41Z1I",
-      "channel": "blacksincybersecurity",
-      "title": "AppSec and Mentorship w/ Munir Muhammed - BIC Podcast Episode #27",
-      "link": "https://www.youtube.com/watch?v=ITJuyp41Z1I",
-      "published_at": "2026-10-08T16:47:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ITJuyp41Z1I/hqdefault.jpg"
-    },
-    {
-      "video_id": "Q-rrFmWTkAo",
-      "channel": "blacksincybersecurity",
-      "title": "Help desk to DevOps w/ Munir Muhammed - BIC Podcast Episode #27",
-      "link": "https://www.youtube.com/watch?v=Q-rrFmWTkAo",
-      "published_at": "2026-10-08T16:42:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Q-rrFmWTkAo/hqdefault.jpg"
     }
   ]
 }
