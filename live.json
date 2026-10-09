@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-09T00:47:56Z",
+  "updated": "2026-10-09T00:57:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY CONFLICT CANINES! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 339
+      "viewers": 309
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 13
+      "viewers": 16
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 353,
+  "viewers_total": 326,
   "videos": [
+    {
+      "video_id": "ciMj6IQj_Hk",
+      "channel": "EJSA",
+      "title": "THURSDAY CONFLICT CANINES! 10/8/26",
+      "link": "https://www.youtube.com/watch?v=ciMj6IQj_Hk",
+      "published_at": "2026-10-09T00:40:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ciMj6IQj_Hk/hqdefault.jpg"
+    },
     {
       "video_id": "Qc1gIQu2qrE",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=DmbaxGSK-xE",
       "published_at": "2026-10-07T19:35:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/DmbaxGSK-xE/hqdefault.jpg"
-    },
-    {
-      "video_id": "I36zBpERU_o",
-      "channel": "censoredHacker",
-      "title": "AWS CCP: Module 10.2 - Monitoring, Compliance and Governance",
-      "link": "https://www.youtube.com/watch?v=I36zBpERU_o",
-      "published_at": "2026-10-07T19:14:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/I36zBpERU_o/hqdefault.jpg"
     }
   ]
 }
