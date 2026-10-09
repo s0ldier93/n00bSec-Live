@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-09T17:17:57Z",
+  "updated": "2026-10-09T17:27:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 190
+      "viewers": 207
     },
     {
       "platform": "twitch",
       "name": "johnhammond010",
       "title": "Just Hacking Training Turns 2!",
       "link": "https://twitch.tv/johnhammond010",
-      "viewers": 15
+      "viewers": 22
     },
     {
       "platform": "twitch",
@@ -27,10 +27,10 @@
       "name": "JohnHammond010",
       "title": "Just Hacking Training Turns 2!",
       "link": "https://www.youtube.com/watch?v=1sB95-QhQGU",
-      "viewers": 71
+      "viewers": 69
     }
   ],
-  "viewers_total": 278,
+  "viewers_total": 300,
   "videos": [
     {
       "video_id": "wIe3eDfGKUo",
