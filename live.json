@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-09T01:17:57Z",
+  "updated": "2026-10-09T01:27:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY CONFLICT CANINES! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 301
+      "viewers": 296
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 15
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Getting pissed off at Galactic Racer",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 318,
+  "viewers_total": 317,
   "videos": [
     {
       "video_id": "ciMj6IQj_Hk",
