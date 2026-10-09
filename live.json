@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T00:07:56Z",
+  "updated": "2026-10-09T00:17:57Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 442
+      "viewers": 444
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 7
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "pwncollege",
       "title": "ROP/Heap Hybrid - CSE466 Week 8",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 25
+      "viewers": 22
     }
   ],
-  "viewers_total": 482,
+  "viewers_total": 486,
   "videos": [
     {
       "video_id": "Qc1gIQu2qrE",
