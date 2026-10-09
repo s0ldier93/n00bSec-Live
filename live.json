@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-09T14:07:40Z",
+  "updated": "2026-10-09T15:07:04Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "Ho8uwmXYuMA",
+      "channel": "Khaos_Farbauti",
+      "title": "La valeur de l'argent",
+      "link": "https://www.youtube.com/watch?v=Ho8uwmXYuMA",
+      "published_at": "2026-10-09T14:57:45+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Ho8uwmXYuMA/hqdefault.jpg"
+    },
     {
       "video_id": "N671yGL9-bM",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=puMGdblvg9I",
       "published_at": "2026-10-08T12:53:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/puMGdblvg9I/hqdefault.jpg"
-    },
-    {
-      "video_id": "WXe874ghqYU",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - ROT13 - ROT13 Cipher - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=WXe874ghqYU",
-      "published_at": "2026-10-08T12:00:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WXe874ghqYU/hqdefault.jpg"
     }
   ]
 }
