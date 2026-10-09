@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-09T01:37:56Z",
+  "updated": "2026-10-09T01:47:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY CONFLICT CANINES! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 292
+      "viewers": 274
     },
     {
       "platform": "twitch",
@@ -14,13 +14,6 @@
       "title": "\ud83d\udc80I Connect an iPhone to Linux\u2026 And Find EVERYTHING! \ud83d\udd25",
       "link": "https://twitch.tv/freshforensics",
       "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "het_tanis",
-      "title": "Hanging out and playing video games with the ProLUG.",
-      "link": "https://twitch.tv/het_tanis",
-      "viewers": 11
     },
     {
       "platform": "twitch",
@@ -34,10 +27,10 @@
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, Shellcode",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 0
+      "viewers": 1
     }
   ],
-  "viewers_total": 305,
+  "viewers_total": 277,
   "videos": [
     {
       "video_id": "8EY-jL5mvP0",
