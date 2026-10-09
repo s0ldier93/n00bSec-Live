@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-09T01:27:56Z",
+  "updated": "2026-10-09T01:37:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY CONFLICT CANINES! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 296
+      "viewers": 292
     },
     {
       "platform": "twitch",
@@ -20,18 +20,33 @@
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 17
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Getting pissed off at Galactic Racer",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 1
+    },
+    {
+      "platform": "twitch",
+      "name": "team_whoami",
+      "title": "Lenguaje ensamblador, Shellcode",
+      "link": "https://twitch.tv/team_whoami",
+      "viewers": 0
     }
   ],
-  "viewers_total": 317,
+  "viewers_total": 305,
   "videos": [
+    {
+      "video_id": "8EY-jL5mvP0",
+      "channel": "KeonBowman",
+      "title": "SQL Injection: Bypass a Login Page Without a Password",
+      "link": "https://www.youtube.com/watch?v=8EY-jL5mvP0",
+      "published_at": "2026-10-09T01:24:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8EY-jL5mvP0/hqdefault.jpg"
+    },
     {
       "video_id": "ciMj6IQj_Hk",
       "channel": "EJSA",
@@ -183,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=13pP-IqS-mo",
       "published_at": "2026-10-07T20:11:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/13pP-IqS-mo/hqdefault.jpg"
-    },
-    {
-      "video_id": "DmbaxGSK-xE",
-      "channel": "TheShyHat",
-      "title": "CYBERSECURITY CO-WORKING LIVE! Learning GDB (GNU Debugger)",
-      "link": "https://www.youtube.com/watch?v=DmbaxGSK-xE",
-      "published_at": "2026-10-07T19:35:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DmbaxGSK-xE/hqdefault.jpg"
     }
   ]
 }
