@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T16:57:57Z",
+  "updated": "2026-10-09T17:07:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,13 +10,27 @@
     },
     {
       "platform": "twitch",
+      "name": "johnhammond010",
+      "title": "Just Hacking Training Turns 2!",
+      "link": "https://twitch.tv/johnhammond010",
+      "viewers": 14
+    },
+    {
+      "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 2
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "JohnHammond010",
+      "title": "Just Hacking Training Turns 2!",
+      "link": "https://www.youtube.com/watch?v=1sB95-QhQGU",
+      "viewers": 65
     }
   ],
-  "viewers_total": 57,
+  "viewers_total": 135,
   "videos": [
     {
       "video_id": "Ho8uwmXYuMA",
