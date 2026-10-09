@@ -1,37 +1,45 @@
 {
-  "updated": "2026-10-09T17:07:57Z",
+  "updated": "2026-10-09T17:17:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 171
+      "viewers": 190
     },
     {
       "platform": "twitch",
       "name": "johnhammond010",
       "title": "Just Hacking Training Turns 2!",
       "link": "https://twitch.tv/johnhammond010",
-      "viewers": 14
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "JohnHammond010",
       "title": "Just Hacking Training Turns 2!",
       "link": "https://www.youtube.com/watch?v=1sB95-QhQGU",
-      "viewers": 65
+      "viewers": 71
     }
   ],
-  "viewers_total": 251,
+  "viewers_total": 278,
   "videos": [
+    {
+      "video_id": "wIe3eDfGKUo",
+      "channel": "LowLevelTV",
+      "title": "Has AI Solved Reverse Engineering?",
+      "link": "https://www.youtube.com/watch?v=wIe3eDfGKUo",
+      "published_at": "2026-10-09T16:56:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wIe3eDfGKUo/hqdefault.jpg"
+    },
     {
       "video_id": "Ho8uwmXYuMA",
       "channel": "Khaos_Farbauti",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=YtONRsokHOg",
       "published_at": "2026-10-08T13:00:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/YtONRsokHOg/hqdefault.jpg"
-    },
-    {
-      "video_id": "puMGdblvg9I",
-      "channel": "Cyber_Insecurity",
-      "title": "Is AI already running your SOC?",
-      "link": "https://www.youtube.com/watch?v=puMGdblvg9I",
-      "published_at": "2026-10-08T12:53:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/puMGdblvg9I/hqdefault.jpg"
     }
   ]
 }
