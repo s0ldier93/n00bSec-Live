@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-09T21:08:00Z",
+  "updated": "2026-10-09T21:18:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 268
+      "viewers": 279
     }
   ],
-  "viewers_total": 268,
+  "viewers_total": 279,
   "videos": [
+    {
+      "video_id": "8HokRjZ5RpM",
+      "channel": "SecurityWeekly",
+      "title": "Airline Zoom Calls,Pix, Windows, TP-Link, AgentCorruption, OSS Scanner, Josh Marpet - SWN #623",
+      "link": "https://www.youtube.com/watch?v=8HokRjZ5RpM",
+      "published_at": "2026-10-09T21:00:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8HokRjZ5RpM/hqdefault.jpg"
+    },
     {
       "video_id": "105bEfa3A2s",
       "channel": "Hackavis",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Ix9o-H7FJjQ",
       "published_at": "2026-10-08T15:13:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Ix9o-H7FJjQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "xScKzxNuGhQ",
-      "channel": "EJSA",
-      "title": "EJ's Crew-12 Splashdown landing coverage! 10/8/26",
-      "link": "https://www.youtube.com/watch?v=xScKzxNuGhQ",
-      "published_at": "2026-10-08T15:02:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xScKzxNuGhQ/hqdefault.jpg"
     }
   ]
 }
