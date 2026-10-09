@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-09T17:37:57Z",
+  "updated": "2026-10-09T17:47:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 196
+      "viewers": 206
     },
     {
       "platform": "twitch",
       "name": "johnhammond010",
       "title": "Just Hacking Training Turns 2!",
       "link": "https://twitch.tv/johnhammond010",
-      "viewers": 29
+      "viewers": 24
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 2
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "JohnHammond010",
       "title": "Just Hacking Training Turns 2!",
       "link": "https://www.youtube.com/watch?v=1sB95-QhQGU",
-      "viewers": 72
+      "viewers": 70
     }
   ],
-  "viewers_total": 299,
+  "viewers_total": 304,
   "videos": [
     {
       "video_id": "wIe3eDfGKUo",
