@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-09T03:27:55Z",
+  "updated": "2026-10-09T03:37:56Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "THURSDAY CONFLICT CANINES! 10/8/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 244
-    },
     {
       "platform": "twitch",
       "name": "freshforensics",
@@ -16,7 +9,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 245,
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "8EY-jL5mvP0",
