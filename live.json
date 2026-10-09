@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-09T22:58:00Z",
+  "updated": "2026-10-09T23:07:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 432
+      "viewers": 416
     }
   ],
-  "viewers_total": 432,
+  "viewers_total": 416,
   "videos": [
+    {
+      "video_id": "0Cn2YLazKzU",
+      "channel": "Cyber_Insecurity",
+      "title": "Know your AI's heartbeat",
+      "link": "https://www.youtube.com/watch?v=0Cn2YLazKzU",
+      "published_at": "2026-10-09T22:53:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0Cn2YLazKzU/hqdefault.jpg"
+    },
     {
       "video_id": "d8KtzcCRSkQ",
       "channel": "antisyphon",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=ciMj6IQj_Hk",
       "published_at": "2026-10-09T00:40:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ciMj6IQj_Hk/hqdefault.jpg"
-    },
-    {
-      "video_id": "Qc1gIQu2qrE",
-      "channel": "SecurityWeekly",
-      "title": "AI Makes Finding Bugs Cheaper",
-      "link": "https://www.youtube.com/watch?v=Qc1gIQu2qrE",
-      "published_at": "2026-10-08T22:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Qc1gIQu2qrE/hqdefault.jpg"
     }
   ]
 }
