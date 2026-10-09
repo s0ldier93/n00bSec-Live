@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-09T02:57:55Z",
+  "updated": "2026-10-09T03:07:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY CONFLICT CANINES! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 259
+      "viewers": 240
     },
     {
       "platform": "twitch",
@@ -14,16 +14,9 @@
       "title": "\ud83d\udc80I Connect an iPhone to Linux\u2026 And Find EVERYTHING! \ud83d\udd25",
       "link": "https://twitch.tv/freshforensics",
       "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "irasakai",
-      "title": "Getting pissed off at Galactic Racer",
-      "link": "https://twitch.tv/irasakai",
-      "viewers": 1
     }
   ],
-  "viewers_total": 261,
+  "viewers_total": 241,
   "videos": [
     {
       "video_id": "8EY-jL5mvP0",
