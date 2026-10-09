@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-09T00:37:57Z",
+  "updated": "2026-10-09T00:47:56Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "EJ's Space and Rocket Revue! 10/8/26",
+      "title": "THURSDAY CONFLICT CANINES! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 402
+      "viewers": 339
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 11
+      "viewers": 13
     },
     {
       "platform": "twitch",
@@ -21,16 +21,9 @@
       "title": "Getting pissed off at Galactic Racer",
       "link": "https://twitch.tv/irasakai",
       "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "pwncollege",
-      "title": "ROP/Heap Hybrid - CSE466 Week 8",
-      "link": "https://twitch.tv/pwncollege",
-      "viewers": 30
     }
   ],
-  "viewers_total": 444,
+  "viewers_total": 353,
   "videos": [
     {
       "video_id": "Qc1gIQu2qrE",
