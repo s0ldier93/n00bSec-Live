@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:47:57Z",
+  "updated": "2026-10-09T17:57:57Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,25 +13,33 @@
       "name": "johnhammond010",
       "title": "Just Hacking Training Turns 2!",
       "link": "https://twitch.tv/johnhammond010",
-      "viewers": 24
+      "viewers": 27
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "JohnHammond010",
       "title": "Just Hacking Training Turns 2!",
       "link": "https://www.youtube.com/watch?v=1sB95-QhQGU",
-      "viewers": 70
+      "viewers": 81
     }
   ],
-  "viewers_total": 304,
+  "viewers_total": 317,
   "videos": [
+    {
+      "video_id": "PiM2iBhLY1s",
+      "channel": "TheShyHat",
+      "title": "BINARY EXPLOITATION LIVE! Teaching Binary Hacking to HowlingAF",
+      "link": "https://www.youtube.com/watch?v=PiM2iBhLY1s",
+      "published_at": "2026-10-09T17:55:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PiM2iBhLY1s/hqdefault.jpg"
+    },
     {
       "video_id": "wIe3eDfGKUo",
       "channel": "LowLevelTV",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=M01M8uIFRpE",
       "published_at": "2026-10-08T14:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/M01M8uIFRpE/hqdefault.jpg"
-    },
-    {
-      "video_id": "YtONRsokHOg",
-      "channel": "team_whoami",
-      "title": "ensamblador strings",
-      "link": "https://www.youtube.com/watch?v=YtONRsokHOg",
-      "published_at": "2026-10-08T13:00:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/YtONRsokHOg/hqdefault.jpg"
     }
   ]
 }
