@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-09T02:07:56Z",
+  "updated": "2026-10-09T02:17:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY CONFLICT CANINES! 10/8/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 290
+      "viewers": 280
     },
     {
       "platform": "twitch",
@@ -21,16 +21,9 @@
       "title": "Getting pissed off at Galactic Racer",
       "link": "https://twitch.tv/irasakai",
       "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Lenguaje ensamblador, Shellcode",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 1
     }
   ],
-  "viewers_total": 293,
+  "viewers_total": 282,
   "videos": [
     {
       "video_id": "8EY-jL5mvP0",
