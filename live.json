@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-09T21:28:00Z",
+  "updated": "2026-10-09T21:38:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 294
+      "viewers": 318
     }
   ],
-  "viewers_total": 294,
+  "viewers_total": 318,
   "videos": [
+    {
+      "video_id": "wvmFVfoF0F4",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 14's Top Cyber News NOW! - Ep 1265",
+      "link": "https://www.youtube.com/watch?v=wvmFVfoF0F4",
+      "published_at": "2026-10-09T21:36:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wvmFVfoF0F4/hqdefault.jpg"
+    },
     {
       "video_id": "8HokRjZ5RpM",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Q-rrFmWTkAo",
       "published_at": "2026-10-08T16:42:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Q-rrFmWTkAo/hqdefault.jpg"
-    },
-    {
-      "video_id": "Ix9o-H7FJjQ",
-      "channel": "gerald_auger_simplycyber",
-      "title": "The Lab That Proved AI Makes Hacking Easier",
-      "link": "https://www.youtube.com/watch?v=Ix9o-H7FJjQ",
-      "published_at": "2026-10-08T15:13:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Ix9o-H7FJjQ/hqdefault.jpg"
     }
   ]
 }
