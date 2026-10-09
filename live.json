@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T04:17:56Z",
+  "updated": "2026-10-09T07:07:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "fe5Q6jXqpq0",
+      "channel": "censoredHacker",
+      "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
+      "link": "https://www.youtube.com/watch?v=fe5Q6jXqpq0",
+      "published_at": "2026-10-09T06:59:48+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fe5Q6jXqpq0/hqdefault.jpg"
+    },
     {
       "video_id": "WmP6bn8H3Iw",
       "channel": "EJSA",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=MbKoFnZXnv0",
       "published_at": "2026-10-07T22:55:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/MbKoFnZXnv0/hqdefault.jpg"
-    },
-    {
-      "video_id": "USfUOlS38uc",
-      "channel": "SecurityWeekly",
-      "title": "AI Governance Needs More Than Checkboxes",
-      "link": "https://www.youtube.com/watch?v=USfUOlS38uc",
-      "published_at": "2026-10-07T21:00:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/USfUOlS38uc/hqdefault.jpg"
     }
   ]
 }
