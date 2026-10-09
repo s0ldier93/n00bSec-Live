@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-09T19:58:00Z",
+  "updated": "2026-10-09T20:08:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 253
+      "viewers": 263
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "Week 8.5 - Bonus ROP lecture!",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 17
+      "viewers": 15
     }
   ],
-  "viewers_total": 270,
+  "viewers_total": 278,
   "videos": [
     {
       "video_id": "105bEfa3A2s",
