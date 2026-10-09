@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-09T07:17:59Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-09T07:57:28Z",
+  "streams": [
+    {
+      "platform": "youtube",
+      "name": "censoredHacker",
+      "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
+      "link": "https://www.youtube.com/watch?v=fe5Q6jXqpq0",
+      "viewers": 2
+    }
+  ],
+  "viewers_total": 2,
   "videos": [
+    {
+      "video_id": "uID6Ne48ENo",
+      "channel": "NahamSec",
+      "title": "Vercel paid a $50,000 bounty! \ud83d\udc40\ud83d\udc40",
+      "link": "https://www.youtube.com/watch?v=uID6Ne48ENo",
+      "published_at": "2026-10-09T07:33:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/uID6Ne48ENo/hqdefault.jpg"
+    },
     {
       "video_id": "fe5Q6jXqpq0",
       "channel": "censoredHacker",
@@ -154,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=P1c-bnDV2Xo",
       "published_at": "2026-10-07T23:46:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/P1c-bnDV2Xo/hqdefault.jpg"
-    },
-    {
-      "video_id": "MbKoFnZXnv0",
-      "channel": "Cyber_Insecurity",
-      "title": "Could you spot a deepfake? Soon, nobody can.",
-      "link": "https://www.youtube.com/watch?v=MbKoFnZXnv0",
-      "published_at": "2026-10-07T22:55:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MbKoFnZXnv0/hqdefault.jpg"
     }
   ]
 }
