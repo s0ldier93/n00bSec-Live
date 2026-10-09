@@ -1,16 +1,32 @@
 {
-  "updated": "2026-10-09T21:58:00Z",
+  "updated": "2026-10-09T22:08:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 318
+      "viewers": 357
     }
   ],
-  "viewers_total": 318,
+  "viewers_total": 357,
   "videos": [
+    {
+      "video_id": "MWp2rhN6ihk",
+      "channel": "SecurityWeekly",
+      "title": "Who Pays When AI Goes Rogue?",
+      "link": "https://www.youtube.com/watch?v=MWp2rhN6ihk",
+      "published_at": "2026-10-09T22:00:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MWp2rhN6ihk/hqdefault.jpg"
+    },
+    {
+      "video_id": "osaRbgqkVYg",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 16's Top Cyber News NOW! - Ep 1267",
+      "link": "https://www.youtube.com/watch?v=osaRbgqkVYg",
+      "published_at": "2026-10-09T21:48:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/osaRbgqkVYg/hqdefault.jpg"
+    },
     {
       "video_id": "IBYq3s91DBA",
       "channel": "EJSA",
@@ -154,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=uYsGmtKSzNE",
       "published_at": "2026-10-08T21:00:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/uYsGmtKSzNE/hqdefault.jpg"
-    },
-    {
-      "video_id": "D2S-mYwpk6Q",
-      "channel": "EJSA",
-      "title": "EJ's Crew-12 Splashdown landing coverage! 10/8/26",
-      "link": "https://www.youtube.com/watch?v=D2S-mYwpk6Q",
-      "published_at": "2026-10-08T19:01:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/D2S-mYwpk6Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "xc-D_1n1zSw",
-      "channel": "JohnHammond010",
-      "title": "Following The Payload",
-      "link": "https://www.youtube.com/watch?v=xc-D_1n1zSw",
-      "published_at": "2026-10-08T19:01:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xc-D_1n1zSw/hqdefault.jpg"
     }
   ]
 }
