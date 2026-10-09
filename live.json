@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T08:38:00Z",
+  "updated": "2026-10-09T08:47:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,16 +7,9 @@
       "title": "wassuppp!!!",
       "link": "https://twitch.tv/censoredHacker",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "censoredHacker",
-      "title": "wassuppp!!!",
-      "link": "https://www.youtube.com/watch?v=fe5Q6jXqpq0",
-      "viewers": 3
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "8kuUVjSKLC8",
