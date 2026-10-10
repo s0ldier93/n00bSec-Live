@@ -1,25 +1,11 @@
 {
-  "updated": "2026-10-10T20:03:41Z",
+  "updated": "2026-10-10T20:13:16Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
-    },
-    {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "speedrunning my rap career",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
-    },
-    {
-      "platform": "youtube",
-      "name": "blacksincybersecurity",
-      "title": "AppSec and Mentorship w/ Munir Muhammed - BIC Podcast Episode #27",
-      "link": "https://www.youtube.com/watch?v=ITJuyp41Z1I",
       "viewers": 2
     },
     {
@@ -30,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "R9uCstqR36M",
