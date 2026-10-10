@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-10T22:53:41Z",
+  "updated": "2026-10-10T23:03:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "ragebaiting OW lobbies is my fave hobby",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 291
+      "viewers": 223
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 296,
+  "viewers_total": 228,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
