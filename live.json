@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-10T06:57:58Z",
+  "updated": "2026-10-10T07:08:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays CBP 2077 for the first time!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 11
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -27,11 +27,19 @@
       "name": "censoredHacker",
       "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 13,
   "videos": [
+    {
+      "video_id": "qK6qkcpqGKo",
+      "channel": "censoredHacker",
+      "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
+      "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
+      "published_at": "2026-10-10T06:18:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qK6qkcpqGKo/hqdefault.jpg"
+    },
     {
       "video_id": "kgXbBu7Ii6w",
       "channel": "mbcrump",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=WmP6bn8H3Iw",
       "published_at": "2026-10-09T03:29:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/WmP6bn8H3Iw/hqdefault.jpg"
-    },
-    {
-      "video_id": "8EY-jL5mvP0",
-      "channel": "KeonBowman",
-      "title": "SQL Injection: Bypass a Login Page Without a Password",
-      "link": "https://www.youtube.com/watch?v=8EY-jL5mvP0",
-      "published_at": "2026-10-09T01:24:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8EY-jL5mvP0/hqdefault.jpg"
     }
   ]
 }
