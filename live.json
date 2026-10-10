@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T14:03:17Z",
+  "updated": "2026-10-10T14:13:40Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 17
+      "viewers": 11
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 13,
   "videos": [
+    {
+      "video_id": "btGpMZb0f64",
+      "channel": "SecurityWeekly",
+      "title": "Can AI Find Bugs Before Attackers?",
+      "link": "https://www.youtube.com/watch?v=btGpMZb0f64",
+      "published_at": "2026-10-10T14:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/btGpMZb0f64/hqdefault.jpg"
+    },
     {
       "video_id": "SpQQi2FcN5Q",
       "channel": "team_whoami",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=N671yGL9-bM",
       "published_at": "2026-10-09T14:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/N671yGL9-bM/hqdefault.jpg"
-    },
-    {
-      "video_id": "XPIWa02wc38",
-      "channel": "team_whoami",
-      "title": "ensamblador libreria c",
-      "link": "https://www.youtube.com/watch?v=XPIWa02wc38",
-      "published_at": "2026-10-09T13:00:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XPIWa02wc38/hqdefault.jpg"
     }
   ]
 }
