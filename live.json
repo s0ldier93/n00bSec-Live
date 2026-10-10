@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-10T16:33:41Z",
+  "updated": "2026-10-10T16:43:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "_pei5dVul3A",
