@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-10T07:08:00Z",
+  "updated": "2026-10-10T07:17:59Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hacker plays CBP 2077 for the first time!",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 9
-    },
     {
       "platform": "twitch",
       "name": "censoredHacker",
@@ -27,10 +20,10 @@
       "name": "censoredHacker",
       "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "qK6qkcpqGKo",
