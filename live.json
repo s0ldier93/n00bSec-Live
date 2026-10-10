@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-10T16:43:41Z",
+  "updated": "2026-10-10T17:03:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 5,
   "videos": [
+    {
+      "video_id": "haogc1pnaqU",
+      "channel": "JohnHammond010",
+      "title": "Inside Steam Exploits",
+      "link": "https://www.youtube.com/watch?v=haogc1pnaqU",
+      "published_at": "2026-10-10T16:43:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/haogc1pnaqU/hqdefault.jpg"
+    },
     {
       "video_id": "_pei5dVul3A",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=PiM2iBhLY1s",
       "published_at": "2026-10-09T17:55:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PiM2iBhLY1s/hqdefault.jpg"
-    },
-    {
-      "video_id": "wIe3eDfGKUo",
-      "channel": "LowLevelTV",
-      "title": "Has AI Solved Reverse Engineering?",
-      "link": "https://www.youtube.com/watch?v=wIe3eDfGKUo",
-      "published_at": "2026-10-09T16:56:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wIe3eDfGKUo/hqdefault.jpg"
     }
   ]
 }
