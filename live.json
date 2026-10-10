@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-10T22:23:41Z",
+  "updated": "2026-10-10T22:33:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "ragebaiting OW lobbies is my fave hobby",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 264
+      "viewers": 292
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "msec",
       "title": "Watching paint dry",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 268,
+  "viewers_total": 299,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
