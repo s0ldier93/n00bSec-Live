@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T02:07:58Z",
+  "updated": "2026-10-10T02:17:58Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,24 +20,24 @@
       "name": "ej_sa",
       "title": "FRIDAY NIGHT CONFLICT PUPPIES! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 306
+      "viewers": 294
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "HE DOG POUND & HOUSE TEAM present: THE INTERNATIONAL VIBE FEST No. 3 | ty: @josespinnincortes",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 109
+      "viewers": 119
     },
     {
       "platform": "twitch",
       "name": "TracketPacer",
       "title": "tracketpacer plays waterpark sim",
       "link": "https://twitch.tv/TracketPacer",
-      "viewers": 27
+      "viewers": 28
     }
   ],
-  "viewers_total": 460,
+  "viewers_total": 459,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
