@@ -1,19 +1,12 @@
 {
-  "updated": "2026-10-10T14:23:41Z",
+  "updated": "2026-10-10T14:33:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "FloraTheExplorer_cyber",
-      "title": "FloraThe... Builder?? IRL Ikea Montage",
-      "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 15
+      "viewers": 14
     },
     {
       "platform": "youtube",
@@ -23,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 17,
+  "viewers_total": 15,
   "videos": [
     {
       "video_id": "btGpMZb0f64",
