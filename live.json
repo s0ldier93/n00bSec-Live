@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T16:13:41Z",
+  "updated": "2026-10-10T16:23:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -18,6 +18,14 @@
   ],
   "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "_pei5dVul3A",
+      "channel": "mbcrump",
+      "title": "Tap an NFC Card to Launch a PS5 Game?",
+      "link": "https://www.youtube.com/watch?v=_pei5dVul3A",
+      "published_at": "2026-10-10T16:00:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_pei5dVul3A/hqdefault.jpg"
+    },
     {
       "video_id": "XRqQjK345zo",
       "channel": "ippsec",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=wIe3eDfGKUo",
       "published_at": "2026-10-09T16:56:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wIe3eDfGKUo/hqdefault.jpg"
-    },
-    {
-      "video_id": "Ho8uwmXYuMA",
-      "channel": "Khaos_Farbauti",
-      "title": "La valeur de l'argent",
-      "link": "https://www.youtube.com/watch?v=Ho8uwmXYuMA",
-      "published_at": "2026-10-09T14:57:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Ho8uwmXYuMA/hqdefault.jpg"
     }
   ]
 }
