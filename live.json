@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T12:57:59Z",
+  "updated": "2026-10-10T13:07:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 18
+      "viewers": 21
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 23,
   "videos": [
+    {
+      "video_id": "5Ph606M2Vr0",
+      "channel": "Cyber_Insecurity",
+      "title": "The attackers suggested the Zoom call. $500K gone.",
+      "link": "https://www.youtube.com/watch?v=5Ph606M2Vr0",
+      "published_at": "2026-10-10T12:53:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5Ph606M2Vr0/hqdefault.jpg"
+    },
     {
       "video_id": "0hErLGiP-Xo",
       "channel": "TheShyHat",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=8kuUVjSKLC8",
       "published_at": "2026-10-09T08:00:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8kuUVjSKLC8/hqdefault.jpg"
-    },
-    {
-      "video_id": "uID6Ne48ENo",
-      "channel": "NahamSec",
-      "title": "Vercel paid a $50,000 bounty! \ud83d\udc40\ud83d\udc40",
-      "link": "https://www.youtube.com/watch?v=uID6Ne48ENo",
-      "published_at": "2026-10-09T07:33:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/uID6Ne48ENo/hqdefault.jpg"
     }
   ]
 }
