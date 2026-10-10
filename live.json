@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-10T08:57:59Z",
+  "updated": "2026-10-10T09:07:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "Sly 2 Plat Work \ud83c\udfc69/35\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 6,
   "videos": [
+    {
+      "video_id": "Mqoh8MP72CY",
+      "channel": "BySepa",
+      "title": "Certificaciones, Legislaciones y Directivas que NO PODES DESCONOCER",
+      "link": "https://www.youtube.com/watch?v=Mqoh8MP72CY",
+      "published_at": "2026-10-10T09:00:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Mqoh8MP72CY/hqdefault.jpg"
+    },
     {
       "video_id": "qK6qkcpqGKo",
       "channel": "censoredHacker",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=fe5Q6jXqpq0",
       "published_at": "2026-10-09T06:59:48+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fe5Q6jXqpq0/hqdefault.jpg"
-    },
-    {
-      "video_id": "WmP6bn8H3Iw",
-      "channel": "EJSA",
-      "title": "THURSDAY CONFLICT CANINES! 10/8/26",
-      "link": "https://www.youtube.com/watch?v=WmP6bn8H3Iw",
-      "published_at": "2026-10-09T03:29:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WmP6bn8H3Iw/hqdefault.jpg"
     }
   ]
 }
