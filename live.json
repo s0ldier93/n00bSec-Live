@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-10T02:47:58Z",
+  "updated": "2026-10-10T02:57:24Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "0xtib3rius",
       "title": "Playing Crusader Kings III",
       "link": "https://twitch.tv/0xtib3rius",
-      "viewers": 8
+      "viewers": 7
     },
     {
       "platform": "twitch",
@@ -34,10 +34,17 @@
       "name": "TracketPacer",
       "title": "tracketpacer plays waterpark sim",
       "link": "https://twitch.tv/TracketPacer",
-      "viewers": 23
+      "viewers": 22
+    },
+    {
+      "platform": "youtube",
+      "name": "TheShyHat",
+      "title": "BINARY EXPLOITATION LIVE! Teaching Binary Hacking to HowlingAF !guest",
+      "link": "https://www.youtube.com/watch?v=PiM2iBhLY1s",
+      "viewers": 6
     }
   ],
-  "viewers_total": 424,
+  "viewers_total": 428,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
