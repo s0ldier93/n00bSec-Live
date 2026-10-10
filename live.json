@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-10T04:27:22Z",
+  "updated": "2026-10-10T04:27:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays CBP 2077 for the first time!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 10
-    },
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "FRIDAY NIGHT CONFLICT PUPPIES! 10/9/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 239
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 8
+      "viewers": 11
     },
     {
       "platform": "twitch",
@@ -34,7 +27,7 @@
       "name": "TheShyHat",
       "title": "BINARY EXPLOITATION LIVE! Teaching Binary Hacking to HowlingAF",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 8
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -44,7 +37,7 @@
       "viewers": 12
     }
   ],
-  "viewers_total": 280,
+  "viewers_total": 42,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
