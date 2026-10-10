@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T04:17:59Z",
+  "updated": "2026-10-10T04:27:22Z",
   "streams": [
     {
       "platform": "twitch",
@@ -41,10 +41,10 @@
       "name": "TheShyHat",
       "title": "BINARY EXPLOITATION LIVE! Teaching Binary Hacking to HowlingAF !guest",
       "link": "https://www.youtube.com/watch?v=PiM2iBhLY1s",
-      "viewers": 15
+      "viewers": 12
     }
   ],
-  "viewers_total": 283,
+  "viewers_total": 280,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
