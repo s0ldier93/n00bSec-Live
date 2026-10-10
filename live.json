@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-10T17:43:41Z",
+  "updated": "2026-10-10T18:03:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 1
+      "viewers": 2
     }
   ],
   "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "R9uCstqR36M",
+      "channel": "LuNiZz",
+      "title": "Kardiyovaskuler olarak Hacklenmeyin \ud83d\ude02",
+      "link": "https://www.youtube.com/watch?v=R9uCstqR36M",
+      "published_at": "2026-10-10T18:00:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/R9uCstqR36M/hqdefault.jpg"
+    },
     {
       "video_id": "haogc1pnaqU",
       "channel": "JohnHammond010",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=105bEfa3A2s",
       "published_at": "2026-10-09T18:00:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/105bEfa3A2s/hqdefault.jpg"
-    },
-    {
-      "video_id": "PiM2iBhLY1s",
-      "channel": "TheShyHat",
-      "title": "BINARY EXPLOITATION LIVE! Teaching Binary Hacking to HowlingAF",
-      "link": "https://www.youtube.com/watch?v=PiM2iBhLY1s",
-      "published_at": "2026-10-09T17:55:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PiM2iBhLY1s/hqdefault.jpg"
     }
   ]
 }
