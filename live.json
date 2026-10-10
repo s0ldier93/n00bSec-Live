@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:38:00Z",
+  "updated": "2026-10-10T13:48:00Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 19
+      "viewers": 15
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 21,
+  "viewers_total": 17,
   "videos": [
     {
       "video_id": "SpQQi2FcN5Q",
