@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:07:59Z",
+  "updated": "2026-10-10T13:18:00Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 21
+      "viewers": 17
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 19,
   "videos": [
+    {
+      "video_id": "SpQQi2FcN5Q",
+      "channel": "team_whoami",
+      "title": "ensamblador shellcode",
+      "link": "https://www.youtube.com/watch?v=SpQQi2FcN5Q",
+      "published_at": "2026-10-10T13:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SpQQi2FcN5Q/hqdefault.jpg"
+    },
     {
       "video_id": "5Ph606M2Vr0",
       "channel": "Cyber_Insecurity",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=XPIWa02wc38",
       "published_at": "2026-10-09T13:00:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XPIWa02wc38/hqdefault.jpg"
-    },
-    {
-      "video_id": "8kuUVjSKLC8",
-      "channel": "BySepa",
-      "title": "Pentester vs Red Teamer  \u00bfCu\u00e1l es la diferencia?",
-      "link": "https://www.youtube.com/watch?v=8kuUVjSKLC8",
-      "published_at": "2026-10-09T08:00:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8kuUVjSKLC8/hqdefault.jpg"
     }
   ]
 }
