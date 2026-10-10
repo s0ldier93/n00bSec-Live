@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T20:23:41Z",
+  "updated": "2026-10-10T20:33:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "msec",
       "title": "Watching paint dry",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 6,
   "videos": [
     {
       "video_id": "R9uCstqR36M",
