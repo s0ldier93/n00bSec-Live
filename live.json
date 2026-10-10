@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:57:59Z",
+  "updated": "2026-10-10T12:07:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 11
+      "viewers": 15
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 17,
   "videos": [
+    {
+      "video_id": "0hErLGiP-Xo",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Redacted - PDF Text Redaction - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=0hErLGiP-Xo",
+      "published_at": "2026-10-10T12:00:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0hErLGiP-Xo/hqdefault.jpg"
+    },
     {
       "video_id": "Mqoh8MP72CY",
       "channel": "BySepa",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=uID6Ne48ENo",
       "published_at": "2026-10-09T07:33:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/uID6Ne48ENo/hqdefault.jpg"
-    },
-    {
-      "video_id": "fe5Q6jXqpq0",
-      "channel": "censoredHacker",
-      "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
-      "link": "https://www.youtube.com/watch?v=fe5Q6jXqpq0",
-      "published_at": "2026-10-09T06:59:48+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fe5Q6jXqpq0/hqdefault.jpg"
     }
   ]
 }
