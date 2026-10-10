@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-10T07:47:59Z",
+  "updated": "2026-10-10T07:57:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Just keep turning",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 3
+      "viewers": 5
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "qK6qkcpqGKo",
