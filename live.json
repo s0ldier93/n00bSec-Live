@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:03:20Z",
+  "updated": "2026-10-10T19:13:42Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "blacksincybersecurity",
       "title": "AppSec and Mentorship w/ Munir Muhammed - BIC Podcast Episode #27",
       "link": "https://www.youtube.com/watch?v=ITJuyp41Z1I",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 6,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "R9uCstqR36M",
