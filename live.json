@@ -1,18 +1,11 @@
 {
-  "updated": "2026-10-10T09:47:59Z",
+  "updated": "2026-10-10T10:57:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "cybertechvibes",
-      "title": "Sly 2 Plat Work \ud83c\udfc69/35\ud83c\udfc6 #TheTrophyTrackers",
-      "link": "https://twitch.tv/cybertechvibes",
       "viewers": 1
     },
     {
@@ -23,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "Mqoh8MP72CY",
