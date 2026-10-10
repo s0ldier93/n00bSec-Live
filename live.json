@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:13:42Z",
+  "updated": "2026-10-10T19:33:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,6 +7,13 @@
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
       "viewers": 2
+    },
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "speedrunning my rap career",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 8
     },
     {
       "platform": "youtube",
@@ -23,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 13,
   "videos": [
     {
       "video_id": "R9uCstqR36M",
