@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:53:41Z",
+  "updated": "2026-10-10T20:03:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "panekopanko",
       "title": "speedrunning my rap career",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 32
+      "viewers": 30
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 37,
+  "viewers_total": 35,
   "videos": [
     {
       "video_id": "R9uCstqR36M",
