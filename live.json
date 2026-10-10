@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-10T15:03:43Z",
+  "updated": "2026-10-10T15:13:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 6,
   "videos": [
+    {
+      "video_id": "XRqQjK345zo",
+      "channel": "ippsec",
+      "title": "HackTheBox - DevHub",
+      "link": "https://www.youtube.com/watch?v=XRqQjK345zo",
+      "published_at": "2026-10-10T15:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XRqQjK345zo/hqdefault.jpg"
+    },
     {
       "video_id": "btGpMZb0f64",
       "channel": "SecurityWeekly",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=Ho8uwmXYuMA",
       "published_at": "2026-10-09T14:57:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Ho8uwmXYuMA/hqdefault.jpg"
-    },
-    {
-      "video_id": "N671yGL9-bM",
-      "channel": "SecurityWeekly",
-      "title": "SSH Encryption Isn\u2019t Actually Broken",
-      "link": "https://www.youtube.com/watch?v=N671yGL9-bM",
-      "published_at": "2026-10-09T14:00:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/N671yGL9-bM/hqdefault.jpg"
     }
   ]
 }
