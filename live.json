@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-10T06:17:58Z",
+  "updated": "2026-10-10T06:27:25Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays CBP 2077 for the first time!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 12
+      "viewers": 13
     },
     {
       "platform": "twitch",
@@ -21,16 +21,9 @@
       "title": "BINARY EXPLOITATION LIVE! Teaching Binary Hacking to HowlingAF",
       "link": "https://twitch.tv/TheShyHat",
       "viewers": 9
-    },
-    {
-      "platform": "youtube",
-      "name": "TheShyHat",
-      "title": "BINARY EXPLOITATION LIVE! Teaching Binary Hacking to HowlingAF !guest",
-      "link": "https://www.youtube.com/watch?v=PiM2iBhLY1s",
-      "viewers": 12
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 23,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
