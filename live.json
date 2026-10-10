@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-10T00:57:59Z",
+  "updated": "2026-10-10T01:08:00Z",
   "streams": [
     {
       "platform": "twitch",
+      "name": "BlaiseBits",
+      "title": "Hacker plays CBP 2077 for the first time!",
+      "link": "https://twitch.tv/BlaiseBits",
+      "viewers": 0
+    },
+    {
+      "platform": "twitch",
       "name": "ej_sa",
-      "title": "NSF - THE FLAME TRENCH! 10/9/26",
+      "title": "FRIDAY NIGHT CONFLICT PUPPIES! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 437
     }
