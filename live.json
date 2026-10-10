@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-10T04:07:58Z",
+  "updated": "2026-10-10T04:17:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays CBP 2077 for the first time!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 15
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "FRIDAY NIGHT CONFLICT PUPPIES! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 243
+      "viewers": 239
     },
     {
       "platform": "twitch",
@@ -27,24 +27,24 @@
       "name": "irasakai",
       "title": "Just keep turning",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "BINARY EXPLOITATION LIVE! Teaching Binary Hacking to HowlingAF",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 7
+      "viewers": 8
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "BINARY EXPLOITATION LIVE! Teaching Binary Hacking to HowlingAF !guest",
       "link": "https://www.youtube.com/watch?v=PiM2iBhLY1s",
-      "viewers": 12
+      "viewers": 15
     }
   ],
-  "viewers_total": 290,
+  "viewers_total": 283,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
