@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-10T01:28:00Z",
+  "updated": "2026-10-10T01:37:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "0xtib3rius",
       "title": "Playing Crusader Kings III",
       "link": "https://twitch.tv/0xtib3rius",
-      "viewers": 9
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays CBP 2077 for the first time!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "FRIDAY NIGHT CONFLICT PUPPIES! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 356
+      "viewers": 345
     },
     {
       "platform": "twitch",
       "name": "TracketPacer",
       "title": "tracketpacer plays waterpark sim",
       "link": "https://twitch.tv/TracketPacer",
-      "viewers": 24
+      "viewers": 34
     }
   ],
-  "viewers_total": 395,
+  "viewers_total": 393,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
