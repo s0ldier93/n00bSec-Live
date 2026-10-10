@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-10T23:43:41Z",
+  "updated": "2026-10-10T23:53:41Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "bashbunni",
-      "title": "ragebaiting OW lobbies is my fave hobby",
-      "link": "https://twitch.tv/bashbunni",
-      "viewers": 258
-    },
     {
       "platform": "twitch",
       "name": "censoredHacker",
@@ -20,14 +13,14 @@
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 2
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Watching paint dry",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 265,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
