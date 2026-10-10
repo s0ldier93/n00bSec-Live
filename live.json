@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T20:13:16Z",
+  "updated": "2026-10-10T20:23:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -9,14 +9,21 @@
       "viewers": 2
     },
     {
+      "platform": "twitch",
+      "name": "msec",
+      "title": "Watching paint dry",
+      "link": "https://twitch.tv/msec",
+      "viewers": 1
+    },
+    {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "R9uCstqR36M",
