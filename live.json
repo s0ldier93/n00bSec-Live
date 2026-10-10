@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-10T01:08:00Z",
+  "updated": "2026-10-10T01:17:59Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hacker plays CBP 2077 for the first time!",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 0
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "FRIDAY NIGHT CONFLICT PUPPIES! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 437
+      "viewers": 375
     }
   ],
-  "viewers_total": 437,
+  "viewers_total": 375,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
