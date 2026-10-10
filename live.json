@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-10T01:37:59Z",
+  "updated": "2026-10-10T01:47:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "0xtib3rius",
       "title": "Playing Crusader Kings III",
       "link": "https://twitch.tv/0xtib3rius",
-      "viewers": 5
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "ej_sa",
       "title": "FRIDAY NIGHT CONFLICT PUPPIES! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 345
+      "viewers": 311
     },
     {
       "platform": "twitch",
       "name": "TracketPacer",
       "title": "tracketpacer plays waterpark sim",
       "link": "https://twitch.tv/TracketPacer",
-      "viewers": 34
+      "viewers": 27
     }
   ],
-  "viewers_total": 393,
+  "viewers_total": 359,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
