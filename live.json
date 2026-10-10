@@ -1,36 +1,43 @@
 {
-  "updated": "2026-10-10T01:47:59Z",
+  "updated": "2026-10-10T01:58:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "0xtib3rius",
       "title": "Playing Crusader Kings III",
       "link": "https://twitch.tv/0xtib3rius",
-      "viewers": 12
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays CBP 2077 for the first time!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 9
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "FRIDAY NIGHT CONFLICT PUPPIES! 10/9/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 311
+      "viewers": 304
+    },
+    {
+      "platform": "twitch",
+      "name": "goproflowyo",
+      "title": "HE DOG POUND & HOUSE TEAM present: THE INTERNATIONAL VIBE FEST No. 3",
+      "link": "https://twitch.tv/goproflowyo",
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "TracketPacer",
       "title": "tracketpacer plays waterpark sim",
       "link": "https://twitch.tv/TracketPacer",
-      "viewers": 27
+      "viewers": 28
     }
   ],
-  "viewers_total": 359,
+  "viewers_total": 357,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
