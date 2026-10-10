@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T06:27:25Z",
+  "updated": "2026-10-10T06:27:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,16 +14,9 @@
       "title": "Just keep turning",
       "link": "https://twitch.tv/irasakai",
       "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "TheShyHat",
-      "title": "BINARY EXPLOITATION LIVE! Teaching Binary Hacking to HowlingAF",
-      "link": "https://twitch.tv/TheShyHat",
-      "viewers": 9
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 14,
   "videos": [
     {
       "video_id": "kgXbBu7Ii6w",
