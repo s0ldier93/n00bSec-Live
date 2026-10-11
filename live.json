@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-11T16:03:19Z",
+  "updated": "2026-10-11T16:13:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux] Cours Shell : d\u00e9couvrez la ligne de commande !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 1
+      "viewers": 10
     },
     {
       "platform": "twitch",
@@ -20,14 +20,14 @@
       "name": "Khaos_Farbauti",
       "title": "Nintendo va nous strike ? | THM mKingdom",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 47
+      "viewers": 34
     },
     {
       "platform": "twitch",
       "name": "pebl3",
-      "title": "Hacking CTFs | !htb !discord !youtube",
+      "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\" | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 2
+      "viewers": 19
     },
     {
       "platform": "youtube",
@@ -39,12 +39,12 @@
     {
       "platform": "youtube",
       "name": "pebl3",
-      "title": "Hacking CTFs",
+      "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\"",
       "link": "https://www.youtube.com/watch?v=COqmM3Xgeug",
-      "viewers": 1
+      "viewers": 30
     }
   ],
-  "viewers_total": 53,
+  "viewers_total": 95,
   "videos": [
     {
       "video_id": "p2t6Nu42t8E",
