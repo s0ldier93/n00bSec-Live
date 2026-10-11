@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-11T11:13:38Z",
+  "updated": "2026-10-11T11:23:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "Sukaiberu",
       "title": "Rebuilding Surface Pro 3 to Ubuntu 26.04",
       "link": "https://twitch.tv/Sukaiberu",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
