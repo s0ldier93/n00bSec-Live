@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-11T18:53:38Z",
+  "updated": "2026-10-11T19:03:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\" | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 35
+      "viewers": 38
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\"",
       "link": "https://www.youtube.com/watch?v=COqmM3Xgeug",
-      "viewers": 31
+      "viewers": 25
     }
   ],
-  "viewers_total": 66,
+  "viewers_total": 63,
   "videos": [
     {
       "video_id": "KchuR7GQ-EI",
