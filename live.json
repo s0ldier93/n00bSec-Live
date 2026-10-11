@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-11T16:13:38Z",
+  "updated": "2026-10-11T16:23:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux] Cours Shell : d\u00e9couvrez la ligne de commande !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 10
+      "viewers": 23
     },
     {
       "platform": "twitch",
@@ -20,14 +20,14 @@
       "name": "Khaos_Farbauti",
       "title": "Nintendo va nous strike ? | THM mKingdom",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 34
+      "viewers": 40
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\" | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 19
+      "viewers": 36
     },
     {
       "platform": "youtube",
@@ -41,11 +41,27 @@
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\"",
       "link": "https://www.youtube.com/watch?v=COqmM3Xgeug",
-      "viewers": 30
+      "viewers": 28
     }
   ],
-  "viewers_total": 95,
+  "viewers_total": 129,
   "videos": [
+    {
+      "video_id": "ubakDAZR9ks",
+      "channel": "mbcrump",
+      "title": "ESP32 PS5 Autoloader Puts Network Details on OLED",
+      "link": "https://www.youtube.com/watch?v=ubakDAZR9ks",
+      "published_at": "2026-10-11T16:00:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ubakDAZR9ks/hqdefault.jpg"
+    },
+    {
+      "video_id": "COqmM3Xgeug",
+      "channel": "pebl3",
+      "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\"",
+      "link": "https://www.youtube.com/watch?v=COqmM3Xgeug",
+      "published_at": "2026-10-11T15:54:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/COqmM3Xgeug/hqdefault.jpg"
+    },
     {
       "video_id": "p2t6Nu42t8E",
       "channel": "ElPinguinoDeMario",
@@ -189,22 +205,6 @@
       "link": "https://www.youtube.com/watch?v=d8KtzcCRSkQ",
       "published_at": "2026-10-09T22:09:53+00:00",
       "thumbnail": "https://i.ytimg.com/vi/d8KtzcCRSkQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "MWp2rhN6ihk",
-      "channel": "SecurityWeekly",
-      "title": "Who Pays When AI Goes Rogue?",
-      "link": "https://www.youtube.com/watch?v=MWp2rhN6ihk",
-      "published_at": "2026-10-09T22:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MWp2rhN6ihk/hqdefault.jpg"
-    },
-    {
-      "video_id": "osaRbgqkVYg",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 16's Top Cyber News NOW! - Ep 1267",
-      "link": "https://www.youtube.com/watch?v=osaRbgqkVYg",
-      "published_at": "2026-10-09T21:48:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/osaRbgqkVYg/hqdefault.jpg"
     }
   ]
 }
