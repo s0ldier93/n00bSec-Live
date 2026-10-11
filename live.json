@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T02:33:40Z",
+  "updated": "2026-10-11T02:43:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! No plan, improvised hacks + Q&A",
       "link": "https://www.youtube.com/watch?v=PJt0Ufb6jDs",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 22,
+  "viewers_total": 23,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
