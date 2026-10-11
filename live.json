@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-11T03:33:40Z",
+  "updated": "2026-10-11T03:43:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! No plan, improvised hacks + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 17
+      "viewers": 15
+    },
+    {
+      "platform": "twitch",
+      "name": "c04tl",
+      "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
+      "link": "https://twitch.tv/c04tl",
+      "viewers": 0
     },
     {
       "platform": "twitch",
@@ -20,24 +27,24 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbSaturday Night Stream - Gaming and more!! |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! No plan, improvised hacks + Q&A",
       "link": "https://www.youtube.com/watch?v=PJt0Ufb6jDs",
-      "viewers": 7
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 25,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
