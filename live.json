@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-11T02:03:41Z",
+  "updated": "2026-10-11T02:13:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! No plan, improvised hacks + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 14
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -16,18 +16,11 @@
       "viewers": 1
     },
     {
-      "platform": "twitch",
-      "name": "het_tanis",
-      "title": "Hanging out and playing video games with the ProLUG.",
-      "link": "https://twitch.tv/het_tanis",
-      "viewers": 16
-    },
-    {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! No plan, improvised hacks + Q&A",
       "link": "https://www.youtube.com/watch?v=PJt0Ufb6jDs",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 16,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
