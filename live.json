@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:03:38Z",
+  "updated": "2026-10-11T15:13:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,7 @@
       "name": "Khaos_Farbauti",
       "title": "Nintendo va nous strike ? | THM mKingdom",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 19
-    },
-    {
-      "platform": "twitch",
-      "name": "topklean",
-      "title": "12345 et pwn :( (le !ping est l\u00e0) / et apr\u00e8s du linux",
-      "link": "https://twitch.tv/topklean",
-      "viewers": 72
+      "viewers": 40
     },
     {
       "platform": "youtube",
@@ -30,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 93,
+  "viewers_total": 42,
   "videos": [
+    {
+      "video_id": "ieCzgiCE490",
+      "channel": "LuNiZz",
+      "title": "pazar ninjasi ;) buyursunlar efenim..",
+      "link": "https://www.youtube.com/watch?v=ieCzgiCE490",
+      "published_at": "2026-10-11T14:58:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ieCzgiCE490/hqdefault.jpg"
+    },
     {
       "video_id": "bc_qhb0FYnE",
       "channel": "BySepa",
@@ -183,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=IBYq3s91DBA",
       "published_at": "2026-10-09T21:40:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/IBYq3s91DBA/hqdefault.jpg"
-    },
-    {
-      "video_id": "NjzUwDvsurc",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 15's Top Cyber News NOW! - Ep 1266",
-      "link": "https://www.youtube.com/watch?v=NjzUwDvsurc",
-      "published_at": "2026-10-09T21:36:59+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NjzUwDvsurc/hqdefault.jpg"
     }
   ]
 }
