@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T09:33:38Z",
+  "updated": "2026-10-11T09:43:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "panekopanko",
       "title": "photocraft vs photoshop | vibecoder vs profiteer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
+      "viewers": 31
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 3
+      "viewers": 2
     }
   ],
   "viewers_total": 34,
