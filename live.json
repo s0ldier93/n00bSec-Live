@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-11T06:23:37Z",
+  "updated": "2026-10-11T06:33:38Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 5
-    },
     {
       "platform": "twitch",
       "name": "censoredHacker",
@@ -23,6 +16,13 @@
       "viewers": 1
     },
     {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "photocraft vs photoshop | vibecoder vs profiteer",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 3
+    },
+    {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
@@ -30,7 +30,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 7,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
