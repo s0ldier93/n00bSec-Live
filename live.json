@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-11T19:03:38Z",
+  "updated": "2026-10-11T19:13:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\" | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 38
+      "viewers": 35
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\"",
       "link": "https://www.youtube.com/watch?v=COqmM3Xgeug",
-      "viewers": 25
+      "viewers": 32
     }
   ],
-  "viewers_total": 63,
+  "viewers_total": 67,
   "videos": [
+    {
+      "video_id": "VF8thRxnYgY",
+      "channel": "mbcrump",
+      "title": "Wind Waker HD Runs Natively on PS5",
+      "link": "https://www.youtube.com/watch?v=VF8thRxnYgY",
+      "published_at": "2026-10-11T19:00:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VF8thRxnYgY/hqdefault.jpg"
+    },
     {
       "video_id": "KchuR7GQ-EI",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
       "published_at": "2026-10-10T06:18:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qK6qkcpqGKo/hqdefault.jpg"
-    },
-    {
-      "video_id": "kgXbBu7Ii6w",
-      "channel": "mbcrump",
-      "title": "PlayStation Homebrew News (PS5 NFC Launcher, PS5SX2 2.00 & Wind Waker HD)",
-      "link": "https://www.youtube.com/watch?v=kgXbBu7Ii6w",
-      "published_at": "2026-10-09T23:22:52+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/kgXbBu7Ii6w/hqdefault.jpg"
     }
   ]
 }
