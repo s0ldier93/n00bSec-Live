@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-11T17:03:38Z",
+  "updated": "2026-10-11T17:13:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux] Cours Shell : d\u00e9couvrez la ligne de commande !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 45
+      "viewers": 44
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\" | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 40
+      "viewers": 25
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\"",
       "link": "https://www.youtube.com/watch?v=COqmM3Xgeug",
-      "viewers": 34
+      "viewers": 35
     }
   ],
-  "viewers_total": 119,
+  "viewers_total": 104,
   "videos": [
     {
       "video_id": "dKHqZO_wexQ",
