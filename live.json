@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:03:41Z",
+  "updated": "2026-10-11T00:13:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,16 +11,16 @@
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "HiAF - House is a Feeling \u2116 29",
+      "title": "HiAF - House is a Feeling \u2116 29 | ty: @lavelleofficial",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 1
+      "viewers": 48
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 11
+      "viewers": 13
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 66,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
