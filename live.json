@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:43:41Z",
+  "updated": "2026-10-11T00:53:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "goproflowyo",
       "title": "HiAF - House is a Feeling \u2116 29 | ty: @alzivar @lavelleofficial",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 37
+      "viewers": 54
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 13
+      "viewers": 10
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 52,
+  "viewers_total": 66,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
