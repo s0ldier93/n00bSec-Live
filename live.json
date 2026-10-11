@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:53:38Z",
+  "updated": "2026-10-11T15:03:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "Khaos_Farbauti",
       "title": "Nintendo va nous strike ? | THM mKingdom",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 3
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "12345 et pwn :( (le !ping est l\u00e0) / et apr\u00e8s du linux",
       "link": "https://twitch.tv/topklean",
-      "viewers": 69
+      "viewers": 72
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 74,
+  "viewers_total": 93,
   "videos": [
     {
       "video_id": "bc_qhb0FYnE",
