@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-11T04:23:04Z",
+  "updated": "2026-10-11T04:23:37Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! No plan, improvised hacks + Q&A",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 17
-    },
     {
       "platform": "twitch",
       "name": "c04tl",
@@ -27,7 +20,7 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbSaturday Night Stream - Gaming and more!! |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 25,
+  "viewers_total": 7,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
