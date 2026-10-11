@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T10:23:38Z",
+  "updated": "2026-10-11T10:33:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,14 @@
       "name": "panekopanko",
       "title": "photocraft vs photoshop | vibecoder vs profiteer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 24
+      "viewers": 26
+    },
+    {
+      "platform": "twitch",
+      "name": "Sukaiberu",
+      "title": "Rebuilding Surface Pro 3 to Ubuntu 26.04",
+      "link": "https://twitch.tv/Sukaiberu",
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -23,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "bc_qhb0FYnE",
