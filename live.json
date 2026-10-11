@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T01:03:41Z",
+  "updated": "2026-10-11T01:13:06Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! No plan, improvised hacks + Q&A",
+      "link": "https://twitch.tv/BlaiseBits",
+      "viewers": 3
+    },
     {
       "platform": "twitch",
       "name": "censoredHacker",
@@ -24,13 +31,20 @@
     },
     {
       "platform": "youtube",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! No plan, improvised hacks + Q&A",
+      "link": "https://www.youtube.com/watch?v=PJt0Ufb6jDs",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
       "viewers": 1
     }
   ],
-  "viewers_total": 66,
+  "viewers_total": 70,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
