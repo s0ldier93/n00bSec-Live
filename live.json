@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T09:03:38Z",
+  "updated": "2026-10-11T09:13:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "panekopanko",
       "title": "photocraft vs photoshop | vibecoder vs profiteer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 25
+      "viewers": 28
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 32,
   "videos": [
+    {
+      "video_id": "bc_qhb0FYnE",
+      "channel": "BySepa",
+      "title": "OLVIDA el OSCP: La certificaci\u00f3n para ser un DIOS HACKER",
+      "link": "https://www.youtube.com/watch?v=bc_qhb0FYnE",
+      "published_at": "2026-10-11T09:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bc_qhb0FYnE/hqdefault.jpg"
+    },
     {
       "video_id": "PJt0Ufb6jDs",
       "channel": "BlaiseBits",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=NjzUwDvsurc",
       "published_at": "2026-10-09T21:36:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NjzUwDvsurc/hqdefault.jpg"
-    },
-    {
-      "video_id": "wvmFVfoF0F4",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 14's Top Cyber News NOW! - Ep 1265",
-      "link": "https://www.youtube.com/watch?v=wvmFVfoF0F4",
-      "published_at": "2026-10-09T21:36:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wvmFVfoF0F4/hqdefault.jpg"
     }
   ]
 }
