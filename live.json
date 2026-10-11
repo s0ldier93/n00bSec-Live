@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T06:53:38Z",
+  "updated": "2026-10-11T07:03:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,18 +20,26 @@
       "name": "panekopanko",
       "title": "photocraft vs photoshop | vibecoder vs profiteer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 10
+      "viewers": 11
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 2
+      "viewers": 1
     }
   ],
   "viewers_total": 14,
   "videos": [
+    {
+      "video_id": "PJt0Ufb6jDs",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! No plan, improvised hacks + Q&A",
+      "link": "https://www.youtube.com/watch?v=PJt0Ufb6jDs",
+      "published_at": "2026-10-11T04:25:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PJt0Ufb6jDs/hqdefault.jpg"
+    },
     {
       "video_id": "ygHrCWIOayc",
       "channel": "mbcrump",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=wvmFVfoF0F4",
       "published_at": "2026-10-09T21:36:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wvmFVfoF0F4/hqdefault.jpg"
-    },
-    {
-      "video_id": "8HokRjZ5RpM",
-      "channel": "SecurityWeekly",
-      "title": "Airline Zoom Calls,Pix, Windows, TP-Link, AgentCorruption, OSS Scanner, Josh Marpet - SWN #623",
-      "link": "https://www.youtube.com/watch?v=8HokRjZ5RpM",
-      "published_at": "2026-10-09T21:00:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8HokRjZ5RpM/hqdefault.jpg"
     }
   ]
 }
