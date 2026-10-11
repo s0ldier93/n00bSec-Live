@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T11:33:38Z",
+  "updated": "2026-10-11T11:43:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "Sukaiberu",
       "title": "Rebuilding Surface Pro 3 to Ubuntu 26.04",
       "link": "https://twitch.tv/Sukaiberu",
-      "viewers": 2
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "bc_qhb0FYnE",
