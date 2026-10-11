@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-11T19:53:38Z",
+  "updated": "2026-10-11T20:03:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\" | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 33
+      "viewers": 26
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\"",
       "link": "https://www.youtube.com/watch?v=COqmM3Xgeug",
-      "viewers": 30
+      "viewers": 36
     }
   ],
-  "viewers_total": 63,
+  "viewers_total": 62,
   "videos": [
+    {
+      "video_id": "D3BZJBvFH0k",
+      "channel": "MalwareTechBlog",
+      "title": "How I Became A Hacker And Got Arrested By The FBI - Keynote Interview with @TheRainmakerReport",
+      "link": "https://www.youtube.com/watch?v=D3BZJBvFH0k",
+      "published_at": "2026-10-11T19:52:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/D3BZJBvFH0k/hqdefault.jpg"
+    },
     {
       "video_id": "VF8thRxnYgY",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=Mqoh8MP72CY",
       "published_at": "2026-10-10T09:00:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Mqoh8MP72CY/hqdefault.jpg"
-    },
-    {
-      "video_id": "qK6qkcpqGKo",
-      "channel": "censoredHacker",
-      "title": "AWS CCP: Module 10.3 - Monitoring, Compliance and Governance",
-      "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "published_at": "2026-10-10T06:18:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qK6qkcpqGKo/hqdefault.jpg"
     }
   ]
 }
