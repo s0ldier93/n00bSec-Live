@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:03:38Z",
+  "updated": "2026-10-11T14:13:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "topklean",
       "title": "12345 et pwn :( (le !ping est l\u00e0) / et apr\u00e8s du linux",
       "link": "https://twitch.tv/topklean",
-      "viewers": 75
+      "viewers": 70
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 77,
+  "viewers_total": 72,
   "videos": [
     {
       "video_id": "bc_qhb0FYnE",
