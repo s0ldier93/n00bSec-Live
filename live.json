@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:13:38Z",
+  "updated": "2026-10-11T15:23:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "Khaos_Farbauti",
       "title": "Nintendo va nous strike ? | THM mKingdom",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 40
+      "viewers": 51
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 42,
+  "viewers_total": 53,
   "videos": [
     {
       "video_id": "ieCzgiCE490",
