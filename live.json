@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-11T13:03:38Z",
+  "updated": "2026-10-11T13:13:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "12345 et pwn :( (le !ping est l\u00e0) / et apr\u00e8s du linux",
       "link": "https://twitch.tv/topklean",
-      "viewers": 62
+      "viewers": 68
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 65,
+  "viewers_total": 70,
   "videos": [
     {
       "video_id": "bc_qhb0FYnE",
