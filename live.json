@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-11T05:33:37Z",
+  "updated": "2026-10-11T05:43:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbSaturday Night Stream - Gaming and more!! |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://www.youtube.com/watch?v=qK6qkcpqGKo",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
