@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T03:43:40Z",
+  "updated": "2026-10-11T03:53:40Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 0
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -34,7 +34,7 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! No plan, improvised hacks + Q&A",
       "link": "https://www.youtube.com/watch?v=PJt0Ufb6jDs",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 25,
+  "viewers_total": 31,
   "videos": [
     {
       "video_id": "ygHrCWIOayc",
