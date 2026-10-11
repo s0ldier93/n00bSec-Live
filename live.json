@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-11T14:43:38Z",
+  "updated": "2026-10-11T14:53:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lofi Beats and pomodoro",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 1
+    },
+    {
+      "platform": "twitch",
+      "name": "Khaos_Farbauti",
+      "title": "Nintendo va nous strike ? | THM mKingdom",
+      "link": "https://twitch.tv/Khaos_Farbauti",
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "12345 et pwn :( (le !ping est l\u00e0) / et apr\u00e8s du linux",
       "link": "https://twitch.tv/topklean",
-      "viewers": 72
+      "viewers": 69
     },
     {
       "platform": "youtube",
@@ -23,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 75,
+  "viewers_total": 74,
   "videos": [
     {
       "video_id": "bc_qhb0FYnE",
