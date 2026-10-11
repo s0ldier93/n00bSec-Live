@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T10:33:38Z",
+  "updated": "2026-10-11T10:43:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "panekopanko",
       "title": "photocraft vs photoshop | vibecoder vs profiteer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 26
+      "viewers": 28
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 31,
   "videos": [
     {
       "video_id": "bc_qhb0FYnE",
