@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T20:33:38Z",
+  "updated": "2026-10-11T20:43:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "pebl3",
       "title": "WWHF Recap and Hacking Active Directory Range \"BlackRiver\"",
       "link": "https://www.youtube.com/watch?v=COqmM3Xgeug",
-      "viewers": 32
+      "viewers": 27
     }
   ],
-  "viewers_total": 75,
+  "viewers_total": 70,
   "videos": [
     {
       "video_id": "D3BZJBvFH0k",
