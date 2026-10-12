@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:33:38Z",
+  "updated": "2026-10-12T17:43:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 Artcraft - Photoshop/Word Clones Testing and Development",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 229
+      "viewers": 265
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "We finally have to build highways! Transport Fever (Part 5) 10/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 200
+      "viewers": 255
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 433,
+  "viewers_total": 524,
   "videos": [
     {
       "video_id": "QXhCFWkODeU",
