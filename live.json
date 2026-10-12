@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-12T17:53:38Z",
+  "updated": "2026-10-12T18:03:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 Artcraft - Photoshop/Word Clones Testing and Development",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 259
+      "viewers": 290
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "We finally have to build highways! Transport Fever (Part 5) 10/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 326
+      "viewers": 347
     }
   ],
-  "viewers_total": 585,
+  "viewers_total": 637,
   "videos": [
+    {
+      "video_id": "tTdBefdwUYI",
+      "channel": "mbcrump",
+      "title": "PSSwanStation Build 18 Fixes Its PS5 Updater",
+      "link": "https://www.youtube.com/watch?v=tTdBefdwUYI",
+      "published_at": "2026-10-12T18:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tTdBefdwUYI/hqdefault.jpg"
+    },
     {
       "video_id": "QXhCFWkODeU",
       "channel": "EJSA",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=D3BZJBvFH0k",
       "published_at": "2026-10-11T19:52:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/D3BZJBvFH0k/hqdefault.jpg"
-    },
-    {
-      "video_id": "VF8thRxnYgY",
-      "channel": "mbcrump",
-      "title": "Wind Waker HD Runs Natively on PS5",
-      "link": "https://www.youtube.com/watch?v=VF8thRxnYgY",
-      "published_at": "2026-10-11T19:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VF8thRxnYgY/hqdefault.jpg"
     }
   ]
 }
