@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-12T23:13:38Z",
+  "updated": "2026-10-12T23:23:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 534
+      "viewers": 531
     }
   ],
-  "viewers_total": 534,
+  "viewers_total": 531,
   "videos": [
     {
       "video_id": "MpI5sWcUu1M",
