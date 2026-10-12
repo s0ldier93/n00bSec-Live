@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:03:39Z",
+  "updated": "2026-10-12T07:13:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "yourcyberdoctor",
       "title": "Building our AI hacking sidekick- day 200!!",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 24
+      "viewers": 20
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Sunday late night",
       "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
-      "viewers": 5
+      "viewers": 7
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 30,
   "videos": [
     {
       "video_id": "FWNBxQmice0",
