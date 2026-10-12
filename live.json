@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12T02:13:38Z",
+  "updated": "2026-10-12T02:23:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 20
+      "viewers": 33
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "cybertechvibes",
       "title": "We racing with @ssbroswwefan!  Star Wars Galactic Racer Plat Work \ud83c\udfc617/50\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=A9DhMCTTwGI",
-      "viewers": 6
+      "viewers": 5
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 41,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
