@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:13:38Z",
+  "updated": "2026-10-12T17:23:20Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 Artcraft - Photoshop/Word Clones Testing and Development",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 173
+      "viewers": 209
     },
     {
       "platform": "youtube",
@@ -21,9 +21,16 @@
       "title": "Sunday late night",
       "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "We finally have to build highways! Transport Fever (Part 5) 10/12/26",
+      "link": "https://www.youtube.com/watch?v=QXhCFWkODeU",
+      "viewers": 6
     }
   ],
-  "viewers_total": 177,
+  "viewers_total": 219,
   "videos": [
     {
       "video_id": "m4LwtvBWh04",
