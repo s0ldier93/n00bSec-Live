@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-12T04:13:38Z",
+  "updated": "2026-10-12T04:23:08Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 38
-    },
     {
       "platform": "twitch",
       "name": "dal3ksec",
@@ -31,20 +24,13 @@
     },
     {
       "platform": "youtube",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
-      "link": "https://www.youtube.com/watch?v=A9DhMCTTwGI",
-      "viewers": 4
-    },
-    {
-      "platform": "youtube",
       "name": "TheShyHat",
       "title": "REVERSE ENGINEERING LIVE! Hackropole, Cylab Academy, CTF Challenges",
       "link": "https://www.youtube.com/watch?v=FWNBxQmice0",
-      "viewers": 10
+      "viewers": 16
     }
   ],
-  "viewers_total": 66,
+  "viewers_total": 30,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
