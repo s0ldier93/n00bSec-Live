@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:43:38Z",
+  "updated": "2026-10-12T12:53:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "censoredHacker",
       "title": "Sunday late night",
       "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 12's Top Cyber News NOW! - Ep 1263",
       "link": "https://www.youtube.com/watch?v=MgAuHX6UyJ0",
-      "viewers": 318
+      "viewers": 323
     }
   ],
-  "viewers_total": 321,
+  "viewers_total": 327,
   "videos": [
     {
       "video_id": "sEv6OHbM6FA",
