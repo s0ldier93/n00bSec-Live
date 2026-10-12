@@ -1,50 +1,50 @@
 {
-  "updated": "2026-10-12T03:13:37Z",
+  "updated": "2026-10-12T03:23:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 26
+      "viewers": 34
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "We racing with @ssbroswwefan!  Star Wars Galactic Racer Plat Work \ud83c\udfc617/50\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "dal3ksec",
       "title": "\ud83d\udcbbSunday Night Stream - Gaming and more!! |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "REVERSE ENGINEERING LIVE! Hackropole, Cylab Academy, CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 11
+      "viewers": 16
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=A9DhMCTTwGI",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "REVERSE ENGINEERING LIVE! Hackropole, Cylab Academy, CTF Challenges",
       "link": "https://www.youtube.com/watch?v=FWNBxQmice0",
-      "viewers": 3
+      "viewers": 6
     }
   ],
-  "viewers_total": 51,
+  "viewers_total": 67,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
