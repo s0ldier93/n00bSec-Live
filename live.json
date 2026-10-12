@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-12T00:43:38Z",
+  "updated": "2026-10-12T01:03:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "New ISP Installed! Testing now| Morrowind|4K Soon!| Cybersecurity,Rants,Chill,&Linux Gaming|10-11-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 5
+      "viewers": 6
+    },
+    {
+      "platform": "twitch",
+      "name": "team_whoami",
+      "title": "Lenguaje ensamblador, Bytes nulos",
+      "link": "https://twitch.tv/team_whoami",
+      "viewers": 1
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 7,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
