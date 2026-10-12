@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-12T21:53:38Z",
+  "updated": "2026-10-12T22:03:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "CyberInfoHQ",
       "title": "NODE: PROTOCOL - Hacking for fun and profit! | Streamer: w33t",
       "link": "https://twitch.tv/CyberInfoHQ",
-      "viewers": 6
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 493
+      "viewers": 516
     }
   ],
-  "viewers_total": 499,
+  "viewers_total": 523,
   "videos": [
     {
       "video_id": "lQZagBM_zxQ",
