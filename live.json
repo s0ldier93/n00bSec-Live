@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T08:53:38Z",
+  "updated": "2026-10-12T09:03:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "yourcyberdoctor",
       "title": "Building our AI hacking sidekick- day 200!!",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 16
+      "viewers": 14
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 17,
   "videos": [
+    {
+      "video_id": "3h5hxmaFVg8",
+      "channel": "BySepa",
+      "title": "El ERROR que te impide crecer en cualquier puesto de TECH",
+      "link": "https://www.youtube.com/watch?v=3h5hxmaFVg8",
+      "published_at": "2026-10-12T09:00:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3h5hxmaFVg8/hqdefault.jpg"
+    },
     {
       "video_id": "hAhQw4gvcz8",
       "channel": "Khaos_Farbauti",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=XRqQjK345zo",
       "published_at": "2026-10-10T15:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XRqQjK345zo/hqdefault.jpg"
-    },
-    {
-      "video_id": "btGpMZb0f64",
-      "channel": "SecurityWeekly",
-      "title": "Can AI Find Bugs Before Attackers?",
-      "link": "https://www.youtube.com/watch?v=btGpMZb0f64",
-      "published_at": "2026-10-10T14:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/btGpMZb0f64/hqdefault.jpg"
     }
   ]
 }
