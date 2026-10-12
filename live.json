@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12T11:13:38Z",
+  "updated": "2026-10-12T11:33:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Sunday late night #Grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "9DIq6Apluwg",
