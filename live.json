@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T14:13:38Z",
+  "updated": "2026-10-12T14:33:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "censoredHacker",
       "title": "Sunday late night",
       "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "LTj_9Tpsppk",
+      "channel": "TheLaluka",
+      "title": "I scanned my own hacking distro... and found a sqlmap takeover #shorts",
+      "link": "https://www.youtube.com/watch?v=LTj_9Tpsppk",
+      "published_at": "2026-10-12T14:20:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LTj_9Tpsppk/hqdefault.jpg"
+    },
     {
       "video_id": "kGc0_4ONgUo",
       "channel": "ElPinguinoDeMario",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=p2t6Nu42t8E",
       "published_at": "2026-10-11T15:42:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/p2t6Nu42t8E/hqdefault.jpg"
-    },
-    {
-      "video_id": "ieCzgiCE490",
-      "channel": "LuNiZz",
-      "title": "pazar ninjasi ;) buyursunlar efenim..",
-      "link": "https://www.youtube.com/watch?v=ieCzgiCE490",
-      "published_at": "2026-10-11T14:58:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ieCzgiCE490/hqdefault.jpg"
     }
   ]
 }
