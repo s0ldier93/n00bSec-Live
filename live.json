@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12T09:13:39Z",
+  "updated": "2026-10-12T09:23:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Sunday late night #Grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "censoredHacker",
       "title": "Sunday late night",
       "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "6a2-W3WDGhg",
@@ -32,6 +32,14 @@
       "link": "https://www.youtube.com/watch?v=6a2-W3WDGhg",
       "published_at": "2026-10-12T09:00:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6a2-W3WDGhg/hqdefault.jpg"
+    },
+    {
+      "video_id": "xC1FECYsWA8",
+      "channel": "jarnobaselier",
+      "title": "Hacking QuickTip 101 - Penthera, Moderne Vulnerability Scanner",
+      "link": "https://www.youtube.com/watch?v=xC1FECYsWA8",
+      "published_at": "2026-10-12T09:00:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xC1FECYsWA8/hqdefault.jpg"
     },
     {
       "video_id": "3h5hxmaFVg8",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=haogc1pnaqU",
       "published_at": "2026-10-10T16:43:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/haogc1pnaqU/hqdefault.jpg"
-    },
-    {
-      "video_id": "_pei5dVul3A",
-      "channel": "mbcrump",
-      "title": "Tap an NFC Card to Launch a PS5 Game?",
-      "link": "https://www.youtube.com/watch?v=_pei5dVul3A",
-      "published_at": "2026-10-10T16:00:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/_pei5dVul3A/hqdefault.jpg"
     }
   ]
 }
