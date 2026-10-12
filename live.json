@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-12T09:23:38Z",
+  "updated": "2026-10-12T09:33:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Sunday late night #Grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "yourcyberdoctor",
       "title": "Building our AI hacking sidekick- day 200!!",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 17
+      "viewers": 14
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Sunday late night",
       "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 21,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "6a2-W3WDGhg",
