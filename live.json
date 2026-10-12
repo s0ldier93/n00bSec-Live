@@ -1,16 +1,32 @@
 {
-  "updated": "2026-10-12T19:13:39Z",
+  "updated": "2026-10-12T19:23:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "We finally have to build highways! Transport Fever (Part 5) 10/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 493
+      "viewers": 499
     }
   ],
-  "viewers_total": 493,
+  "viewers_total": 499,
   "videos": [
+    {
+      "video_id": "Uw7u3wFXtbA",
+      "channel": "SecurityWeekly",
+      "title": "AI Can Reconstruct Images From Your Brain",
+      "link": "https://www.youtube.com/watch?v=Uw7u3wFXtbA",
+      "published_at": "2026-10-12T19:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Uw7u3wFXtbA/hqdefault.jpg"
+    },
+    {
+      "video_id": "MmtQIHQIPEA",
+      "channel": "mbcrump",
+      "title": "ShadowMountPlus 1.7beta4 Automatically Mounts PS5 Drives",
+      "link": "https://www.youtube.com/watch?v=MmtQIHQIPEA",
+      "published_at": "2026-10-12T19:00:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MmtQIHQIPEA/hqdefault.jpg"
+    },
     {
       "video_id": "tTdBefdwUYI",
       "channel": "mbcrump",
@@ -154,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=A9DhMCTTwGI",
       "published_at": "2026-10-12T04:22:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/A9DhMCTTwGI/hqdefault.jpg"
-    },
-    {
-      "video_id": "bGzn8nGJB4c",
-      "channel": "Cyber_Insecurity",
-      "title": "Why are you still measuring phishing click rates?",
-      "link": "https://www.youtube.com/watch?v=bGzn8nGJB4c",
-      "published_at": "2026-10-11T22:54:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bGzn8nGJB4c/hqdefault.jpg"
-    },
-    {
-      "video_id": "D3BZJBvFH0k",
-      "channel": "MalwareTechBlog",
-      "title": "How I Became A Hacker And Got Arrested By The FBI - Keynote Interview with @TheRainmakerReport",
-      "link": "https://www.youtube.com/watch?v=D3BZJBvFH0k",
-      "published_at": "2026-10-11T19:52:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/D3BZJBvFH0k/hqdefault.jpg"
     }
   ]
 }
