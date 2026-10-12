@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T16:23:38Z",
+  "updated": "2026-10-12T16:33:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "censoredHacker",
       "title": "Sunday late night",
       "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 4,
   "videos": [
     {
       "video_id": "m4LwtvBWh04",
