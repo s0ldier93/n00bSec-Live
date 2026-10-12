@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-12T19:43:39Z",
+  "updated": "2026-10-12T19:53:39Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "CyberInfoHQ",
+      "title": "NODE: PROTOCOL - Hacking for fun and profit! | Streamer: w33t",
+      "link": "https://twitch.tv/CyberInfoHQ",
+      "viewers": 5
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "We finally have to build highways! Transport Fever (Part 5) 10/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 493
+      "viewers": 498
     }
   ],
-  "viewers_total": 493,
+  "viewers_total": 503,
   "videos": [
     {
       "video_id": "Uw7u3wFXtbA",
