@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-12T01:33:38Z",
+  "updated": "2026-10-12T01:43:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 9
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "New ISP Installed! Testing now| Morrowind|4K Soon!| Cybersecurity,Rants,Chill,&Linux Gaming|10-11-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 6
+      "viewers": 7
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
