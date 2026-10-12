@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:13:37Z",
+  "updated": "2026-10-12T06:23:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -21,16 +21,9 @@
       "title": "Building our AI hacking sidekick- day 200!!",
       "link": "https://twitch.tv/yourcyberdoctor",
       "viewers": 18
-    },
-    {
-      "platform": "youtube",
-      "name": "TheShyHat",
-      "title": "REVERSE ENGINEERING LIVE! Hackropole, Cylab Academy, CTF Challenges",
-      "link": "https://www.youtube.com/watch?v=FWNBxQmice0",
-      "viewers": 12
     }
   ],
-  "viewers_total": 58,
+  "viewers_total": 46,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
