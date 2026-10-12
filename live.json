@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T13:43:16Z",
+  "updated": "2026-10-12T14:13:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,27 @@
       "name": "censoredHacker",
       "title": "Sunday late night",
       "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 2,
   "videos": [
+    {
+      "video_id": "kGc0_4ONgUo",
+      "channel": "ElPinguinoDeMario",
+      "title": "La Importancia de Limpiar los Metadatos de tus Im\u00e1genes",
+      "link": "https://www.youtube.com/watch?v=kGc0_4ONgUo",
+      "published_at": "2026-10-12T14:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/kGc0_4ONgUo/hqdefault.jpg"
+    },
+    {
+      "video_id": "Fa7NRrJbfBg",
+      "channel": "SecurityWeekly",
+      "title": "Why Security Alerts Need More Context",
+      "link": "https://www.youtube.com/watch?v=Fa7NRrJbfBg",
+      "published_at": "2026-10-12T14:00:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Fa7NRrJbfBg/hqdefault.jpg"
+    },
     {
       "video_id": "z5wQNqQ-e6M",
       "channel": "NahamSec",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=ieCzgiCE490",
       "published_at": "2026-10-11T14:58:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ieCzgiCE490/hqdefault.jpg"
-    },
-    {
-      "video_id": "bc_qhb0FYnE",
-      "channel": "BySepa",
-      "title": "OLVIDA el OSCP: La certificaci\u00f3n para ser un DIOS HACKER",
-      "link": "https://www.youtube.com/watch?v=bc_qhb0FYnE",
-      "published_at": "2026-10-11T09:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bc_qhb0FYnE/hqdefault.jpg"
-    },
-    {
-      "video_id": "PJt0Ufb6jDs",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! No plan, improvised hacks + Q&A",
-      "link": "https://www.youtube.com/watch?v=PJt0Ufb6jDs",
-      "published_at": "2026-10-11T04:25:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PJt0Ufb6jDs/hqdefault.jpg"
     }
   ]
 }
