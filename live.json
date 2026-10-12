@@ -1,22 +1,29 @@
 {
-  "updated": "2026-10-12T20:23:39Z",
+  "updated": "2026-10-12T20:33:39Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "BHIS - Talkin' Bout [infosec] News 2026-10-12",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 3
+    },
     {
       "platform": "twitch",
       "name": "CyberInfoHQ",
       "title": "NODE: PROTOCOL - Hacking for fun and profit! | Streamer: w33t",
       "link": "https://twitch.tv/CyberInfoHQ",
-      "viewers": 9
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "We finally have to build highways! Transport Fever (Part 5) 10/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 533
+      "viewers": 544
     }
   ],
-  "viewers_total": 542,
+  "viewers_total": 553,
   "videos": [
     {
       "video_id": "Uw7u3wFXtbA",
