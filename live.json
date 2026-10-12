@@ -1,37 +1,45 @@
 {
-  "updated": "2026-10-12T17:23:39Z",
+  "updated": "2026-10-12T17:33:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Sunday late night #Grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 Artcraft - Photoshop/Word Clones Testing and Development",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 209
+      "viewers": 229
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "We finally have to build highways! Transport Fever (Part 5) 10/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 20
+      "viewers": 200
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Sunday late night",
       "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 233,
+  "viewers_total": 433,
   "videos": [
+    {
+      "video_id": "QXhCFWkODeU",
+      "channel": "EJSA",
+      "title": "We finally have to build highways! Transport Fever (Part 5) 10/12/26",
+      "link": "https://www.youtube.com/watch?v=QXhCFWkODeU",
+      "published_at": "2026-10-12T17:17:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QXhCFWkODeU/hqdefault.jpg"
+    },
     {
       "video_id": "m4LwtvBWh04",
       "channel": "BySepa",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=VF8thRxnYgY",
       "published_at": "2026-10-11T19:00:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VF8thRxnYgY/hqdefault.jpg"
-    },
-    {
-      "video_id": "KchuR7GQ-EI",
-      "channel": "mbcrump",
-      "title": "Ghostcontrol Toolbox 2.0 Teases More PS5 Controller Support",
-      "link": "https://www.youtube.com/watch?v=KchuR7GQ-EI",
-      "published_at": "2026-10-11T18:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/KchuR7GQ-EI/hqdefault.jpg"
     }
   ]
 }
