@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T23:03:38Z",
+  "updated": "2026-10-12T23:13:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 534,
   "videos": [
+    {
+      "video_id": "MpI5sWcUu1M",
+      "channel": "KeonBowman",
+      "title": "How to Enumerate MySQL on Port 3306 | Ethical Hacking",
+      "link": "https://www.youtube.com/watch?v=MpI5sWcUu1M",
+      "published_at": "2026-10-12T22:54:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MpI5sWcUu1M/hqdefault.jpg"
+    },
     {
       "video_id": "lQZagBM_zxQ",
       "channel": "EJSA",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=hAhQw4gvcz8",
       "published_at": "2026-10-12T07:19:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/hAhQw4gvcz8/hqdefault.jpg"
-    },
-    {
-      "video_id": "FWNBxQmice0",
-      "channel": "TheShyHat",
-      "title": "REVERSE ENGINEERING LIVE! Hackropole, Cylab Academy, CTF Challenges",
-      "link": "https://www.youtube.com/watch?v=FWNBxQmice0",
-      "published_at": "2026-10-12T06:26:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FWNBxQmice0/hqdefault.jpg"
     }
   ]
 }
