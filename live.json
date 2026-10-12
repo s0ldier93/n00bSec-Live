@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-12T05:33:37Z",
+  "updated": "2026-10-12T05:43:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "dal3ksec",
       "title": "\ud83d\udcbbSunday Night Stream - Gaming and more!! |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "REVERSE ENGINEERING LIVE! Hackropole, Cylab Academy, CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 23
+      "viewers": 24
     },
     {
       "platform": "twitch",
       "name": "yourcyberdoctor",
       "title": "Building our AI hacking sidekick- day 200!!",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 8
+      "viewers": 13
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "REVERSE ENGINEERING LIVE! Hackropole, Cylab Academy, CTF Challenges",
       "link": "https://www.youtube.com/watch?v=FWNBxQmice0",
-      "viewers": 15
+      "viewers": 12
     }
   ],
-  "viewers_total": 49,
+  "viewers_total": 51,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
