@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:23:37Z",
+  "updated": "2026-10-12T06:33:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "yourcyberdoctor",
       "title": "Building our AI hacking sidekick- day 200!!",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 27
+      "viewers": 26
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
