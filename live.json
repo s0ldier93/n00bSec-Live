@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12T16:13:38Z",
+  "updated": "2026-10-12T16:23:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Sunday late night #Grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "m4LwtvBWh04",
@@ -33,6 +33,14 @@
       "link": "https://www.youtube.com/watch?v=SGljaTDpXqM",
       "published_at": "2026-10-12T16:00:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SGljaTDpXqM/hqdefault.jpg"
+    },
+    {
+      "video_id": "UwB4vOV0PO8",
+      "channel": "SecurityWeekly",
+      "title": "Exposure Management: Stop Measuring Controls. Start Measuring Risk. - Heather Ceylan - CSP #229",
+      "link": "https://www.youtube.com/watch?v=UwB4vOV0PO8",
+      "published_at": "2026-10-12T16:00:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UwB4vOV0PO8/hqdefault.jpg"
     },
     {
       "video_id": "Y9xNViepqvo",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=KchuR7GQ-EI",
       "published_at": "2026-10-11T18:00:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/KchuR7GQ-EI/hqdefault.jpg"
-    },
-    {
-      "video_id": "dKHqZO_wexQ",
-      "channel": "censoredHacker",
-      "title": "Lofi Beats and pomodoro",
-      "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
-      "published_at": "2026-10-11T16:48:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dKHqZO_wexQ/hqdefault.jpg"
     }
   ]
 }
