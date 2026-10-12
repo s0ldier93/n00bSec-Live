@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-12T00:33:38Z",
+  "updated": "2026-10-12T00:43:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "New ISP Installed! Testing now| Morrowind|4K Soon!| Cybersecurity,Rants,Chill,&Linux Gaming|10-11-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 2
-    },
-    {
-      "platform": "twitch",
-      "name": "het_tanis",
-      "title": "Hanging out and playing video games with the ProLUG.",
-      "link": "https://twitch.tv/het_tanis",
-      "viewers": 14
+      "viewers": 5
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
