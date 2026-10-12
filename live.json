@@ -1,16 +1,31 @@
 {
-  "updated": "2026-10-11T23:53:37Z",
+  "updated": "2026-10-12T00:03:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "New ISP Installed! Testing now| Morrowind|4K Soon!| Cybersecurity,Rants,Chill,&Linux Gaming|10-11-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 15
+      "viewers": 10
+    },
+    {
+      "platform": "twitch",
+      "name": "het_tanis",
+      "title": "Hanging out and playing video games with the ProLUG.",
+      "link": "https://twitch.tv/het_tanis",
+      "viewers": 4
     }
   ],
-  "viewers_total": 15,
+  "viewers_total": 14,
   "videos": [
+    {
+      "video_id": "bGzn8nGJB4c",
+      "channel": "Cyber_Insecurity",
+      "title": "Why are you still measuring phishing click rates?",
+      "link": "https://www.youtube.com/watch?v=bGzn8nGJB4c",
+      "published_at": "2026-10-11T22:54:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bGzn8nGJB4c/hqdefault.jpg"
+    },
     {
       "video_id": "D3BZJBvFH0k",
       "channel": "MalwareTechBlog",
@@ -162,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=0hErLGiP-Xo",
       "published_at": "2026-10-10T12:00:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0hErLGiP-Xo/hqdefault.jpg"
-    },
-    {
-      "video_id": "Mqoh8MP72CY",
-      "channel": "BySepa",
-      "title": "Certificaciones, Legislaciones y Directivas que NO PODES DESCONOCER",
-      "link": "https://www.youtube.com/watch?v=Mqoh8MP72CY",
-      "published_at": "2026-10-10T09:00:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Mqoh8MP72CY/hqdefault.jpg"
     }
   ]
 }
