@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12T21:13:08Z",
+  "updated": "2026-10-12T21:13:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-10-12",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "ej_sa",
       "title": "We finally have to build highways! Transport Fever (Part 5) 10/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 513
+      "viewers": 460
     }
   ],
-  "viewers_total": 527,
+  "viewers_total": 477,
   "videos": [
     {
       "video_id": "Uw7u3wFXtbA",
