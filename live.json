@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-12T01:43:37Z",
+  "updated": "2026-10-12T01:53:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 21
+      "viewers": 29
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "New ISP Installed! Testing now| Morrowind|4K Soon!| Cybersecurity,Rants,Chill,&Linux Gaming|10-11-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 7
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "We racing with @ssbroswwefan!  Star Wars Galactic Racer Plat Work \ud83c\udfc617/50\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, Bytes nulos",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=A9DhMCTTwGI",
-      "viewers": 6
+      "viewers": 7
     }
   ],
-  "viewers_total": 37,
+  "viewers_total": 43,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
