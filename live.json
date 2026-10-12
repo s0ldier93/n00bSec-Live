@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12T03:53:37Z",
+  "updated": "2026-10-12T04:03:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 36
+      "viewers": 30
     },
     {
       "platform": "twitch",
@@ -20,31 +20,38 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbSunday Night Stream - Gaming and more!! |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "REVERSE ENGINEERING LIVE! Hackropole, Cylab Academy, CTF Challenges",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 9
+      "viewers": 8
+    },
+    {
+      "platform": "twitch",
+      "name": "yourcyberdoctor",
+      "title": "Building our AI hacking sidekick- day 200!!",
+      "link": "https://twitch.tv/yourcyberdoctor",
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=A9DhMCTTwGI",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "REVERSE ENGINEERING LIVE! Hackropole, Cylab Academy, CTF Challenges",
       "link": "https://www.youtube.com/watch?v=FWNBxQmice0",
-      "viewers": 10
+      "viewers": 9
     }
   ],
-  "viewers_total": 63,
+  "viewers_total": 55,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
