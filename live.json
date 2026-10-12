@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:53:37Z",
+  "updated": "2026-10-12T13:03:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,11 +20,19 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 12's Top Cyber News NOW! - Ep 1263",
       "link": "https://www.youtube.com/watch?v=MgAuHX6UyJ0",
-      "viewers": 323
+      "viewers": 305
     }
   ],
-  "viewers_total": 327,
+  "viewers_total": 309,
   "videos": [
+    {
+      "video_id": "z5wQNqQ-e6M",
+      "channel": "NahamSec",
+      "title": "I Built a Hackbot for Less Than $250",
+      "link": "https://www.youtube.com/watch?v=z5wQNqQ-e6M",
+      "published_at": "2026-10-12T12:45:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/z5wQNqQ-e6M/hqdefault.jpg"
+    },
     {
       "video_id": "sEv6OHbM6FA",
       "channel": "TheShyHat",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=PJt0Ufb6jDs",
       "published_at": "2026-10-11T04:25:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PJt0Ufb6jDs/hqdefault.jpg"
-    },
-    {
-      "video_id": "ygHrCWIOayc",
-      "channel": "mbcrump",
-      "title": "PS5SX2 2.00 Adds Frame Generation and Disc Swapping",
-      "link": "https://www.youtube.com/watch?v=ygHrCWIOayc",
-      "published_at": "2026-10-10T21:30:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ygHrCWIOayc/hqdefault.jpg"
     }
   ]
 }
