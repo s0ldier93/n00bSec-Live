@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12T12:03:16Z",
+  "updated": "2026-10-12T12:13:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Sunday late night #Grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -20,11 +20,19 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 12's Top Cyber News NOW! - Ep 1263",
       "link": "https://www.youtube.com/watch?v=MgAuHX6UyJ0",
-      "viewers": 90
+      "viewers": 204
     }
   ],
-  "viewers_total": 93,
+  "viewers_total": 208,
   "videos": [
+    {
+      "video_id": "sEv6OHbM6FA",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Scan Me - QR Codes - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=sEv6OHbM6FA",
+      "published_at": "2026-10-12T12:00:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/sEv6OHbM6FA/hqdefault.jpg"
+    },
     {
       "video_id": "9DIq6Apluwg",
       "channel": "DCCyberSec",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=ygHrCWIOayc",
       "published_at": "2026-10-10T21:30:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ygHrCWIOayc/hqdefault.jpg"
-    },
-    {
-      "video_id": "R9uCstqR36M",
-      "channel": "LuNiZz",
-      "title": "Kardiyovaskuler olarak Hacklenmeyin \ud83d\ude02",
-      "link": "https://www.youtube.com/watch?v=R9uCstqR36M",
-      "published_at": "2026-10-10T18:00:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/R9uCstqR36M/hqdefault.jpg"
     }
   ]
 }
