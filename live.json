@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:13:37Z",
+  "updated": "2026-10-12T07:23:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,18 +20,26 @@
       "name": "yourcyberdoctor",
       "title": "Building our AI hacking sidekick- day 200!!",
       "link": "https://twitch.tv/yourcyberdoctor",
-      "viewers": 20
+      "viewers": 22
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Sunday late night",
       "link": "https://www.youtube.com/watch?v=dKHqZO_wexQ",
-      "viewers": 7
+      "viewers": 5
     }
   ],
   "viewers_total": 30,
   "videos": [
+    {
+      "video_id": "hAhQw4gvcz8",
+      "channel": "Khaos_Farbauti",
+      "title": "MARIO A FAILLI NOUS AVOIR ! | THM mKingdom",
+      "link": "https://www.youtube.com/watch?v=hAhQw4gvcz8",
+      "published_at": "2026-10-12T07:19:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/hAhQw4gvcz8/hqdefault.jpg"
+    },
     {
       "video_id": "FWNBxQmice0",
       "channel": "TheShyHat",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=btGpMZb0f64",
       "published_at": "2026-10-10T14:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/btGpMZb0f64/hqdefault.jpg"
-    },
-    {
-      "video_id": "SpQQi2FcN5Q",
-      "channel": "team_whoami",
-      "title": "ensamblador shellcode",
-      "link": "https://www.youtube.com/watch?v=SpQQi2FcN5Q",
-      "published_at": "2026-10-10T13:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SpQQi2FcN5Q/hqdefault.jpg"
     }
   ]
 }
