@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12T22:03:38Z",
+  "updated": "2026-10-12T22:13:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "CyberInfoHQ",
       "title": "NODE: PROTOCOL - Hacking for fun and profit! | Streamer: w33t",
       "link": "https://twitch.tv/CyberInfoHQ",
-      "viewers": 7
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 516
     }
   ],
-  "viewers_total": 523,
+  "viewers_total": 521,
   "videos": [
     {
       "video_id": "lQZagBM_zxQ",
