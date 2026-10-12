@@ -1,25 +1,32 @@
 {
-  "updated": "2026-10-12T02:23:38Z",
+  "updated": "2026-10-12T02:33:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 33
+      "viewers": 37
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "New ISP Installed! Testing now| Morrowind|4K Soon!| Cybersecurity,Rants,Chill,&Linux Gaming|10-11-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "We racing with @ssbroswwefan!  Star Wars Galactic Racer Plat Work \ud83c\udfc617/50\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
+      "viewers": 1
+    },
+    {
+      "platform": "twitch",
+      "name": "dal3ksec",
+      "title": "\ud83d\udcbbSunday Night Stream - Gaming and more!! |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
+      "link": "https://twitch.tv/dal3ksec",
       "viewers": 1
     },
     {
@@ -30,7 +37,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 41,
+  "viewers_total": 47,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
