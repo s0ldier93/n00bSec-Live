@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12T15:33:39Z",
+  "updated": "2026-10-12T15:43:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Sunday late night #Grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 2,
   "videos": [
+    {
+      "video_id": "Y9xNViepqvo",
+      "channel": "InvokeReversing",
+      "title": "Yara Rule Detection Engineering (Stream - 25/09/2026)",
+      "link": "https://www.youtube.com/watch?v=Y9xNViepqvo",
+      "published_at": "2026-10-12T15:25:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Y9xNViepqvo/hqdefault.jpg"
+    },
     {
       "video_id": "LTj_9Tpsppk",
       "channel": "TheLaluka",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=COqmM3Xgeug",
       "published_at": "2026-10-11T15:54:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/COqmM3Xgeug/hqdefault.jpg"
-    },
-    {
-      "video_id": "p2t6Nu42t8E",
-      "channel": "ElPinguinoDeMario",
-      "title": "\ud83d\udcbb Curso de Bug Bounty - Aprende a Encontrar Vulnerabilidades en Aplicaciones Android | #7",
-      "link": "https://www.youtube.com/watch?v=p2t6Nu42t8E",
-      "published_at": "2026-10-11T15:42:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/p2t6Nu42t8E/hqdefault.jpg"
     }
   ]
 }
