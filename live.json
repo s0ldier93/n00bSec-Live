@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T00:03:38Z",
+  "updated": "2026-10-12T00:13:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "het_tanis",
       "title": "Hanging out and playing video games with the ProLUG.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 4
+      "viewers": 13
     }
   ],
-  "viewers_total": 14,
+  "viewers_total": 23,
   "videos": [
     {
       "video_id": "bGzn8nGJB4c",
