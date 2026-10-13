@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-13T01:33:39Z",
+  "updated": "2026-10-13T01:43:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "So you want to learn about zero trust?| Cybersecurity,Rants,Chill,&Linux Gaming|10-12-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 13
+      "viewers": 16
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 16,
   "videos": [
+    {
+      "video_id": "7nO-nmiRar0",
+      "channel": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 10/12/26",
+      "link": "https://www.youtube.com/watch?v=7nO-nmiRar0",
+      "published_at": "2026-10-13T01:08:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/7nO-nmiRar0/hqdefault.jpg"
+    },
     {
       "video_id": "MpI5sWcUu1M",
       "channel": "KeonBowman",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=3h5hxmaFVg8",
       "published_at": "2026-10-12T09:00:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/3h5hxmaFVg8/hqdefault.jpg"
-    },
-    {
-      "video_id": "hAhQw4gvcz8",
-      "channel": "Khaos_Farbauti",
-      "title": "MARIO A FAILLI NOUS AVOIR ! | THM mKingdom",
-      "link": "https://www.youtube.com/watch?v=hAhQw4gvcz8",
-      "published_at": "2026-10-12T07:19:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hAhQw4gvcz8/hqdefault.jpg"
     }
   ]
 }
