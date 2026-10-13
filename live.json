@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-13T17:23:39Z",
+  "updated": "2026-10-13T17:33:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 250
+      "viewers": 255
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #9",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 8
+      "viewers": 14
     }
   ],
-  "viewers_total": 258,
+  "viewers_total": 269,
   "videos": [
     {
       "video_id": "APGSAzW-clY",
