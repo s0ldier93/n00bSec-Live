@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-13T22:53:38Z",
+  "updated": "2026-10-13T23:03:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BrakeSec",
       "title": "password issues for Danish org, AI in Linux, ransomware negoitator doubledipping, and socvel quiz",
       "link": "https://twitch.tv/BrakeSec",
-      "viewers": 0
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 422
+      "viewers": 413
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 423,
+  "viewers_total": 415,
   "videos": [
     {
       "video_id": "t3U9tS5uGpQ",
