@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-13T21:13:39Z",
+  "updated": "2026-10-13T21:23:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 335
+      "viewers": 344
     }
   ],
-  "viewers_total": 335,
+  "viewers_total": 344,
   "videos": [
+    {
+      "video_id": "t3U9tS5uGpQ",
+      "channel": "SecurityWeekly",
+      "title": "Claude Visa, Yandex, Danfoss, Bricks, Purgatorius, Muse, Xandr, Grindr, Aaran Leyland - SWN #624",
+      "link": "https://www.youtube.com/watch?v=t3U9tS5uGpQ",
+      "published_at": "2026-10-13T21:00:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/t3U9tS5uGpQ/hqdefault.jpg"
+    },
     {
       "video_id": "9-7r-VpP1H8",
       "channel": "NahamSec",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=lQZagBM_zxQ",
       "published_at": "2026-10-12T21:12:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lQZagBM_zxQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "Uw7u3wFXtbA",
-      "channel": "SecurityWeekly",
-      "title": "AI Can Reconstruct Images From Your Brain",
-      "link": "https://www.youtube.com/watch?v=Uw7u3wFXtbA",
-      "published_at": "2026-10-12T19:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Uw7u3wFXtbA/hqdefault.jpg"
     }
   ]
 }
