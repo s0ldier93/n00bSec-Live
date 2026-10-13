@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-13T13:03:37Z",
+  "updated": "2026-10-13T13:13:38Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 13's Top Cyber News NOW! - Ep 1264",
       "link": "https://www.youtube.com/watch?v=t27RAQXDJJ0",
-      "viewers": 328
+      "viewers": 228
     }
   ],
-  "viewers_total": 328,
+  "viewers_total": 228,
   "videos": [
+    {
+      "video_id": "pmeWMbkp5iU",
+      "channel": "team_whoami",
+      "title": "ensamblador byte nulo",
+      "link": "https://www.youtube.com/watch?v=pmeWMbkp5iU",
+      "published_at": "2026-10-13T13:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/pmeWMbkp5iU/hqdefault.jpg"
+    },
     {
       "video_id": "dDj2jSzpSAQ",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=sEv6OHbM6FA",
       "published_at": "2026-10-12T12:00:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/sEv6OHbM6FA/hqdefault.jpg"
-    },
-    {
-      "video_id": "9DIq6Apluwg",
-      "channel": "DCCyberSec",
-      "title": "You're being scammed every day",
-      "link": "https://www.youtube.com/watch?v=9DIq6Apluwg",
-      "published_at": "2026-10-12T11:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9DIq6Apluwg/hqdefault.jpg"
     }
   ]
 }
