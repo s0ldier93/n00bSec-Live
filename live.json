@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-12T23:53:38Z",
+  "updated": "2026-10-13T00:03:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "So you want to learn about zero trust?| Cybersecurity,Rants,Chill,&Linux Gaming|10-12-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 5
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 511
+      "viewers": 502
     }
   ],
-  "viewers_total": 516,
+  "viewers_total": 513,
   "videos": [
     {
       "video_id": "MpI5sWcUu1M",
