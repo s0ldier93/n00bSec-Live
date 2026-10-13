@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-13T07:02:48Z",
+  "updated": "2026-10-13T09:12:45Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "dDj2jSzpSAQ",
+      "channel": "SecurityWeekly",
+      "title": "What's Not Found in AppSec? - ASW #404",
+      "link": "https://www.youtube.com/watch?v=dDj2jSzpSAQ",
+      "published_at": "2026-10-13T09:00:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dDj2jSzpSAQ/hqdefault.jpg"
+    },
     {
       "video_id": "OpftGw5vVms",
       "channel": "LiveOverflow",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=9DIq6Apluwg",
       "published_at": "2026-10-12T11:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9DIq6Apluwg/hqdefault.jpg"
-    },
-    {
-      "video_id": "6a2-W3WDGhg",
-      "channel": "SecurityWeekly",
-      "title": "Data Security in the AI Era, Don't Let AI Ruin your Presentation, and the Weekly News - ESW #480",
-      "link": "https://www.youtube.com/watch?v=6a2-W3WDGhg",
-      "published_at": "2026-10-12T09:00:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6a2-W3WDGhg/hqdefault.jpg"
     }
   ]
 }
