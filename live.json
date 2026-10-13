@@ -1,23 +1,32 @@
 {
-  "updated": "2026-10-13T16:23:38Z",
+  "updated": "2026-10-13T16:33:22Z",
   "streams": [
     {
-      "platform": "twitch",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Work With Me (Pomodoro - 30/5)",
-      "link": "https://twitch.tv/hack_smarter",
-      "viewers": 9
-    },
-    {
       "platform": "youtube",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Work With Me (Pomodoro - 30/5)",
-      "link": "https://www.youtube.com/watch?v=BJAgaIAtFkg",
-      "viewers": 30
+      "name": "EJSA",
+      "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
+      "link": "https://www.youtube.com/watch?v=7nO-nmiRar0",
+      "viewers": 6
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 6,
   "videos": [
+    {
+      "video_id": "APGSAzW-clY",
+      "channel": "JohnHammond010",
+      "title": "Steam Local Privilege Escalation",
+      "link": "https://www.youtube.com/watch?v=APGSAzW-clY",
+      "published_at": "2026-10-13T16:15:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/APGSAzW-clY/hqdefault.jpg"
+    },
+    {
+      "video_id": "PSbOW_WWdGM",
+      "channel": "mbcrump",
+      "title": "Y2JB Autoloader Development Build Removes P2JB",
+      "link": "https://www.youtube.com/watch?v=PSbOW_WWdGM",
+      "published_at": "2026-10-13T16:00:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PSbOW_WWdGM/hqdefault.jpg"
+    },
     {
       "video_id": "BJAgaIAtFkg",
       "channel": "hack_smarter",
@@ -161,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=SGljaTDpXqM",
       "published_at": "2026-10-12T16:00:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SGljaTDpXqM/hqdefault.jpg"
-    },
-    {
-      "video_id": "UwB4vOV0PO8",
-      "channel": "SecurityWeekly",
-      "title": "Exposure Management: Stop Measuring Controls. Start Measuring Risk. - Heather Ceylan - CSP #229",
-      "link": "https://www.youtube.com/watch?v=UwB4vOV0PO8",
-      "published_at": "2026-10-12T16:00:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UwB4vOV0PO8/hqdefault.jpg"
-    },
-    {
-      "video_id": "Y9xNViepqvo",
-      "channel": "InvokeReversing",
-      "title": "Yara Rule Detection Engineering (Stream - 25/09/2026)",
-      "link": "https://www.youtube.com/watch?v=Y9xNViepqvo",
-      "published_at": "2026-10-12T15:25:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Y9xNViepqvo/hqdefault.jpg"
     }
   ]
 }
