@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-13T18:43:38Z",
+  "updated": "2026-10-13T18:53:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 310
+      "viewers": 322
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 20
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "Regularly Scheduled Shenanigans #9",
+      "title": "Regularly Scheduled Shenanigans #9 | ty: @jevsmusic",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 36
+      "viewers": 39
     }
   ],
-  "viewers_total": 366,
+  "viewers_total": 384,
   "videos": [
     {
       "video_id": "rCShaWecQ04",
