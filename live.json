@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:23:39Z",
+  "updated": "2026-10-13T23:33:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "c04tl",
       "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 0
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 381
+      "viewers": 382
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 383,
+  "viewers_total": 385,
   "videos": [
     {
       "video_id": "Dn_lG9xmGy0",
