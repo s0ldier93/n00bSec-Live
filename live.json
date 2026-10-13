@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:03:38Z",
+  "updated": "2026-10-13T23:13:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ej_sa",
       "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 413
+      "viewers": 412
     },
     {
       "platform": "youtube",
@@ -23,8 +23,24 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 415,
+  "viewers_total": 414,
   "videos": [
+    {
+      "video_id": "Dn_lG9xmGy0",
+      "channel": "SecurityWeekly",
+      "title": "Forgotten Accounts Are a Hacker's Opportunity",
+      "link": "https://www.youtube.com/watch?v=Dn_lG9xmGy0",
+      "published_at": "2026-10-13T22:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Dn_lG9xmGy0/hqdefault.jpg"
+    },
+    {
+      "video_id": "8nXwXZFUPtw",
+      "channel": "mbcrump",
+      "title": "PS5 13.60 PKG TEST with Early Builds",
+      "link": "https://www.youtube.com/watch?v=8nXwXZFUPtw",
+      "published_at": "2026-10-13T21:51:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8nXwXZFUPtw/hqdefault.jpg"
+    },
     {
       "video_id": "t3U9tS5uGpQ",
       "channel": "SecurityWeekly",
@@ -168,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=7nO-nmiRar0",
       "published_at": "2026-10-13T01:08:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/7nO-nmiRar0/hqdefault.jpg"
-    },
-    {
-      "video_id": "MpI5sWcUu1M",
-      "channel": "KeonBowman",
-      "title": "How to Enumerate MySQL on Port 3306 | Ethical Hacking",
-      "link": "https://www.youtube.com/watch?v=MpI5sWcUu1M",
-      "published_at": "2026-10-12T22:54:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MpI5sWcUu1M/hqdefault.jpg"
-    },
-    {
-      "video_id": "lQZagBM_zxQ",
-      "channel": "EJSA",
-      "title": "We finally have to build highways! Transport Fever (Part 5) 10/12/26",
-      "link": "https://www.youtube.com/watch?v=lQZagBM_zxQ",
-      "published_at": "2026-10-12T21:12:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lQZagBM_zxQ/hqdefault.jpg"
     }
   ]
 }
