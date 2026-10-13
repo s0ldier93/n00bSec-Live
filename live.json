@@ -1,23 +1,38 @@
 {
-  "updated": "2026-10-13T17:53:38Z",
+  "updated": "2026-10-13T18:03:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 276
+      "viewers": 298
+    },
+    {
+      "platform": "twitch",
+      "name": "FloraTheExplorer_cyber",
+      "title": "FloraThe... Builder?? IRL Ikea Montage",
+      "link": "https://twitch.tv/FloraTheExplorer_cyber",
+      "viewers": 0
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #9",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 25
+      "viewers": 32
     }
   ],
-  "viewers_total": 301,
+  "viewers_total": 330,
   "videos": [
+    {
+      "video_id": "rCShaWecQ04",
+      "channel": "mbcrump",
+      "title": "WebKit Autoloader 0.6.1 Fixes PS5 Firmware Offsets",
+      "link": "https://www.youtube.com/watch?v=rCShaWecQ04",
+      "published_at": "2026-10-13T18:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/rCShaWecQ04/hqdefault.jpg"
+    },
     {
       "video_id": "APGSAzW-clY",
       "channel": "JohnHammond010",
@@ -169,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=m4LwtvBWh04",
       "published_at": "2026-10-12T16:00:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/m4LwtvBWh04/hqdefault.jpg"
-    },
-    {
-      "video_id": "SGljaTDpXqM",
-      "channel": "mbcrump",
-      "title": "PS5X360 v0.5.9 Adds Xbox 360 Multi-Disc Switching",
-      "link": "https://www.youtube.com/watch?v=SGljaTDpXqM",
-      "published_at": "2026-10-12T16:00:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SGljaTDpXqM/hqdefault.jpg"
     }
   ]
 }
