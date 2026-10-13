@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:33:38Z",
+  "updated": "2026-10-13T23:43:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ej_sa",
       "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 382
+      "viewers": 380
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 385,
+  "viewers_total": 383,
   "videos": [
     {
       "video_id": "Dn_lG9xmGy0",
