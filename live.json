@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T16:13:38Z",
+  "updated": "2026-10-13T16:23:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Work With Me (Pomodoro - 30/5)",
       "link": "https://www.youtube.com/watch?v=BJAgaIAtFkg",
-      "viewers": 31
+      "viewers": 30
     }
   ],
-  "viewers_total": 40,
+  "viewers_total": 39,
   "videos": [
     {
       "video_id": "BJAgaIAtFkg",
