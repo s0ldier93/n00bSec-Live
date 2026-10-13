@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-13T05:13:38Z",
+  "updated": "2026-10-13T07:02:48Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "OpftGw5vVms",
+      "channel": "LiveOverflow",
+      "title": "Team Introduction Videos for the European Cyber Security Challenge",
+      "link": "https://www.youtube.com/watch?v=OpftGw5vVms",
+      "published_at": "2026-10-13T06:02:55+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/OpftGw5vVms/hqdefault.jpg"
+    },
+    {
+      "video_id": "5Q_i0WfKvDU",
+      "channel": "mbcrump",
+      "title": "PS5 Hypervisor Defeated! Byepervisor-Reborn Released!",
+      "link": "https://www.youtube.com/watch?v=5Q_i0WfKvDU",
+      "published_at": "2026-10-13T03:32:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5Q_i0WfKvDU/hqdefault.jpg"
+    },
     {
       "video_id": "7nO-nmiRar0",
       "channel": "EJSA",
@@ -146,22 +162,6 @@
       "link": "https://www.youtube.com/watch?v=6a2-W3WDGhg",
       "published_at": "2026-10-12T09:00:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6a2-W3WDGhg/hqdefault.jpg"
-    },
-    {
-      "video_id": "xC1FECYsWA8",
-      "channel": "jarnobaselier",
-      "title": "Hacking QuickTip 101 - Penthera, Moderne Vulnerability Scanner",
-      "link": "https://www.youtube.com/watch?v=xC1FECYsWA8",
-      "published_at": "2026-10-12T09:00:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xC1FECYsWA8/hqdefault.jpg"
-    },
-    {
-      "video_id": "3h5hxmaFVg8",
-      "channel": "BySepa",
-      "title": "El ERROR que te impide crecer en cualquier puesto de TECH",
-      "link": "https://www.youtube.com/watch?v=3h5hxmaFVg8",
-      "published_at": "2026-10-12T09:00:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/3h5hxmaFVg8/hqdefault.jpg"
     }
   ]
 }
