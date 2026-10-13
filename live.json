@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-13T04:43:38Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 3
-    }
-  ],
-  "viewers_total": 3,
+  "updated": "2026-10-13T05:13:38Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "7nO-nmiRar0",
