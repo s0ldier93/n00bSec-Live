@@ -1,8 +1,39 @@
 {
-  "updated": "2026-10-13T14:42:47Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-13T15:13:21Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Work With Me (Pomodoro - 30/5)",
+      "link": "https://twitch.tv/hack_smarter",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Work With Me (Pomodoro - 30/5)",
+      "link": "https://www.youtube.com/watch?v=BJAgaIAtFkg",
+      "viewers": 19
+    }
+  ],
+  "viewers_total": 20,
   "videos": [
+    {
+      "video_id": "BJAgaIAtFkg",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - Work With Me (Pomodoro - 30/5)",
+      "link": "https://www.youtube.com/watch?v=BJAgaIAtFkg",
+      "published_at": "2026-10-13T15:09:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/BJAgaIAtFkg/hqdefault.jpg"
+    },
+    {
+      "video_id": "zuYAEM7zpkU",
+      "channel": "thecybermentor",
+      "title": "Why You Need to Know the Software Development Lifecycle (SDLC)",
+      "link": "https://www.youtube.com/watch?v=zuYAEM7zpkU",
+      "published_at": "2026-10-13T15:00:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zuYAEM7zpkU/hqdefault.jpg"
+    },
     {
       "video_id": "FWr5dXVmP6Y",
       "channel": "TheLaluka",
@@ -146,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=Y9xNViepqvo",
       "published_at": "2026-10-12T15:25:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Y9xNViepqvo/hqdefault.jpg"
-    },
-    {
-      "video_id": "LTj_9Tpsppk",
-      "channel": "TheLaluka",
-      "title": "I scanned my own hacking distro... and found a sqlmap takeover #shorts",
-      "link": "https://www.youtube.com/watch?v=LTj_9Tpsppk",
-      "published_at": "2026-10-12T14:20:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LTj_9Tpsppk/hqdefault.jpg"
-    },
-    {
-      "video_id": "kGc0_4ONgUo",
-      "channel": "ElPinguinoDeMario",
-      "title": "La Importancia de Limpiar los Metadatos de tus Im\u00e1genes",
-      "link": "https://www.youtube.com/watch?v=kGc0_4ONgUo",
-      "published_at": "2026-10-12T14:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/kGc0_4ONgUo/hqdefault.jpg"
     }
   ]
 }
