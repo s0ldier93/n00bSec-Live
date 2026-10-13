@@ -1,37 +1,38 @@
 {
-  "updated": "2026-10-13T19:53:38Z",
+  "updated": "2026-10-13T20:03:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 284
+      "viewers": 306
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 30
+      "viewers": 33
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #9 | ty: @jevsmusic",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 58
-    },
-    {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "15 MINUTE YAP",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 15
+      "viewers": 62
     }
   ],
-  "viewers_total": 387,
+  "viewers_total": 401,
   "videos": [
+    {
+      "video_id": "9-7r-VpP1H8",
+      "channel": "NahamSec",
+      "title": "Google just paid a $90,000 bounty for this vulnerability",
+      "link": "https://www.youtube.com/watch?v=9-7r-VpP1H8",
+      "published_at": "2026-10-13T19:46:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9-7r-VpP1H8/hqdefault.jpg"
+    },
     {
       "video_id": "8ouYU48neoQ",
       "channel": "SecurityWeekly",
@@ -183,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=Uw7u3wFXtbA",
       "published_at": "2026-10-12T19:00:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Uw7u3wFXtbA/hqdefault.jpg"
-    },
-    {
-      "video_id": "MmtQIHQIPEA",
-      "channel": "mbcrump",
-      "title": "ShadowMountPlus 1.7beta4 Automatically Mounts PS5 Drives",
-      "link": "https://www.youtube.com/watch?v=MmtQIHQIPEA",
-      "published_at": "2026-10-12T19:00:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MmtQIHQIPEA/hqdefault.jpg"
     }
   ]
 }
