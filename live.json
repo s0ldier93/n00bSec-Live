@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-13T13:13:38Z",
+  "updated": "2026-10-13T13:23:37Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 13's Top Cyber News NOW! - Ep 1264",
       "link": "https://www.youtube.com/watch?v=t27RAQXDJJ0",
-      "viewers": 228
+      "viewers": 200
     }
   ],
-  "viewers_total": 228,
+  "viewers_total": 200,
   "videos": [
     {
       "video_id": "pmeWMbkp5iU",
@@ -18,6 +18,14 @@
       "link": "https://www.youtube.com/watch?v=pmeWMbkp5iU",
       "published_at": "2026-10-13T13:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/pmeWMbkp5iU/hqdefault.jpg"
+    },
+    {
+      "video_id": "NQJco54_Zq4",
+      "channel": "JohnHammond010",
+      "title": "Deploy YOUR OWN Honeypots on the Internet",
+      "link": "https://www.youtube.com/watch?v=NQJco54_Zq4",
+      "published_at": "2026-10-13T13:00:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NQJco54_Zq4/hqdefault.jpg"
     },
     {
       "video_id": "dDj2jSzpSAQ",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=z5wQNqQ-e6M",
       "published_at": "2026-10-12T12:45:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/z5wQNqQ-e6M/hqdefault.jpg"
-    },
-    {
-      "video_id": "sEv6OHbM6FA",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Scan Me - QR Codes - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=sEv6OHbM6FA",
-      "published_at": "2026-10-12T12:00:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sEv6OHbM6FA/hqdefault.jpg"
     }
   ]
 }
