@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-14T16:13:26Z",
+  "updated": "2026-10-14T16:23:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "How to Learn Faster with AI: Sample, Delve, Absorb | Anti-Cast",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -20,32 +20,48 @@
       "name": "thecybermentor",
       "title": "Purple Team Incident Adventure | TCM Community Live | Cybersecurity",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 3
+      "viewers": 9
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "How to Learn Faster with AI: Sample, Delve, Absorb | Anti-Cast",
       "link": "https://www.youtube.com/watch?v=H7n9t1uCjTE",
-      "viewers": 41
+      "viewers": 47
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
       "link": "https://www.youtube.com/watch?v=9DruJiG3vls",
-      "viewers": 30
+      "viewers": 25
     },
     {
       "platform": "youtube",
       "name": "thecybermentor",
       "title": "Purple Team Incident Adventure | TCM Community Live | Cybersecurity",
       "link": "https://www.youtube.com/watch?v=mYGWolSb3wU",
-      "viewers": 53
+      "viewers": 76
     }
   ],
-  "viewers_total": 142,
+  "viewers_total": 170,
   "videos": [
+    {
+      "video_id": "mYGWolSb3wU",
+      "channel": "thecybermentor",
+      "title": "Purple Team Incident Adventure | TCM Community Live | Cybersecurity",
+      "link": "https://www.youtube.com/watch?v=mYGWolSb3wU",
+      "published_at": "2026-10-14T16:09:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mYGWolSb3wU/hqdefault.jpg"
+    },
+    {
+      "video_id": "PMFBs1Gg4EE",
+      "channel": "LuNiZz",
+      "title": "bu kosu hic yapilmadi... gorduklerinize inanmayin bak ;)",
+      "link": "https://www.youtube.com/watch?v=PMFBs1Gg4EE",
+      "published_at": "2026-10-14T16:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PMFBs1Gg4EE/hqdefault.jpg"
+    },
     {
       "video_id": "9DruJiG3vls",
       "channel": "hack_smarter",
@@ -189,22 +205,6 @@
       "link": "https://www.youtube.com/watch?v=8ouYU48neoQ",
       "published_at": "2026-10-13T19:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8ouYU48neoQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "a-okazZkCZU",
-      "channel": "mbcrump",
-      "title": "New PS5 and PS4 Games for Jailbroken Consoles: October 9 Roundup",
-      "link": "https://www.youtube.com/watch?v=a-okazZkCZU",
-      "published_at": "2026-10-13T19:00:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/a-okazZkCZU/hqdefault.jpg"
-    },
-    {
-      "video_id": "OGyqtMFNdeY",
-      "channel": "HackerMentor",
-      "title": "El hackeo que paraliz\u00f3 al mundo: La historia de EternalBlue",
-      "link": "https://www.youtube.com/watch?v=OGyqtMFNdeY",
-      "published_at": "2026-10-13T19:00:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OGyqtMFNdeY/hqdefault.jpg"
     }
   ]
 }
