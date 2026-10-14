@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-14T19:33:38Z",
+  "updated": "2026-10-14T19:43:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Orbiter Lifting Frame upgrades and Orbiter Recovery! SLC-6 (Part 25) 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 314
+      "viewers": 295
     }
   ],
-  "viewers_total": 314,
+  "viewers_total": 295,
   "videos": [
+    {
+      "video_id": "lpoS-iugM-I",
+      "channel": "HackerMentor",
+      "title": "Hacking session - Nmap + Metasploit",
+      "link": "https://www.youtube.com/watch?v=lpoS-iugM-I",
+      "published_at": "2026-10-14T19:23:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lpoS-iugM-I/hqdefault.jpg"
+    },
     {
       "video_id": "-ZdPu85X7lw",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=8nXwXZFUPtw",
       "published_at": "2026-10-13T21:51:58+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8nXwXZFUPtw/hqdefault.jpg"
-    },
-    {
-      "video_id": "t3U9tS5uGpQ",
-      "channel": "SecurityWeekly",
-      "title": "Claude Visa, Yandex, Danfoss, Bricks, Purgatorius, Muse, Xandr, Grindr, Aaran Leyland - SWN #624",
-      "link": "https://www.youtube.com/watch?v=t3U9tS5uGpQ",
-      "published_at": "2026-10-13T21:00:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/t3U9tS5uGpQ/hqdefault.jpg"
     }
   ]
 }
