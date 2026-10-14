@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-14T14:53:37Z",
+  "updated": "2026-10-14T15:03:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 15
+      "viewers": 11
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 28
     }
   ],
-  "viewers_total": 43,
+  "viewers_total": 39,
   "videos": [
     {
       "video_id": "9DruJiG3vls",
