@@ -1,8 +1,48 @@
 {
-  "updated": "2026-10-14T06:13:38Z",
+  "updated": "2026-10-14T07:02:49Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "pQ-0dHC_Tv0",
+      "channel": "TheShyHat",
+      "title": "CYBERSECURITY CTFs LIVE! Co-working and Hangout",
+      "link": "https://www.youtube.com/watch?v=pQ-0dHC_Tv0",
+      "published_at": "2026-10-14T06:14:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/pQ-0dHC_Tv0/hqdefault.jpg"
+    },
+    {
+      "video_id": "MyeJfsIEMNY",
+      "channel": "SniferL4bs",
+      "title": "Este plugin convierte Obsidian en tu lector de libros (PDF y EPUB)",
+      "link": "https://www.youtube.com/watch?v=MyeJfsIEMNY",
+      "published_at": "2026-10-14T06:00:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MyeJfsIEMNY/hqdefault.jpg"
+    },
+    {
+      "video_id": "XjMM1yZoTos",
+      "channel": "EJSA",
+      "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/13/26",
+      "link": "https://www.youtube.com/watch?v=XjMM1yZoTos",
+      "published_at": "2026-10-14T05:27:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XjMM1yZoTos/hqdefault.jpg"
+    },
+    {
+      "video_id": "yC3Oq9i3Rpg",
+      "channel": "BrakeSec",
+      "title": "password issues for Danish org, AI in Linux, ransomware negoitator doubledipping, and socvel quiz",
+      "link": "https://www.youtube.com/watch?v=yC3Oq9i3Rpg",
+      "published_at": "2026-10-14T02:27:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yC3Oq9i3Rpg/hqdefault.jpg"
+    },
+    {
+      "video_id": "9gHUOQvveeI",
+      "channel": "B7H30",
+      "title": "POV: Your OpenAI agent doing \"research\" on Australian gov site \"found a workaround\" | HTB",
+      "link": "https://www.youtube.com/watch?v=9gHUOQvveeI",
+      "published_at": "2026-10-14T01:48:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9gHUOQvveeI/hqdefault.jpg"
+    },
     {
       "video_id": "Dn_lG9xmGy0",
       "channel": "SecurityWeekly",
@@ -122,46 +162,6 @@
       "link": "https://www.youtube.com/watch?v=pmeWMbkp5iU",
       "published_at": "2026-10-13T13:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/pmeWMbkp5iU/hqdefault.jpg"
-    },
-    {
-      "video_id": "NQJco54_Zq4",
-      "channel": "JohnHammond010",
-      "title": "Deploy YOUR OWN Honeypots on the Internet",
-      "link": "https://www.youtube.com/watch?v=NQJco54_Zq4",
-      "published_at": "2026-10-13T13:00:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NQJco54_Zq4/hqdefault.jpg"
-    },
-    {
-      "video_id": "dDj2jSzpSAQ",
-      "channel": "SecurityWeekly",
-      "title": "What's Not Found in AppSec? - ASW #404",
-      "link": "https://www.youtube.com/watch?v=dDj2jSzpSAQ",
-      "published_at": "2026-10-13T09:00:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dDj2jSzpSAQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "OpftGw5vVms",
-      "channel": "LiveOverflow",
-      "title": "Team Introduction Videos for the European Cyber Security Challenge",
-      "link": "https://www.youtube.com/watch?v=OpftGw5vVms",
-      "published_at": "2026-10-13T06:02:55+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OpftGw5vVms/hqdefault.jpg"
-    },
-    {
-      "video_id": "5Q_i0WfKvDU",
-      "channel": "mbcrump",
-      "title": "PS5 Hypervisor Defeated! Byepervisor-Reborn Released!",
-      "link": "https://www.youtube.com/watch?v=5Q_i0WfKvDU",
-      "published_at": "2026-10-13T03:32:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5Q_i0WfKvDU/hqdefault.jpg"
-    },
-    {
-      "video_id": "7nO-nmiRar0",
-      "channel": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 10/12/26",
-      "link": "https://www.youtube.com/watch?v=7nO-nmiRar0",
-      "published_at": "2026-10-13T01:08:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/7nO-nmiRar0/hqdefault.jpg"
     }
   ]
 }
