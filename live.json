@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-14T14:43:18Z",
+  "updated": "2026-10-14T14:53:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 3
+      "viewers": 15
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
       "link": "https://www.youtube.com/watch?v=9DruJiG3vls",
-      "viewers": 33
+      "viewers": 28
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 43,
   "videos": [
+    {
+      "video_id": "9DruJiG3vls",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
+      "link": "https://www.youtube.com/watch?v=9DruJiG3vls",
+      "published_at": "2026-10-14T14:36:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9DruJiG3vls/hqdefault.jpg"
+    },
     {
       "video_id": "cuI7zyCmUfQ",
       "channel": "TheLaluka",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=OGyqtMFNdeY",
       "published_at": "2026-10-13T19:00:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/OGyqtMFNdeY/hqdefault.jpg"
-    },
-    {
-      "video_id": "rCShaWecQ04",
-      "channel": "mbcrump",
-      "title": "WebKit Autoloader 0.6.1 Fixes PS5 Firmware Offsets",
-      "link": "https://www.youtube.com/watch?v=rCShaWecQ04",
-      "published_at": "2026-10-13T18:00:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/rCShaWecQ04/hqdefault.jpg"
     }
   ]
 }
