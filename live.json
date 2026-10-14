@@ -1,36 +1,29 @@
 {
-  "updated": "2026-10-14T02:53:38Z",
+  "updated": "2026-10-14T03:03:38Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 4
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 253
+      "viewers": 243
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CTFs LIVE! Co-working and Hangout",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CTFs LIVE! Co-working and Hangout",
       "link": "https://www.youtube.com/watch?v=pQ-0dHC_Tv0",
-      "viewers": 3
+      "viewers": 6
     }
   ],
-  "viewers_total": 263,
+  "viewers_total": 254,
   "videos": [
     {
       "video_id": "Dn_lG9xmGy0",
