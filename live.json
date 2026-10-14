@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-14T00:13:39Z",
+  "updated": "2026-10-14T00:23:03Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BrakeSec",
-      "title": "password issues for Danish org, AI in Linux, ransomware negoitator doubledipping, and socvel quiz",
-      "link": "https://twitch.tv/BrakeSec",
-      "viewers": 1
-    },
     {
       "platform": "twitch",
       "name": "c04tl",
@@ -21,16 +14,9 @@
       "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/13/26",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 342
-    },
-    {
-      "platform": "youtube",
-      "name": "BrakeSec",
-      "title": "password issues for Danish org, AI in Linux, ransomware negoitator doubledipping, and socvel quiz",
-      "link": "https://www.youtube.com/watch?v=SRTtp5QX9dg",
-      "viewers": 1
     }
   ],
-  "viewers_total": 345,
+  "viewers_total": 343,
   "videos": [
     {
       "video_id": "Dn_lG9xmGy0",
