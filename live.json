@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-14T13:42:44Z",
+  "updated": "2026-10-14T14:12:50Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "TVGKuvpLK0c",
+      "channel": "SecurityWeekly",
+      "title": "Cybersecurity Is About Getting Back Up",
+      "link": "https://www.youtube.com/watch?v=TVGKuvpLK0c",
+      "published_at": "2026-10-14T14:00:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/TVGKuvpLK0c/hqdefault.jpg"
+    },
     {
       "video_id": "WNe6Pg5Kvl8",
       "channel": "Khaos_Farbauti",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=APGSAzW-clY",
       "published_at": "2026-10-13T16:15:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/APGSAzW-clY/hqdefault.jpg"
-    },
-    {
-      "video_id": "PSbOW_WWdGM",
-      "channel": "mbcrump",
-      "title": "Y2JB Autoloader Development Build Removes P2JB",
-      "link": "https://www.youtube.com/watch?v=PSbOW_WWdGM",
-      "published_at": "2026-10-13T16:00:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PSbOW_WWdGM/hqdefault.jpg"
     }
   ]
 }
