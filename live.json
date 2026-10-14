@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-14T12:03:12Z",
+  "updated": "2026-10-14T12:13:39Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 14's Top Cyber News NOW! - Ep 1265",
       "link": "https://www.youtube.com/watch?v=wvmFVfoF0F4",
-      "viewers": 82
+      "viewers": 237
     }
   ],
-  "viewers_total": 82,
+  "viewers_total": 237,
   "videos": [
+    {
+      "video_id": "6hux6hfuYO4",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Secret Text - Letter Substitution Cipher - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=6hux6hfuYO4",
+      "published_at": "2026-10-14T12:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6hux6hfuYO4/hqdefault.jpg"
+    },
     {
       "video_id": "SkbFRRTXiG0",
       "channel": "gerald_auger_simplycyber",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=zuYAEM7zpkU",
       "published_at": "2026-10-13T15:00:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zuYAEM7zpkU/hqdefault.jpg"
-    },
-    {
-      "video_id": "FWr5dXVmP6Y",
-      "channel": "TheLaluka",
-      "title": "I hacked my friends' WordPress... to patch it #shorts",
-      "link": "https://www.youtube.com/watch?v=FWr5dXVmP6Y",
-      "published_at": "2026-10-13T14:20:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FWr5dXVmP6Y/hqdefault.jpg"
     }
   ]
 }
