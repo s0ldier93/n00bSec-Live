@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T23:27:27Z",
+  "updated": "2026-10-14T23:31:32Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "msec",
       "title": "Triple Triad Rare Card Grind",
       "link": "https://twitch.tv/msec",
-      "viewers": 5
+      "viewers": 4
     }
   ],
-  "viewers_total": 472,
+  "viewers_total": 471,
   "videos": [
     {
       "video_id": "Htxe5Jbv67I",
