@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-14T02:53:03Z",
+  "updated": "2026-10-14T02:53:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
@@ -16,6 +16,13 @@
       "viewers": 253
     },
     {
+      "platform": "twitch",
+      "name": "TheShyHat",
+      "title": "CYBERSECURITY CTFs LIVE! Co-working and Hangout",
+      "link": "https://twitch.tv/TheShyHat",
+      "viewers": 3
+    },
+    {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "CYBERSECURITY CTFs LIVE! Co-working and Hangout",
@@ -23,7 +30,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 259,
+  "viewers_total": 263,
   "videos": [
     {
       "video_id": "Dn_lG9xmGy0",
