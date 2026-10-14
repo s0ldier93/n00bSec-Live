@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-14T07:02:49Z",
+  "updated": "2026-10-14T09:22:44Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "T0vaUT14pZM",
+      "channel": "SecurityWeekly",
+      "title": "AI Resilience as CISOs Can Balance Internal AI Risk and Productivity Concerns - BSW #469",
+      "link": "https://www.youtube.com/watch?v=T0vaUT14pZM",
+      "published_at": "2026-10-14T09:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/T0vaUT14pZM/hqdefault.jpg"
+    },
     {
       "video_id": "pQ-0dHC_Tv0",
       "channel": "TheShyHat",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=O1nsY5sO8Ok",
       "published_at": "2026-10-13T14:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/O1nsY5sO8Ok/hqdefault.jpg"
-    },
-    {
-      "video_id": "pmeWMbkp5iU",
-      "channel": "team_whoami",
-      "title": "ensamblador byte nulo",
-      "link": "https://www.youtube.com/watch?v=pmeWMbkp5iU",
-      "published_at": "2026-10-13T13:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/pmeWMbkp5iU/hqdefault.jpg"
     }
   ]
 }
