@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-14T12:53:37Z",
+  "updated": "2026-10-14T13:03:38Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 14's Top Cyber News NOW! - Ep 1265",
       "link": "https://www.youtube.com/watch?v=wvmFVfoF0F4",
-      "viewers": 368
+      "viewers": 312
     }
   ],
-  "viewers_total": 368,
+  "viewers_total": 312,
   "videos": [
+    {
+      "video_id": "W5DT8jpcBCk",
+      "channel": "LowLevelTV",
+      "title": "Did AI Really Reverse Engineer Every Adobe App?",
+      "link": "https://www.youtube.com/watch?v=W5DT8jpcBCk",
+      "published_at": "2026-10-14T13:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/W5DT8jpcBCk/hqdefault.jpg"
+    },
     {
       "video_id": "6hux6hfuYO4",
       "channel": "TheShyHat",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=BJAgaIAtFkg",
       "published_at": "2026-10-13T15:09:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/BJAgaIAtFkg/hqdefault.jpg"
-    },
-    {
-      "video_id": "zuYAEM7zpkU",
-      "channel": "thecybermentor",
-      "title": "Why You Need to Know the Software Development Lifecycle (SDLC)",
-      "link": "https://www.youtube.com/watch?v=zuYAEM7zpkU",
-      "published_at": "2026-10-13T15:00:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/zuYAEM7zpkU/hqdefault.jpg"
     }
   ]
 }
