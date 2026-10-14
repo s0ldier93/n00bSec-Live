@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-14T22:37:28Z",
+  "updated": "2026-10-14T22:47:27Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 470
+      "viewers": 480
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Triple Triad Rare Card Grind",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 5
     }
   ],
-  "viewers_total": 473,
+  "viewers_total": 485,
   "videos": [
     {
       "video_id": "Htxe5Jbv67I",
