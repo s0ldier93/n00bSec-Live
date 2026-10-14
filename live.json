@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-14T23:41:33Z",
+  "updated": "2026-10-14T23:42:05Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "chiefgyk3d",
+      "title": "Hardware research and chill| Cybersecurity,Rants,Chill,&Linux Gaming|10-14-26",
+      "link": "https://twitch.tv/chiefgyk3d",
+      "viewers": 7
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 461
+      "viewers": 455
     },
     {
       "platform": "twitch",
@@ -16,7 +23,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 465,
+  "viewers_total": 466,
   "videos": [
     {
       "video_id": "Htxe5Jbv67I",
