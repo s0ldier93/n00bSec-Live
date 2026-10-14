@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-14T06:13:07Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "TheShyHat",
-      "title": "CYBERSECURITY CTFs LIVE! Co-working and Hangout",
-      "link": "https://twitch.tv/TheShyHat",
-      "viewers": 14
-    }
-  ],
-  "viewers_total": 14,
+  "updated": "2026-10-14T06:13:38Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "Dn_lG9xmGy0",
