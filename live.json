@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T15:53:38Z",
+  "updated": "2026-10-14T16:03:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 13
+      "viewers": 9
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "How to Learn Faster with AI: Sample, Delve, Absorb | Anti-Cast",
       "link": "https://www.youtube.com/watch?v=H7n9t1uCjTE",
-      "viewers": 29
+      "viewers": 35
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
       "link": "https://www.youtube.com/watch?v=9DruJiG3vls",
-      "viewers": 38
+      "viewers": 36
     }
   ],
   "viewers_total": 81,
