@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:03:38Z",
+  "updated": "2026-10-14T17:13:21Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,37 +7,9 @@
       "title": "Orbiter Lifting Frame upgrades and Orbiter Recovery! SLC-6 (Part 25) 10/14/26",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 179
-    },
-    {
-      "platform": "twitch",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
-      "link": "https://twitch.tv/hack_smarter",
-      "viewers": 15
-    },
-    {
-      "platform": "twitch",
-      "name": "thecybermentor",
-      "title": "Purple Team Incident Adventure | TCM Community Live | Cybersecurity",
-      "link": "https://twitch.tv/thecybermentor",
-      "viewers": 15
-    },
-    {
-      "platform": "youtube",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
-      "link": "https://www.youtube.com/watch?v=9DruJiG3vls",
-      "viewers": 23
-    },
-    {
-      "platform": "youtube",
-      "name": "thecybermentor",
-      "title": "Purple Team Incident Adventure | TCM Community Live | Cybersecurity",
-      "link": "https://www.youtube.com/watch?v=mYGWolSb3wU",
-      "viewers": 78
     }
   ],
-  "viewers_total": 310,
+  "viewers_total": 179,
   "videos": [
     {
       "video_id": "-ZdPu85X7lw",
