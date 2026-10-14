@@ -1,8 +1,31 @@
 {
-  "updated": "2026-10-14T14:12:50Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-14T14:43:18Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
+      "link": "https://twitch.tv/hack_smarter",
+      "viewers": 3
+    },
+    {
+      "platform": "youtube",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
+      "link": "https://www.youtube.com/watch?v=9DruJiG3vls",
+      "viewers": 33
+    }
+  ],
+  "viewers_total": 36,
   "videos": [
+    {
+      "video_id": "cuI7zyCmUfQ",
+      "channel": "TheLaluka",
+      "title": "OPSEC doesn't exist #shorts",
+      "link": "https://www.youtube.com/watch?v=cuI7zyCmUfQ",
+      "published_at": "2026-10-14T14:20:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cuI7zyCmUfQ/hqdefault.jpg"
+    },
     {
       "video_id": "TVGKuvpLK0c",
       "channel": "SecurityWeekly",
@@ -154,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=rCShaWecQ04",
       "published_at": "2026-10-13T18:00:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/rCShaWecQ04/hqdefault.jpg"
-    },
-    {
-      "video_id": "APGSAzW-clY",
-      "channel": "JohnHammond010",
-      "title": "Steam Local Privilege Escalation",
-      "link": "https://www.youtube.com/watch?v=APGSAzW-clY",
-      "published_at": "2026-10-13T16:15:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/APGSAzW-clY/hqdefault.jpg"
     }
   ]
 }
