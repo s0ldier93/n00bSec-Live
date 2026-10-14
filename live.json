@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T21:03:38Z",
+  "updated": "2026-10-14T21:13:09Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,22 @@
   ],
   "viewers_total": 339,
   "videos": [
+    {
+      "video_id": "Htxe5Jbv67I",
+      "channel": "EJSA",
+      "title": "Orbiter Lifting Frame upgrades and Orbiter Recovery! SLC-6 (Part 25) 10/14/26",
+      "link": "https://www.youtube.com/watch?v=Htxe5Jbv67I",
+      "published_at": "2026-10-14T21:08:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Htxe5Jbv67I/hqdefault.jpg"
+    },
+    {
+      "video_id": "YAWogcpDm1g",
+      "channel": "SecurityWeekly",
+      "title": "AI Governance: Control What It Can Access",
+      "link": "https://www.youtube.com/watch?v=YAWogcpDm1g",
+      "published_at": "2026-10-14T21:00:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/YAWogcpDm1g/hqdefault.jpg"
+    },
     {
       "video_id": "lpoS-iugM-I",
       "channel": "HackerMentor",
@@ -154,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=9gHUOQvveeI",
       "published_at": "2026-10-14T01:48:51+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9gHUOQvveeI/hqdefault.jpg"
-    },
-    {
-      "video_id": "Dn_lG9xmGy0",
-      "channel": "SecurityWeekly",
-      "title": "Forgotten Accounts Are a Hacker's Opportunity",
-      "link": "https://www.youtube.com/watch?v=Dn_lG9xmGy0",
-      "published_at": "2026-10-13T22:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Dn_lG9xmGy0/hqdefault.jpg"
-    },
-    {
-      "video_id": "8nXwXZFUPtw",
-      "channel": "mbcrump",
-      "title": "PS5 13.60 PKG TEST with Early Builds",
-      "link": "https://www.youtube.com/watch?v=8nXwXZFUPtw",
-      "published_at": "2026-10-13T21:51:58+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8nXwXZFUPtw/hqdefault.jpg"
     }
   ]
 }
