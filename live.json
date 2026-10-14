@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-14T00:33:39Z",
+  "updated": "2026-10-14T00:43:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/13/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 311
+      "viewers": 287
     }
   ],
-  "viewers_total": 313,
+  "viewers_total": 290,
   "videos": [
     {
       "video_id": "Dn_lG9xmGy0",
