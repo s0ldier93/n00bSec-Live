@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T17:52:06Z",
+  "updated": "2026-10-15T18:02:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 219
+      "viewers": 224
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "LEUTE K\u00d6NNEN IMMER WAS HACKEN!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 12
+      "viewers": 11
     }
   ],
-  "viewers_total": 235,
+  "viewers_total": 239,
   "videos": [
     {
       "video_id": "Q-HKFlqPRAk",
