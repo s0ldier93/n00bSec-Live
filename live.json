@@ -1,22 +1,29 @@
 {
-  "updated": "2026-10-15T20:02:05Z",
+  "updated": "2026-10-15T20:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "cozy rust coding (tokenizing)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 706
+      "viewers": 512
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 256
+      "viewers": 265
+    },
+    {
+      "platform": "twitch",
+      "name": "team_whoami",
+      "title": "Lenguaje ensamblador, Mensaje en Stack",
+      "link": "https://twitch.tv/team_whoami",
+      "viewers": 0
     }
   ],
-  "viewers_total": 962,
+  "viewers_total": 777,
   "videos": [
     {
       "video_id": "Q-HKFlqPRAk",
