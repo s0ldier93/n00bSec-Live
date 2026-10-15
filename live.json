@@ -1,30 +1,24 @@
 {
-  "updated": "2026-10-15T04:02:05Z",
+  "updated": "2026-10-15T04:11:35Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Cybersec news + Q/A",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 40
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 215
-    },
-    {
-      "platform": "youtube",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Cyber Security News & QA",
-      "link": "https://www.youtube.com/watch?v=Yvce1gGscq8",
-      "viewers": 6
     }
   ],
-  "viewers_total": 261,
+  "viewers_total": 215,
   "videos": [
+    {
+      "video_id": "Yvce1gGscq8",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! Cyber Security News & QA",
+      "link": "https://www.youtube.com/watch?v=Yvce1gGscq8",
+      "published_at": "2026-10-15T01:01:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Yvce1gGscq8/hqdefault.jpg"
+    },
     {
       "video_id": "FJVHY_r93ys",
       "channel": "EJSA",
@@ -176,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=igmkYJXXoMA",
       "published_at": "2026-10-14T05:09:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/igmkYJXXoMA/hqdefault.jpg"
-    },
-    {
-      "video_id": "yC3Oq9i3Rpg",
-      "channel": "BrakeSec",
-      "title": "password issues for Danish org, AI in Linux, ransomware negoitator doubledipping, and socvel quiz",
-      "link": "https://www.youtube.com/watch?v=yC3Oq9i3Rpg",
-      "published_at": "2026-10-14T02:27:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yC3Oq9i3Rpg/hqdefault.jpg"
     }
   ]
 }
