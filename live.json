@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-15T21:42:05Z",
+  "updated": "2026-10-15T21:51:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "cozy rust coding (tokenizing)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 474
+      "viewers": 582
     },
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charlamos con Mario Lobo Romero sobre AImaru C2 #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 7
+      "viewers": 6
     },
     {
       "platform": "twitch",
@@ -27,24 +27,17 @@
       "name": "fixit42",
       "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 9
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charlamos con Mario Lobo Romero sobre AImaru C2",
       "link": "https://www.youtube.com/watch?v=UPEy7nIVbvo",
-      "viewers": 2
-    },
-    {
-      "platform": "youtube",
-      "name": "FixIt42",
-      "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
-      "link": "https://www.youtube.com/watch?v=yyBdNFqkYCs",
-      "viewers": 1
+      "viewers": 6
     }
   ],
-  "viewers_total": 755,
+  "viewers_total": 863,
   "videos": [
     {
       "video_id": "gKxVHHQXFoo",
