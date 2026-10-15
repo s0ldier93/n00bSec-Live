@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-15T22:12:05Z",
+  "updated": "2026-10-15T22:22:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "open source chats",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 507
+      "viewers": 491
     },
     {
       "platform": "twitch",
@@ -20,24 +20,17 @@
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 277
-    },
-    {
-      "platform": "twitch",
-      "name": "fixit42",
-      "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
-      "link": "https://twitch.tv/fixit42",
-      "viewers": 6
+      "viewers": 280
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charlamos con Mario Lobo Romero sobre AImaru C2",
       "link": "https://www.youtube.com/watch?v=UPEy7nIVbvo",
-      "viewers": 6
+      "viewers": 7
     }
   ],
-  "viewers_total": 802,
+  "viewers_total": 784,
   "videos": [
     {
       "video_id": "_hbMs1IzWGQ",
@@ -46,6 +39,14 @@
       "link": "https://www.youtube.com/watch?v=_hbMs1IzWGQ",
       "published_at": "2026-10-15T22:04:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/_hbMs1IzWGQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "ed8kgN061SU",
+      "channel": "SecurityWeekly",
+      "title": "AI Can Find Authentication Bypasses",
+      "link": "https://www.youtube.com/watch?v=ed8kgN061SU",
+      "published_at": "2026-10-15T22:00:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ed8kgN061SU/hqdefault.jpg"
     },
     {
       "video_id": "gKxVHHQXFoo",
@@ -190,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=9DruJiG3vls",
       "published_at": "2026-10-14T14:36:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9DruJiG3vls/hqdefault.jpg"
-    },
-    {
-      "video_id": "cuI7zyCmUfQ",
-      "channel": "TheLaluka",
-      "title": "OPSEC doesn't exist #shorts",
-      "link": "https://www.youtube.com/watch?v=cuI7zyCmUfQ",
-      "published_at": "2026-10-14T14:20:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cuI7zyCmUfQ/hqdefault.jpg"
     }
   ]
 }
