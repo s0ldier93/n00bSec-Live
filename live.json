@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-15T03:22:06Z",
+  "updated": "2026-10-15T03:32:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cybersec news + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 35
+      "viewers": 32
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "het_tanis",
       "title": "Excelling in the engineering field (after school).",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 26
+      "viewers": 29
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=Yvce1gGscq8",
-      "viewers": 7
+      "viewers": 6
     }
   ],
-  "viewers_total": 302,
+  "viewers_total": 301,
   "videos": [
     {
       "video_id": "FJVHY_r93ys",
