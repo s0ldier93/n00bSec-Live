@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-15T00:22:05Z",
+  "updated": "2026-10-15T00:32:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Hardware research and chill| Cybersecurity,Rants,Chill,&Linux Gaming|10-14-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 11
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 352
+      "viewers": 347
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 367,
+  "viewers_total": 361,
   "videos": [
+    {
+      "video_id": "FJVHY_r93ys",
+      "channel": "EJSA",
+      "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
+      "link": "https://www.youtube.com/watch?v=FJVHY_r93ys",
+      "published_at": "2026-10-14T23:58:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FJVHY_r93ys/hqdefault.jpg"
+    },
     {
       "video_id": "Htxe5Jbv67I",
       "channel": "EJSA",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=yC3Oq9i3Rpg",
       "published_at": "2026-10-14T02:27:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yC3Oq9i3Rpg/hqdefault.jpg"
-    },
-    {
-      "video_id": "9gHUOQvveeI",
-      "channel": "B7H30",
-      "title": "POV: Your OpenAI agent doing \"research\" on Australian gov site \"found a workaround\" | HTB",
-      "link": "https://www.youtube.com/watch?v=9gHUOQvveeI",
-      "published_at": "2026-10-14T01:48:51+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9gHUOQvveeI/hqdefault.jpg"
     }
   ]
 }
