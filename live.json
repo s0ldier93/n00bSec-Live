@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T17:02:06Z",
+  "updated": "2026-10-15T17:12:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 193
+      "viewers": 194
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 200,
+  "viewers_total": 201,
   "videos": [
     {
       "video_id": "Q-HKFlqPRAk",
