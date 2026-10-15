@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-15T03:02:05Z",
+  "updated": "2026-10-15T03:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cybersec news + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 28
+      "viewers": 33
     },
     {
       "platform": "twitch",
@@ -20,24 +20,17 @@
       "name": "het_tanis",
       "title": "Excelling in the engineering field (after school).",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 19
-    },
-    {
-      "platform": "twitch",
-      "name": "msec",
-      "title": "Triple Triad Rare Card Grind",
-      "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=Yvce1gGscq8",
-      "viewers": 5
+      "viewers": 6
     }
   ],
-  "viewers_total": 299,
+  "viewers_total": 311,
   "videos": [
     {
       "video_id": "FJVHY_r93ys",
