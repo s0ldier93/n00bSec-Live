@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-15T14:22:05Z",
+  "updated": "2026-10-15T14:32:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "jazz | vtubers | eating oats",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 23
+      "viewers": 20
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 20,
   "videos": [
+    {
+      "video_id": "N3vpYs5glvs",
+      "channel": "TheLaluka",
+      "title": "Hackers went full YOLO mode with AI #shorts",
+      "link": "https://www.youtube.com/watch?v=N3vpYs5glvs",
+      "published_at": "2026-10-15T14:20:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/N3vpYs5glvs/hqdefault.jpg"
+    },
     {
       "video_id": "txjFTawdRBE",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=T0vaUT14pZM",
       "published_at": "2026-10-14T09:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/T0vaUT14pZM/hqdefault.jpg"
-    },
-    {
-      "video_id": "pQ-0dHC_Tv0",
-      "channel": "TheShyHat",
-      "title": "CYBERSECURITY CTFs LIVE! Co-working and Hangout",
-      "link": "https://www.youtube.com/watch?v=pQ-0dHC_Tv0",
-      "published_at": "2026-10-14T06:14:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/pQ-0dHC_Tv0/hqdefault.jpg"
     }
   ]
 }
