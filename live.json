@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-15T14:12:05Z",
+  "updated": "2026-10-15T14:22:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "jazz | vtubers | eating oats",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 16
+      "viewers": 23
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 23,
   "videos": [
+    {
+      "video_id": "txjFTawdRBE",
+      "channel": "SecurityWeekly",
+      "title": "Does Your Security Program Reduce Risk?",
+      "link": "https://www.youtube.com/watch?v=txjFTawdRBE",
+      "published_at": "2026-10-15T14:00:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/txjFTawdRBE/hqdefault.jpg"
+    },
     {
       "video_id": "RfqMrrSqB1o",
       "channel": "HaxrByte",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=pQ-0dHC_Tv0",
       "published_at": "2026-10-14T06:14:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/pQ-0dHC_Tv0/hqdefault.jpg"
-    },
-    {
-      "video_id": "MyeJfsIEMNY",
-      "channel": "SniferL4bs",
-      "title": "Este plugin convierte Obsidian en tu lector de libros (PDF y EPUB)",
-      "link": "https://www.youtube.com/watch?v=MyeJfsIEMNY",
-      "published_at": "2026-10-14T06:00:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MyeJfsIEMNY/hqdefault.jpg"
     }
   ]
 }
