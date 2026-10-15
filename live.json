@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-15T00:02:05Z",
+  "updated": "2026-10-15T00:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Hardware research and chill| Cybersecurity,Rants,Chill,&Linux Gaming|10-14-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 9
+      "viewers": 13
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 441
+      "viewers": 370
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 454,
+  "viewers_total": 387,
   "videos": [
     {
       "video_id": "Htxe5Jbv67I",
