@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-15T17:32:06Z",
+  "updated": "2026-10-15T17:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Mind Games: How to Hack a Human Being",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 207
+      "viewers": 205
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "LEUTE K\u00d6NNEN IMMER WAS HACKEN!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 11
+      "viewers": 10
     }
   ],
-  "viewers_total": 220,
+  "viewers_total": 218,
   "videos": [
     {
       "video_id": "Q-HKFlqPRAk",
