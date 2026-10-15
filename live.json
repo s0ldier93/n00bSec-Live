@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:02:04Z",
+  "updated": "2026-10-15T16:31:11Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
@@ -42,6 +42,14 @@
       "link": "https://www.youtube.com/watch?v=HL1UsYY1De0",
       "published_at": "2026-10-15T06:18:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/HL1UsYY1De0/hqdefault.jpg"
+    },
+    {
+      "video_id": "TkC-sL1UdNQ",
+      "channel": "EJSA",
+      "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
+      "link": "https://www.youtube.com/watch?v=TkC-sL1UdNQ",
+      "published_at": "2026-10-15T04:37:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/TkC-sL1UdNQ/hqdefault.jpg"
     },
     {
       "video_id": "Yvce1gGscq8",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=6hux6hfuYO4",
       "published_at": "2026-10-14T12:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6hux6hfuYO4/hqdefault.jpg"
-    },
-    {
-      "video_id": "SkbFRRTXiG0",
-      "channel": "gerald_auger_simplycyber",
-      "title": "Don't Just Attend: How to DOMINATE a One-Day Cyber Con",
-      "link": "https://www.youtube.com/watch?v=SkbFRRTXiG0",
-      "published_at": "2026-10-14T11:00:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SkbFRRTXiG0/hqdefault.jpg"
     }
   ]
 }
