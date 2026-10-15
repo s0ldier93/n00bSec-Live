@@ -1,22 +1,29 @@
 {
-  "updated": "2026-10-15T16:32:05Z",
+  "updated": "2026-10-15T16:42:07Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Mind Games: How to Hack a Human Being",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 0
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 126
+      "viewers": 138
+    },
+    {
+      "platform": "twitch",
+      "name": "Leetcore",
+      "title": "\ud83c\udf84 Advent of Cyber 2025!",
+      "link": "https://twitch.tv/Leetcore",
+      "viewers": 0
     }
   ],
-  "viewers_total": 126,
+  "viewers_total": 139,
   "videos": [
     {
       "video_id": "Q-HKFlqPRAk",
