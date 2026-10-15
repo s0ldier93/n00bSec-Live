@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:32:05Z",
+  "updated": "2026-10-15T13:41:52Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,16 +7,9 @@
       "title": "jazz | vtubers | eating oats",
       "link": "https://twitch.tv/panekopanko",
       "viewers": 23
-    },
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 15's Top Cyber News NOW! - Ep 1266",
-      "link": "https://www.youtube.com/watch?v=NjzUwDvsurc",
-      "viewers": 180
     }
   ],
-  "viewers_total": 203,
+  "viewers_total": 23,
   "videos": [
     {
       "video_id": "RfqMrrSqB1o",
