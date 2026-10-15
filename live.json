@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-15T03:32:05Z",
+  "updated": "2026-10-15T03:42:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cybersec news + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 32
+      "viewers": 36
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 234
+      "viewers": 228
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Excelling in the engineering field (after school).",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 29
+      "viewers": 31
     },
     {
       "platform": "youtube",
