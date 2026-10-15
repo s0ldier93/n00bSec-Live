@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-15T22:32:05Z",
+  "updated": "2026-10-15T22:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "open source chats",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 490
+      "viewers": 468
     },
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charlamos con Mario Lobo Romero sobre AImaru C2 #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 276
+      "viewers": 274
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charlamos con Mario Lobo Romero sobre AImaru C2",
       "link": "https://www.youtube.com/watch?v=UPEy7nIVbvo",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 776,
+  "viewers_total": 750,
   "videos": [
     {
       "video_id": "_hbMs1IzWGQ",
