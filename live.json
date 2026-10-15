@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-15T02:02:05Z",
+  "updated": "2026-10-15T02:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cybersec news + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 16
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 289
+      "viewers": 281
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Triple Triad Rare Card Grind",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=Yvce1gGscq8",
-      "viewers": 7
+      "viewers": 5
     }
   ],
-  "viewers_total": 313,
+  "viewers_total": 306,
   "videos": [
     {
       "video_id": "FJVHY_r93ys",
