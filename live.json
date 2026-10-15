@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T06:52:04Z",
+  "updated": "2026-10-15T07:02:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -18,6 +18,14 @@
   ],
   "viewers_total": 7,
   "videos": [
+    {
+      "video_id": "HL1UsYY1De0",
+      "channel": "censoredHacker",
+      "title": "AWS CCP: Module 11 - Pricing and Support (even with flu)",
+      "link": "https://www.youtube.com/watch?v=HL1UsYY1De0",
+      "published_at": "2026-10-15T06:18:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/HL1UsYY1De0/hqdefault.jpg"
+    },
     {
       "video_id": "Yvce1gGscq8",
       "channel": "BlaiseBits",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=XjMM1yZoTos",
       "published_at": "2026-10-14T05:27:51+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XjMM1yZoTos/hqdefault.jpg"
-    },
-    {
-      "video_id": "igmkYJXXoMA",
-      "channel": "EJSA",
-      "title": "Orbiter Lifting Frame upgrades and Orbiter Recovery! SLC-6 (Part 25) 10/14/26",
-      "link": "https://www.youtube.com/watch?v=igmkYJXXoMA",
-      "published_at": "2026-10-14T05:09:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/igmkYJXXoMA/hqdefault.jpg"
     }
   ]
 }
