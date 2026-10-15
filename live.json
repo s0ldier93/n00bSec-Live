@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-15T01:11:31Z",
+  "updated": "2026-10-15T01:12:05Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! Cybersec news + Q/A",
+      "link": "https://twitch.tv/BlaiseBits",
+      "viewers": 10
+    },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Hardware research and chill| Cybersecurity,Rants,Chill,&Linux Gaming|10-14-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 11
+      "viewers": 14
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 317
+      "viewers": 307
     },
     {
       "platform": "twitch",
@@ -30,7 +37,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 338,
+  "viewers_total": 341,
   "videos": [
     {
       "video_id": "FJVHY_r93ys",
