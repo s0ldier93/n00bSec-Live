@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T00:52:05Z",
+  "updated": "2026-10-15T01:02:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 342
+      "viewers": 317
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Triple Triad Rare Card Grind",
       "link": "https://twitch.tv/msec",
-      "viewers": 5
+      "viewers": 4
     }
   ],
-  "viewers_total": 358,
+  "viewers_total": 332,
   "videos": [
     {
       "video_id": "FJVHY_r93ys",
