@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-15T01:22:05Z",
+  "updated": "2026-10-15T01:32:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cybersec news + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 11
+      "viewers": 14
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 298
+      "viewers": 302
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 7
     }
   ],
-  "viewers_total": 328,
+  "viewers_total": 335,
   "videos": [
     {
       "video_id": "FJVHY_r93ys",
