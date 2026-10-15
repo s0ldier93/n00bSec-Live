@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-15T23:42:05Z",
+  "updated": "2026-10-15T23:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 284
+      "viewers": 283
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "CSE466 - Week 9 - Heap Bonanza",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 18
+      "viewers": 22
     }
   ],
-  "viewers_total": 302,
+  "viewers_total": 305,
   "videos": [
     {
       "video_id": "_hbMs1IzWGQ",
