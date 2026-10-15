@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T00:32:06Z",
+  "updated": "2026-10-15T00:42:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 347
+      "viewers": 336
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 361,
+  "viewers_total": 350,
   "videos": [
     {
       "video_id": "FJVHY_r93ys",
