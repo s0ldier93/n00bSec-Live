@@ -1,40 +1,33 @@
 {
-  "updated": "2026-10-15T21:32:05Z",
+  "updated": "2026-10-15T21:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "cozy rust coding (tokenizing)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 601
+      "viewers": 474
     },
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charlamos con Mario Lobo Romero sobre AImaru C2 #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 6
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 279
+      "viewers": 262
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 10
-    },
-    {
-      "platform": "twitch",
-      "name": "mchow01",
-      "title": "Vulnerability Scanning, Exploitation, Badness-O-Meter (Episode 6, Season 13)",
-      "link": "https://twitch.tv/mchow01",
-      "viewers": 29
+      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -51,7 +44,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 928,
+  "viewers_total": 755,
   "videos": [
     {
       "video_id": "gKxVHHQXFoo",
