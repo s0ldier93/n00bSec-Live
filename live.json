@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-15T19:42:05Z",
+  "updated": "2026-10-15T19:52:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "cozy rust coding (tokenizing)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 643
+      "viewers": 536
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 244
+      "viewers": 258
     }
   ],
-  "viewers_total": 887,
+  "viewers_total": 794,
   "videos": [
     {
       "video_id": "Q-HKFlqPRAk",
