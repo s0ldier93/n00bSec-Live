@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-15T21:12:05Z",
+  "updated": "2026-10-15T21:22:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "cozy rust coding (tokenizing)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 584
+      "viewers": 604
     },
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charlamos con Mario Lobo Romero sobre AImaru C2 #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 1
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 287
+      "viewers": 271
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 13
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "mchow01",
       "title": "Vulnerability Scanning, Exploitation, Badness-O-Meter (Episode 6, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 33
+      "viewers": 27
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charlamos con Mario Lobo Romero sobre AImaru C2",
       "link": "https://www.youtube.com/watch?v=UPEy7nIVbvo",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -51,8 +51,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 921,
+  "viewers_total": 923,
   "videos": [
+    {
+      "video_id": "gKxVHHQXFoo",
+      "channel": "SecurityWeekly",
+      "title": "AI Takes Over? - Danny Akacki - PSW #948",
+      "link": "https://www.youtube.com/watch?v=gKxVHHQXFoo",
+      "published_at": "2026-10-15T21:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gKxVHHQXFoo/hqdefault.jpg"
+    },
     {
       "video_id": "UPEy7nIVbvo",
       "channel": "BySepa",
@@ -204,14 +212,6 @@
       "link": "https://www.youtube.com/watch?v=TVGKuvpLK0c",
       "published_at": "2026-10-14T14:00:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TVGKuvpLK0c/hqdefault.jpg"
-    },
-    {
-      "video_id": "WNe6Pg5Kvl8",
-      "channel": "Khaos_Farbauti",
-      "title": "Vous n'avez rien \u00e0 cacher ?",
-      "link": "https://www.youtube.com/watch?v=WNe6Pg5Kvl8",
-      "published_at": "2026-10-14T13:17:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WNe6Pg5Kvl8/hqdefault.jpg"
     }
   ]
 }
