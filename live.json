@@ -1,50 +1,50 @@
 {
-  "updated": "2026-10-15T20:32:05Z",
+  "updated": "2026-10-15T20:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "cozy rust coding (tokenizing)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 705
+      "viewers": 662
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 272
+      "viewers": 278
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 8
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "mchow01",
       "title": "Vulnerability Scanning, Exploitation, Badness-O-Meter (Episode 6, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 5
+      "viewers": 30
     },
     {
       "platform": "twitch",
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, Mensaje en Stack",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "FixIt42",
       "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
       "link": "https://www.youtube.com/watch?v=yyBdNFqkYCs",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 996,
+  "viewers_total": 985,
   "videos": [
     {
       "video_id": "UPEy7nIVbvo",
