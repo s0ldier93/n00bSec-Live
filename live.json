@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-15T20:12:05Z",
+  "updated": "2026-10-15T20:21:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "cozy rust coding (tokenizing)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 512
+      "viewers": 634
     },
     {
       "platform": "twitch",
@@ -17,13 +17,27 @@
     },
     {
       "platform": "twitch",
+      "name": "fixit42",
+      "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
+      "link": "https://twitch.tv/fixit42",
+      "viewers": 3
+    },
+    {
+      "platform": "twitch",
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, Mensaje en Stack",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 0
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "FixIt42",
+      "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
+      "link": "https://www.youtube.com/watch?v=yyBdNFqkYCs",
+      "viewers": 1
     }
   ],
-  "viewers_total": 777,
+  "viewers_total": 904,
   "videos": [
     {
       "video_id": "Q-HKFlqPRAk",
