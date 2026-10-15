@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T01:02:05Z",
+  "updated": "2026-10-15T01:11:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -21,9 +21,16 @@
       "title": "Triple Triad Rare Card Grind",
       "link": "https://twitch.tv/msec",
       "viewers": 4
+    },
+    {
+      "platform": "youtube",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! Cyber Security News & QA",
+      "link": "https://www.youtube.com/watch?v=Yvce1gGscq8",
+      "viewers": 6
     }
   ],
-  "viewers_total": 332,
+  "viewers_total": 338,
   "videos": [
     {
       "video_id": "FJVHY_r93ys",
