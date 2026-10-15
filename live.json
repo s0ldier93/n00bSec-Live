@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-15T22:02:06Z",
+  "updated": "2026-10-15T22:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "open source chats",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 439
+      "viewers": 507
     },
     {
       "platform": "twitch",
@@ -20,25 +20,33 @@
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 275
+      "viewers": 277
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 8
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charlamos con Mario Lobo Romero sobre AImaru C2",
       "link": "https://www.youtube.com/watch?v=UPEy7nIVbvo",
-      "viewers": 4
+      "viewers": 6
     }
   ],
-  "viewers_total": 732,
+  "viewers_total": 802,
   "videos": [
+    {
+      "video_id": "_hbMs1IzWGQ",
+      "channel": "Cyber_Insecurity",
+      "title": "Is deepfake fraud really outpacing ransomware?",
+      "link": "https://www.youtube.com/watch?v=_hbMs1IzWGQ",
+      "published_at": "2026-10-15T22:04:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_hbMs1IzWGQ/hqdefault.jpg"
+    },
     {
       "video_id": "gKxVHHQXFoo",
       "channel": "SecurityWeekly",
@@ -190,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=cuI7zyCmUfQ",
       "published_at": "2026-10-14T14:20:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cuI7zyCmUfQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "TVGKuvpLK0c",
-      "channel": "SecurityWeekly",
-      "title": "Cybersecurity Is About Getting Back Up",
-      "link": "https://www.youtube.com/watch?v=TVGKuvpLK0c",
-      "published_at": "2026-10-14T14:00:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TVGKuvpLK0c/hqdefault.jpg"
     }
   ]
 }
