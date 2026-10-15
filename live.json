@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-15T12:22:04Z",
+  "updated": "2026-10-15T12:32:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "jazz | vtubers | eating oats",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 21
+      "viewers": 18
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 15's Top Cyber News NOW! - Ep 1266",
       "link": "https://www.youtube.com/watch?v=NjzUwDvsurc",
-      "viewers": 258
+      "viewers": 290
     }
   ],
-  "viewers_total": 279,
+  "viewers_total": 308,
   "videos": [
+    {
+      "video_id": "RfqMrrSqB1o",
+      "channel": "HaxrByte",
+      "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (15 Oct 2026)",
+      "link": "https://www.youtube.com/watch?v=RfqMrrSqB1o",
+      "published_at": "2026-10-15T12:30:41+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RfqMrrSqB1o/hqdefault.jpg"
+    },
     {
       "video_id": "HL1UsYY1De0",
       "channel": "censoredHacker",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=MyeJfsIEMNY",
       "published_at": "2026-10-14T06:00:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/MyeJfsIEMNY/hqdefault.jpg"
-    },
-    {
-      "video_id": "XjMM1yZoTos",
-      "channel": "EJSA",
-      "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/13/26",
-      "link": "https://www.youtube.com/watch?v=XjMM1yZoTos",
-      "published_at": "2026-10-14T05:27:51+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XjMM1yZoTos/hqdefault.jpg"
     }
   ]
 }
