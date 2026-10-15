@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-15T03:42:04Z",
+  "updated": "2026-10-15T03:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cybersec news + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 36
+      "viewers": 33
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 228
+      "viewers": 238
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Excelling in the engineering field (after school).",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 31
+      "viewers": 27
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=Yvce1gGscq8",
-      "viewers": 6
+      "viewers": 7
     }
   ],
-  "viewers_total": 301,
+  "viewers_total": 305,
   "videos": [
     {
       "video_id": "FJVHY_r93ys",
