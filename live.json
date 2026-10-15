@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-15T22:52:05Z",
+  "updated": "2026-10-15T23:01:36Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "bashbunni",
-      "title": "open source chats",
-      "link": "https://twitch.tv/bashbunni",
-      "viewers": 481
-    },
     {
       "platform": "twitch",
       "name": "BySepa",
@@ -28,16 +21,9 @@
       "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
       "link": "https://twitch.tv/fixit42",
       "viewers": 5
-    },
-    {
-      "platform": "youtube",
-      "name": "BySepa",
-      "title": "Charlamos con Mario Lobo Romero sobre AImaru C2",
-      "link": "https://www.youtube.com/watch?v=UPEy7nIVbvo",
-      "viewers": 3
     }
   ],
-  "viewers_total": 763,
+  "viewers_total": 279,
   "videos": [
     {
       "video_id": "_hbMs1IzWGQ",
