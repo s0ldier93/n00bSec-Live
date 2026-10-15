@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-15T14:42:04Z",
+  "updated": "2026-10-15T14:52:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "jazz | vtubers | eating oats",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 34
+      "viewers": 27
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 27,
   "videos": [
     {
       "video_id": "N3vpYs5glvs",
