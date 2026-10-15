@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-15T23:01:36Z",
+  "updated": "2026-10-15T23:02:05Z",
   "streams": [
     {
       "platform": "twitch",
-      "name": "BySepa",
-      "title": "Charlamos con Mario Lobo Romero sobre AImaru C2 #hacktheplanet #teaminvierno",
-      "link": "https://twitch.tv/BySepa",
-      "viewers": 6
+      "name": "dbarkcasa",
+      "title": "\ud83d\udd27 Cyber Lab Live | Building, Hacking, Learning as I Go",
+      "link": "https://twitch.tv/dbarkcasa",
+      "viewers": 0
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 268
+      "viewers": 273
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 279,
+  "viewers_total": 278,
   "videos": [
     {
       "video_id": "_hbMs1IzWGQ",
