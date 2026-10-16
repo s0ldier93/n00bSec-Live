@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T16:41:51Z",
+  "updated": "2026-10-16T16:42:05Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ej_sa",
+      "title": "Let's recover the shuttle off the runway and then some! The SLC-6 Project (Part 26)",
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 125
+    },
     {
       "platform": "twitch",
       "name": "ritsec",
@@ -14,16 +21,9 @@
       "title": "Whimmery's Studio work",
       "link": "https://twitch.tv/Whimmery",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "EJSA",
-      "title": "Let's recover the shuttle off the runway and then some! The SLC-6 Project (Part 26)",
-      "link": "https://www.youtube.com/watch?v=wLCDLTL1ZoI",
-      "viewers": 21
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 130,
   "videos": [
     {
       "video_id": "DbxyX0UZ0XE",
