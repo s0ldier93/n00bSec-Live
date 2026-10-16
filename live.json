@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:12:05Z",
+  "updated": "2026-10-16T02:21:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -27,11 +27,19 @@
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (15 Oct 2026)",
       "link": "https://www.youtube.com/watch?v=RfqMrrSqB1o",
-      "viewers": 3
+      "viewers": 4
     }
   ],
-  "viewers_total": 494,
+  "viewers_total": 495,
   "videos": [
+    {
+      "video_id": "fsDcTJLA4m4",
+      "channel": "HackerMentor",
+      "title": "Mentor Live - Nmap + Metasploit",
+      "link": "https://www.youtube.com/watch?v=fsDcTJLA4m4",
+      "published_at": "2026-10-16T00:40:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fsDcTJLA4m4/hqdefault.jpg"
+    },
     {
       "video_id": "_hbMs1IzWGQ",
       "channel": "Cyber_Insecurity",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=PMFBs1Gg4EE",
       "published_at": "2026-10-14T16:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PMFBs1Gg4EE/hqdefault.jpg"
-    },
-    {
-      "video_id": "9DruJiG3vls",
-      "channel": "hack_smarter",
-      "title": "[LIVE] - Work With Me - (Cybersecurity / Hacking)",
-      "link": "https://www.youtube.com/watch?v=9DruJiG3vls",
-      "published_at": "2026-10-14T14:36:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9DruJiG3vls/hqdefault.jpg"
     }
   ]
 }
