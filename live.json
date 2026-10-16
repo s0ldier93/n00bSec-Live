@@ -1,30 +1,55 @@
 {
-  "updated": "2026-10-16T06:52:05Z",
+  "updated": "2026-10-16T07:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 11.2 - Pricing and Support",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 4
-    },
-    {
-      "platform": "twitch",
-      "name": "freshforensics",
-      "title": "\ud83d\udc80 I EXPOSED EVERYTHING on Android & iPhone\u2026",
-      "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 11.2 - Pricing and Support",
       "link": "https://www.youtube.com/watch?v=CbhB5rc3-Yc",
-      "viewers": 3
+      "viewers": 6
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 11,
   "videos": [
+    {
+      "video_id": "CbhB5rc3-Yc",
+      "channel": "censoredHacker",
+      "title": "AWS CCP: Module 11.2 - Pricing and Support",
+      "link": "https://www.youtube.com/watch?v=CbhB5rc3-Yc",
+      "published_at": "2026-10-16T06:27:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CbhB5rc3-Yc/hqdefault.jpg"
+    },
+    {
+      "video_id": "1POreh54PD0",
+      "channel": "MalwareTechBlog",
+      "title": "I Built A Device That Steals Cars",
+      "link": "https://www.youtube.com/watch?v=1POreh54PD0",
+      "published_at": "2026-10-16T05:44:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1POreh54PD0/hqdefault.jpg"
+    },
+    {
+      "video_id": "4RKix5LEsZM",
+      "channel": "KeonBowman",
+      "title": "How to Crack NTLM Password Hashes with Hashcat #shorts",
+      "link": "https://www.youtube.com/watch?v=4RKix5LEsZM",
+      "published_at": "2026-10-16T03:43:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4RKix5LEsZM/hqdefault.jpg"
+    },
+    {
+      "video_id": "oDnIUKDty8U",
+      "channel": "mbcrump",
+      "title": "Load Linux on a Jailbroken PS5 13.60 (EARLY TESTING)",
+      "link": "https://www.youtube.com/watch?v=oDnIUKDty8U",
+      "published_at": "2026-10-16T03:17:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oDnIUKDty8U/hqdefault.jpg"
+    },
     {
       "video_id": "6owRsQJ-L6k",
       "channel": "EJSA",
@@ -152,38 +177,6 @@
       "link": "https://www.youtube.com/watch?v=Htxe5Jbv67I",
       "published_at": "2026-10-14T21:08:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Htxe5Jbv67I/hqdefault.jpg"
-    },
-    {
-      "video_id": "YAWogcpDm1g",
-      "channel": "SecurityWeekly",
-      "title": "AI Governance: Control What It Can Access",
-      "link": "https://www.youtube.com/watch?v=YAWogcpDm1g",
-      "published_at": "2026-10-14T21:00:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/YAWogcpDm1g/hqdefault.jpg"
-    },
-    {
-      "video_id": "lpoS-iugM-I",
-      "channel": "HackerMentor",
-      "title": "Hacking session - Nmap + Metasploit",
-      "link": "https://www.youtube.com/watch?v=lpoS-iugM-I",
-      "published_at": "2026-10-14T19:23:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lpoS-iugM-I/hqdefault.jpg"
-    },
-    {
-      "video_id": "-ZdPu85X7lw",
-      "channel": "SecurityWeekly",
-      "title": "Ransomware Access Is Cheap. Control Isn't",
-      "link": "https://www.youtube.com/watch?v=-ZdPu85X7lw",
-      "published_at": "2026-10-14T17:00:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-ZdPu85X7lw/hqdefault.jpg"
-    },
-    {
-      "video_id": "mYGWolSb3wU",
-      "channel": "thecybermentor",
-      "title": "Purple Team Incident Adventure | TCM Community Live | Cybersecurity",
-      "link": "https://www.youtube.com/watch?v=mYGWolSb3wU",
-      "published_at": "2026-10-14T16:09:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mYGWolSb3wU/hqdefault.jpg"
     }
   ]
 }
