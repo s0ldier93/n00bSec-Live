@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-16T22:42:05Z",
+  "updated": "2026-10-16T22:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 1,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "_RmLFn5u1NE",
