@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:52:05Z",
+  "updated": "2026-10-16T01:01:32Z",
   "streams": [
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "HackerMentor",
       "title": "Mentor Live - Nmap + Metasploit",
       "link": "https://www.youtube.com/watch?v=fsDcTJLA4m4",
-      "viewers": 150
+      "viewers": 209
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 534,
+  "viewers_total": 593,
   "videos": [
     {
       "video_id": "_hbMs1IzWGQ",
