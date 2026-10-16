@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:32:05Z",
+  "updated": "2026-10-16T16:41:51Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,9 +14,16 @@
       "title": "Whimmery's Studio work",
       "link": "https://twitch.tv/Whimmery",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "Let's recover the shuttle off the runway and then some! The SLC-6 Project (Part 26)",
+      "link": "https://www.youtube.com/watch?v=wLCDLTL1ZoI",
+      "viewers": 21
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 26,
   "videos": [
     {
       "video_id": "DbxyX0UZ0XE",
@@ -107,6 +114,14 @@
       "thumbnail": "https://i.ytimg.com/vi/6owRsQJ-L6k/hqdefault.jpg"
     },
     {
+      "video_id": "wLCDLTL1ZoI",
+      "channel": "EJSA",
+      "title": "Let's recover the shuttle off the runway and then some! The SLC-6 Project (Part 26)",
+      "link": "https://www.youtube.com/watch?v=wLCDLTL1ZoI",
+      "published_at": "2026-10-16T02:20:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wLCDLTL1ZoI/hqdefault.jpg"
+    },
+    {
       "video_id": "fsDcTJLA4m4",
       "channel": "HackerMentor",
       "title": "Mentor Live - Nmap + Metasploit",
@@ -169,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=N3vpYs5glvs",
       "published_at": "2026-10-15T14:20:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/N3vpYs5glvs/hqdefault.jpg"
-    },
-    {
-      "video_id": "txjFTawdRBE",
-      "channel": "SecurityWeekly",
-      "title": "Does Your Security Program Reduce Risk?",
-      "link": "https://www.youtube.com/watch?v=txjFTawdRBE",
-      "published_at": "2026-10-15T14:00:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/txjFTawdRBE/hqdefault.jpg"
     }
   ]
 }
