@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-16T21:22:05Z",
+  "updated": "2026-10-16T22:21:10Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "_RmLFn5u1NE",
+      "channel": "Cyber_Insecurity",
+      "title": "Ransomware is slowing down. Deepfakes are not.",
+      "link": "https://www.youtube.com/watch?v=_RmLFn5u1NE",
+      "published_at": "2026-10-16T22:04:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_RmLFn5u1NE/hqdefault.jpg"
+    },
+    {
+      "video_id": "LKFgH9MgQpc",
+      "channel": "SecurityWeekly",
+      "title": "What's Hiding in Your GitHub Repositories?",
+      "link": "https://www.youtube.com/watch?v=LKFgH9MgQpc",
+      "published_at": "2026-10-16T22:00:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LKFgH9MgQpc/hqdefault.jpg"
+    },
     {
       "video_id": "ZVf4gDZCW5w",
       "channel": "SecurityWeekly",
@@ -146,22 +162,6 @@
       "link": "https://www.youtube.com/watch?v=fsDcTJLA4m4",
       "published_at": "2026-10-16T00:40:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fsDcTJLA4m4/hqdefault.jpg"
-    },
-    {
-      "video_id": "_hbMs1IzWGQ",
-      "channel": "Cyber_Insecurity",
-      "title": "Is deepfake fraud really outpacing ransomware?",
-      "link": "https://www.youtube.com/watch?v=_hbMs1IzWGQ",
-      "published_at": "2026-10-15T22:04:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/_hbMs1IzWGQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "ed8kgN061SU",
-      "channel": "SecurityWeekly",
-      "title": "AI Can Find Authentication Bypasses",
-      "link": "https://www.youtube.com/watch?v=ed8kgN061SU",
-      "published_at": "2026-10-15T22:00:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ed8kgN061SU/hqdefault.jpg"
     }
   ]
 }
