@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-16T06:42:05Z",
+  "updated": "2026-10-16T06:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 11.2 - Pricing and Support",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udc80 I EXPOSED EVERYTHING on Android & iPhone\u2026",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
