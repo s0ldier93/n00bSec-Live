@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-16T00:42:05Z",
+  "updated": "2026-10-16T00:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Tesla Roadster Revue! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 308
+      "viewers": 374
     },
     {
       "platform": "twitch",
@@ -23,18 +23,11 @@
       "viewers": 4
     },
     {
-      "platform": "twitch",
-      "name": "pwncollege",
-      "title": "CSE466 - Week 9 - Heap Bonanza",
-      "link": "https://twitch.tv/pwncollege",
-      "viewers": 18
-    },
-    {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Mentor Live - Nmap + Metasploit",
       "link": "https://www.youtube.com/watch?v=fsDcTJLA4m4",
-      "viewers": 1
+      "viewers": 150
     },
     {
       "platform": "youtube",
@@ -44,7 +37,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 337,
+  "viewers_total": 534,
   "videos": [
     {
       "video_id": "_hbMs1IzWGQ",
