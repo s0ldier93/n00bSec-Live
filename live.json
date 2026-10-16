@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-16T05:02:05Z",
+  "updated": "2026-10-16T05:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 6
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udc80 I EXPOSED EVERYTHING on Android & iPhone\u2026",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "6owRsQJ-L6k",
