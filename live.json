@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-16T05:22:05Z",
+  "updated": "2026-10-16T05:32:05Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 3
-    },
     {
       "platform": "twitch",
       "name": "freshforensics",
@@ -16,7 +9,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "6owRsQJ-L6k",
