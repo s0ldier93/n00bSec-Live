@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T03:02:05Z",
+  "updated": "2026-10-16T03:32:05Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "c04tl",
+      "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
+      "link": "https://twitch.tv/c04tl",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "freshforensics",
@@ -9,8 +16,16 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "6owRsQJ-L6k",
+      "channel": "EJSA",
+      "title": "EJ's Space and Tesla Roadster Revue! 10/15/26",
+      "link": "https://www.youtube.com/watch?v=6owRsQJ-L6k",
+      "published_at": "2026-10-16T02:50:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6owRsQJ-L6k/hqdefault.jpg"
+    },
     {
       "video_id": "fsDcTJLA4m4",
       "channel": "HackerMentor",
@@ -162,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=mYGWolSb3wU",
       "published_at": "2026-10-14T16:09:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mYGWolSb3wU/hqdefault.jpg"
-    },
-    {
-      "video_id": "PMFBs1Gg4EE",
-      "channel": "LuNiZz",
-      "title": "bu kosu hic yapilmadi... gorduklerinize inanmayin bak ;)",
-      "link": "https://www.youtube.com/watch?v=PMFBs1Gg4EE",
-      "published_at": "2026-10-14T16:00:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PMFBs1Gg4EE/hqdefault.jpg"
     }
   ]
 }
