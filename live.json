@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T17:12:06Z",
+  "updated": "2026-10-16T17:32:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -18,6 +18,14 @@
   ],
   "viewers_total": 2,
   "videos": [
+    {
+      "video_id": "9jDji8eD4_E",
+      "channel": "antisyphon",
+      "title": "TCPDump | Free Lab Fridays [Full Lab Walkthrough]",
+      "link": "https://www.youtube.com/watch?v=9jDji8eD4_E",
+      "published_at": "2026-10-16T17:10:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9jDji8eD4_E/hqdefault.jpg"
+    },
     {
       "video_id": "QhJSNkJvbbs",
       "channel": "EJSA",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=UPEy7nIVbvo",
       "published_at": "2026-10-15T20:22:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/UPEy7nIVbvo/hqdefault.jpg"
-    },
-    {
-      "video_id": "yyBdNFqkYCs",
-      "channel": "FixIt42",
-      "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools...",
-      "link": "https://www.youtube.com/watch?v=yyBdNFqkYCs",
-      "published_at": "2026-10-15T20:09:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yyBdNFqkYCs/hqdefault.jpg"
     }
   ]
 }
