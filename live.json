@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:32:05Z",
+  "updated": "2026-10-16T00:41:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -27,14 +27,14 @@
       "name": "pwncollege",
       "title": "CSE466 - Week 9 - Heap Bonanza",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 25
+      "viewers": 18
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
-      "title": "Hacking session - Nmap + Metasploit",
-      "link": "https://www.youtube.com/watch?v=lpoS-iugM-I",
-      "viewers": 46
+      "title": "Mentor Live - Nmap + Metasploit",
+      "link": "https://www.youtube.com/watch?v=fsDcTJLA4m4",
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 373,
+  "viewers_total": 321,
   "videos": [
     {
       "video_id": "_hbMs1IzWGQ",
