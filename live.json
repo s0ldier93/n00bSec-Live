@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-16T14:31:13Z",
-  "streams": [],
+  "updated": "2026-10-16T15:22:05Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "Whimmery",
+      "title": "Whimmery's Studio work",
+      "link": "https://twitch.tv/Whimmery",
+      "viewers": 0
+    }
+  ],
   "viewers_total": 0,
   "videos": [
     {
