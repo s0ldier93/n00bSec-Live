@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-16T21:02:06Z",
+  "updated": "2026-10-16T21:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "invokereversing",
       "title": "\ud83d\udd25 Unknown Rust Loader Analysis in IDA \ud83d\udd25",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 17
+      "viewers": 22
     }
   ],
-  "viewers_total": 17,
+  "viewers_total": 22,
   "videos": [
     {
       "video_id": "bGmjDea49YE",
