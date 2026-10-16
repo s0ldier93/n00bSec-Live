@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-16T07:42:05Z",
+  "updated": "2026-10-16T09:21:14Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "zuU-Rq6H2BQ",
+      "channel": "Khaos_Farbauti",
+      "title": "L'outil Penelope",
+      "link": "https://www.youtube.com/watch?v=zuU-Rq6H2BQ",
+      "published_at": "2026-10-16T08:56:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zuU-Rq6H2BQ/hqdefault.jpg"
+    },
     {
       "video_id": "CbhB5rc3-Yc",
       "channel": "censoredHacker",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=FJVHY_r93ys",
       "published_at": "2026-10-14T23:58:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FJVHY_r93ys/hqdefault.jpg"
-    },
-    {
-      "video_id": "Htxe5Jbv67I",
-      "channel": "EJSA",
-      "title": "Orbiter Lifting Frame upgrades and Orbiter Recovery! SLC-6 (Part 25) 10/14/26",
-      "link": "https://www.youtube.com/watch?v=Htxe5Jbv67I",
-      "published_at": "2026-10-14T21:08:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Htxe5Jbv67I/hqdefault.jpg"
     }
   ]
 }
