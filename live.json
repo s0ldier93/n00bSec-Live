@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-16T13:12:05Z",
+  "updated": "2026-10-16T13:22:04Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 16's Top Cyber News NOW! - Ep 1267",
       "link": "https://www.youtube.com/watch?v=osaRbgqkVYg",
-      "viewers": 303
+      "viewers": 273
     }
   ],
-  "viewers_total": 303,
+  "viewers_total": 273,
   "videos": [
+    {
+      "video_id": "26W_XtvkHAI",
+      "channel": "JohnHammond010",
+      "title": "AI Security Engineering with Ashish Rajan!",
+      "link": "https://www.youtube.com/watch?v=26W_XtvkHAI",
+      "published_at": "2026-10-16T13:00:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/26W_XtvkHAI/hqdefault.jpg"
+    },
     {
       "video_id": "zuU-Rq6H2BQ",
       "channel": "Khaos_Farbauti",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Yvce1gGscq8",
       "published_at": "2026-10-15T01:01:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Yvce1gGscq8/hqdefault.jpg"
-    },
-    {
-      "video_id": "FJVHY_r93ys",
-      "channel": "EJSA",
-      "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
-      "link": "https://www.youtube.com/watch?v=FJVHY_r93ys",
-      "published_at": "2026-10-14T23:58:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FJVHY_r93ys/hqdefault.jpg"
     }
   ]
 }
