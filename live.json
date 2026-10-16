@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-16T20:32:06Z",
+  "updated": "2026-10-16T20:52:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "invokereversing",
       "title": "\ud83d\udd25 Unknown Rust Loader Analysis in IDA \ud83d\udd25",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 24
+      "viewers": 16
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 16,
   "videos": [
+    {
+      "video_id": "bGmjDea49YE",
+      "channel": "CyberWarriorStudios",
+      "title": "Burnout, Mental Health & Growing a Business in Cybersecurity",
+      "link": "https://www.youtube.com/watch?v=bGmjDea49YE",
+      "published_at": "2026-10-16T20:33:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bGmjDea49YE/hqdefault.jpg"
+    },
     {
       "video_id": "9jDji8eD4_E",
       "channel": "antisyphon",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=gKxVHHQXFoo",
       "published_at": "2026-10-15T21:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gKxVHHQXFoo/hqdefault.jpg"
-    },
-    {
-      "video_id": "UPEy7nIVbvo",
-      "channel": "BySepa",
-      "title": "Charlamos con Mario Lobo Romero sobre AImaru C2 #hacktheplanet #teaminvierno",
-      "link": "https://www.youtube.com/watch?v=UPEy7nIVbvo",
-      "published_at": "2026-10-15T20:22:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UPEy7nIVbvo/hqdefault.jpg"
     }
   ]
 }
