@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T22:52:05Z",
+  "updated": "2026-10-16T23:01:35Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,10 +7,32 @@
       "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
       "viewers": 3
+    },
+    {
+      "platform": "twitch",
+      "name": "CyberWarriorStudios",
+      "title": "Burnout, Mental Health & Growing a Business in Cybersecurity",
+      "link": "https://twitch.tv/CyberWarriorStudios",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "CyberWarriorStudios",
+      "title": "Burnout, Mental Health & Growing a Business in Cybersecurity",
+      "link": "https://www.youtube.com/watch?v=bGmjDea49YE",
+      "viewers": 2
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 6,
   "videos": [
+    {
+      "video_id": "-rYCu2yrLtw",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 23's Top Cyber News NOW! - Ep 1272",
+      "link": "https://www.youtube.com/watch?v=-rYCu2yrLtw",
+      "published_at": "2026-10-16T22:39:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-rYCu2yrLtw/hqdefault.jpg"
+    },
     {
       "video_id": "_RmLFn5u1NE",
       "channel": "Cyber_Insecurity",
@@ -162,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=wLCDLTL1ZoI",
       "published_at": "2026-10-16T02:20:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wLCDLTL1ZoI/hqdefault.jpg"
-    },
-    {
-      "video_id": "fsDcTJLA4m4",
-      "channel": "HackerMentor",
-      "title": "Mentor Live - Nmap + Metasploit",
-      "link": "https://www.youtube.com/watch?v=fsDcTJLA4m4",
-      "published_at": "2026-10-16T00:40:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fsDcTJLA4m4/hqdefault.jpg"
     }
   ]
 }
