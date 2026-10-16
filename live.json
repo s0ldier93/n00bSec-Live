@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T06:32:04Z",
+  "updated": "2026-10-16T06:41:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,9 +14,16 @@
       "title": "\ud83d\udc80 I EXPOSED EVERYTHING on Android & iPhone\u2026",
       "link": "https://twitch.tv/freshforensics",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "censoredHacker",
+      "title": "AWS CCP: Module 11.2 - Pricing and Support",
+      "link": "https://www.youtube.com/watch?v=CbhB5rc3-Yc",
+      "viewers": 3
     }
   ],
-  "viewers_total": 1,
+  "viewers_total": 4,
   "videos": [
     {
       "video_id": "6owRsQJ-L6k",
