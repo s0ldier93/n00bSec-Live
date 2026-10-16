@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-16T16:42:05Z",
+  "updated": "2026-10-16T16:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Let's recover the shuttle off the runway and then some! The SLC-6 Project (Part 26)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 125
+      "viewers": 203
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 130,
+  "viewers_total": 206,
   "videos": [
     {
       "video_id": "DbxyX0UZ0XE",
