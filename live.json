@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T19:22:05Z",
+  "updated": "2026-10-16T19:32:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 38,
+  "viewers_total": 39,
   "videos": [
     {
       "video_id": "9jDji8eD4_E",
