@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-16T17:11:54Z",
+  "updated": "2026-10-16T17:12:06Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "Let's recover the shuttle off the runway and then some! The SLC-6 Project (Part 26)",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 222
-    },
     {
       "platform": "twitch",
       "name": "ritsec",
@@ -23,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 224,
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "QhJSNkJvbbs",
