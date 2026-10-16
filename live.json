@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-16T18:12:06Z",
+  "updated": "2026-10-16T18:22:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "invokereversing",
       "title": "\ud83d\udd25 Unknown Rust Loader Analysis in IDA \ud83d\udd25",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 35
+      "viewers": 44
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 46,
   "videos": [
     {
       "video_id": "9jDji8eD4_E",
