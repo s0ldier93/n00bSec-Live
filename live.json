@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-16T21:12:05Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "invokereversing",
-      "title": "\ud83d\udd25 Unknown Rust Loader Analysis in IDA \ud83d\udd25",
-      "link": "https://twitch.tv/invokereversing",
-      "viewers": 22
-    }
-  ],
-  "viewers_total": 22,
+  "updated": "2026-10-16T21:22:05Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "ZVf4gDZCW5w",
+      "channel": "SecurityWeekly",
+      "title": "Mr. Sparkle, Burger King, Pwnscape, Linux, Cisco, GitHub, Microsoft, and Josh Marpet - SWN #625",
+      "link": "https://www.youtube.com/watch?v=ZVf4gDZCW5w",
+      "published_at": "2026-10-16T21:00:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ZVf4gDZCW5w/hqdefault.jpg"
+    },
     {
       "video_id": "bGmjDea49YE",
       "channel": "CyberWarriorStudios",
@@ -162,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=ed8kgN061SU",
       "published_at": "2026-10-15T22:00:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ed8kgN061SU/hqdefault.jpg"
-    },
-    {
-      "video_id": "gKxVHHQXFoo",
-      "channel": "SecurityWeekly",
-      "title": "AI Takes Over? - Danny Akacki - PSW #948",
-      "link": "https://www.youtube.com/watch?v=gKxVHHQXFoo",
-      "published_at": "2026-10-15T21:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gKxVHHQXFoo/hqdefault.jpg"
     }
   ]
 }
