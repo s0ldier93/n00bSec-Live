@@ -1,8 +1,32 @@
 {
-  "updated": "2026-10-16T14:11:44Z",
+  "updated": "2026-10-16T14:31:13Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "XbwurAypBxU",
+      "channel": "TheLaluka",
+      "title": "Stop botting my views #shorts",
+      "link": "https://www.youtube.com/watch?v=XbwurAypBxU",
+      "published_at": "2026-10-16T14:20:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XbwurAypBxU/hqdefault.jpg"
+    },
+    {
+      "video_id": "sxMrKaW_JiY",
+      "channel": "blacksincybersecurity",
+      "title": "Coding, Hacking, & Giving Back w/ James Houston - BIC Podcast Episode #27",
+      "link": "https://www.youtube.com/watch?v=sxMrKaW_JiY",
+      "published_at": "2026-10-16T14:16:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/sxMrKaW_JiY/hqdefault.jpg"
+    },
+    {
+      "video_id": "OQnxVXlDZz8",
+      "channel": "SecurityWeekly",
+      "title": "One Login Field Threatened Solar Security",
+      "link": "https://www.youtube.com/watch?v=OQnxVXlDZz8",
+      "published_at": "2026-10-16T14:00:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/OQnxVXlDZz8/hqdefault.jpg"
+    },
     {
       "video_id": "26W_XtvkHAI",
       "channel": "JohnHammond010",
@@ -138,30 +162,6 @@
       "link": "https://www.youtube.com/watch?v=RfqMrrSqB1o",
       "published_at": "2026-10-15T12:30:41+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RfqMrrSqB1o/hqdefault.jpg"
-    },
-    {
-      "video_id": "HL1UsYY1De0",
-      "channel": "censoredHacker",
-      "title": "AWS CCP: Module 11 - Pricing and Support (even with flu)",
-      "link": "https://www.youtube.com/watch?v=HL1UsYY1De0",
-      "published_at": "2026-10-15T06:18:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/HL1UsYY1De0/hqdefault.jpg"
-    },
-    {
-      "video_id": "TkC-sL1UdNQ",
-      "channel": "EJSA",
-      "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
-      "link": "https://www.youtube.com/watch?v=TkC-sL1UdNQ",
-      "published_at": "2026-10-15T04:37:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TkC-sL1UdNQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "Yvce1gGscq8",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Cyber Security News & QA",
-      "link": "https://www.youtube.com/watch?v=Yvce1gGscq8",
-      "published_at": "2026-10-15T01:01:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Yvce1gGscq8/hqdefault.jpg"
     }
   ]
 }
