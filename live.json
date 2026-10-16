@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T15:32:06Z",
+  "updated": "2026-10-16T16:12:05Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ritsec",
+      "title": "RITSEC Fall Week 6 - Intro to Linux",
+      "link": "https://twitch.tv/ritsec",
+      "viewers": 3
+    },
     {
       "platform": "twitch",
       "name": "Whimmery",
@@ -9,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 1,
+  "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "DbxyX0UZ0XE",
+      "channel": "thecybermentor",
+      "title": "CTF Walkthrough: The Cuckoo's Log",
+      "link": "https://www.youtube.com/watch?v=DbxyX0UZ0XE",
+      "published_at": "2026-10-16T16:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/DbxyX0UZ0XE/hqdefault.jpg"
+    },
     {
       "video_id": "XbwurAypBxU",
       "channel": "TheLaluka",
@@ -162,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=txjFTawdRBE",
       "published_at": "2026-10-15T14:00:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/txjFTawdRBE/hqdefault.jpg"
-    },
-    {
-      "video_id": "RfqMrrSqB1o",
-      "channel": "HaxrByte",
-      "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (15 Oct 2026)",
-      "link": "https://www.youtube.com/watch?v=RfqMrrSqB1o",
-      "published_at": "2026-10-15T12:30:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RfqMrrSqB1o/hqdefault.jpg"
     }
   ]
 }
