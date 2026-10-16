@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-16T01:42:05Z",
+  "updated": "2026-10-16T01:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Tesla Roadster Revue! 10/15/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 527
+      "viewers": 524
     },
     {
       "platform": "twitch",
@@ -20,24 +20,24 @@
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (15 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Mentor Live - Nmap + Metasploit",
       "link": "https://www.youtube.com/watch?v=fsDcTJLA4m4",
-      "viewers": 231
+      "viewers": 218
     },
     {
       "platform": "youtube",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (15 Oct 2026)",
       "link": "https://www.youtube.com/watch?v=RfqMrrSqB1o",
-      "viewers": 6
+      "viewers": 4
     }
   ],
-  "viewers_total": 770,
+  "viewers_total": 753,
   "videos": [
     {
       "video_id": "_hbMs1IzWGQ",
