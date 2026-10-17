@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-17T17:02:06Z",
+  "updated": "2026-10-17T17:11:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "POV: Your OpenAI agent was \"counting hospital beds\" & \"found\" path traversal | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 19
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -20,13 +20,20 @@
       "name": "pwncollege",
       "title": "CSE466 - Week 9.5 - Safe Linking Demo",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 13
+      "viewers": 19
     },
     {
       "platform": "youtube",
       "name": "B7H30",
       "title": "POV: Your OpenAI agent was \"counting hospital beds\" & \"found\" path traversal | HTB",
       "link": "https://www.youtube.com/watch?v=9gHUOQvveeI",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 19's Top Cyber News NOW! - Ep 1268",
+      "link": "https://www.youtube.com/watch?v=IMxr8hEZMqc",
       "viewers": 1
     }
   ],
