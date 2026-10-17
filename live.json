@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T05:52:04Z",
+  "updated": "2026-10-17T06:02:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "irasakai",
       "title": "Whatever game i feel like",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "i86A6-tMlGs",
