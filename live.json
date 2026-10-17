@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T17:21:46Z",
+  "updated": "2026-10-17T17:32:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "ProfitzTV",
       "title": "RECON RAY! WarDogs Newbie",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 7
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "CSE466 - Week 9.5 - Safe Linking Demo",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 20
+      "viewers": 21
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 45,
+  "viewers_total": 44,
   "videos": [
     {
       "video_id": "aRSUIJXxbDc",
