@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-17T03:52:04Z",
+  "updated": "2026-10-17T04:02:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays Cyberpunk 2077 for the first time!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 13
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -27,10 +27,10 @@
       "name": "irasakai",
       "title": "Whatever game i feel like",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 18,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "i86A6-tMlGs",
