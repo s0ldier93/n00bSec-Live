@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T00:02:05Z",
+  "updated": "2026-10-17T00:11:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,23 +7,9 @@
       "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
       "viewers": 5
-    },
-    {
-      "platform": "twitch",
-      "name": "CyberWarriorStudios",
-      "title": "Burnout, Mental Health & Growing a Business in Cybersecurity",
-      "link": "https://twitch.tv/CyberWarriorStudios",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "CyberWarriorStudios",
-      "title": "Burnout, Mental Health & Growing a Business in Cybersecurity",
-      "link": "https://www.youtube.com/watch?v=bGmjDea49YE",
-      "viewers": 5
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "-rYCu2yrLtw",
