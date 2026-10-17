@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:21:12Z",
+  "updated": "2026-10-17T12:31:11Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
@@ -10,6 +10,14 @@
       "link": "https://www.youtube.com/watch?v=a697qUc_cGQ",
       "published_at": "2026-10-17T12:13:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/a697qUc_cGQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "NXI5z0508iQ",
+      "channel": "Cyber_Insecurity",
+      "title": "AI should take the cut-and-paste work, not the analyst",
+      "link": "https://www.youtube.com/watch?v=NXI5z0508iQ",
+      "published_at": "2026-10-17T12:07:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NXI5z0508iQ/hqdefault.jpg"
     },
     {
       "video_id": "-lsa8sbBQWk",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=CbhB5rc3-Yc",
       "published_at": "2026-10-16T06:27:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CbhB5rc3-Yc/hqdefault.jpg"
-    },
-    {
-      "video_id": "1POreh54PD0",
-      "channel": "MalwareTechBlog",
-      "title": "I Built A Device That Steals Cars",
-      "link": "https://www.youtube.com/watch?v=1POreh54PD0",
-      "published_at": "2026-10-16T05:44:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1POreh54PD0/hqdefault.jpg"
     }
   ]
 }
