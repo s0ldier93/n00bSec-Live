@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-17T14:21:12Z",
+  "updated": "2026-10-17T14:31:13Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "06JcpBqECQs",
+      "channel": "TheLaluka",
+      "title": "Guess this hard drive's capacity #shorts",
+      "link": "https://www.youtube.com/watch?v=06JcpBqECQs",
+      "published_at": "2026-10-17T14:20:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/06JcpBqECQs/hqdefault.jpg"
+    },
     {
       "video_id": "KAlXUzPRjCI",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=26W_XtvkHAI",
       "published_at": "2026-10-16T13:00:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/26W_XtvkHAI/hqdefault.jpg"
-    },
-    {
-      "video_id": "zuU-Rq6H2BQ",
-      "channel": "Khaos_Farbauti",
-      "title": "L'outil Penelope",
-      "link": "https://www.youtube.com/watch?v=zuU-Rq6H2BQ",
-      "published_at": "2026-10-16T08:56:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/zuU-Rq6H2BQ/hqdefault.jpg"
     }
   ]
 }
