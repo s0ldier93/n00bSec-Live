@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-17T15:32:05Z",
+  "updated": "2026-10-17T15:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "RECON RAY! WarDogs Newbie",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 1
+      "viewers": 5
     }
   ],
-  "viewers_total": 1,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "aRSUIJXxbDc",
