@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T05:51:34Z",
+  "updated": "2026-10-17T05:52:04Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "censoredHacker",
+      "title": "AWS CCP: Module 11.3 - Pricing and Support",
+      "link": "https://twitch.tv/censoredHacker",
+      "viewers": 2
+    },
     {
       "platform": "twitch",
       "name": "dal3ksec",
@@ -30,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 11,
   "videos": [
     {
       "video_id": "i86A6-tMlGs",
