@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-17T22:32:05Z",
+  "updated": "2026-10-17T22:52:05Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "c04tl",
+      "title": "Hacking real y en vivo \ud83e\udd75\ud83e\udd75",
+      "link": "https://twitch.tv/c04tl",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, Truco Omagic",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 1
+      "viewers": 4
     }
   ],
-  "viewers_total": 1,
+  "viewers_total": 4,
   "videos": [
     {
       "video_id": "fB5boEqdFY4",
