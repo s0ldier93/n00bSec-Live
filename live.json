@@ -1,29 +1,22 @@
 {
-  "updated": "2026-10-17T23:22:05Z",
+  "updated": "2026-10-17T23:32:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Hacking real y en vivo \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Saturday Night Conflict Canines Special! 10/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 3
-    },
-    {
-      "platform": "twitch",
-      "name": "h8handles",
-      "title": "Click ME: MSFS2024 stream test",
-      "link": "https://twitch.tv/h8handles",
-      "viewers": 2
+      "viewers": 111
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 116,
   "videos": [
     {
       "video_id": "fB5boEqdFY4",
