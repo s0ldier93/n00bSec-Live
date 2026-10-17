@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-17T23:32:05Z",
+  "updated": "2026-10-17T23:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Hacking real y en vivo \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Saturday Night Conflict Canines Special! 10/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 111
+      "viewers": 135
     }
   ],
-  "viewers_total": 116,
+  "viewers_total": 141,
   "videos": [
     {
       "video_id": "fB5boEqdFY4",
