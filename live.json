@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-17T09:22:06Z",
+  "updated": "2026-10-17T12:11:12Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "-lsa8sbBQWk",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - GPS Code - GPS Coordinates - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=-lsa8sbBQWk",
+      "published_at": "2026-10-17T12:00:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-lsa8sbBQWk/hqdefault.jpg"
+    },
     {
       "video_id": "e5n34GEtWfU",
       "channel": "censoredHacker",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=4RKix5LEsZM",
       "published_at": "2026-10-16T03:43:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4RKix5LEsZM/hqdefault.jpg"
-    },
-    {
-      "video_id": "oDnIUKDty8U",
-      "channel": "mbcrump",
-      "title": "Load Linux on a Jailbroken PS5 13.60 (EARLY TESTING)",
-      "link": "https://www.youtube.com/watch?v=oDnIUKDty8U",
-      "published_at": "2026-10-16T03:17:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oDnIUKDty8U/hqdefault.jpg"
     }
   ]
 }
