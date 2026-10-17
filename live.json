@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-17T12:31:11Z",
+  "updated": "2026-10-17T14:21:12Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "KAlXUzPRjCI",
+      "channel": "SecurityWeekly",
+      "title": "A Linux VM Could Read Host Memory",
+      "link": "https://www.youtube.com/watch?v=KAlXUzPRjCI",
+      "published_at": "2026-10-17T14:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/KAlXUzPRjCI/hqdefault.jpg"
+    },
     {
       "video_id": "a697qUc_cGQ",
       "channel": "ElPinguinoDeMario",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=zuU-Rq6H2BQ",
       "published_at": "2026-10-16T08:56:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zuU-Rq6H2BQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "CbhB5rc3-Yc",
-      "channel": "censoredHacker",
-      "title": "AWS CCP: Module 11.2 - Pricing and Support",
-      "link": "https://www.youtube.com/watch?v=CbhB5rc3-Yc",
-      "published_at": "2026-10-16T06:27:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CbhB5rc3-Yc/hqdefault.jpg"
     }
   ]
 }
