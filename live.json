@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-17T03:22:05Z",
+  "updated": "2026-10-17T03:32:03Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays Cyberpunk 2077 for the first time!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 14
-    },
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Stream - Gaming  |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -30,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 18,
+  "viewers_total": 20,
   "videos": [
     {
       "video_id": "i86A6-tMlGs",
