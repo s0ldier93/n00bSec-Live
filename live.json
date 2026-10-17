@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-17T17:32:05Z",
+  "updated": "2026-10-17T17:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "POV: Your OpenAI agent was \"counting hospital beds\" & \"found\" path traversal | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 17
+      "viewers": 18
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "pwncollege",
       "title": "CSE466 - Week 9.5 - Safe Linking Demo",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 21
+      "viewers": 30
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 44,
+  "viewers_total": 54,
   "videos": [
     {
       "video_id": "aRSUIJXxbDc",
