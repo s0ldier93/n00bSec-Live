@@ -1,30 +1,24 @@
 {
-  "updated": "2026-10-17T19:02:05Z",
+  "updated": "2026-10-17T19:11:45Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "b7h30",
-      "title": "POV: Your OpenAI agent was \"counting hospital beds\" & \"found\" path traversal | OSCP study on HTB| !discord | !commands",
-      "link": "https://twitch.tv/b7h30",
-      "viewers": 27
-    },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "RECON RAY! WarDogs Newbie",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 7
-    },
-    {
-      "platform": "youtube",
-      "name": "B7H30",
-      "title": "POV: Your OpenAI agent was \"counting hospital beds\" & \"found\" path traversal | HTB",
-      "link": "https://www.youtube.com/watch?v=9gHUOQvveeI",
-      "viewers": 1
+      "viewers": 9
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 9,
   "videos": [
+    {
+      "video_id": "fB5boEqdFY4",
+      "channel": "SecurityWeekly",
+      "title": "Can You Prove a Book Is Human-Written?",
+      "link": "https://www.youtube.com/watch?v=fB5boEqdFY4",
+      "published_at": "2026-10-17T19:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fB5boEqdFY4/hqdefault.jpg"
+    },
     {
       "video_id": "aRSUIJXxbDc",
       "channel": "ippsec",
@@ -176,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=sxMrKaW_JiY",
       "published_at": "2026-10-16T14:16:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/sxMrKaW_JiY/hqdefault.jpg"
-    },
-    {
-      "video_id": "OQnxVXlDZz8",
-      "channel": "SecurityWeekly",
-      "title": "One Login Field Threatened Solar Security",
-      "link": "https://www.youtube.com/watch?v=OQnxVXlDZz8",
-      "published_at": "2026-10-16T14:00:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OQnxVXlDZz8/hqdefault.jpg"
     }
   ]
 }
