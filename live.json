@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-17T16:22:05Z",
+  "updated": "2026-10-17T16:32:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "POV: Your OpenAI agent was \"counting hospital beds\" & \"found\" path traversal | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 17
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "RECON RAY! WarDogs Newbie",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 7
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "B7H30",
       "title": "POV: Your OpenAI agent was \"counting hospital beds\" & \"found\" path traversal | HTB",
       "link": "https://www.youtube.com/watch?v=9gHUOQvveeI",
-      "viewers": 2
+      "viewers": 1
     }
   ],
   "viewers_total": 26,
