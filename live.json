@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-17T05:22:04Z",
+  "updated": "2026-10-17T05:32:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Stream - Gaming  |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 7,
   "videos": [
     {
       "video_id": "i86A6-tMlGs",
