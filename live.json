@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-17T14:31:13Z",
+  "updated": "2026-10-17T15:11:13Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "aRSUIJXxbDc",
+      "channel": "ippsec",
+      "title": "HackTheBox - Eloquia",
+      "link": "https://www.youtube.com/watch?v=aRSUIJXxbDc",
+      "published_at": "2026-10-17T15:00:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/aRSUIJXxbDc/hqdefault.jpg"
+    },
     {
       "video_id": "06JcpBqECQs",
       "channel": "TheLaluka",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=OQnxVXlDZz8",
       "published_at": "2026-10-16T14:00:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/OQnxVXlDZz8/hqdefault.jpg"
-    },
-    {
-      "video_id": "26W_XtvkHAI",
-      "channel": "JohnHammond010",
-      "title": "AI Security Engineering with Ashish Rajan!",
-      "link": "https://www.youtube.com/watch?v=26W_XtvkHAI",
-      "published_at": "2026-10-16T13:00:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/26W_XtvkHAI/hqdefault.jpg"
     }
   ]
 }
