@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:32:06Z",
+  "updated": "2026-10-17T08:41:41Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,16 +14,9 @@
       "title": "Whatever game i feel like",
       "link": "https://twitch.tv/irasakai",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "censoredHacker",
-      "title": "AWS CCP: Module 11.3 - Pricing and Support",
-      "link": "https://www.youtube.com/watch?v=e5n34GEtWfU",
-      "viewers": 3
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "e5n34GEtWfU",
