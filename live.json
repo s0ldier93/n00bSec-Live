@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-17T15:51:44Z",
+  "updated": "2026-10-17T16:02:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "POV: Your OpenAI agent was \"counting hospital beds\" & \"found\" path traversal | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 7
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 14,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "aRSUIJXxbDc",
