@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-17T00:42:05Z",
+  "updated": "2026-10-17T01:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Regresamos al hacking \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 5
+    },
+    {
+      "platform": "twitch",
+      "name": "freshforensics",
+      "title": "\ud83d\udca3 Hunting For HIDDEN INFO with Linux OSINT Tools \u2014 LIVE! \ud83d\udd75\ufe0f",
+      "link": "https://twitch.tv/freshforensics",
+      "viewers": 0
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "-rYCu2yrLtw",
