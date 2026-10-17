@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-17T22:02:05Z",
+  "updated": "2026-10-17T22:32:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, Truco Omagic",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 3
+      "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "fB5boEqdFY4",
