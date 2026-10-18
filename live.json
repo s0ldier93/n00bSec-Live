@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T01:02:05Z",
+  "updated": "2026-10-18T01:11:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,10 +14,25 @@
       "title": "\ud83d\udc80GhostStrats & N3rdSec Take Over Fresh Forensics!\ud83d\udd25",
       "link": "https://twitch.tv/freshforensics",
       "viewers": 2
+    },
+    {
+      "platform": "youtube",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=gMC-QKgjbaw",
+      "viewers": 4
     }
   ],
-  "viewers_total": 192,
+  "viewers_total": 196,
   "videos": [
+    {
+      "video_id": "gMC-QKgjbaw",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=gMC-QKgjbaw",
+      "published_at": "2026-10-18T00:55:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gMC-QKgjbaw/hqdefault.jpg"
+    },
     {
       "video_id": "fB5boEqdFY4",
       "channel": "SecurityWeekly",
@@ -169,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=XbwurAypBxU",
       "published_at": "2026-10-16T14:20:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XbwurAypBxU/hqdefault.jpg"
-    },
-    {
-      "video_id": "sxMrKaW_JiY",
-      "channel": "blacksincybersecurity",
-      "title": "Coding, Hacking, & Giving Back w/ James Houston - BIC Podcast Episode #27",
-      "link": "https://www.youtube.com/watch?v=sxMrKaW_JiY",
-      "published_at": "2026-10-16T14:16:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sxMrKaW_JiY/hqdefault.jpg"
     }
   ]
 }
