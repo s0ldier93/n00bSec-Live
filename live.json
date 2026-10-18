@@ -1,29 +1,22 @@
 {
-  "updated": "2026-10-18T15:22:01Z",
+  "updated": "2026-10-18T15:31:44Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hihihi",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 33
+      "viewers": 29
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "on tente des actus, mais sinon du linux bien s\u00fbr :)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 101
-    },
-    {
-      "platform": "youtube",
-      "name": "dfaultssec",
-      "title": "Day 6 Hacking till we get good",
-      "link": "https://www.youtube.com/watch?v=DuIyUUn7Sac",
-      "viewers": 1
+      "viewers": 94
     }
   ],
-  "viewers_total": 135,
+  "viewers_total": 123,
   "videos": [
     {
       "video_id": "6L_PjjHxe2A",
