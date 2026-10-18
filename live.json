@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-18T00:42:06Z",
+  "updated": "2026-10-18T00:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Saturday Night Conflict Canines Special! 10/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 189
+      "viewers": 195
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 192,
+  "viewers_total": 198,
   "videos": [
     {
       "video_id": "fB5boEqdFY4",
