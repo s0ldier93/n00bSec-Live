@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-18T00:52:05Z",
+  "updated": "2026-10-18T01:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Saturday Night Conflict Canines Special! 10/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 195
+      "viewers": 190
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udc80GhostStrats & N3rdSec Take Over Fresh Forensics!\ud83d\udd25",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 198,
+  "viewers_total": 192,
   "videos": [
     {
       "video_id": "fB5boEqdFY4",
