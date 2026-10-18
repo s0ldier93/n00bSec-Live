@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:02:05Z",
+  "updated": "2026-10-18T22:22:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "wXlaTpDvDL0",
+      "channel": "Cyber_Insecurity",
+      "title": "Most companies are playing catch-up. A few are leading.",
+      "link": "https://www.youtube.com/watch?v=wXlaTpDvDL0",
+      "published_at": "2026-10-18T22:08:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wXlaTpDvDL0/hqdefault.jpg"
+    },
     {
       "video_id": "FAmjZxdMxMY",
       "channel": "LuNiZz",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=bGmjDea49YE",
       "published_at": "2026-10-16T20:33:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bGmjDea49YE/hqdefault.jpg"
-    },
-    {
-      "video_id": "9jDji8eD4_E",
-      "channel": "antisyphon",
-      "title": "TCPDump | Free Lab Fridays [Full Lab Walkthrough]",
-      "link": "https://www.youtube.com/watch?v=9jDji8eD4_E",
-      "published_at": "2026-10-16T17:10:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9jDji8eD4_E/hqdefault.jpg"
     }
   ]
 }
