@@ -1,23 +1,53 @@
 {
-  "updated": "2026-10-18T16:02:05Z",
+  "updated": "2026-10-18T16:11:51Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ahp_nils",
+      "title": "[FR][Linux] Cours Shell : d\u00e9couvrez la ligne de commande !",
+      "link": "https://twitch.tv/ahp_nils",
+      "viewers": 2
+    },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "be nice to panko stream",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 34
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking Active Directory Range \"BlackRiver\" Part 2 | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 0
+      "viewers": 21
+    },
+    {
+      "platform": "youtube",
+      "name": "pebl3",
+      "title": "Hacking Active Directory Range \"BlackRiver\" Part 2",
+      "link": "https://www.youtube.com/watch?v=m48Mz9hNGWo",
+      "viewers": 12
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 69,
   "videos": [
+    {
+      "video_id": "FAmjZxdMxMY",
+      "channel": "LuNiZz",
+      "title": "Nazikce HACKle ;)",
+      "link": "https://www.youtube.com/watch?v=FAmjZxdMxMY",
+      "published_at": "2026-10-18T16:00:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FAmjZxdMxMY/hqdefault.jpg"
+    },
+    {
+      "video_id": "m48Mz9hNGWo",
+      "channel": "pebl3",
+      "title": "Hacking Active Directory Range \"BlackRiver\" Part 2",
+      "link": "https://www.youtube.com/watch?v=m48Mz9hNGWo",
+      "published_at": "2026-10-18T15:53:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/m48Mz9hNGWo/hqdefault.jpg"
+    },
     {
       "video_id": "6L_PjjHxe2A",
       "channel": "team_whoami",
@@ -161,22 +191,6 @@
       "link": "https://www.youtube.com/watch?v=9jDji8eD4_E",
       "published_at": "2026-10-16T17:10:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9jDji8eD4_E/hqdefault.jpg"
-    },
-    {
-      "video_id": "QhJSNkJvbbs",
-      "channel": "EJSA",
-      "title": "Let's recover the shuttle off the runway and then some! The SLC-6 Project (Part 26)",
-      "link": "https://www.youtube.com/watch?v=QhJSNkJvbbs",
-      "published_at": "2026-10-16T17:08:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/QhJSNkJvbbs/hqdefault.jpg"
-    },
-    {
-      "video_id": "qFEuYUfauNY",
-      "channel": "LowLevelTV",
-      "title": "I Tested The Viral Reverse Engineering Repo",
-      "link": "https://www.youtube.com/watch?v=qFEuYUfauNY",
-      "published_at": "2026-10-16T16:52:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qFEuYUfauNY/hqdefault.jpg"
     }
   ]
 }
