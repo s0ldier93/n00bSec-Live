@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-18T16:22:05Z",
+  "updated": "2026-10-18T16:32:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux] Cours Shell : d\u00e9couvrez la ligne de commande !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 14
+      "viewers": 24
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "be nice to panko stream",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 32
+      "viewers": 41
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking Active Directory Range \"BlackRiver\" Part 2 | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 32
+      "viewers": 31
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking Active Directory Range \"BlackRiver\" Part 2",
       "link": "https://www.youtube.com/watch?v=m48Mz9hNGWo",
-      "viewers": 16
+      "viewers": 22
     }
   ],
-  "viewers_total": 94,
+  "viewers_total": 118,
   "videos": [
     {
       "video_id": "FAmjZxdMxMY",
