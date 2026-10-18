@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-18T13:32:05Z",
+  "updated": "2026-10-18T13:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hihihi",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 3
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "on tente des actus, mais sinon du linux bien s\u00fbr :)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 61
+      "viewers": 64
     }
   ],
-  "viewers_total": 64,
+  "viewers_total": 74,
   "videos": [
     {
       "video_id": "6L_PjjHxe2A",
