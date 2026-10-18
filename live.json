@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T03:51:31Z",
+  "updated": "2026-10-18T03:52:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,7 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbSaturday Night Stream - Gaming  Ghost of Yotei then FFVII |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 7
-    },
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "Saturday Night Conflict Canines Special! 10/17/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 217
+      "viewers": 6
     },
     {
       "platform": "twitch",
@@ -37,7 +30,7 @@
       "viewers": 8
     }
   ],
-  "viewers_total": 256,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "gMC-QKgjbaw",
