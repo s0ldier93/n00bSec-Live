@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-18T14:32:05Z",
+  "updated": "2026-10-18T14:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hihihi",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
+      "viewers": 34
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 74
     }
   ],
-  "viewers_total": 104,
+  "viewers_total": 108,
   "videos": [
     {
       "video_id": "6L_PjjHxe2A",
