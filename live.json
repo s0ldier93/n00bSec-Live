@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T18:12:06Z",
+  "updated": "2026-10-18T18:22:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "pebl3",
       "title": "Hacking Active Directory Range \"BlackRiver\" Part 2 | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 51
+      "viewers": 48
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "RECON RAY! WarDogs Newbie",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking Active Directory Range \"BlackRiver\" Part 2",
       "link": "https://www.youtube.com/watch?v=m48Mz9hNGWo",
-      "viewers": 23
+      "viewers": 18
     }
   ],
-  "viewers_total": 109,
+  "viewers_total": 100,
   "videos": [
     {
       "video_id": "FAmjZxdMxMY",
