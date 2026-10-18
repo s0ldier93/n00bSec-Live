@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-18T01:22:05Z",
+  "updated": "2026-10-18T01:32:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 9
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Saturday Night Conflict Canines Special! 10/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 197
+      "viewers": 215
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udc80GhostStrats & N3rdSec Take Over Fresh Forensics!\ud83d\udd25",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 212,
+  "viewers_total": 234,
   "videos": [
     {
       "video_id": "gMC-QKgjbaw",
