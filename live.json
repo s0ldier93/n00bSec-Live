@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-18T04:32:04Z",
+  "updated": "2026-10-18T04:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 26
+      "viewers": 27
     },
     {
       "platform": "twitch",
@@ -20,21 +20,21 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbSaturday Night Stream - Gaming  Ghost of Yotei then FFVII |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udc80GhostStrats & N3rdSec Take Over Fresh Forensics!\ud83d\udd25",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=gMC-QKgjbaw",
-      "viewers": 6
+      "viewers": 5
     }
   ],
   "viewers_total": 41,
