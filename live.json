@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-18T04:52:05Z",
+  "updated": "2026-10-18T05:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 6,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "gMC-QKgjbaw",
