@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-18T15:42:05Z",
+  "updated": "2026-10-18T15:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
-      "title": "hihihi",
+      "title": "be nice to panko stream",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 32
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 32,
   "videos": [
     {
       "video_id": "6L_PjjHxe2A",
