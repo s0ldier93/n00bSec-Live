@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T18:32:06Z",
+  "updated": "2026-10-18T18:42:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "pebl3",
       "title": "Hacking Active Directory Range \"BlackRiver\" Part 2 | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 58
+      "viewers": 45
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking Active Directory Range \"BlackRiver\" Part 2",
       "link": "https://www.youtube.com/watch?v=m48Mz9hNGWo",
-      "viewers": 22
+      "viewers": 23
     }
   ],
-  "viewers_total": 111,
+  "viewers_total": 99,
   "videos": [
     {
       "video_id": "FAmjZxdMxMY",
