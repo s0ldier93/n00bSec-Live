@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-18T12:52:06Z",
+  "updated": "2026-10-18T13:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "on tente des actus, mais sinon du linux bien s\u00fbr :)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 57
+      "viewers": 55
     }
   ],
-  "viewers_total": 57,
+  "viewers_total": 55,
   "videos": [
+    {
+      "video_id": "FqphqYgp0p0",
+      "channel": "ElPinguinoDeMario",
+      "title": "Qu\u00e9 es ACTIVE DIRECTORY y c\u00f3mo se Enumera para Encontrar VULNERABILIDADES",
+      "link": "https://www.youtube.com/watch?v=FqphqYgp0p0",
+      "published_at": "2026-10-18T12:56:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FqphqYgp0p0/hqdefault.jpg"
+    },
     {
       "video_id": "gMC-QKgjbaw",
       "channel": "BlaiseBits",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=DbxyX0UZ0XE",
       "published_at": "2026-10-16T16:00:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/DbxyX0UZ0XE/hqdefault.jpg"
-    },
-    {
-      "video_id": "XbwurAypBxU",
-      "channel": "TheLaluka",
-      "title": "Stop botting my views #shorts",
-      "link": "https://www.youtube.com/watch?v=XbwurAypBxU",
-      "published_at": "2026-10-16T14:20:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XbwurAypBxU/hqdefault.jpg"
     }
   ]
 }
