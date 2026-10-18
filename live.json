@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T03:12:05Z",
+  "updated": "2026-10-18T03:22:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ej_sa",
       "title": "Saturday Night Conflict Canines Special! 10/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 202
+      "viewers": 215
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=gMC-QKgjbaw",
-      "viewers": 7
+      "viewers": 8
     }
   ],
-  "viewers_total": 235,
+  "viewers_total": 249,
   "videos": [
     {
       "video_id": "gMC-QKgjbaw",
