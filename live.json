@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-18T13:02:05Z",
+  "updated": "2026-10-18T13:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "on tente des actus, mais sinon du linux bien s\u00fbr :)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 55
+      "viewers": 54
     }
   ],
-  "viewers_total": 55,
+  "viewers_total": 54,
   "videos": [
+    {
+      "video_id": "6L_PjjHxe2A",
+      "channel": "team_whoami",
+      "title": "ensamblador mensaje stack",
+      "link": "https://www.youtube.com/watch?v=6L_PjjHxe2A",
+      "published_at": "2026-10-18T13:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6L_PjjHxe2A/hqdefault.jpg"
+    },
     {
       "video_id": "FqphqYgp0p0",
       "channel": "ElPinguinoDeMario",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=qFEuYUfauNY",
       "published_at": "2026-10-16T16:52:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qFEuYUfauNY/hqdefault.jpg"
-    },
-    {
-      "video_id": "DbxyX0UZ0XE",
-      "channel": "thecybermentor",
-      "title": "CTF Walkthrough: The Cuckoo's Log",
-      "link": "https://www.youtube.com/watch?v=DbxyX0UZ0XE",
-      "published_at": "2026-10-16T16:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DbxyX0UZ0XE/hqdefault.jpg"
     }
   ]
 }
