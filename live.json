@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18T08:32:05Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-18T12:02:06Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "topklean",
+      "title": "on tente des actus, mais sinon du linux bien s\u00fbr :)",
+      "link": "https://twitch.tv/topklean",
+      "viewers": 2
+    }
+  ],
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "gMC-QKgjbaw",
