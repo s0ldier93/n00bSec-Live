@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-19T21:22:05Z",
+  "updated": "2026-10-19T21:32:06Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "antisyphon",
-      "title": "BHIS - Talkin' Bout [infosec] News 2026-10-19",
-      "link": "https://twitch.tv/antisyphon",
-      "viewers": 4
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
@@ -20,10 +13,10 @@
       "name": "msec",
       "title": "Ocarina of Time Remake",
       "link": "https://twitch.tv/msec",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 485,
+  "viewers_total": 482,
   "videos": [
     {
       "video_id": "EgPj2nZhzIs",
