@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-19T20:02:05Z",
+  "updated": "2026-10-19T20:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's JAXA H3-24L Martian Moons eXploration (MMX) Launch Coverage! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 643
+      "viewers": 584
+    },
+    {
+      "platform": "twitch",
+      "name": "msec",
+      "title": "Ocarina of Time Remake",
+      "link": "https://twitch.tv/msec",
+      "viewers": 1
     }
   ],
-  "viewers_total": 643,
+  "viewers_total": 585,
   "videos": [
     {
       "video_id": "H8xQw3eeMGY",
