@@ -1,23 +1,38 @@
 {
-  "updated": "2026-10-19T23:22:05Z",
+  "updated": "2026-10-19T23:32:05Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "chiefgyk3d",
+      "title": "I guess I'm a Twitch Partner Now?|STREAM UPGRADE!|Cybersecurity,Rants,Chill,&Linux Gaming|10-19-26",
+      "link": "https://twitch.tv/chiefgyk3d",
+      "viewers": 6
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 526
+      "viewers": 516
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Ocarina of Time Remake",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 530,
+  "viewers_total": 525,
   "videos": [
+    {
+      "video_id": "XMZ5lX9yj8w",
+      "channel": "CyberWarriorStudios",
+      "title": "The #1 Rule for Surviving a Cybersecurity Career (It\u2019s Not Technical)",
+      "link": "https://www.youtube.com/watch?v=XMZ5lX9yj8w",
+      "published_at": "2026-10-19T23:21:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XMZ5lX9yj8w/hqdefault.jpg"
+    },
     {
       "video_id": "W85k8GZHBgQ",
       "channel": "IC_null",
@@ -169,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=wXlaTpDvDL0",
       "published_at": "2026-10-18T22:08:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wXlaTpDvDL0/hqdefault.jpg"
-    },
-    {
-      "video_id": "FAmjZxdMxMY",
-      "channel": "LuNiZz",
-      "title": "Nazikce HACKle ;)",
-      "link": "https://www.youtube.com/watch?v=FAmjZxdMxMY",
-      "published_at": "2026-10-18T16:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FAmjZxdMxMY/hqdefault.jpg"
     }
   ]
 }
