@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-19T16:02:06Z",
+  "updated": "2026-10-19T16:12:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "pov: silence",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 36
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 36,
   "videos": [
     {
       "video_id": "N3RIC0_fO0g",
