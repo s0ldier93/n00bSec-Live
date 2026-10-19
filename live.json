@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T01:02:05Z",
+  "updated": "2026-10-19T01:11:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,10 +20,17 @@
       "name": "irasakai",
       "title": "What is a man?",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
+      "viewers": 3
+    },
+    {
+      "platform": "youtube",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=A9hQXpJ1SuU",
+      "viewers": 5
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 23,
   "videos": [
     {
       "video_id": "wXlaTpDvDL0",
