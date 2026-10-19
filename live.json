@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T02:12:04Z",
+  "updated": "2026-10-19T02:22:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "irasakai",
       "title": "What is a man?",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 41,
+  "viewers_total": 43,
   "videos": [
     {
       "video_id": "jYURd3XPn0I",
