@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-19T09:11:09Z",
+  "updated": "2026-10-19T11:11:10Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "HDI_ev55AyQ",
+      "channel": "DCCyberSec",
+      "title": "Why AI Consulting Is the Ultimate Side Hustle for IT Pros",
+      "link": "https://www.youtube.com/watch?v=HDI_ev55AyQ",
+      "published_at": "2026-10-19T11:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/HDI_ev55AyQ/hqdefault.jpg"
+    },
     {
       "video_id": "VC29mu_FFc0",
       "channel": "jarnobaselier",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=i86A6-tMlGs",
       "published_at": "2026-10-17T00:17:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/i86A6-tMlGs/hqdefault.jpg"
-    },
-    {
-      "video_id": "-rYCu2yrLtw",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 23's Top Cyber News NOW! - Ep 1272",
-      "link": "https://www.youtube.com/watch?v=-rYCu2yrLtw",
-      "published_at": "2026-10-16T22:39:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-rYCu2yrLtw/hqdefault.jpg"
     }
   ]
 }
