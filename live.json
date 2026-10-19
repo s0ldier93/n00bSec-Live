@@ -1,29 +1,15 @@
 {
-  "updated": "2026-10-19T04:02:05Z",
+  "updated": "2026-10-19T04:11:33Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 24
-    },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "What is a man?",
       "link": "https://twitch.tv/irasakai",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
-      "link": "https://www.youtube.com/watch?v=A9hQXpJ1SuU",
-      "viewers": 5
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "jYURd3XPn0I",
