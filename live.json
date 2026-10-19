@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T16:22:09Z",
+  "updated": "2026-10-19T16:31:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -155,6 +155,14 @@
       "thumbnail": "https://i.ytimg.com/vi/FqphqYgp0p0/hqdefault.jpg"
     },
     {
+      "video_id": "wO3RYceX1Cc",
+      "channel": "EJSA",
+      "title": "Shuttle Runway Recovery! SLC-6 (Part 26) 10/19/26",
+      "link": "https://www.youtube.com/watch?v=wO3RYceX1Cc",
+      "published_at": "2026-10-18T03:51:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wO3RYceX1Cc/hqdefault.jpg"
+    },
+    {
       "video_id": "gMC-QKgjbaw",
       "channel": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=fB5boEqdFY4",
       "published_at": "2026-10-17T19:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fB5boEqdFY4/hqdefault.jpg"
-    },
-    {
-      "video_id": "aRSUIJXxbDc",
-      "channel": "ippsec",
-      "title": "HackTheBox - Eloquia",
-      "link": "https://www.youtube.com/watch?v=aRSUIJXxbDc",
-      "published_at": "2026-10-17T15:00:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/aRSUIJXxbDc/hqdefault.jpg"
     }
   ]
 }
