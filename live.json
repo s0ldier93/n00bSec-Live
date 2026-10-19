@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-18T23:52:05Z",
+  "updated": "2026-10-19T00:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Twitch wants to partner|Testing New Stream Upgrades|Cybersecurity,Rants,Chill,&Linux Gaming|10-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 0
+      "viewers": 7
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "wXlaTpDvDL0",
