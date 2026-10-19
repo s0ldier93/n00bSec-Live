@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-19T12:52:05Z",
+  "updated": "2026-10-19T13:02:05Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 19's Top Cyber News NOW! - Ep 1268",
       "link": "https://www.youtube.com/watch?v=IMxr8hEZMqc",
-      "viewers": 399
+      "viewers": 381
     }
   ],
-  "viewers_total": 399,
+  "viewers_total": 381,
   "videos": [
+    {
+      "video_id": "QY-fWrU5Mp4",
+      "channel": "NahamSec",
+      "title": "HackerOne Limited Me to 3 Reports After 12 Years",
+      "link": "https://www.youtube.com/watch?v=QY-fWrU5Mp4",
+      "published_at": "2026-10-19T12:45:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QY-fWrU5Mp4/hqdefault.jpg"
+    },
     {
       "video_id": "5fy6Ix3dHZY",
       "channel": "TheShyHat",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=-lsa8sbBQWk",
       "published_at": "2026-10-17T12:00:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-lsa8sbBQWk/hqdefault.jpg"
-    },
-    {
-      "video_id": "e5n34GEtWfU",
-      "channel": "censoredHacker",
-      "title": "AWS CCP: Module 11.3 - Pricing and Support",
-      "link": "https://www.youtube.com/watch?v=e5n34GEtWfU",
-      "published_at": "2026-10-17T05:41:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/e5n34GEtWfU/hqdefault.jpg"
     }
   ]
 }
