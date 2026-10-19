@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-19T17:02:06Z",
+  "updated": "2026-10-19T17:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Shuttle Runway Recovery! SLC-6 (Part 26) 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 233
+      "viewers": 263
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "pov: silence",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 31
+      "viewers": 27
     }
   ],
-  "viewers_total": 264,
+  "viewers_total": 290,
   "videos": [
+    {
+      "video_id": "AmTYvg6JMRc",
+      "channel": "antisyphon",
+      "title": "Cover Your SaaS w/ Shane Hartman",
+      "link": "https://www.youtube.com/watch?v=AmTYvg6JMRc",
+      "published_at": "2026-10-19T16:57:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/AmTYvg6JMRc/hqdefault.jpg"
+    },
     {
       "video_id": "N3RIC0_fO0g",
       "channel": "LiveOverflow",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=gMC-QKgjbaw",
       "published_at": "2026-10-18T00:55:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gMC-QKgjbaw/hqdefault.jpg"
-    },
-    {
-      "video_id": "fB5boEqdFY4",
-      "channel": "SecurityWeekly",
-      "title": "Can You Prove a Book Is Human-Written?",
-      "link": "https://www.youtube.com/watch?v=fB5boEqdFY4",
-      "published_at": "2026-10-17T19:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fB5boEqdFY4/hqdefault.jpg"
     }
   ]
 }
