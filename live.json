@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-19T00:02:05Z",
+  "updated": "2026-10-19T00:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Twitch wants to partner|Testing New Stream Upgrades|Cybersecurity,Rants,Chill,&Linux Gaming|10-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 7
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "What is a man?",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 5
+      "viewers": 4
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "wXlaTpDvDL0",
