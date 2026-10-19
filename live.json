@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-19T02:02:06Z",
+  "updated": "2026-10-19T02:12:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 21
+      "viewers": 27
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Twitch wants to partner|Testing New Stream Upgrades|Cybersecurity,Rants,Chill,&Linux Gaming|10-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 8
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -30,8 +30,16 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 38,
+  "viewers_total": 41,
   "videos": [
+    {
+      "video_id": "jYURd3XPn0I",
+      "channel": "mbcrump",
+      "title": "Halloween: The Game Physical Disc on a Jailbroken PS5: It Plays Offline!",
+      "link": "https://www.youtube.com/watch?v=jYURd3XPn0I",
+      "published_at": "2026-10-19T02:04:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/jYURd3XPn0I/hqdefault.jpg"
+    },
     {
       "video_id": "A9hQXpJ1SuU",
       "channel": "BlaiseBits",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=LKFgH9MgQpc",
       "published_at": "2026-10-16T22:00:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LKFgH9MgQpc/hqdefault.jpg"
-    },
-    {
-      "video_id": "ZVf4gDZCW5w",
-      "channel": "SecurityWeekly",
-      "title": "Mr. Sparkle, Burger King, Pwnscape, Linux, Cisco, GitHub, Microsoft, and Josh Marpet - SWN #625",
-      "link": "https://www.youtube.com/watch?v=ZVf4gDZCW5w",
-      "published_at": "2026-10-16T21:00:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ZVf4gDZCW5w/hqdefault.jpg"
     }
   ]
 }
