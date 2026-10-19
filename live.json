@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-19T20:52:05Z",
+  "updated": "2026-10-19T21:01:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-10-19",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 577,
+  "viewers_total": 578,
   "videos": [
+    {
+      "video_id": "EgPj2nZhzIs",
+      "channel": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 10/19/26",
+      "link": "https://www.youtube.com/watch?v=EgPj2nZhzIs",
+      "published_at": "2026-10-19T20:58:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/EgPj2nZhzIs/hqdefault.jpg"
+    },
     {
       "video_id": "2PXSDM-_5OI",
       "channel": "gerald_auger_simplycyber",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=m48Mz9hNGWo",
       "published_at": "2026-10-18T15:53:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/m48Mz9hNGWo/hqdefault.jpg"
-    },
-    {
-      "video_id": "6L_PjjHxe2A",
-      "channel": "team_whoami",
-      "title": "ensamblador mensaje stack",
-      "link": "https://www.youtube.com/watch?v=6L_PjjHxe2A",
-      "published_at": "2026-10-18T13:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6L_PjjHxe2A/hqdefault.jpg"
     }
   ]
 }
