@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-19T21:32:06Z",
+  "updated": "2026-10-19T21:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 479
+      "viewers": 480
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Ocarina of Time Remake",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 2
     }
   ],
   "viewers_total": 482,
