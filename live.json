@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T15:22:06Z",
+  "updated": "2026-10-19T15:32:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 26,
   "videos": [
+    {
+      "video_id": "N3RIC0_fO0g",
+      "channel": "LiveOverflow",
+      "title": "Self-efficacy in the age of AI",
+      "link": "https://www.youtube.com/watch?v=N3RIC0_fO0g",
+      "published_at": "2026-10-19T15:10:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/N3RIC0_fO0g/hqdefault.jpg"
+    },
     {
       "video_id": "Douq8cRbxEw",
       "channel": "antisyphon",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=aRSUIJXxbDc",
       "published_at": "2026-10-17T15:00:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/aRSUIJXxbDc/hqdefault.jpg"
-    },
-    {
-      "video_id": "06JcpBqECQs",
-      "channel": "TheLaluka",
-      "title": "Guess this hard drive's capacity #shorts",
-      "link": "https://www.youtube.com/watch?v=06JcpBqECQs",
-      "published_at": "2026-10-17T14:20:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/06JcpBqECQs/hqdefault.jpg"
     }
   ]
 }
