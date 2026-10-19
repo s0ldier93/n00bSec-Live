@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-19T01:12:05Z",
+  "updated": "2026-10-19T01:22:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 7
+      "viewers": 14
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Twitch wants to partner|Testing New Stream Upgrades|Cybersecurity,Rants,Chill,&Linux Gaming|10-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 14
+      "viewers": 15
     },
     {
       "platform": "twitch",
@@ -27,11 +27,19 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=A9hQXpJ1SuU",
-      "viewers": 5
+      "viewers": 6
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 38,
   "videos": [
+    {
+      "video_id": "A9hQXpJ1SuU",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=A9hQXpJ1SuU",
+      "published_at": "2026-10-19T00:58:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/A9hQXpJ1SuU/hqdefault.jpg"
+    },
     {
       "video_id": "wXlaTpDvDL0",
       "channel": "Cyber_Insecurity",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=ZVf4gDZCW5w",
       "published_at": "2026-10-16T21:00:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ZVf4gDZCW5w/hqdefault.jpg"
-    },
-    {
-      "video_id": "bGmjDea49YE",
-      "channel": "CyberWarriorStudios",
-      "title": "Burnout, Mental Health & Growing a Business in Cybersecurity",
-      "link": "https://www.youtube.com/watch?v=bGmjDea49YE",
-      "published_at": "2026-10-16T20:33:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bGmjDea49YE/hqdefault.jpg"
     }
   ]
 }
