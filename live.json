@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-19T19:42:06Z",
+  "updated": "2026-10-19T19:52:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's JAXA H3-24L Martian Moons eXploration (MMX) Launch Coverage! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 603
+      "viewers": 684
     }
   ],
-  "viewers_total": 603,
+  "viewers_total": 684,
   "videos": [
     {
       "video_id": "H8xQw3eeMGY",
