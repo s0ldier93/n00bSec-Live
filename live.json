@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-19T14:21:11Z",
+  "updated": "2026-10-19T15:01:16Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "JqljXzMrSGk",
+      "channel": "LowLevelTV",
+      "title": "Reverse Engineering the CRAZY Fridge Hack (what happened?)",
+      "link": "https://www.youtube.com/watch?v=JqljXzMrSGk",
+      "published_at": "2026-10-19T14:43:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/JqljXzMrSGk/hqdefault.jpg"
+    },
     {
       "video_id": "PfMskHsD7Hs",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=KAlXUzPRjCI",
       "published_at": "2026-10-17T14:00:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/KAlXUzPRjCI/hqdefault.jpg"
-    },
-    {
-      "video_id": "a697qUc_cGQ",
-      "channel": "ElPinguinoDeMario",
-      "title": "Aprende a Auditar y Encontrar Vulnerabilidades en Aplicaciones M\u00f3viles APK",
-      "link": "https://www.youtube.com/watch?v=a697qUc_cGQ",
-      "published_at": "2026-10-17T12:13:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/a697qUc_cGQ/hqdefault.jpg"
     }
   ]
 }
