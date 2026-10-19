@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-19T17:22:05Z",
+  "updated": "2026-10-19T17:32:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Shuttle Runway Recovery! SLC-6 (Part 26) 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 287
-    },
-    {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "pov: silence",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 34
+      "viewers": 296
     }
   ],
-  "viewers_total": 321,
+  "viewers_total": 296,
   "videos": [
     {
       "video_id": "AmTYvg6JMRc",
