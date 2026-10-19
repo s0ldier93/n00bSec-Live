@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-19T21:12:06Z",
+  "updated": "2026-10-19T21:22:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-10-19",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 473
+      "viewers": 479
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 480,
+  "viewers_total": 485,
   "videos": [
     {
       "video_id": "EgPj2nZhzIs",
