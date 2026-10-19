@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T19:02:07Z",
+  "updated": "2026-10-19T19:11:47Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 378,
   "videos": [
+    {
+      "video_id": "H8xQw3eeMGY",
+      "channel": "EJSA",
+      "title": "EJ's JAXA H3-24L Martian Moons eXploration (MMX) Launch Coverage! 10/19/26",
+      "link": "https://www.youtube.com/watch?v=H8xQw3eeMGY",
+      "published_at": "2026-10-19T19:00:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/H8xQw3eeMGY/hqdefault.jpg"
+    },
     {
       "video_id": "AmTYvg6JMRc",
       "channel": "antisyphon",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=FqphqYgp0p0",
       "published_at": "2026-10-18T12:56:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FqphqYgp0p0/hqdefault.jpg"
-    },
-    {
-      "video_id": "wO3RYceX1Cc",
-      "channel": "EJSA",
-      "title": "Shuttle Runway Recovery! SLC-6 (Part 26) 10/19/26",
-      "link": "https://www.youtube.com/watch?v=wO3RYceX1Cc",
-      "published_at": "2026-10-18T03:51:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wO3RYceX1Cc/hqdefault.jpg"
     }
   ]
 }
