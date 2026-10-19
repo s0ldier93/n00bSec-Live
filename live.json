@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-19T13:41:48Z",
+  "updated": "2026-10-19T14:21:11Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "PfMskHsD7Hs",
+      "channel": "SecurityWeekly",
+      "title": "The Software Looked Safe Until It Ran",
+      "link": "https://www.youtube.com/watch?v=PfMskHsD7Hs",
+      "published_at": "2026-10-19T14:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PfMskHsD7Hs/hqdefault.jpg"
+    },
     {
       "video_id": "5PwFeybtXxw",
       "channel": "team_whoami",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=a697qUc_cGQ",
       "published_at": "2026-10-17T12:13:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/a697qUc_cGQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "NXI5z0508iQ",
-      "channel": "Cyber_Insecurity",
-      "title": "AI should take the cut-and-paste work, not the analyst",
-      "link": "https://www.youtube.com/watch?v=NXI5z0508iQ",
-      "published_at": "2026-10-17T12:07:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NXI5z0508iQ/hqdefault.jpg"
     }
   ]
 }
