@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-19T06:42:05Z",
+  "updated": "2026-10-19T09:11:09Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "VC29mu_FFc0",
+      "channel": "jarnobaselier",
+      "title": "Hacklab 15 - Hacking an AI agent that follows the wrong prompt",
+      "link": "https://www.youtube.com/watch?v=VC29mu_FFc0",
+      "published_at": "2026-10-19T09:00:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VC29mu_FFc0/hqdefault.jpg"
+    },
+    {
+      "video_id": "z4O8uSXINt0",
+      "channel": "SecurityWeekly",
+      "title": "Securing AI on the Endpoint, Anthropic Dreams of AI Replicants, and the News - ESW #481",
+      "link": "https://www.youtube.com/watch?v=z4O8uSXINt0",
+      "published_at": "2026-10-19T09:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/z4O8uSXINt0/hqdefault.jpg"
+    },
     {
       "video_id": "jYURd3XPn0I",
       "channel": "mbcrump",
@@ -146,22 +162,6 @@
       "link": "https://www.youtube.com/watch?v=-rYCu2yrLtw",
       "published_at": "2026-10-16T22:39:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-rYCu2yrLtw/hqdefault.jpg"
-    },
-    {
-      "video_id": "_RmLFn5u1NE",
-      "channel": "Cyber_Insecurity",
-      "title": "Ransomware is slowing down. Deepfakes are not.",
-      "link": "https://www.youtube.com/watch?v=_RmLFn5u1NE",
-      "published_at": "2026-10-16T22:04:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/_RmLFn5u1NE/hqdefault.jpg"
-    },
-    {
-      "video_id": "LKFgH9MgQpc",
-      "channel": "SecurityWeekly",
-      "title": "What's Hiding in Your GitHub Repositories?",
-      "link": "https://www.youtube.com/watch?v=LKFgH9MgQpc",
-      "published_at": "2026-10-16T22:00:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LKFgH9MgQpc/hqdefault.jpg"
     }
   ]
 }
