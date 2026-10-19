@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-19T23:32:05Z",
+  "updated": "2026-10-19T23:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "I guess I'm a Twitch Partner Now?|STREAM UPGRADE!|Cybersecurity,Rants,Chill,&Linux Gaming|10-19-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 6
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 516
+      "viewers": 506
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 525,
+  "viewers_total": 521,
   "videos": [
     {
       "video_id": "XMZ5lX9yj8w",
