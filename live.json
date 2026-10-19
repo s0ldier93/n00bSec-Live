@@ -1,22 +1,29 @@
 {
-  "updated": "2026-10-19T20:12:05Z",
+  "updated": "2026-10-19T20:22:05Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "BHIS - Talkin' Bout [infosec] News 2026-10-19",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's JAXA H3-24L Martian Moons eXploration (MMX) Launch Coverage! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 584
+      "viewers": 570
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Ocarina of Time Remake",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 585,
+  "viewers_total": 572,
   "videos": [
     {
       "video_id": "H8xQw3eeMGY",
