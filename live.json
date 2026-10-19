@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-19T20:32:05Z",
+  "updated": "2026-10-19T20:42:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-10-19",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's JAXA H3-24L Martian Moons eXploration (MMX) Launch Coverage! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 564
+      "viewers": 557
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 569,
+  "viewers_total": 563,
   "videos": [
+    {
+      "video_id": "2PXSDM-_5OI",
+      "channel": "gerald_auger_simplycyber",
+      "title": "Is Cybersecurity Right For You? The Brutal Reality at EVERY Level",
+      "link": "https://www.youtube.com/watch?v=2PXSDM-_5OI",
+      "published_at": "2026-10-19T20:18:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2PXSDM-_5OI/hqdefault.jpg"
+    },
     {
       "video_id": "H8xQw3eeMGY",
       "channel": "EJSA",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=6L_PjjHxe2A",
       "published_at": "2026-10-18T13:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6L_PjjHxe2A/hqdefault.jpg"
-    },
-    {
-      "video_id": "FqphqYgp0p0",
-      "channel": "ElPinguinoDeMario",
-      "title": "Qu\u00e9 es ACTIVE DIRECTORY y c\u00f3mo se Enumera para Encontrar VULNERABILIDADES",
-      "link": "https://www.youtube.com/watch?v=FqphqYgp0p0",
-      "published_at": "2026-10-18T12:56:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FqphqYgp0p0/hqdefault.jpg"
     }
   ]
 }
