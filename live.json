@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-19T20:42:06Z",
+  "updated": "2026-10-19T20:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-10-19",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's JAXA H3-24L Martian Moons eXploration (MMX) Launch Coverage! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 557
+      "viewers": 572
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 563,
+  "viewers_total": 577,
   "videos": [
     {
       "video_id": "2PXSDM-_5OI",
