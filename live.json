@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-19T23:02:05Z",
+  "updated": "2026-10-19T23:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 506
+      "viewers": 515
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Ocarina of Time Remake",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 510,
+  "viewers_total": 518,
   "videos": [
+    {
+      "video_id": "W85k8GZHBgQ",
+      "channel": "IC_null",
+      "title": "Blind gamer plays The Quarry #1: What seems to be the officer, problem?",
+      "link": "https://www.youtube.com/watch?v=W85k8GZHBgQ",
+      "published_at": "2026-10-19T23:05:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/W85k8GZHBgQ/hqdefault.jpg"
+    },
     {
       "video_id": "EgPj2nZhzIs",
       "channel": "EJSA",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=FAmjZxdMxMY",
       "published_at": "2026-10-18T16:00:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FAmjZxdMxMY/hqdefault.jpg"
-    },
-    {
-      "video_id": "m48Mz9hNGWo",
-      "channel": "pebl3",
-      "title": "Hacking Active Directory Range \"BlackRiver\" Part 2",
-      "link": "https://www.youtube.com/watch?v=m48Mz9hNGWo",
-      "published_at": "2026-10-18T15:53:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/m48Mz9hNGWo/hqdefault.jpg"
     }
   ]
 }
