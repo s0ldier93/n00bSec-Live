@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-19T13:22:04Z",
+  "updated": "2026-10-19T13:32:04Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 19's Top Cyber News NOW! - Ep 1268",
       "link": "https://www.youtube.com/watch?v=IMxr8hEZMqc",
-      "viewers": 311
+      "viewers": 293
     }
   ],
-  "viewers_total": 311,
+  "viewers_total": 293,
   "videos": [
+    {
+      "video_id": "5PwFeybtXxw",
+      "channel": "team_whoami",
+      "title": "ensamblador truco omagic",
+      "link": "https://www.youtube.com/watch?v=5PwFeybtXxw",
+      "published_at": "2026-10-19T13:00:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5PwFeybtXxw/hqdefault.jpg"
+    },
     {
       "video_id": "QY-fWrU5Mp4",
       "channel": "NahamSec",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=NXI5z0508iQ",
       "published_at": "2026-10-17T12:07:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NXI5z0508iQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "-lsa8sbBQWk",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - GPS Code - GPS Coordinates - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=-lsa8sbBQWk",
-      "published_at": "2026-10-17T12:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-lsa8sbBQWk/hqdefault.jpg"
     }
   ]
 }
