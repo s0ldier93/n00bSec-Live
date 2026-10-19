@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-19T17:12:05Z",
+  "updated": "2026-10-19T17:22:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Shuttle Runway Recovery! SLC-6 (Part 26) 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 263
+      "viewers": 287
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "pov: silence",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 34
     }
   ],
-  "viewers_total": 290,
+  "viewers_total": 321,
   "videos": [
     {
       "video_id": "AmTYvg6JMRc",
@@ -25,6 +25,14 @@
       "link": "https://www.youtube.com/watch?v=AmTYvg6JMRc",
       "published_at": "2026-10-19T16:57:53+00:00",
       "thumbnail": "https://i.ytimg.com/vi/AmTYvg6JMRc/hqdefault.jpg"
+    },
+    {
+      "video_id": "Y5qGcF-BNLM",
+      "channel": "JohnHammond010",
+      "title": "AI Changes Security Research",
+      "link": "https://www.youtube.com/watch?v=Y5qGcF-BNLM",
+      "published_at": "2026-10-19T16:57:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Y5qGcF-BNLM/hqdefault.jpg"
     },
     {
       "video_id": "N3RIC0_fO0g",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=wO3RYceX1Cc",
       "published_at": "2026-10-18T03:51:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wO3RYceX1Cc/hqdefault.jpg"
-    },
-    {
-      "video_id": "gMC-QKgjbaw",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
-      "link": "https://www.youtube.com/watch?v=gMC-QKgjbaw",
-      "published_at": "2026-10-18T00:55:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gMC-QKgjbaw/hqdefault.jpg"
     }
   ]
 }
