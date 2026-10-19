@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-19T15:01:16Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-19T15:02:06Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "lets make some vtubers",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 18
+    }
+  ],
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "JqljXzMrSGk",
