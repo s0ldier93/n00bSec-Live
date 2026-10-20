@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-20T20:22:06Z",
+  "updated": "2026-10-20T20:32:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "WHAT TO PACK FOR A TECH CONFERENCE",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 601
+      "viewers": 634
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "Launch Vehicle Stacking Operations! SLC-6 (Part 27) 10/20/26",
+      "title": "EJ'S SPACEX AND EARNINGS CALL REVUE! 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 359
+      "viewers": 358
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #10 | ty: @moonwyrm @the101connection @namomaitri @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 93
+      "viewers": 95
     }
   ],
-  "viewers_total": 1053,
+  "viewers_total": 1087,
   "videos": [
     {
       "video_id": "V-nOpiGdodM",
