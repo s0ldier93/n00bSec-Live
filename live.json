@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-20T21:02:06Z",
+  "updated": "2026-10-20T21:11:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "WHAT TO PACK FOR A TECH CONFERENCE",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 563
+      "viewers": 383
     },
     {
       "platform": "twitch",
@@ -21,10 +21,25 @@
       "title": "Regularly Scheduled Shenanigans #10 | ty: @moonwyrm @the101connection @namomaitri @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
       "viewers": 81
+    },
+    {
+      "platform": "youtube",
+      "name": "BySepa",
+      "title": "Charlamos con Roberto Gonzalez de OSINTOMATICO",
+      "link": "https://www.youtube.com/watch?v=YUVYdLZstyg",
+      "viewers": 2
     }
   ],
-  "viewers_total": 1106,
+  "viewers_total": 928,
   "videos": [
+    {
+      "video_id": "mIlOLRgNEVQ",
+      "channel": "SecurityWeekly",
+      "title": "Klingons, Stop and Shop, OvHCloud, Microsoft, Plex2Shell, ReactOS, and Aaran Leyland - SWN #626",
+      "link": "https://www.youtube.com/watch?v=mIlOLRgNEVQ",
+      "published_at": "2026-10-20T21:00:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mIlOLRgNEVQ/hqdefault.jpg"
+    },
     {
       "video_id": "fzXaD12ugUs",
       "channel": "EJSA",
@@ -176,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=yuo4WeIWnac",
       "published_at": "2026-10-20T00:19:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yuo4WeIWnac/hqdefault.jpg"
-    },
-    {
-      "video_id": "dQRw92VI0HY",
-      "channel": "DCCyberSec",
-      "title": "BUILDING LIVE WITH AI",
-      "link": "https://www.youtube.com/watch?v=dQRw92VI0HY",
-      "published_at": "2026-10-20T00:04:58+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dQRw92VI0HY/hqdefault.jpg"
     }
   ]
 }
