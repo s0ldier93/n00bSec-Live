@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-20T13:22:14Z",
+  "updated": "2026-10-20T13:32:06Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 20's Top Cyber News NOW! - Ep 1269",
       "link": "https://www.youtube.com/watch?v=S-pLOHFatEo",
-      "viewers": 227
+      "viewers": 199
     }
   ],
-  "viewers_total": 227,
+  "viewers_total": 199,
   "videos": [
+    {
+      "video_id": "MlbGF6U87W0",
+      "channel": "CyberWarriorStudios",
+      "title": "AI Isn\u2019t Replacing Cyber Jobs\u2026 So Why the Layoffs?",
+      "link": "https://www.youtube.com/watch?v=MlbGF6U87W0",
+      "published_at": "2026-10-20T13:12:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MlbGF6U87W0/hqdefault.jpg"
+    },
     {
       "video_id": "lopau1h6pp0",
       "channel": "HaxrByte",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=PfMskHsD7Hs",
       "published_at": "2026-10-19T14:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PfMskHsD7Hs/hqdefault.jpg"
-    },
-    {
-      "video_id": "5PwFeybtXxw",
-      "channel": "team_whoami",
-      "title": "ensamblador truco omagic",
-      "link": "https://www.youtube.com/watch?v=5PwFeybtXxw",
-      "published_at": "2026-10-19T13:00:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5PwFeybtXxw/hqdefault.jpg"
     }
   ]
 }
