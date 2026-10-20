@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-20T00:31:30Z",
+  "updated": "2026-10-20T00:32:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "I guess I'm a Twitch Partner Now?|STREAM UPGRADE!|Cybersecurity,Rants,Chill,&Linux Gaming|10-19-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 12
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MONDAY NIGHT BLUE'S CLUELESS CREW! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 471
+      "viewers": 406
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 487,
+  "viewers_total": 428,
   "videos": [
     {
       "video_id": "yuo4WeIWnac",
