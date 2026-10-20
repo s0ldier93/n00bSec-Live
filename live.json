@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T03:12:04Z",
+  "updated": "2026-10-20T03:22:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "ej_sa",
       "title": "MONDAY NIGHT BLUE'S CLUELESS CREW! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 273
+      "viewers": 265
     }
   ],
-  "viewers_total": 274,
+  "viewers_total": 266,
   "videos": [
     {
       "video_id": "wLanEsG91MY",
