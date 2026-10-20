@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-20T00:02:06Z",
+  "updated": "2026-10-20T00:12:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "I guess I'm a Twitch Partner Now?|STREAM UPGRADE!|Cybersecurity,Rants,Chill,&Linux Gaming|10-19-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 15
+      "viewers": 14
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 488
+      "viewers": 502
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Ocarina of Time Remake",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 2
     }
   ],
-  "viewers_total": 507,
+  "viewers_total": 518,
   "videos": [
+    {
+      "video_id": "dQRw92VI0HY",
+      "channel": "DCCyberSec",
+      "title": "BUILDING LIVE WITH AI",
+      "link": "https://www.youtube.com/watch?v=dQRw92VI0HY",
+      "published_at": "2026-10-20T00:04:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dQRw92VI0HY/hqdefault.jpg"
+    },
     {
       "video_id": "XMZ5lX9yj8w",
       "channel": "CyberWarriorStudios",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=A9hQXpJ1SuU",
       "published_at": "2026-10-19T00:58:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/A9hQXpJ1SuU/hqdefault.jpg"
-    },
-    {
-      "video_id": "wXlaTpDvDL0",
-      "channel": "Cyber_Insecurity",
-      "title": "Most companies are playing catch-up. A few are leading.",
-      "link": "https://www.youtube.com/watch?v=wXlaTpDvDL0",
-      "published_at": "2026-10-18T22:08:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wXlaTpDvDL0/hqdefault.jpg"
     }
   ]
 }
