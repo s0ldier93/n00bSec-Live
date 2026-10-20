@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-20T18:02:05Z",
+  "updated": "2026-10-20T18:11:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "GITHUB PR BOX * TECH CHATS * EMACS CONF PREP",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 114
+      "viewers": 335
     },
     {
       "platform": "twitch",
@@ -25,9 +25,9 @@
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "Regularly Scheduled Shenanigans #10 | ty: @whistleface",
+      "title": "Regularly Scheduled Shenanigans #10 | ty: @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 40
+      "viewers": 99
     },
     {
       "platform": "twitch",
@@ -38,27 +38,13 @@
     },
     {
       "platform": "youtube",
-      "name": "blacksincybersecurity",
-      "title": "Coding, Hacking, & Giving Back w/ James Houston - BIC Podcast Episode #27",
-      "link": "https://www.youtube.com/watch?v=sxMrKaW_JiY",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "ElPinguinoDeMario",
-      "title": "Curso Hacking \u00c9tico Gratis: de 0 a Hackear Aplicaciones \u2013 D\u00eda 1 \u2013 Vulnera la seguridad de una web",
-      "link": "https://www.youtube.com/watch?v=UTJk2ZGaxaA",
-      "viewers": 11310
-    },
-    {
-      "platform": "youtube",
       "name": "TheLaluka",
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://www.youtube.com/watch?v=N9_CkmtkOAs",
-      "viewers": 4
+      "viewers": 6
     }
   ],
-  "viewers_total": 11765,
+  "viewers_total": 736,
   "videos": [
     {
       "video_id": "7NTOpk9PcTw",
