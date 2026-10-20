@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-20T14:01:17Z",
+  "updated": "2026-10-20T15:21:10Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "FDJqi8tF34w",
+      "channel": "LuNiZz",
+      "title": "En iyi yapay zek\u00e2 hangisi? Mevzu bamba\u015fka yere gitti :)",
+      "link": "https://www.youtube.com/watch?v=FDJqi8tF34w",
+      "published_at": "2026-10-20T15:00:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FDJqi8tF34w/hqdefault.jpg"
+    },
     {
       "video_id": "CZB_zuxwPcA",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=Douq8cRbxEw",
       "published_at": "2026-10-19T15:01:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Douq8cRbxEw/hqdefault.jpg"
-    },
-    {
-      "video_id": "JqljXzMrSGk",
-      "channel": "LowLevelTV",
-      "title": "Reverse Engineering the CRAZY Fridge Hack (what happened?)",
-      "link": "https://www.youtube.com/watch?v=JqljXzMrSGk",
-      "published_at": "2026-10-19T14:43:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/JqljXzMrSGk/hqdefault.jpg"
     }
   ]
 }
