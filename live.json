@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T16:42:06Z",
+  "updated": "2026-10-20T16:51:51Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,9 +7,16 @@
       "title": "Launch Vehicle Stacking Operations! SLC-6 (Part 27) 10/20/26",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 164
+    },
+    {
+      "platform": "youtube",
+      "name": "ElPinguinoDeMario",
+      "title": "Curso Hacking \u00c9tico Gratis: de 0 a Hackear Aplicaciones \u2013 D\u00eda 1 \u2013 Vulnera la seguridad de una web",
+      "link": "https://www.youtube.com/watch?v=UTJk2ZGaxaA",
+      "viewers": 3311
     }
   ],
-  "viewers_total": 164,
+  "viewers_total": 3475,
   "videos": [
     {
       "video_id": "7NTOpk9PcTw",
