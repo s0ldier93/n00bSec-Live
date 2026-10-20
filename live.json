@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-20T02:02:04Z",
+  "updated": "2026-10-20T02:12:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "I guess I'm a Twitch Partner Now?|STREAM UPGRADE!|Cybersecurity,Rants,Chill,&Linux Gaming|10-19-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 18
+      "viewers": 22
     },
     {
       "platform": "twitch",
@@ -20,11 +20,19 @@
       "name": "ej_sa",
       "title": "MONDAY NIGHT BLUE'S CLUELESS CREW! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 308
+      "viewers": 298
     }
   ],
-  "viewers_total": 327,
+  "viewers_total": 321,
   "videos": [
+    {
+      "video_id": "wLanEsG91MY",
+      "channel": "IC_null",
+      "title": "Blind gamer plays the Quarry #2: She kissed another dude!",
+      "link": "https://www.youtube.com/watch?v=wLanEsG91MY",
+      "published_at": "2026-10-20T01:18:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wLanEsG91MY/hqdefault.jpg"
+    },
     {
       "video_id": "yuo4WeIWnac",
       "channel": "EJSA",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=z4O8uSXINt0",
       "published_at": "2026-10-19T09:00:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/z4O8uSXINt0/hqdefault.jpg"
-    },
-    {
-      "video_id": "jYURd3XPn0I",
-      "channel": "mbcrump",
-      "title": "Halloween: The Game Physical Disc on a Jailbroken PS5: It Plays Offline!",
-      "link": "https://www.youtube.com/watch?v=jYURd3XPn0I",
-      "published_at": "2026-10-19T02:04:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/jYURd3XPn0I/hqdefault.jpg"
     }
   ]
 }
