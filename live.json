@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-20T22:02:05Z",
+  "updated": "2026-10-20T22:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "PREPPING FOR EMACS CONF",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 448
+      "viewers": 435
     },
     {
       "platform": "twitch",
@@ -20,25 +20,26 @@
       "name": "ej_sa",
       "title": "EJ'S SPACEX AND EARNINGS CALL REVUE! 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 530
-    },
-    {
-      "platform": "twitch",
-      "name": "irasakai",
-      "title": "Doing some crap on Dune then probably Castlevania",
-      "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 527
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charlamos con Roberto Gonzalez de OSINTOMATICO",
       "link": "https://www.youtube.com/watch?v=YUVYdLZstyg",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 986,
+  "viewers_total": 967,
   "videos": [
+    {
+      "video_id": "daEgCv329sk",
+      "channel": "SecurityWeekly",
+      "title": "Ransomware Negotiators Are Betraying Their Clients",
+      "link": "https://www.youtube.com/watch?v=daEgCv329sk",
+      "published_at": "2026-10-20T22:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/daEgCv329sk/hqdefault.jpg"
+    },
     {
       "video_id": "mIlOLRgNEVQ",
       "channel": "SecurityWeekly",
@@ -190,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=wLanEsG91MY",
       "published_at": "2026-10-20T01:18:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wLanEsG91MY/hqdefault.jpg"
-    },
-    {
-      "video_id": "yuo4WeIWnac",
-      "channel": "EJSA",
-      "title": "MONDAY NIGHT BLUE'S CLUELESS CREW! 10/19/26",
-      "link": "https://www.youtube.com/watch?v=yuo4WeIWnac",
-      "published_at": "2026-10-20T00:19:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yuo4WeIWnac/hqdefault.jpg"
     }
   ]
 }
