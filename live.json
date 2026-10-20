@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-20T22:22:05Z",
+  "updated": "2026-10-20T22:32:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "PREPPING FOR EMACS CONF",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 414
+      "viewers": 474
     },
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charlamos con Roberto Gonzalez de OSINTOMATICO #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S SPACEX AND EARNINGS CALL REVUE! 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 512
+      "viewers": 524
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 932,
+  "viewers_total": 1005,
   "videos": [
     {
       "video_id": "daEgCv329sk",
