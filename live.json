@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-20T10:11:11Z",
-  "streams": [],
+  "updated": "2026-10-20T10:22:06Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "cybertechvibes",
+      "title": "Kitties and croissants.....what could go wrong? | Cato Plat work\ud83c\udfc613/23\ud83c\udfc6 #TheTrophyTrackers",
+      "link": "https://twitch.tv/cybertechvibes",
+      "viewers": 0
+    }
+  ],
   "viewers_total": 0,
   "videos": [
     {
