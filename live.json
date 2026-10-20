@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-20T05:11:33Z",
+  "updated": "2026-10-20T05:31:08Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "FM3WJEsR-8M",
+      "channel": "mbcrump",
+      "title": "BREAKING: PS5 14.10 Debug Settings Shown + A53 Progress & PS5 Pro Linux",
+      "link": "https://www.youtube.com/watch?v=FM3WJEsR-8M",
+      "published_at": "2026-10-20T03:55:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FM3WJEsR-8M/hqdefault.jpg"
+    },
     {
       "video_id": "wLanEsG91MY",
       "channel": "IC_null",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=VC29mu_FFc0",
       "published_at": "2026-10-19T09:00:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VC29mu_FFc0/hqdefault.jpg"
-    },
-    {
-      "video_id": "z4O8uSXINt0",
-      "channel": "SecurityWeekly",
-      "title": "Securing AI on the Endpoint, Anthropic Dreams of AI Replicants, and the News - ESW #481",
-      "link": "https://www.youtube.com/watch?v=z4O8uSXINt0",
-      "published_at": "2026-10-19T09:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/z4O8uSXINt0/hqdefault.jpg"
     }
   ]
 }
