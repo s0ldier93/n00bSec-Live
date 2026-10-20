@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-20T03:52:04Z",
+  "updated": "2026-10-20T04:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "Beating meat\ud83c\udfc621/24\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MONDAY NIGHT BLUE'S CLUELESS CREW! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 256
+      "viewers": 247
     }
   ],
-  "viewers_total": 260,
+  "viewers_total": 249,
   "videos": [
     {
       "video_id": "wLanEsG91MY",
