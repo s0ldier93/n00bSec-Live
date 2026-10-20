@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-20T13:52:03Z",
+  "updated": "2026-10-20T14:01:17Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "CZB_zuxwPcA",
+      "channel": "SecurityWeekly",
+      "title": "AI Is Accelerating Security. Who\u2019s Checking?",
+      "link": "https://www.youtube.com/watch?v=CZB_zuxwPcA",
+      "published_at": "2026-10-20T14:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CZB_zuxwPcA/hqdefault.jpg"
+    },
     {
       "video_id": "MlbGF6U87W0",
       "channel": "CyberWarriorStudios",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=JqljXzMrSGk",
       "published_at": "2026-10-19T14:43:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/JqljXzMrSGk/hqdefault.jpg"
-    },
-    {
-      "video_id": "PfMskHsD7Hs",
-      "channel": "SecurityWeekly",
-      "title": "The Software Looked Safe Until It Ran",
-      "link": "https://www.youtube.com/watch?v=PfMskHsD7Hs",
-      "published_at": "2026-10-19T14:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PfMskHsD7Hs/hqdefault.jpg"
     }
   ]
 }
