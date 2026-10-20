@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-20T00:52:06Z",
+  "updated": "2026-10-20T01:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "I guess I'm a Twitch Partner Now?|STREAM UPGRADE!|Cybersecurity,Rants,Chill,&Linux Gaming|10-19-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 18
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "Vice City Plat tonight??  Then what?\ud83c\udfc632/34\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 0
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MONDAY NIGHT BLUE'S CLUELESS CREW! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 354
+      "viewers": 348
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 376,
+  "viewers_total": 373,
   "videos": [
     {
       "video_id": "yuo4WeIWnac",
