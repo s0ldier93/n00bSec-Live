@@ -1,50 +1,50 @@
 {
-  "updated": "2026-10-20T18:32:06Z",
+  "updated": "2026-10-20T18:42:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "GITHUB PR BOX * TECH CHATS * EMACS CONF PREP",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 511
+      "viewers": 531
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Launch Vehicle Stacking Operations! SLC-6 (Part 27) 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 275
+      "viewers": 296
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 26
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #10 | ty: @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 74
+      "viewers": 73
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 33
+      "viewers": 21
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://www.youtube.com/watch?v=N9_CkmtkOAs",
-      "viewers": 4
+      "viewers": 7
     }
   ],
-  "viewers_total": 923,
+  "viewers_total": 948,
   "videos": [
     {
       "video_id": "N9_CkmtkOAs",
