@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-20T17:01:58Z",
+  "updated": "2026-10-20T17:02:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Launch Vehicle Stacking Operations! SLC-6 (Part 27) 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 217
+      "viewers": 233
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 6380
     }
   ],
-  "viewers_total": 6598,
+  "viewers_total": 6614,
   "videos": [
     {
       "video_id": "7NTOpk9PcTw",
