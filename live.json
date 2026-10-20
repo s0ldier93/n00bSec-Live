@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-20T15:21:10Z",
+  "updated": "2026-10-20T16:11:11Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "Tx82oBkxWko",
+      "channel": "thecybermentor",
+      "title": "What Does a GRC Cybersecurity Professional Do?",
+      "link": "https://www.youtube.com/watch?v=Tx82oBkxWko",
+      "published_at": "2026-10-20T16:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Tx82oBkxWko/hqdefault.jpg"
+    },
     {
       "video_id": "FDJqi8tF34w",
       "channel": "LuNiZz",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=N3RIC0_fO0g",
       "published_at": "2026-10-19T15:10:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/N3RIC0_fO0g/hqdefault.jpg"
-    },
-    {
-      "video_id": "Douq8cRbxEw",
-      "channel": "antisyphon",
-      "title": "Understanding Containers & AI Sandboxing",
-      "link": "https://www.youtube.com/watch?v=Douq8cRbxEw",
-      "published_at": "2026-10-19T15:01:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Douq8cRbxEw/hqdefault.jpg"
     }
   ]
 }
