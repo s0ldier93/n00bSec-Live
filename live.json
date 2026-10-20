@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-20T20:12:06Z",
+  "updated": "2026-10-20T20:21:43Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "WHAT TO PACK FOR A TECH CONFERENCE",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 575
+      "viewers": 601
     },
     {
       "platform": "twitch",
@@ -18,9 +18,9 @@
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "Regularly Scheduled Shenanigans #10 | ty: @the101connection @namomaitri @vixenonblue @whistleface",
+      "title": "Regularly Scheduled Shenanigans #10 | ty: @moonwyrm @the101connection @namomaitri @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 96
+      "viewers": 93
     },
     {
       "platform": "twitch",
@@ -28,17 +28,18 @@
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://twitch.tv/TheLaluka",
       "viewers": 26
-    },
-    {
-      "platform": "youtube",
-      "name": "TheLaluka",
-      "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
-      "link": "https://www.youtube.com/watch?v=N9_CkmtkOAs",
-      "viewers": 3
     }
   ],
-  "viewers_total": 1029,
+  "viewers_total": 1049,
   "videos": [
+    {
+      "video_id": "V-nOpiGdodM",
+      "channel": "mbcrump",
+      "title": "PS5 Pro Linux 13.60 Support Added + New PS5 Firmware Support",
+      "link": "https://www.youtube.com/watch?v=V-nOpiGdodM",
+      "published_at": "2026-10-20T20:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/V-nOpiGdodM/hqdefault.jpg"
+    },
     {
       "video_id": "8UqkTvFnDhk",
       "channel": "SecurityWeekly",
@@ -190,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=XMZ5lX9yj8w",
       "published_at": "2026-10-19T23:21:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XMZ5lX9yj8w/hqdefault.jpg"
-    },
-    {
-      "video_id": "W85k8GZHBgQ",
-      "channel": "IC_null",
-      "title": "Blind gamer plays The Quarry #1: What seems to be the officer, problem?",
-      "link": "https://www.youtube.com/watch?v=W85k8GZHBgQ",
-      "published_at": "2026-10-19T23:05:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/W85k8GZHBgQ/hqdefault.jpg"
     }
   ]
 }
