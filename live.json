@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-20T18:52:05Z",
+  "updated": "2026-10-20T19:02:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "GITHUB PR BOX * TECH CHATS * EMACS CONF PREP",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 566
+      "viewers": 558
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Launch Vehicle Stacking Operations! SLC-6 (Part 27) 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 291
+      "viewers": 306
     },
     {
       "platform": "twitch",
@@ -27,14 +27,14 @@
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #10 | ty: @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 66
+      "viewers": 58
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 21
+      "viewers": 24
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 969,
+  "viewers_total": 971,
   "videos": [
     {
       "video_id": "YUVYdLZstyg",
