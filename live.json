@@ -1,51 +1,67 @@
 {
-  "updated": "2026-10-20T18:12:06Z",
+  "updated": "2026-10-20T18:22:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "GITHUB PR BOX * TECH CHATS * EMACS CONF PREP",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 335
+      "viewers": 472
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Launch Vehicle Stacking Operations! SLC-6 (Part 27) 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 282
+      "viewers": 277
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 15
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #10 | ty: @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 99
+      "viewers": 87
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 24
+      "viewers": 25
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://www.youtube.com/watch?v=N9_CkmtkOAs",
-      "viewers": 6
+      "viewers": 8
     }
   ],
-  "viewers_total": 761,
+  "viewers_total": 889,
   "videos": [
+    {
+      "video_id": "N9_CkmtkOAs",
+      "channel": "TheLaluka",
+      "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
+      "link": "https://www.youtube.com/watch?v=N9_CkmtkOAs",
+      "published_at": "2026-10-20T18:00:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/N9_CkmtkOAs/hqdefault.jpg"
+    },
+    {
+      "video_id": "Q98WQdNr5ak",
+      "channel": "mbcrump",
+      "title": "PS5 14.10 Debug Settings Shown by Gezine",
+      "link": "https://www.youtube.com/watch?v=Q98WQdNr5ak",
+      "published_at": "2026-10-20T18:00:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Q98WQdNr5ak/hqdefault.jpg"
+    },
     {
       "video_id": "7NTOpk9PcTw",
       "channel": "EJSA",
@@ -189,22 +205,6 @@
       "link": "https://www.youtube.com/watch?v=H8xQw3eeMGY",
       "published_at": "2026-10-19T19:00:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/H8xQw3eeMGY/hqdefault.jpg"
-    },
-    {
-      "video_id": "AmTYvg6JMRc",
-      "channel": "antisyphon",
-      "title": "Cover Your SaaS w/ Shane Hartman",
-      "link": "https://www.youtube.com/watch?v=AmTYvg6JMRc",
-      "published_at": "2026-10-19T16:57:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/AmTYvg6JMRc/hqdefault.jpg"
-    },
-    {
-      "video_id": "Y5qGcF-BNLM",
-      "channel": "JohnHammond010",
-      "title": "AI Changes Security Research",
-      "link": "https://www.youtube.com/watch?v=Y5qGcF-BNLM",
-      "published_at": "2026-10-19T16:57:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Y5qGcF-BNLM/hqdefault.jpg"
     }
   ]
 }
