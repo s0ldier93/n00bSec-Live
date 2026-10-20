@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-20T11:32:06Z",
+  "updated": "2026-10-20T12:01:47Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "Kitties and croissants.....what could go wrong? | Cato Plat work\ud83c\udfc613/23\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 2
+    },
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 20's Top Cyber News NOW! - Ep 1269",
+      "link": "https://www.youtube.com/watch?v=S-pLOHFatEo",
+      "viewers": 61
     }
   ],
-  "viewers_total": 1,
+  "viewers_total": 63,
   "videos": [
     {
       "video_id": "lopau1h6pp0",
