@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-20T17:52:06Z",
+  "updated": "2026-10-20T18:01:58Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "bashbunni",
+      "title": "GITHUB PR BOX * TECH CHATS * EMACS CONF PREP",
+      "link": "https://twitch.tv/bashbunni",
+      "viewers": 114
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
@@ -13,31 +20,38 @@
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 12
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "Regularly Scheduled Shenanigans #10",
+      "title": "Regularly Scheduled Shenanigans #10 | ty: @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 47
+      "viewers": 40
     },
     {
       "platform": "youtube",
       "name": "blacksincybersecurity",
       "title": "Coding, Hacking, & Giving Back w/ James Houston - BIC Podcast Episode #27",
       "link": "https://www.youtube.com/watch?v=sxMrKaW_JiY",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Curso Hacking \u00c9tico Gratis: de 0 a Hackear Aplicaciones \u2013 D\u00eda 1 \u2013 Vulnera la seguridad de una web",
       "link": "https://www.youtube.com/watch?v=UTJk2ZGaxaA",
-      "viewers": 11838
+      "viewers": 11310
+    },
+    {
+      "platform": "youtube",
+      "name": "TheLaluka",
+      "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
+      "link": "https://www.youtube.com/watch?v=N9_CkmtkOAs",
+      "viewers": 4
     }
   ],
-  "viewers_total": 12169,
+  "viewers_total": 11754,
   "videos": [
     {
       "video_id": "7NTOpk9PcTw",
