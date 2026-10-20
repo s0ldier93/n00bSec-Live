@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:01:58Z",
+  "updated": "2026-10-20T18:02:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ej_sa",
       "title": "Launch Vehicle Stacking Operations! SLC-6 (Part 27) 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 270
+      "viewers": 281
     },
     {
       "platform": "twitch",
@@ -28,6 +28,13 @@
       "title": "Regularly Scheduled Shenanigans #10 | ty: @whistleface",
       "link": "https://twitch.tv/goproflowyo",
       "viewers": 40
+    },
+    {
+      "platform": "twitch",
+      "name": "TheLaluka",
+      "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
+      "link": "https://twitch.tv/TheLaluka",
+      "viewers": 0
     },
     {
       "platform": "youtube",
@@ -51,7 +58,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 11754,
+  "viewers_total": 11765,
   "videos": [
     {
       "video_id": "7NTOpk9PcTw",
