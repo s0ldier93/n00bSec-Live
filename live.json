@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T00:22:06Z",
+  "updated": "2026-10-20T00:31:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -25,6 +25,14 @@
   ],
   "viewers_total": 487,
   "videos": [
+    {
+      "video_id": "yuo4WeIWnac",
+      "channel": "EJSA",
+      "title": "MONDAY NIGHT BLUE'S CLUELESS CREW! 10/19/26",
+      "link": "https://www.youtube.com/watch?v=yuo4WeIWnac",
+      "published_at": "2026-10-20T00:19:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yuo4WeIWnac/hqdefault.jpg"
+    },
     {
       "video_id": "dQRw92VI0HY",
       "channel": "DCCyberSec",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=jYURd3XPn0I",
       "published_at": "2026-10-19T02:04:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/jYURd3XPn0I/hqdefault.jpg"
-    },
-    {
-      "video_id": "A9hQXpJ1SuU",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
-      "link": "https://www.youtube.com/watch?v=A9hQXpJ1SuU",
-      "published_at": "2026-10-19T00:58:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/A9hQXpJ1SuU/hqdefault.jpg"
     }
   ]
 }
