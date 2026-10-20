@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-20T06:52:06Z",
+  "updated": "2026-10-20T07:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 12 - Migrating to the AWS Cloud",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AWS CCP: Module 12 - Migrating to the AWS Cloud",
       "link": "https://www.youtube.com/watch?v=keMbaXMlnKU",
-      "viewers": 6
+      "viewers": 4
     }
   ],
   "viewers_total": 9,
   "videos": [
+    {
+      "video_id": "keMbaXMlnKU",
+      "channel": "censoredHacker",
+      "title": "AWS CCP: Module 12 - Migrating to the AWS Cloud",
+      "link": "https://www.youtube.com/watch?v=keMbaXMlnKU",
+      "published_at": "2026-10-20T05:18:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/keMbaXMlnKU/hqdefault.jpg"
+    },
     {
       "video_id": "FM3WJEsR-8M",
       "channel": "mbcrump",
@@ -25,6 +33,14 @@
       "link": "https://www.youtube.com/watch?v=FM3WJEsR-8M",
       "published_at": "2026-10-20T03:55:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FM3WJEsR-8M/hqdefault.jpg"
+    },
+    {
+      "video_id": "qKgSrO_YPQI",
+      "channel": "IC_null",
+      "title": "ViewpointUnseen: What are video games like without the video: a look at audiogames",
+      "link": "https://www.youtube.com/watch?v=qKgSrO_YPQI",
+      "published_at": "2026-10-20T03:02:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qKgSrO_YPQI/hqdefault.jpg"
     },
     {
       "video_id": "wLanEsG91MY",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=5fy6Ix3dHZY",
       "published_at": "2026-10-19T12:00:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/5fy6Ix3dHZY/hqdefault.jpg"
-    },
-    {
-      "video_id": "HDI_ev55AyQ",
-      "channel": "DCCyberSec",
-      "title": "Why AI Consulting Is the Ultimate Side Hustle for IT Pros",
-      "link": "https://www.youtube.com/watch?v=HDI_ev55AyQ",
-      "published_at": "2026-10-19T11:00:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/HDI_ev55AyQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "VC29mu_FFc0",
-      "channel": "jarnobaselier",
-      "title": "Hacklab 15 - Hacking an AI agent that follows the wrong prompt",
-      "link": "https://www.youtube.com/watch?v=VC29mu_FFc0",
-      "published_at": "2026-10-19T09:00:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VC29mu_FFc0/hqdefault.jpg"
     }
   ]
 }
