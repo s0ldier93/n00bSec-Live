@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-20T08:01:38Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "AWS CCP: Module 12 - Migrating to the AWS Cloud",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 5
-    }
-  ],
-  "viewers_total": 5,
+  "updated": "2026-10-20T08:02:06Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "keMbaXMlnKU",
