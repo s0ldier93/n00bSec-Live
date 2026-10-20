@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T00:12:06Z",
+  "updated": "2026-10-20T00:21:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "msec",
       "title": "Ocarina of Time Remake",
       "link": "https://twitch.tv/msec",
-      "viewers": 2
+      "viewers": 4
     }
   ],
-  "viewers_total": 518,
+  "viewers_total": 520,
   "videos": [
     {
       "video_id": "dQRw92VI0HY",
