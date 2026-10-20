@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-20T20:32:06Z",
+  "updated": "2026-10-20T20:42:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "WHAT TO PACK FOR A TECH CONFERENCE",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 634
+      "viewers": 633
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S SPACEX AND EARNINGS CALL REVUE! 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 358
+      "viewers": 396
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #10 | ty: @moonwyrm @the101connection @namomaitri @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 95
+      "viewers": 92
     }
   ],
-  "viewers_total": 1087,
+  "viewers_total": 1121,
   "videos": [
+    {
+      "video_id": "fzXaD12ugUs",
+      "channel": "EJSA",
+      "title": "EJ'S SPACEX AND EARNINGS CALL REVUE! 10/20/26",
+      "link": "https://www.youtube.com/watch?v=fzXaD12ugUs",
+      "published_at": "2026-10-20T20:25:57+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fzXaD12ugUs/hqdefault.jpg"
+    },
     {
       "video_id": "V-nOpiGdodM",
       "channel": "mbcrump",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=dQRw92VI0HY",
       "published_at": "2026-10-20T00:04:58+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dQRw92VI0HY/hqdefault.jpg"
-    },
-    {
-      "video_id": "XMZ5lX9yj8w",
-      "channel": "CyberWarriorStudios",
-      "title": "The #1 Rule for Surviving a Cybersecurity Career (It\u2019s Not Technical)",
-      "link": "https://www.youtube.com/watch?v=XMZ5lX9yj8w",
-      "published_at": "2026-10-19T23:21:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XMZ5lX9yj8w/hqdefault.jpg"
     }
   ]
 }
