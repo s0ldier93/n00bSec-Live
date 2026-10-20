@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-20T03:22:04Z",
+  "updated": "2026-10-20T03:32:07Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "Vice City Plat tonight??  Then what?\ud83c\udfc632/34\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MONDAY NIGHT BLUE'S CLUELESS CREW! 10/19/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 265
+      "viewers": 261
     }
   ],
-  "viewers_total": 266,
+  "viewers_total": 263,
   "videos": [
     {
       "video_id": "wLanEsG91MY",
