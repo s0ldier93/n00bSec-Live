@@ -1,33 +1,33 @@
 {
-  "updated": "2026-10-20T18:42:06Z",
+  "updated": "2026-10-20T18:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "GITHUB PR BOX * TECH CHATS * EMACS CONF PREP",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 531
+      "viewers": 566
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Launch Vehicle Stacking Operations! SLC-6 (Part 27) 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 296
+      "viewers": 291
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 20
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #10 | ty: @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 73
+      "viewers": 66
     },
     {
       "platform": "twitch",
@@ -41,11 +41,19 @@
       "name": "TheLaluka",
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://www.youtube.com/watch?v=N9_CkmtkOAs",
-      "viewers": 7
+      "viewers": 6
     }
   ],
-  "viewers_total": 948,
+  "viewers_total": 969,
   "videos": [
+    {
+      "video_id": "YUVYdLZstyg",
+      "channel": "BySepa",
+      "title": "Charlamos con Roberto Gonzalez de OSINTOMATICO #hacktheplanet #teaminvierno",
+      "link": "https://www.youtube.com/watch?v=YUVYdLZstyg",
+      "published_at": "2026-10-20T18:37:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/YUVYdLZstyg/hqdefault.jpg"
+    },
     {
       "video_id": "N9_CkmtkOAs",
       "channel": "TheLaluka",
@@ -197,14 +205,6 @@
       "link": "https://www.youtube.com/watch?v=2PXSDM-_5OI",
       "published_at": "2026-10-19T20:18:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2PXSDM-_5OI/hqdefault.jpg"
-    },
-    {
-      "video_id": "H8xQw3eeMGY",
-      "channel": "EJSA",
-      "title": "EJ's JAXA H3-24L Martian Moons eXploration (MMX) Launch Coverage! 10/19/26",
-      "link": "https://www.youtube.com/watch?v=H8xQw3eeMGY",
-      "published_at": "2026-10-19T19:00:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/H8xQw3eeMGY/hqdefault.jpg"
     }
   ]
 }
