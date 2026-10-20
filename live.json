@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-20T20:02:06Z",
+  "updated": "2026-10-20T20:12:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "WHAT TO PACK FOR A TECH CONFERENCE",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 588
+      "viewers": 575
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Launch Vehicle Stacking Operations! SLC-6 (Part 27) 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 338
+      "viewers": 329
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #10 | ty: @the101connection @namomaitri @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 101
+      "viewers": 96
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 29
+      "viewers": 26
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://www.youtube.com/watch?v=N9_CkmtkOAs",
-      "viewers": 5
+      "viewers": 3
     }
   ],
-  "viewers_total": 1061,
+  "viewers_total": 1029,
   "videos": [
     {
       "video_id": "8UqkTvFnDhk",
