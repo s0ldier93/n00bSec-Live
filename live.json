@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-20T08:02:06Z",
+  "updated": "2026-10-20T09:11:10Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "5Gjit7bfm7w",
+      "channel": "SecurityWeekly",
+      "title": "Standardizing Mobile Defense: Inside the OWASP Mobile App Security Project v2 - ASW #405",
+      "link": "https://www.youtube.com/watch?v=5Gjit7bfm7w",
+      "published_at": "2026-10-20T09:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5Gjit7bfm7w/hqdefault.jpg"
+    },
     {
       "video_id": "keMbaXMlnKU",
       "channel": "censoredHacker",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=QY-fWrU5Mp4",
       "published_at": "2026-10-19T12:45:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QY-fWrU5Mp4/hqdefault.jpg"
-    },
-    {
-      "video_id": "5fy6Ix3dHZY",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Time Machine - The Internet Archive - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=5fy6Ix3dHZY",
-      "published_at": "2026-10-19T12:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5fy6Ix3dHZY/hqdefault.jpg"
     }
   ]
 }
