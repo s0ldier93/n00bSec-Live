@@ -1,40 +1,40 @@
 {
-  "updated": "2026-10-20T19:12:06Z",
+  "updated": "2026-10-20T19:22:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "GITHUB PR BOX * TECH CHATS * EMACS CONF PREP",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 556
+      "viewers": 457
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Launch Vehicle Stacking Operations! SLC-6 (Part 27) 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 318
+      "viewers": 312
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "FloraThe... Builder?? IRL Ikea Montage",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 20
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "Regularly Scheduled Shenanigans #10 | ty: @vixenonblue @whistleface",
+      "title": "Regularly Scheduled Shenanigans #10 | ty: @namomaitri @vixenonblue @whistleface",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 63
+      "viewers": 87
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 29
+      "viewers": 26
     },
     {
       "platform": "youtube",
@@ -44,8 +44,24 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 992,
+  "viewers_total": 906,
   "videos": [
+    {
+      "video_id": "8UqkTvFnDhk",
+      "channel": "SecurityWeekly",
+      "title": "The Problem With OWASP Top 10 Lists",
+      "link": "https://www.youtube.com/watch?v=8UqkTvFnDhk",
+      "published_at": "2026-10-20T19:00:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8UqkTvFnDhk/hqdefault.jpg"
+    },
+    {
+      "video_id": "yFsdZHDSzs4",
+      "channel": "mbcrump",
+      "title": "PS5 A53 Dumping Progress: Code Execution Still in Development",
+      "link": "https://www.youtube.com/watch?v=yFsdZHDSzs4",
+      "published_at": "2026-10-20T19:00:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yFsdZHDSzs4/hqdefault.jpg"
+    },
     {
       "video_id": "YUVYdLZstyg",
       "channel": "BySepa",
@@ -189,22 +205,6 @@
       "link": "https://www.youtube.com/watch?v=W85k8GZHBgQ",
       "published_at": "2026-10-19T23:05:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/W85k8GZHBgQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "EgPj2nZhzIs",
-      "channel": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 10/19/26",
-      "link": "https://www.youtube.com/watch?v=EgPj2nZhzIs",
-      "published_at": "2026-10-19T20:58:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/EgPj2nZhzIs/hqdefault.jpg"
-    },
-    {
-      "video_id": "2PXSDM-_5OI",
-      "channel": "gerald_auger_simplycyber",
-      "title": "Is Cybersecurity Right For You? The Brutal Reality at EVERY Level",
-      "link": "https://www.youtube.com/watch?v=2PXSDM-_5OI",
-      "published_at": "2026-10-19T20:18:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2PXSDM-_5OI/hqdefault.jpg"
     }
   ]
 }
