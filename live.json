@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-21T04:42:04Z",
+  "updated": "2026-10-21T07:01:17Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "6Mtz0AiuIS4",
+      "channel": "EJSA",
+      "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/20/26",
+      "link": "https://www.youtube.com/watch?v=6Mtz0AiuIS4",
+      "published_at": "2026-10-21T03:37:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6Mtz0AiuIS4/hqdefault.jpg"
+    },
     {
       "video_id": "9MYhmt8B4t8",
       "channel": "EJSA",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=FM3WJEsR-8M",
       "published_at": "2026-10-20T03:55:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FM3WJEsR-8M/hqdefault.jpg"
-    },
-    {
-      "video_id": "qKgSrO_YPQI",
-      "channel": "IC_null",
-      "title": "ViewpointUnseen: What are video games like without the video: a look at audiogames",
-      "link": "https://www.youtube.com/watch?v=qKgSrO_YPQI",
-      "published_at": "2026-10-20T03:02:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qKgSrO_YPQI/hqdefault.jpg"
     }
   ]
 }
