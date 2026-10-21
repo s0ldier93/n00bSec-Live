@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-21T04:22:04Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "irasakai",
-      "title": "Meh",
-      "link": "https://twitch.tv/irasakai",
-      "viewers": 1
-    }
-  ],
-  "viewers_total": 1,
+  "updated": "2026-10-21T04:42:04Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "9MYhmt8B4t8",
