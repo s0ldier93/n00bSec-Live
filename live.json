@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-21T21:02:08Z",
+  "updated": "2026-10-21T21:12:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "CHATTING ABOUT TECH * PERSONAL INTRANETS * FRAMEWORK 12",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 569
+      "viewers": 552
     }
   ],
-  "viewers_total": 569,
+  "viewers_total": 552,
   "videos": [
+    {
+      "video_id": "lW5DROhl6w4",
+      "channel": "SecurityWeekly",
+      "title": "Cybersecurity Needs to Speak Business Risk",
+      "link": "https://www.youtube.com/watch?v=lW5DROhl6w4",
+      "published_at": "2026-10-21T21:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lW5DROhl6w4/hqdefault.jpg"
+    },
     {
       "video_id": "dXhvMIgpUU0",
       "channel": "TheGoodHackerTV",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=YUVYdLZstyg",
       "published_at": "2026-10-20T18:37:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/YUVYdLZstyg/hqdefault.jpg"
-    },
-    {
-      "video_id": "N9_CkmtkOAs",
-      "channel": "TheLaluka",
-      "title": "La rentr\u00e9e x41 - Retex 1A, 2A, et Profs \ud83c\udf40",
-      "link": "https://www.youtube.com/watch?v=N9_CkmtkOAs",
-      "published_at": "2026-10-20T18:00:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/N9_CkmtkOAs/hqdefault.jpg"
     }
   ]
 }
