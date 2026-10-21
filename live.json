@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T02:12:04Z",
+  "updated": "2026-10-21T02:22:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ej_sa",
       "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 268
+      "viewers": 274
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 272,
+  "viewers_total": 278,
   "videos": [
     {
       "video_id": "9MYhmt8B4t8",
