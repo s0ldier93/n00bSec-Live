@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-21T18:11:47Z",
+  "updated": "2026-10-21T18:21:13Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "6YnLBcKlt9k",
+      "channel": "mbcrump",
+      "title": "PS4 Games for Jailbroken Users (Riven, Wash Cleaner Simulator, Poker Night at the Inventory)",
+      "link": "https://www.youtube.com/watch?v=6YnLBcKlt9k",
+      "published_at": "2026-10-21T18:00:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6YnLBcKlt9k/hqdefault.jpg"
+    },
     {
       "video_id": "2KBk3CIx3lk",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=7NTOpk9PcTw",
       "published_at": "2026-10-20T16:04:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/7NTOpk9PcTw/hqdefault.jpg"
-    },
-    {
-      "video_id": "Tx82oBkxWko",
-      "channel": "thecybermentor",
-      "title": "What Does a GRC Cybersecurity Professional Do?",
-      "link": "https://www.youtube.com/watch?v=Tx82oBkxWko",
-      "published_at": "2026-10-20T16:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Tx82oBkxWko/hqdefault.jpg"
     }
   ]
 }
