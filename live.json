@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-21T00:02:05Z",
+  "updated": "2026-10-21T00:12:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "EJ'S SPACEX AND EARNINGS CALL REVUE! 10/20/26",
+      "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 461
+      "viewers": 386
     },
     {
       "platform": "twitch",
@@ -16,8 +16,16 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 464,
+  "viewers_total": 389,
   "videos": [
+    {
+      "video_id": "9MYhmt8B4t8",
+      "channel": "EJSA",
+      "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/20/26",
+      "link": "https://www.youtube.com/watch?v=9MYhmt8B4t8",
+      "published_at": "2026-10-21T00:07:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9MYhmt8B4t8/hqdefault.jpg"
+    },
     {
       "video_id": "daEgCv329sk",
       "channel": "SecurityWeekly",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=qKgSrO_YPQI",
       "published_at": "2026-10-20T03:02:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qKgSrO_YPQI/hqdefault.jpg"
-    },
-    {
-      "video_id": "wLanEsG91MY",
-      "channel": "IC_null",
-      "title": "Blind gamer plays the Quarry #2: She kissed another dude!",
-      "link": "https://www.youtube.com/watch?v=wLanEsG91MY",
-      "published_at": "2026-10-20T01:18:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wLanEsG91MY/hqdefault.jpg"
     }
   ]
 }
