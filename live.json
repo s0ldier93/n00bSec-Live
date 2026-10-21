@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-20T23:52:05Z",
+  "updated": "2026-10-21T00:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S SPACEX AND EARNINGS CALL REVUE! 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 476
+      "viewers": 461
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Doing some crap on Dune then probably Castlevania",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 477,
+  "viewers_total": 464,
   "videos": [
     {
       "video_id": "daEgCv329sk",
