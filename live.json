@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-21T07:01:17Z",
+  "updated": "2026-10-21T09:11:10Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "tWD2EYwPSgA",
+      "channel": "SecurityWeekly",
+      "title": "Minimum Viable Company as Security\u2019s Inflection Point & Human Breaking Point Collide - BSW #470",
+      "link": "https://www.youtube.com/watch?v=tWD2EYwPSgA",
+      "published_at": "2026-10-21T09:00:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tWD2EYwPSgA/hqdefault.jpg"
+    },
     {
       "video_id": "6Mtz0AiuIS4",
       "channel": "EJSA",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=keMbaXMlnKU",
       "published_at": "2026-10-20T05:18:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/keMbaXMlnKU/hqdefault.jpg"
-    },
-    {
-      "video_id": "FM3WJEsR-8M",
-      "channel": "mbcrump",
-      "title": "BREAKING: PS5 14.10 Debug Settings Shown + A53 Progress & PS5 Pro Linux",
-      "link": "https://www.youtube.com/watch?v=FM3WJEsR-8M",
-      "published_at": "2026-10-20T03:55:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FM3WJEsR-8M/hqdefault.jpg"
     }
   ]
 }
