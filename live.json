@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-21T16:02:09Z",
+  "updated": "2026-10-21T16:12:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Understanding Containers & AI Sandboxing",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "php patcher support club",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 22
+      "viewers": 23
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Understanding Containers & AI Sandboxing",
       "link": "https://www.youtube.com/watch?v=Douq8cRbxEw",
-      "viewers": 32
+      "viewers": 39
     }
   ],
-  "viewers_total": 55,
+  "viewers_total": 64,
   "videos": [
+    {
+      "video_id": "F4swl05RHU4",
+      "channel": "LuNiZz",
+      "title": "la yoksa bunlar bizi mi yiyo?",
+      "link": "https://www.youtube.com/watch?v=F4swl05RHU4",
+      "published_at": "2026-10-21T16:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/F4swl05RHU4/hqdefault.jpg"
+    },
     {
       "video_id": "EMhZcev385I",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=CZB_zuxwPcA",
       "published_at": "2026-10-20T14:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CZB_zuxwPcA/hqdefault.jpg"
-    },
-    {
-      "video_id": "MlbGF6U87W0",
-      "channel": "CyberWarriorStudios",
-      "title": "AI Isn\u2019t Replacing Cyber Jobs\u2026 So Why the Layoffs?",
-      "link": "https://www.youtube.com/watch?v=MlbGF6U87W0",
-      "published_at": "2026-10-20T13:12:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MlbGF6U87W0/hqdefault.jpg"
     }
   ]
 }
