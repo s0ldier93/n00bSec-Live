@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-21T01:52:04Z",
+  "updated": "2026-10-21T02:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "Jedi Knight Cyber racing against Darth Kegger!  Light Side or Dark Side, chat??\ud83c\udfc634/50\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 288
+      "viewers": 279
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 293,
+  "viewers_total": 283,
   "videos": [
     {
       "video_id": "9MYhmt8B4t8",
