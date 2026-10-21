@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-21T13:32:05Z",
-  "streams": [
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 21's Top Cyber News NOW! - Ep 1270",
-      "link": "https://www.youtube.com/watch?v=QKWG3mn0dkM",
-      "viewers": 237
-    }
-  ],
-  "viewers_total": 237,
+  "updated": "2026-10-21T13:41:47Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "Ns3Gyvw8KP4",
+      "channel": "CyberWarriorStudios",
+      "title": "You Can Monitor 100%\u2026 But You\u2019ll Never Prevent 100% of Attacks",
+      "link": "https://www.youtube.com/watch?v=Ns3Gyvw8KP4",
+      "published_at": "2026-10-21T13:31:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Ns3Gyvw8KP4/hqdefault.jpg"
+    },
     {
       "video_id": "YdLSuuBLAy4",
       "channel": "TheShyHat",
@@ -162,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=lopau1h6pp0",
       "published_at": "2026-10-20T10:02:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lopau1h6pp0/hqdefault.jpg"
-    },
-    {
-      "video_id": "5Gjit7bfm7w",
-      "channel": "SecurityWeekly",
-      "title": "Standardizing Mobile Defense: Inside the OWASP Mobile App Security Project v2 - ASW #405",
-      "link": "https://www.youtube.com/watch?v=5Gjit7bfm7w",
-      "published_at": "2026-10-20T09:00:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5Gjit7bfm7w/hqdefault.jpg"
     }
   ]
 }
