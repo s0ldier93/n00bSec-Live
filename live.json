@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-21T21:22:05Z",
+  "updated": "2026-10-21T21:32:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "CHATTING ABOUT TECH * PERSONAL INTRANETS * FRAMEWORK 12",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 512
+      "viewers": 498
     }
   ],
-  "viewers_total": 512,
+  "viewers_total": 498,
   "videos": [
     {
       "video_id": "lW5DROhl6w4",
