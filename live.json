@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T03:41:32Z",
+  "updated": "2026-10-21T03:42:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,20 +10,13 @@
     },
     {
       "platform": "twitch",
-      "name": "ej_sa",
-      "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/20/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 202
-    },
-    {
-      "platform": "twitch",
       "name": "irasakai",
       "title": "Doing some crap on Dune then probably Castlevania",
       "link": "https://twitch.tv/irasakai",
       "viewers": 1
     }
   ],
-  "viewers_total": 207,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "9MYhmt8B4t8",
