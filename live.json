@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T16:52:06Z",
+  "updated": "2026-10-21T17:02:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "antisyphon",
       "title": "Understanding Containers & AI Sandboxing",
       "link": "https://www.youtube.com/watch?v=Douq8cRbxEw",
-      "viewers": 34
+      "viewers": 27
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Curso de Hacking \u00c9tico Gratis: de 0 a Hackear Aplicaciones \u2013 D\u00eda 2 \u2013 Hackea un m\u00f3vil con IA",
       "link": "https://www.youtube.com/watch?v=WjDVFJobYTY",
-      "viewers": 1730
+      "viewers": 3819
     }
   ],
-  "viewers_total": 1765,
+  "viewers_total": 3847,
   "videos": [
     {
       "video_id": "pPH7J4u2YhY",
