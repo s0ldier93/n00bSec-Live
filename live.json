@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-21T03:42:04Z",
+  "updated": "2026-10-21T03:52:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "Jedi Knight Cyber racing against Darth Kegger!  Light Side or Dark Side, chat??\ud83c\udfc634/50\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "irasakai",
-      "title": "Doing some crap on Dune then probably Castlevania",
+      "title": "Meh",
       "link": "https://twitch.tv/irasakai",
       "viewers": 1
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "9MYhmt8B4t8",
