@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-21T20:32:06Z",
+  "updated": "2026-10-21T20:42:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "CHATTING ABOUT TECH * PERSONAL INTRANETS * FRAMEWORK 12",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 465
+      "viewers": 571
     }
   ],
-  "viewers_total": 465,
+  "viewers_total": 571,
   "videos": [
+    {
+      "video_id": "dXhvMIgpUU0",
+      "channel": "TheGoodHackerTV",
+      "title": "Trabaja con Hacker \u00c9tico y consigue que empresas te paguen",
+      "link": "https://www.youtube.com/watch?v=dXhvMIgpUU0",
+      "published_at": "2026-10-21T20:32:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dXhvMIgpUU0/hqdefault.jpg"
+    },
     {
       "video_id": "80FyUCjOkWk",
       "channel": "Hackavis",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=N9_CkmtkOAs",
       "published_at": "2026-10-20T18:00:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/N9_CkmtkOAs/hqdefault.jpg"
-    },
-    {
-      "video_id": "Q98WQdNr5ak",
-      "channel": "mbcrump",
-      "title": "PS5 14.10 Debug Settings Shown by Gezine",
-      "link": "https://www.youtube.com/watch?v=Q98WQdNr5ak",
-      "published_at": "2026-10-20T18:00:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Q98WQdNr5ak/hqdefault.jpg"
     }
   ]
 }
