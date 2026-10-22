@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:48:19Z",
+  "updated": "2026-10-22T21:48:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,10 @@
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 335
-    },
-    {
-      "platform": "twitch",
-      "name": "mchow01",
-      "title": "SQL Injection and Web Proxies (Episode 7, Season 13)",
-      "link": "https://twitch.tv/mchow01",
-      "viewers": 23
+      "viewers": 384
     }
   ],
-  "viewers_total": 840,
+  "viewers_total": 866,
   "videos": [
     {
       "video_id": "0D-6jnTJq1w",
