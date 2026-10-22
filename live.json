@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-22T19:58:50Z",
+  "updated": "2026-10-22T20:08:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "crafting interpreters can fix me",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 490
+      "viewers": 533
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 303
     }
   ],
-  "viewers_total": 793,
+  "viewers_total": 836,
   "videos": [
     {
       "video_id": "pWY4u40gUsU",
