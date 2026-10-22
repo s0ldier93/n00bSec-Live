@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-22T14:07:01Z",
+  "updated": "2026-10-22T15:27:03Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "Tma7LCSNRso",
+      "channel": "JohnHammond010",
+      "title": "The Economics of AI",
+      "link": "https://www.youtube.com/watch?v=Tma7LCSNRso",
+      "published_at": "2026-10-22T15:20:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Tma7LCSNRso/hqdefault.jpg"
+    },
     {
       "video_id": "SMQR1xW7XFA",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=F4swl05RHU4",
       "published_at": "2026-10-21T16:00:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/F4swl05RHU4/hqdefault.jpg"
-    },
-    {
-      "video_id": "EMhZcev385I",
-      "channel": "SecurityWeekly",
-      "title": "Your Active Directory Has Security Debt",
-      "link": "https://www.youtube.com/watch?v=EMhZcev385I",
-      "published_at": "2026-10-21T14:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/EMhZcev385I/hqdefault.jpg"
     }
   ]
 }
