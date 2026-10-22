@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:52:05Z",
+  "updated": "2026-10-22T02:02:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,21 +20,21 @@
       "name": "chiefgyk3d",
       "title": "The Internet is on Fire! |Cybersecurity,Rants,Chill,&Linux Gaming|10-21-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 18
+      "viewers": 22
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 307
+      "viewers": 296
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 22
+      "viewers": 18
     },
     {
       "platform": "twitch",
@@ -55,10 +55,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=AAzv5SRiLkc",
-      "viewers": 54
+      "viewers": 53
     }
   ],
-  "viewers_total": 426,
+  "viewers_total": 414,
   "videos": [
     {
       "video_id": "AAzv5SRiLkc",
