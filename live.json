@@ -1,40 +1,40 @@
 {
-  "updated": "2026-10-22T01:32:05Z",
+  "updated": "2026-10-22T01:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 9
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Este hacking es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "The Internet is on Fire! |Cybersecurity,Rants,Chill,&Linux Gaming|10-21-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 16
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 305
+      "viewers": 307
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 12
+      "viewers": 21
     },
     {
       "platform": "twitch",
@@ -48,17 +48,17 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=LgulXFnwQS4",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=AAzv5SRiLkc",
-      "viewers": 56
+      "viewers": 51
     }
   ],
-  "viewers_total": 410,
+  "viewers_total": 419,
   "videos": [
     {
       "video_id": "AAzv5SRiLkc",
