@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-22T18:48:50Z",
+  "updated": "2026-10-22T18:58:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Cutting and splicing rocker panels to make good ones! The Crew Cab Coronet (Part 57) 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 259
+      "viewers": 261
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Curso de Hacking \u00c9tico Gratis: de 0 a Hackear Aplicaciones \u2013 D\u00eda 3 \u2013 Hackea la NASA con IA",
       "link": "https://www.youtube.com/watch?v=dlali9WWqDI",
-      "viewers": 3325
+      "viewers": 2742
     }
   ],
-  "viewers_total": 3584,
+  "viewers_total": 3003,
   "videos": [
     {
       "video_id": "pWY4u40gUsU",
