@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T06:22:04Z",
+  "updated": "2026-10-22T06:32:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "censoredHacker",
       "title": "Pokemon Prismatic ETB + AWS Module 12.1",
       "link": "https://www.youtube.com/watch?v=iXp-TCaAWng",
-      "viewers": 3
+      "viewers": 7
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 16,
   "videos": [
     {
       "video_id": "rwl8vLVqPjs",
