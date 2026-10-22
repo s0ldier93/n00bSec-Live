@@ -1,19 +1,12 @@
 {
-  "updated": "2026-10-22T04:02:05Z",
+  "updated": "2026-10-22T04:11:33Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "0reobyte",
       "title": "HackSmarter Boxes",
       "link": "https://twitch.tv/0reobyte",
-      "viewers": 5
-    },
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 33
+      "viewers": 25
     },
     {
       "platform": "twitch",
@@ -21,16 +14,9 @@
       "title": "Este hacking es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
       "viewers": 3
-    },
-    {
-      "platform": "youtube",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Cyber Security News & QA",
-      "link": "https://www.youtube.com/watch?v=LgulXFnwQS4",
-      "viewers": 6
     }
   ],
-  "viewers_total": 47,
+  "viewers_total": 28,
   "videos": [
     {
       "video_id": "rwl8vLVqPjs",
