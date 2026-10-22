@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-22T17:28:49Z",
+  "updated": "2026-10-22T17:38:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Building Continuous Attack Surface Management w/ Scout Kinsey",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 2
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Cutting and splicing rocker panels to make good ones! The Crew Cab Coronet (Part 57) 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 232
+      "viewers": 227
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Curso de Hacking \u00c9tico Gratis: de 0 a Hackear Aplicaciones \u2013 D\u00eda 3 \u2013 Hackea la NASA con IA",
       "link": "https://www.youtube.com/watch?v=dlali9WWqDI",
-      "viewers": 6235
+      "viewers": 6480
     }
   ],
-  "viewers_total": 6469,
+  "viewers_total": 6716,
   "videos": [
+    {
+      "video_id": "QRABrn606LE",
+      "channel": "LowLevelTV",
+      "title": "php",
+      "link": "https://www.youtube.com/watch?v=QRABrn606LE",
+      "published_at": "2026-10-22T17:23:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QRABrn606LE/hqdefault.jpg"
+    },
     {
       "video_id": "lIKgTI1OtTI",
       "channel": "mbcrump",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=6YnLBcKlt9k",
       "published_at": "2026-10-21T18:00:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6YnLBcKlt9k/hqdefault.jpg"
-    },
-    {
-      "video_id": "2KBk3CIx3lk",
-      "channel": "SecurityWeekly",
-      "title": "Fewer Cybersecurity Jobs, More AI Risk?",
-      "link": "https://www.youtube.com/watch?v=2KBk3CIx3lk",
-      "published_at": "2026-10-21T17:00:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2KBk3CIx3lk/hqdefault.jpg"
     }
   ]
 }
