@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T02:42:05Z",
+  "updated": "2026-10-22T02:51:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -23,28 +23,14 @@
       "viewers": 269
     },
     {
-      "platform": "twitch",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
-      "link": "https://twitch.tv/hack_smarter",
-      "viewers": 22
-    },
-    {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=LgulXFnwQS4",
-      "viewers": 4
-    },
-    {
-      "platform": "youtube",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
-      "link": "https://www.youtube.com/watch?v=AAzv5SRiLkc",
-      "viewers": 63
+      "viewers": 5
     }
   ],
-  "viewers_total": 397,
+  "viewers_total": 313,
   "videos": [
     {
       "video_id": "AAzv5SRiLkc",
