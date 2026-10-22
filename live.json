@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:02:05Z",
+  "updated": "2026-10-22T01:11:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -24,14 +24,59 @@
     },
     {
       "platform": "twitch",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
+      "link": "https://twitch.tv/hack_smarter",
+      "viewers": 5
+    },
+    {
+      "platform": "twitch",
       "name": "msec",
       "title": "Ocarina of Time Remake",
       "link": "https://twitch.tv/msec",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! Cyber Security News & QA",
+      "link": "https://www.youtube.com/watch?v=LgulXFnwQS4",
+      "viewers": 6
+    },
+    {
+      "platform": "youtube",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
+      "link": "https://www.youtube.com/watch?v=AAzv5SRiLkc",
+      "viewers": 19
     }
   ],
-  "viewers_total": 361,
+  "viewers_total": 391,
   "videos": [
+    {
+      "video_id": "LgulXFnwQS4",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! Cyber Security News & QA",
+      "link": "https://www.youtube.com/watch?v=LgulXFnwQS4",
+      "published_at": "2026-10-22T01:03:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LgulXFnwQS4/hqdefault.jpg"
+    },
+    {
+      "video_id": "YRUNRaRpiQg",
+      "channel": "EJSA",
+      "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
+      "link": "https://www.youtube.com/watch?v=YRUNRaRpiQg",
+      "published_at": "2026-10-22T00:53:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/YRUNRaRpiQg/hqdefault.jpg"
+    },
+    {
+      "video_id": "7CiZmq2llDg",
+      "channel": "LiveOverflow",
+      "title": "The race to the first exploit // php2shell",
+      "link": "https://www.youtube.com/watch?v=7CiZmq2llDg",
+      "published_at": "2026-10-22T00:44:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/7CiZmq2llDg/hqdefault.jpg"
+    },
     {
       "video_id": "y21jGLZFeds",
       "channel": "HackerMentor",
@@ -167,30 +212,6 @@
       "link": "https://www.youtube.com/watch?v=fzXaD12ugUs",
       "published_at": "2026-10-20T20:25:57+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fzXaD12ugUs/hqdefault.jpg"
-    },
-    {
-      "video_id": "V-nOpiGdodM",
-      "channel": "mbcrump",
-      "title": "PS5 Pro Linux 13.60 Support Added + New PS5 Firmware Support",
-      "link": "https://www.youtube.com/watch?v=V-nOpiGdodM",
-      "published_at": "2026-10-20T20:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/V-nOpiGdodM/hqdefault.jpg"
-    },
-    {
-      "video_id": "8UqkTvFnDhk",
-      "channel": "SecurityWeekly",
-      "title": "The Problem With OWASP Top 10 Lists",
-      "link": "https://www.youtube.com/watch?v=8UqkTvFnDhk",
-      "published_at": "2026-10-20T19:00:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8UqkTvFnDhk/hqdefault.jpg"
-    },
-    {
-      "video_id": "yFsdZHDSzs4",
-      "channel": "mbcrump",
-      "title": "PS5 A53 Dumping Progress: Code Execution Still in Development",
-      "link": "https://www.youtube.com/watch?v=yFsdZHDSzs4",
-      "published_at": "2026-10-20T19:00:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yFsdZHDSzs4/hqdefault.jpg"
     }
   ]
 }
