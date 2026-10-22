@@ -602,7 +602,7 @@
     els.grid.classList.toggle('hasLive', streams.length > 0);
 
     if (streams.length) {
-      if (idle) { idle.wrap.remove(); idle = null; }
+      if (idle) { if (idle.player) { try { idle.player.destroy(); } catch (e) {} } idle.wrap.remove(); idle = null; }
     } else {
       renderIdle(((lastData && lastData.videos) || []).slice(0, RECENT_MAX));
     }
@@ -627,30 +627,84 @@
     if (videos.length && !idle.card) startTv(videos);
     idle.msg.textContent = 'Nobody is live right now. This page checks back every minute.'
       + (videos.length ? ' Meanwhile, n00bSec TV is playing the latest uploads (unmute in the player).' : '');
-    if (!videos.length && idle.card) { idle.card.remove(); idle.card = null; idle.playing = false; }
+    if (!videos.length && idle.card) {
+      if (idle.player) { try { idle.player.destroy(); } catch (e) {} idle.player = null; }
+      idle.session = null; idle.card.remove(); idle.card = null; idle.body = null; idle.playing = false;
+    }
   }
 
   function tvVideos() {
     return ((lastData && lastData.videos) || []).slice(0, RECENT_MAX);
   }
 
+  /* The embed's own playlist/loop params kept repeating the first video, so the page sequences
+     the list itself with the IFrame Player API: on ENDED (or an embed error) load the next id,
+     wrapping after the last. Mute/unmute state carries over between videos. */
+  var ytApi = null;   // Promise resolving to window.YT
+  function loadYouTubeApi() {
+    if (!ytApi) {
+      ytApi = new Promise(function (resolve) {
+        if (window.YT && window.YT.Player) return resolve(window.YT);
+        var prev = window.onYouTubeIframeAPIReady;
+        window.onYouTubeIframeAPIReady = function () {
+          if (prev) prev();
+          resolve(window.YT);
+        };
+        var s = document.createElement('script');
+        s.src = 'https://www.youtube.com/iframe_api';
+        document.head.appendChild(s);
+      });
+    }
+    return ytApi;
+  }
+
   function startTv(videos) {
     if (!idle || !videos.length) return;
-    var ids = videos.map(function (v) { return encodeURIComponent(v.video_id); });
-    var iframe = document.createElement('iframe');
-    iframe.src = 'https://www.youtube.com/embed/' + ids[0]
-      + '?autoplay=1&mute=1&playsinline=1&loop=1&rel=0&playlist=' + (ids.length > 1 ? ids.slice(1) : ids).join(',');
-    iframe.allowFullscreen = true;
-    iframe.setAttribute('allow', 'autoplay; fullscreen');
+    var list = videos.slice();
     var frame = document.createElement('div');
     frame.className = 'playerFrame';
-    frame.appendChild(iframe);
-    setTvBody(frame, '📺 n00bSec TV', 'Recent uploads on repeat · ' + videos.length + ' videos');
+    var mount = document.createElement('div');
+    frame.appendChild(mount);
+    setTvBody(frame, '📺 n00bSec TV', 'Loading ' + list.length + ' recent uploads…');
     idle.playing = true;
+    var session = idle.session = {};   // stale-callback guard if the TV is stopped/restarted
+    var index = 0;
+    var errors = 0;
+
+    function nowPlaying() {
+      var v = list[index];
+      idle.ptitle.textContent = (index + 1) + '/' + list.length + ' · '
+        + (v.channel ? v.channel + ' — ' : '') + (v.title || '');
+    }
+
+    loadYouTubeApi().then(function (YT) {
+      if (idle === null || idle.session !== session) return;
+      idle.player = new YT.Player(mount, {
+        videoId: list[0].video_id,
+        playerVars: { autoplay: 1, mute: 1, playsinline: 1, rel: 0 },
+        events: {
+          onReady: function (e) { e.target.mute(); e.target.playVideo(); nowPlaying(); },
+          onStateChange: function (e) {
+            if (e.data === YT.PlayerState.PLAYING) errors = 0;
+            if (e.data === YT.PlayerState.ENDED) next();
+          },
+          // Embedding disabled / removed video: skip it (give up after a full lap of failures).
+          onError: function () { if (++errors < list.length) next(); }
+        }
+      });
+      function next() {
+        if (idle === null || idle.session !== session) return;
+        index = (index + 1) % list.length;
+        idle.player.loadVideoById(list[index].video_id);
+        nowPlaying();
+      }
+    });
   }
 
   function stopTv() {
     if (!idle || !idle.playing) return;
+    if (idle.player) { try { idle.player.destroy(); } catch (e) {} idle.player = null; }
+    idle.session = null;
     var box = document.createElement('div');
     box.className = 'tvResume';
     var btn = document.createElement('button');
