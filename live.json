@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-22T06:52:05Z",
+  "updated": "2026-10-22T07:02:05Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "0reobyte",
-      "title": "HackSmarter Boxes",
-      "link": "https://twitch.tv/0reobyte",
-      "viewers": 9
-    },
     {
       "platform": "twitch",
       "name": "censoredHacker",
@@ -20,11 +13,27 @@
       "name": "censoredHacker",
       "title": "Pokemon Prismatic ETB + AWS Module 12.1",
       "link": "https://www.youtube.com/watch?v=iXp-TCaAWng",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "iXp-TCaAWng",
+      "channel": "censoredHacker",
+      "title": "Pokemon Prismatic ETB + AWS Module 12.1",
+      "link": "https://www.youtube.com/watch?v=iXp-TCaAWng",
+      "published_at": "2026-10-22T05:18:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/iXp-TCaAWng/hqdefault.jpg"
+    },
+    {
+      "video_id": "JfF2VRp44Jc",
+      "channel": "EJSA",
+      "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
+      "link": "https://www.youtube.com/watch?v=JfF2VRp44Jc",
+      "published_at": "2026-10-22T04:15:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/JfF2VRp44Jc/hqdefault.jpg"
+    },
     {
       "video_id": "rwl8vLVqPjs",
       "channel": "mbcrump",
@@ -168,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=tWD2EYwPSgA",
       "published_at": "2026-10-21T09:00:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tWD2EYwPSgA/hqdefault.jpg"
-    },
-    {
-      "video_id": "6Mtz0AiuIS4",
-      "channel": "EJSA",
-      "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/20/26",
-      "link": "https://www.youtube.com/watch?v=6Mtz0AiuIS4",
-      "published_at": "2026-10-21T03:37:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6Mtz0AiuIS4/hqdefault.jpg"
-    },
-    {
-      "video_id": "9MYhmt8B4t8",
-      "channel": "EJSA",
-      "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/20/26",
-      "link": "https://www.youtube.com/watch?v=9MYhmt8B4t8",
-      "published_at": "2026-10-21T00:07:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9MYhmt8B4t8/hqdefault.jpg"
     }
   ]
 }
