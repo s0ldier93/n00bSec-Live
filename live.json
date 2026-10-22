@@ -1,40 +1,33 @@
 {
-  "updated": "2026-10-22T02:32:05Z",
+  "updated": "2026-10-22T02:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 18
+      "viewers": 16
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "The Internet is on Fire! |Cybersecurity,Rants,Chill,&Linux Gaming|10-21-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 22
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 272
+      "viewers": 269
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 21
-    },
-    {
-      "platform": "twitch",
-      "name": "msec",
-      "title": "Ocarina of Time Remake",
-      "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 22
     },
     {
       "platform": "youtube",
@@ -48,7 +41,7 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=AAzv5SRiLkc",
-      "viewers": 59
+      "viewers": 63
     }
   ],
   "viewers_total": 397,
