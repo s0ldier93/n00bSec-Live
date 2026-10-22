@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-21T23:52:06Z",
+  "updated": "2026-10-22T00:02:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "The Internet is on Fire! |Cybersecurity,Rants,Chill,&Linux Gaming|10-21-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 10
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 436
+      "viewers": 443
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 447,
+  "viewers_total": 463,
   "videos": [
+    {
+      "video_id": "y21jGLZFeds",
+      "channel": "HackerMentor",
+      "title": "Instalaci\u00f3n de Kali Linux en macOS | Tutorial paso a paso",
+      "link": "https://www.youtube.com/watch?v=y21jGLZFeds",
+      "published_at": "2026-10-21T23:23:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/y21jGLZFeds/hqdefault.jpg"
+    },
     {
       "video_id": "lW5DROhl6w4",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=yFsdZHDSzs4",
       "published_at": "2026-10-20T19:00:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yFsdZHDSzs4/hqdefault.jpg"
-    },
-    {
-      "video_id": "YUVYdLZstyg",
-      "channel": "BySepa",
-      "title": "Charlamos con Roberto Gonzalez de OSINTOMATICO #hacktheplanet #teaminvierno",
-      "link": "https://www.youtube.com/watch?v=YUVYdLZstyg",
-      "published_at": "2026-10-20T18:37:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/YUVYdLZstyg/hqdefault.jpg"
     }
   ]
 }
