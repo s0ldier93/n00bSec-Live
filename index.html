@@ -217,6 +217,20 @@
     text-align: center;
     font-size: 15px;
   }
+  /* Idle "TV": when nobody is live, the recent uploads play back-to-back (muted until the viewer unmutes). */
+  #idle { grid-column: 1 / -1; }
+  #idle .emptyState { padding: 4px 4px 12px; text-align: left; font-size: 14px; }
+  #tvCard { max-width: 1100px; }
+  #tvCard .playerHeader .pname { color: #ff6b6b; }
+  .tvResume {
+    display: flex; align-items: center; justify-content: center;
+    padding: 60px 12px; background: #000;
+  }
+  .tvResume button {
+    background: #a970ff; color: #fff; border: 0; border-radius: 6px;
+    padding: 10px 18px; font-size: 14px; font-weight: 600; cursor: pointer;
+  }
+  .tvResume button:hover { background: #9147ff; }
   .sidebarEmpty { color: #9aa0ab; font-size: 13px; padding: 12px 4px; }
   #promo { margin-top: 16px; }
   #promo img { display: block; width: 100%; border-radius: 8px; }
@@ -587,21 +601,95 @@
     els.grid.style.gridTemplateColumns = 'repeat(' + cols + ', 1fr)';
     els.grid.classList.toggle('hasLive', streams.length > 0);
 
-    var emptyEl = els.grid.querySelector('.emptyState');
-    if (emptyEl) emptyEl.remove();
-    if (!streams.length) {
-      els.grid.appendChild(buildEmptyState((lastData && lastData.videos) || []));
+    if (streams.length) {
+      if (idle) { idle.wrap.remove(); idle = null; }
+    } else {
+      renderIdle(((lastData && lastData.videos) || []).slice(0, RECENT_MAX));
     }
   }
 
-  function buildEmptyState(videos) {
-    var wrap = document.createElement('div');
-    wrap.className = 'emptyState';
-    var msg = document.createElement('div');
-    msg.textContent = 'Nobody is live right now. This page checks back every minute.'
-      + (videos.length ? ' Catch up on the latest uploads below.' : '');
-    wrap.appendChild(msg);
-    return wrap;
+  /* ---- Idle TV: nobody live -> play the recent uploads as one auto-advancing playlist ----
+     Built once per idle period (not on every poll) so playback isn't restarted. Starts muted
+     because browsers block unmuted autoplay; the YouTube player's own button unmutes it.
+     Clicking a recent-upload pane stops the TV; "Resume" restarts it from the newest upload. */
+  var idle = null;   // { wrap, msg, card, body, playing }
+
+  function renderIdle(videos) {
+    if (!idle) {
+      var wrap = document.createElement('div');
+      wrap.id = 'idle';
+      var msg = document.createElement('div');
+      msg.className = 'emptyState';
+      wrap.appendChild(msg);
+      els.grid.appendChild(wrap);
+      idle = { wrap: wrap, msg: msg, card: null, body: null, playing: false };
+    }
+    if (videos.length && !idle.card) startTv(videos);
+    idle.msg.textContent = 'Nobody is live right now. This page checks back every minute.'
+      + (videos.length ? ' Meanwhile, n00bSec TV is playing the latest uploads (unmute in the player).' : '');
+    if (!videos.length && idle.card) { idle.card.remove(); idle.card = null; idle.playing = false; }
+  }
+
+  function tvVideos() {
+    return ((lastData && lastData.videos) || []).slice(0, RECENT_MAX);
+  }
+
+  function startTv(videos) {
+    if (!idle || !videos.length) return;
+    var ids = videos.map(function (v) { return encodeURIComponent(v.video_id); });
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube.com/embed/' + ids[0]
+      + '?autoplay=1&mute=1&playsinline=1&loop=1&rel=0&playlist=' + (ids.length > 1 ? ids.slice(1) : ids).join(',');
+    iframe.allowFullscreen = true;
+    iframe.setAttribute('allow', 'autoplay; fullscreen');
+    var frame = document.createElement('div');
+    frame.className = 'playerFrame';
+    frame.appendChild(iframe);
+    setTvBody(frame, '📺 n00bSec TV', 'Recent uploads on repeat · ' + videos.length + ' videos');
+    idle.playing = true;
+  }
+
+  function stopTv() {
+    if (!idle || !idle.playing) return;
+    var box = document.createElement('div');
+    box.className = 'tvResume';
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.textContent = '📺 Resume n00bSec TV';
+    btn.addEventListener('click', function () {
+      videoEls.forEach(function (entry) { resetVideo(entry); });
+      startTv(tvVideos());
+      idle.card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    box.appendChild(btn);
+    setTvBody(box, '📺 n00bSec TV', 'Paused while you watch a video below');
+    idle.playing = false;
+  }
+
+  function setTvBody(body, name, title) {
+    if (!idle.card) {
+      var card = document.createElement('div');
+      card.className = 'playerCard';
+      card.id = 'tvCard';
+      var header = document.createElement('div');
+      header.className = 'playerHeader';
+      var pname = document.createElement('span');
+      pname.className = 'pname';
+      var ptitle = document.createElement('span');
+      ptitle.className = 'ptitle';
+      header.appendChild(pname);
+      header.appendChild(ptitle);
+      card.appendChild(header);
+      idle.wrap.appendChild(card);
+      idle.card = card;
+      idle.pname = pname;
+      idle.ptitle = ptitle;
+    }
+    idle.pname.textContent = name;
+    idle.ptitle.textContent = title;
+    if (idle.body) idle.card.replaceChild(body, idle.body);
+    else idle.card.appendChild(body);
+    idle.body = body;
   }
 
   /* ---- Recent uploads: click-to-play panes ----
@@ -665,7 +753,8 @@
     if (!entry) return;
     if (scroll) entry.card.scrollIntoView({ behavior: 'smooth', block: 'start' });
     if (entry.playing) return;
-    // Only one player at a time: reset any other card back to its poster.
+    // Only one player at a time: stop the idle TV and reset any other card back to its poster.
+    stopTv();
     videoEls.forEach(function (other, otherId) {
       if (otherId !== id && other.playing) resetVideo(other);
     });
