@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-22T21:18:49Z",
+  "updated": "2026-10-22T21:28:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "crafting interpreters can fix me",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 460
+      "viewers": 462
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 291
+      "viewers": 296
     },
     {
       "platform": "twitch",
       "name": "mchow01",
       "title": "SQL Injection and Web Proxies (Episode 7, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 24
+      "viewers": 26
     }
   ],
-  "viewers_total": 775,
+  "viewers_total": 784,
   "videos": [
+    {
+      "video_id": "xDuFNowQSHc",
+      "channel": "SecurityWeekly",
+      "title": "PHP2Hell - Joshua Wright - PSW #949",
+      "link": "https://www.youtube.com/watch?v=xDuFNowQSHc",
+      "published_at": "2026-10-22T21:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xDuFNowQSHc/hqdefault.jpg"
+    },
     {
       "video_id": "pWY4u40gUsU",
       "channel": "Hackavis",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=lW5DROhl6w4",
       "published_at": "2026-10-21T21:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lW5DROhl6w4/hqdefault.jpg"
-    },
-    {
-      "video_id": "dXhvMIgpUU0",
-      "channel": "TheGoodHackerTV",
-      "title": "Trabaja con Hacker \u00c9tico y consigue que empresas te paguen",
-      "link": "https://www.youtube.com/watch?v=dXhvMIgpUU0",
-      "published_at": "2026-10-21T20:32:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dXhvMIgpUU0/hqdefault.jpg"
     }
   ]
 }
