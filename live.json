@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-22T20:58:50Z",
+  "updated": "2026-10-22T21:08:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "crafting interpreters can fix me",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 474
+      "viewers": 451
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Cutting and splicing rocker panels to make good ones! The Crew Cab Coronet (Part 57) 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 310
+      "viewers": 306
     },
     {
       "platform": "twitch",
       "name": "mchow01",
       "title": "SQL Injection and Web Proxies (Episode 7, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 21
+      "viewers": 22
     }
   ],
-  "viewers_total": 805,
+  "viewers_total": 779,
   "videos": [
     {
       "video_id": "pWY4u40gUsU",
