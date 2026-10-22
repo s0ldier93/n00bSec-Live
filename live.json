@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-22T19:48:50Z",
+  "updated": "2026-10-22T19:58:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "crafting interpreters can fix me",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 416
+      "viewers": 490
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Cutting and splicing rocker panels to make good ones! The Crew Cab Coronet (Part 57) 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 289
+      "viewers": 303
     }
   ],
-  "viewers_total": 705,
+  "viewers_total": 793,
   "videos": [
     {
       "video_id": "pWY4u40gUsU",
