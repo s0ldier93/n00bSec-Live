@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T04:01:34Z",
+  "updated": "2026-10-22T04:02:05Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "c04tl",
       "title": "Este hacking es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 48,
+  "viewers_total": 47,
   "videos": [
     {
       "video_id": "rwl8vLVqPjs",
