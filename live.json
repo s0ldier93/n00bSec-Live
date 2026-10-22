@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-22T03:52:04Z",
+  "updated": "2026-10-22T04:01:34Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "0reobyte",
       "title": "HackSmarter Boxes",
       "link": "https://twitch.tv/0reobyte",
-      "viewers": 1
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 29
+      "viewers": 33
     },
     {
       "platform": "twitch",
@@ -27,17 +27,10 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=LgulXFnwQS4",
-      "viewers": 7
-    },
-    {
-      "platform": "youtube",
-      "name": "EJSA",
-      "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
-      "link": "https://www.youtube.com/watch?v=YRUNRaRpiQg",
-      "viewers": 21
+      "viewers": 6
     }
   ],
-  "viewers_total": 62,
+  "viewers_total": 48,
   "videos": [
     {
       "video_id": "rwl8vLVqPjs",
