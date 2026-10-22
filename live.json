@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:18:22Z",
+  "updated": "2026-10-22T21:18:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,19 +11,19 @@
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "Cutting and splicing rocker panels to make good ones! The Crew Cab Coronet (Part 57) 10/22/26",
+      "title": "EJ's Space and Rocket Revue! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 306
+      "viewers": 291
     },
     {
       "platform": "twitch",
       "name": "mchow01",
       "title": "SQL Injection and Web Proxies (Episode 7, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 22
+      "viewers": 24
     }
   ],
-  "viewers_total": 788,
+  "viewers_total": 775,
   "videos": [
     {
       "video_id": "pWY4u40gUsU",
