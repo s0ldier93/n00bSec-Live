@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-22T16:48:49Z",
+  "updated": "2026-10-22T16:58:32Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Building Continuous Attack Surface Management w/ Scout Kinsey",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "ElPinguinoDeMario",
       "title": "Curso de Hacking \u00c9tico Gratis: de 0 a Hackear Aplicaciones \u2013 D\u00eda 3 \u2013 Hackea la NASA con IA",
       "link": "https://www.youtube.com/watch?v=dlali9WWqDI",
-      "viewers": 980
+      "viewers": 2190
     }
   ],
-  "viewers_total": 999,
+  "viewers_total": 2210,
   "videos": [
     {
       "video_id": "lIKgTI1OtTI",
