@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-22T03:02:05Z",
+  "updated": "2026-10-22T03:12:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 43
+      "viewers": 47
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 261
+      "viewers": 253
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 309,
+  "viewers_total": 305,
   "videos": [
+    {
+      "video_id": "8dWUpaUOH3I",
+      "channel": "hack_smarter",
+      "title": "Part 5: Hacking Active Directory - (StellarComms)",
+      "link": "https://www.youtube.com/watch?v=8dWUpaUOH3I",
+      "published_at": "2026-10-22T02:49:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8dWUpaUOH3I/hqdefault.jpg"
+    },
     {
       "video_id": "AAzv5SRiLkc",
       "channel": "hack_smarter",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=daEgCv329sk",
       "published_at": "2026-10-20T22:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/daEgCv329sk/hqdefault.jpg"
-    },
-    {
-      "video_id": "mIlOLRgNEVQ",
-      "channel": "SecurityWeekly",
-      "title": "Klingons, Stop and Shop, OvHCloud, Microsoft, Plex2Shell, ReactOS, and Aaran Leyland - SWN #626",
-      "link": "https://www.youtube.com/watch?v=mIlOLRgNEVQ",
-      "published_at": "2026-10-20T21:00:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mIlOLRgNEVQ/hqdefault.jpg"
     }
   ]
 }
