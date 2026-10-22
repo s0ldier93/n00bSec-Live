@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-22T21:58:49Z",
+  "updated": "2026-10-22T22:08:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "crafting interpreters can fix me",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 500
+      "viewers": 494
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 403
+      "viewers": 420
     }
   ],
-  "viewers_total": 903,
+  "viewers_total": 914,
   "videos": [
+    {
+      "video_id": "g7jdZ8mtUMY",
+      "channel": "SecurityWeekly",
+      "title": "Incident Responders Are Overwhelmed",
+      "link": "https://www.youtube.com/watch?v=g7jdZ8mtUMY",
+      "published_at": "2026-10-22T22:00:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/g7jdZ8mtUMY/hqdefault.jpg"
+    },
     {
       "video_id": "0D-6jnTJq1w",
       "channel": "EJSA",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=7CiZmq2llDg",
       "published_at": "2026-10-22T00:44:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/7CiZmq2llDg/hqdefault.jpg"
-    },
-    {
-      "video_id": "y21jGLZFeds",
-      "channel": "HackerMentor",
-      "title": "Instalaci\u00f3n de Kali Linux en macOS | Tutorial paso a paso",
-      "link": "https://www.youtube.com/watch?v=y21jGLZFeds",
-      "published_at": "2026-10-21T23:23:52+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/y21jGLZFeds/hqdefault.jpg"
     }
   ]
 }
