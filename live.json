@@ -1,16 +1,32 @@
 {
-  "updated": "2026-10-22T12:42:04Z",
+  "updated": "2026-10-22T12:52:05Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 22's Top Cyber News NOW! - Ep 1271",
       "link": "https://www.youtube.com/watch?v=_0mZYW-ISyo",
-      "viewers": 359
+      "viewers": 352
     }
   ],
-  "viewers_total": 359,
+  "viewers_total": 352,
   "videos": [
+    {
+      "video_id": "ybxHwjPzAVc",
+      "channel": "KeonBowman",
+      "title": "SMB to Remote Code Execution with Impacket PsExec #shorts",
+      "link": "https://www.youtube.com/watch?v=ybxHwjPzAVc",
+      "published_at": "2026-10-22T12:42:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ybxHwjPzAVc/hqdefault.jpg"
+    },
+    {
+      "video_id": "Yp-9baOMJyo",
+      "channel": "hack_smarter",
+      "title": "Why is Offsec doing this...? (OSCP+ Scoring Update)",
+      "link": "https://www.youtube.com/watch?v=Yp-9baOMJyo",
+      "published_at": "2026-10-22T12:42:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Yp-9baOMJyo/hqdefault.jpg"
+    },
     {
       "video_id": "iXp-TCaAWng",
       "channel": "censoredHacker",
@@ -154,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Ns3Gyvw8KP4",
       "published_at": "2026-10-21T13:31:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Ns3Gyvw8KP4/hqdefault.jpg"
-    },
-    {
-      "video_id": "YdLSuuBLAy4",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Pigpen Cipher - Cryptography - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=YdLSuuBLAy4",
-      "published_at": "2026-10-21T12:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/YdLSuuBLAy4/hqdefault.jpg"
-    },
-    {
-      "video_id": "tWD2EYwPSgA",
-      "channel": "SecurityWeekly",
-      "title": "Minimum Viable Company as Security\u2019s Inflection Point & Human Breaking Point Collide - BSW #470",
-      "link": "https://www.youtube.com/watch?v=tWD2EYwPSgA",
-      "published_at": "2026-10-21T09:00:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tWD2EYwPSgA/hqdefault.jpg"
     }
   ]
 }
