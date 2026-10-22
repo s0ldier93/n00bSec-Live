@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-22T21:28:50Z",
+  "updated": "2026-10-22T21:38:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "crafting interpreters can fix me",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 462
+      "viewers": 486
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 296
+      "viewers": 335
     },
     {
       "platform": "twitch",
       "name": "mchow01",
       "title": "SQL Injection and Web Proxies (Episode 7, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 26
+      "viewers": 23
     }
   ],
-  "viewers_total": 784,
+  "viewers_total": 844,
   "videos": [
+    {
+      "video_id": "0D-6jnTJq1w",
+      "channel": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 10/22/26",
+      "link": "https://www.youtube.com/watch?v=0D-6jnTJq1w",
+      "published_at": "2026-10-22T21:15:57+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0D-6jnTJq1w/hqdefault.jpg"
+    },
     {
       "video_id": "xDuFNowQSHc",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=y21jGLZFeds",
       "published_at": "2026-10-21T23:23:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/y21jGLZFeds/hqdefault.jpg"
-    },
-    {
-      "video_id": "lW5DROhl6w4",
-      "channel": "SecurityWeekly",
-      "title": "Cybersecurity Needs to Speak Business Risk",
-      "link": "https://www.youtube.com/watch?v=lW5DROhl6w4",
-      "published_at": "2026-10-21T21:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lW5DROhl6w4/hqdefault.jpg"
     }
   ]
 }
