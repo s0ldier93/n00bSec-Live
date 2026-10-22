@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-22T13:57:48Z",
+  "updated": "2026-10-22T14:07:01Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "SMQR1xW7XFA",
+      "channel": "SecurityWeekly",
+      "title": "Are You Measuring Cyber Risk Correctly?",
+      "link": "https://www.youtube.com/watch?v=SMQR1xW7XFA",
+      "published_at": "2026-10-22T14:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SMQR1xW7XFA/hqdefault.jpg"
+    },
     {
       "video_id": "ybxHwjPzAVc",
       "channel": "KeonBowman",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=EMhZcev385I",
       "published_at": "2026-10-21T14:00:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/EMhZcev385I/hqdefault.jpg"
-    },
-    {
-      "video_id": "Ns3Gyvw8KP4",
-      "channel": "CyberWarriorStudios",
-      "title": "You Can Monitor 100%\u2026 But You\u2019ll Never Prevent 100% of Attacks",
-      "link": "https://www.youtube.com/watch?v=Ns3Gyvw8KP4",
-      "published_at": "2026-10-21T13:31:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Ns3Gyvw8KP4/hqdefault.jpg"
     }
   ]
 }
