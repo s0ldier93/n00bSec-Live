@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-22T03:32:05Z",
+  "updated": "2026-10-22T03:42:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 43
+      "viewers": 39
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Este hacking es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 242
+      "viewers": 232
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=LgulXFnwQS4",
-      "viewers": 6
+      "viewers": 5
     }
   ],
-  "viewers_total": 293,
+  "viewers_total": 279,
   "videos": [
     {
       "video_id": "8dWUpaUOH3I",
