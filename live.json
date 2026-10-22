@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-22T06:42:04Z",
+  "updated": "2026-10-22T06:52:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "0reobyte",
       "title": "HackSmarter Boxes",
       "link": "https://twitch.tv/0reobyte",
-      "viewers": 10
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Pokemon Prismatic ETB + AWS Module 12.1",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Pokemon Prismatic ETB + AWS Module 12.1",
       "link": "https://www.youtube.com/watch?v=iXp-TCaAWng",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 14,
+  "viewers_total": 11,
   "videos": [
     {
       "video_id": "rwl8vLVqPjs",
