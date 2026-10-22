@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-22T04:42:04Z",
+  "updated": "2026-10-22T04:52:03Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "0reobyte",
       "title": "HackSmarter Boxes",
       "link": "https://twitch.tv/0reobyte",
-      "viewers": 13
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Este hacking es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 14,
   "videos": [
     {
       "video_id": "rwl8vLVqPjs",
