@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-22T01:12:05Z",
+  "updated": "2026-10-22T01:22:06Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 1
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Este hacking es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -27,39 +27,47 @@
       "name": "ej_sa",
       "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 325
+      "viewers": 315
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 5
+      "viewers": 14
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Ocarina of Time Remake",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=LgulXFnwQS4",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=AAzv5SRiLkc",
-      "viewers": 19
+      "viewers": 39
     }
   ],
-  "viewers_total": 379,
+  "viewers_total": 404,
   "videos": [
+    {
+      "video_id": "AAzv5SRiLkc",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
+      "link": "https://www.youtube.com/watch?v=AAzv5SRiLkc",
+      "published_at": "2026-10-22T01:05:45+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/AAzv5SRiLkc/hqdefault.jpg"
+    },
     {
       "video_id": "LgulXFnwQS4",
       "channel": "BlaiseBits",
@@ -211,14 +219,6 @@
       "link": "https://www.youtube.com/watch?v=mIlOLRgNEVQ",
       "published_at": "2026-10-20T21:00:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mIlOLRgNEVQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "fzXaD12ugUs",
-      "channel": "EJSA",
-      "title": "EJ'S SPACEX AND EARNINGS CALL REVUE! 10/20/26",
-      "link": "https://www.youtube.com/watch?v=fzXaD12ugUs",
-      "published_at": "2026-10-20T20:25:57+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fzXaD12ugUs/hqdefault.jpg"
     }
   ]
 }
