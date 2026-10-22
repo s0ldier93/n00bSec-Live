@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-22T22:18:49Z",
+  "updated": "2026-10-22T22:28:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "crafting interpreters can fix me",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 718
+      "viewers": 706
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 449
+      "viewers": 433
     }
   ],
-  "viewers_total": 1167,
+  "viewers_total": 1139,
   "videos": [
+    {
+      "video_id": "vpeExBW53VQ",
+      "channel": "Cyber_Insecurity",
+      "title": "Humans read 3M words a year. LLMs read 10 trillion.",
+      "link": "https://www.youtube.com/watch?v=vpeExBW53VQ",
+      "published_at": "2026-10-22T22:05:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vpeExBW53VQ/hqdefault.jpg"
+    },
     {
       "video_id": "g7jdZ8mtUMY",
       "channel": "SecurityWeekly",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=YRUNRaRpiQg",
       "published_at": "2026-10-22T00:53:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/YRUNRaRpiQg/hqdefault.jpg"
-    },
-    {
-      "video_id": "7CiZmq2llDg",
-      "channel": "LiveOverflow",
-      "title": "The race to the first exploit // php2shell",
-      "link": "https://www.youtube.com/watch?v=7CiZmq2llDg",
-      "published_at": "2026-10-22T00:44:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/7CiZmq2llDg/hqdefault.jpg"
     }
   ]
 }
