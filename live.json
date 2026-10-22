@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-22T01:11:30Z",
+  "updated": "2026-10-22T01:12:05Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A !tts",
+      "link": "https://twitch.tv/BlaiseBits",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "c04tl",
@@ -13,14 +20,14 @@
       "name": "chiefgyk3d",
       "title": "The Internet is on Fire! |Cybersecurity,Rants,Chill,&Linux Gaming|10-21-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 14
+      "viewers": 16
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 340
+      "viewers": 325
     },
     {
       "platform": "twitch",
@@ -51,7 +58,7 @@
       "viewers": 19
     }
   ],
-  "viewers_total": 391,
+  "viewers_total": 379,
   "videos": [
     {
       "video_id": "LgulXFnwQS4",
