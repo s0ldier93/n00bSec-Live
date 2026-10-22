@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-22T00:52:05Z",
+  "updated": "2026-10-22T01:02:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Este hacking es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "The Internet is on Fire! |Cybersecurity,Rants,Chill,&Linux Gaming|10-21-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 12
+      "viewers": 14
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "EJ's Space and Rocket Revue! 10/21/26",
+      "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 421
+      "viewers": 340
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 439,
+  "viewers_total": 361,
   "videos": [
     {
       "video_id": "y21jGLZFeds",
