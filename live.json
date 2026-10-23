@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-23T21:38:49Z",
+  "updated": "2026-10-23T21:48:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/23/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 142
+      "viewers": 221
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83c\udf99\ufe0fThe Man Behind Midwest Gadgets Finally Speaks",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 145,
+  "viewers_total": 223,
   "videos": [
+    {
+      "video_id": "IhBbKxHxiVE",
+      "channel": "B7H30",
+      "title": "POV: Your OpenAI agent was \"counting hospital beds\" & \"found\" path traversal | HTB",
+      "link": "https://www.youtube.com/watch?v=IhBbKxHxiVE",
+      "published_at": "2026-10-23T21:43:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IhBbKxHxiVE/hqdefault.jpg"
+    },
     {
       "video_id": "hLnCYWp2G68",
       "channel": "EJSA",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=QRABrn606LE",
       "published_at": "2026-10-22T17:23:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QRABrn606LE/hqdefault.jpg"
-    },
-    {
-      "video_id": "lIKgTI1OtTI",
-      "channel": "mbcrump",
-      "title": "PS5 Games for Jailbroken Users (Biped 2, Biped, Halloween: The Game)",
-      "link": "https://www.youtube.com/watch?v=lIKgTI1OtTI",
-      "published_at": "2026-10-22T16:00:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lIKgTI1OtTI/hqdefault.jpg"
     }
   ]
 }
