@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-23T21:58:49Z",
+  "updated": "2026-10-23T22:08:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/23/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 264
+      "viewers": 336
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 266,
+  "viewers_total": 338,
   "videos": [
     {
       "video_id": "2xwaCJxzPjQ",
