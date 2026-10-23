@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-23T22:28:51Z",
+  "updated": "2026-10-23T22:38:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/23/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 403
+      "viewers": 425
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83c\udf99\ufe0fThe Man Behind Midwest Gadgets Finally Speaks",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 406,
+  "viewers_total": 427,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
