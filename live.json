@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T06:58:49Z",
+  "updated": "2026-10-23T07:08:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "censoredHacker",
       "title": "AWS Module 13: Well-Architected Solutions",
       "link": "https://www.youtube.com/watch?v=QorQOzphxGo",
-      "viewers": 5
+      "viewers": 8
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 11,
   "videos": [
+    {
+      "video_id": "QorQOzphxGo",
+      "channel": "censoredHacker",
+      "title": "AWS Module 13: Well-Architected Solutions",
+      "link": "https://www.youtube.com/watch?v=QorQOzphxGo",
+      "published_at": "2026-10-23T06:32:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QorQOzphxGo/hqdefault.jpg"
+    },
     {
       "video_id": "SP7y1h0laN0",
       "channel": "LiveOverflow",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=8dWUpaUOH3I",
       "published_at": "2026-10-22T02:49:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8dWUpaUOH3I/hqdefault.jpg"
-    },
-    {
-      "video_id": "AAzv5SRiLkc",
-      "channel": "hack_smarter",
-      "title": "[LIVE] - Active Directory Hacking & Ask Me Anything (AMA)",
-      "link": "https://www.youtube.com/watch?v=AAzv5SRiLkc",
-      "published_at": "2026-10-22T01:05:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/AAzv5SRiLkc/hqdefault.jpg"
     }
   ]
 }
