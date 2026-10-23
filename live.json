@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-23T01:08:49Z",
+  "updated": "2026-10-23T01:18:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "i am support (and toxic)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 428
+      "viewers": 411
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 300
     }
   ],
-  "viewers_total": 728,
+  "viewers_total": 711,
   "videos": [
     {
       "video_id": "vpeExBW53VQ",
