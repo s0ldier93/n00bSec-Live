@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T00:18:49Z",
+  "updated": "2026-10-23T00:28:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,10 @@
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 433
-    },
-    {
-      "platform": "twitch",
-      "name": "pwncollege",
-      "title": "CSE466 - Week 10 - Midterm Review!",
-      "link": "https://twitch.tv/pwncollege",
-      "viewers": 25
+      "viewers": 396
     }
   ],
-  "viewers_total": 968,
+  "viewers_total": 906,
   "videos": [
     {
       "video_id": "vpeExBW53VQ",
