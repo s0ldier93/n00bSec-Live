@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-23T21:18:49Z",
+  "updated": "2026-10-23T21:28:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83c\udf99\ufe0fThe Man Behind Midwest Gadgets Finally Speaks",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "hLnCYWp2G68",
+      "channel": "EJSA",
+      "title": "EJ'S NASA ARTEMIS ACCELERATION UPDATE! 10/23/26",
+      "link": "https://www.youtube.com/watch?v=hLnCYWp2G68",
+      "published_at": "2026-10-23T21:27:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/hLnCYWp2G68/hqdefault.jpg"
+    },
     {
       "video_id": "gELVxw2FCXQ",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=lIKgTI1OtTI",
       "published_at": "2026-10-22T16:00:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lIKgTI1OtTI/hqdefault.jpg"
-    },
-    {
-      "video_id": "FY67jdL1TGc",
-      "channel": "antisyphon",
-      "title": "AI in CTI: Capacity, Not Complexity | Nick Ascoli",
-      "link": "https://www.youtube.com/watch?v=FY67jdL1TGc",
-      "published_at": "2026-10-22T15:21:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FY67jdL1TGc/hqdefault.jpg"
     }
   ]
 }
