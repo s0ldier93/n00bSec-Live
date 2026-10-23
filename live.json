@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-23T00:28:50Z",
+  "updated": "2026-10-23T00:38:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "crafting interpreters can fix me",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 510
+      "viewers": 421
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 396
+      "viewers": 394
     }
   ],
-  "viewers_total": 906,
+  "viewers_total": 815,
   "videos": [
     {
       "video_id": "vpeExBW53VQ",
