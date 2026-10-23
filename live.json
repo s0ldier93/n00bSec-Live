@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-23T01:28:49Z",
+  "updated": "2026-10-23T01:38:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "i am support (and toxic)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 378
+      "viewers": 354
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY NIGHT BATTLE BEAGLES! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 275
+      "viewers": 292
     }
   ],
-  "viewers_total": 653,
+  "viewers_total": 646,
   "videos": [
+    {
+      "video_id": "r_Sd3aXcArc",
+      "channel": "EJSA",
+      "title": "THURSDAY NIGHT BATTLE BEAGLES! 10/22/26",
+      "link": "https://www.youtube.com/watch?v=r_Sd3aXcArc",
+      "published_at": "2026-10-23T00:46:45+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/r_Sd3aXcArc/hqdefault.jpg"
+    },
     {
       "video_id": "vpeExBW53VQ",
       "channel": "Cyber_Insecurity",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=LgulXFnwQS4",
       "published_at": "2026-10-22T01:03:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LgulXFnwQS4/hqdefault.jpg"
-    },
-    {
-      "video_id": "YRUNRaRpiQg",
-      "channel": "EJSA",
-      "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
-      "link": "https://www.youtube.com/watch?v=YRUNRaRpiQg",
-      "published_at": "2026-10-22T00:53:52+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/YRUNRaRpiQg/hqdefault.jpg"
     }
   ]
 }
