@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-23T19:08:49Z",
+  "updated": "2026-10-23T19:18:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S NASA ARTEMIS ACCELERATION UPDATE! 10/23/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 587
+      "viewers": 593
     },
     {
       "platform": "twitch",
       "name": "offsecofficial",
       "title": "OffSec Live | Footprints in the Logs - Catching Lateral Movement",
       "link": "https://twitch.tv/offsecofficial",
-      "viewers": 14
+      "viewers": 18
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 602,
+  "viewers_total": 612,
   "videos": [
     {
       "video_id": "96BLUHGIFxc",
