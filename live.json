@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-23T00:48:49Z",
+  "updated": "2026-10-23T00:58:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
-      "title": "crafting interpreters can fix me",
+      "title": "i am support (and toxic)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 493
+      "viewers": 500
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY NIGHT BATTLE BEAGLES! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 393
+      "viewers": 327
     }
   ],
-  "viewers_total": 886,
+  "viewers_total": 827,
   "videos": [
     {
       "video_id": "vpeExBW53VQ",
