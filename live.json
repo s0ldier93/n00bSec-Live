@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-23T22:18:49Z",
+  "updated": "2026-10-23T22:28:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/23/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 381
+      "viewers": 403
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83c\udf99\ufe0fThe Man Behind Midwest Gadgets Finally Speaks",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 383,
+  "viewers_total": 406,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
@@ -25,6 +25,14 @@
       "link": "https://www.youtube.com/watch?v=LJwAv_US-oI",
       "published_at": "2026-10-23T22:00:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LJwAv_US-oI/hqdefault.jpg"
+    },
+    {
+      "video_id": "QACa1Vg8g2c",
+      "channel": "gerald_auger_simplycyber",
+      "title": "Stop Chatting, Start Building: Your First AI Agent",
+      "link": "https://www.youtube.com/watch?v=QACa1Vg8g2c",
+      "published_at": "2026-10-23T21:54:59+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QACa1Vg8g2c/hqdefault.jpg"
     },
     {
       "video_id": "2xwaCJxzPjQ",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=xDuFNowQSHc",
       "published_at": "2026-10-22T21:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xDuFNowQSHc/hqdefault.jpg"
-    },
-    {
-      "video_id": "pWY4u40gUsU",
-      "channel": "Hackavis",
-      "title": "Madrid se gast\u00f3 1,2 millones de euros en 15 drones #shorts  #osint  #vigilanciapolicial",
-      "link": "https://www.youtube.com/watch?v=pWY4u40gUsU",
-      "published_at": "2026-10-22T18:30:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/pWY4u40gUsU/hqdefault.jpg"
     }
   ]
 }
