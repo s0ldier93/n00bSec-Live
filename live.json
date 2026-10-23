@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-23T23:48:49Z",
+  "updated": "2026-10-23T23:58:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Este hacking es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/23/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 434
+      "viewers": 433
     }
   ],
   "viewers_total": 437,
