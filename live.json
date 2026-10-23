@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-23T02:28:49Z",
+  "updated": "2026-10-23T02:38:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY NIGHT BATTLE BEAGLES! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 267
+      "viewers": 263
     }
   ],
-  "viewers_total": 267,
+  "viewers_total": 263,
   "videos": [
+    {
+      "video_id": "SP7y1h0laN0",
+      "channel": "LiveOverflow",
+      "title": "php situation 24h later",
+      "link": "https://www.youtube.com/watch?v=SP7y1h0laN0",
+      "published_at": "2026-10-23T02:16:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SP7y1h0laN0/hqdefault.jpg"
+    },
     {
       "video_id": "r_Sd3aXcArc",
       "channel": "EJSA",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=AAzv5SRiLkc",
       "published_at": "2026-10-22T01:05:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/AAzv5SRiLkc/hqdefault.jpg"
-    },
-    {
-      "video_id": "LgulXFnwQS4",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Cyber Security News & QA",
-      "link": "https://www.youtube.com/watch?v=LgulXFnwQS4",
-      "published_at": "2026-10-22T01:03:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LgulXFnwQS4/hqdefault.jpg"
     }
   ]
 }
