@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-23T02:18:49Z",
+  "updated": "2026-10-23T02:28:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY NIGHT BATTLE BEAGLES! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 271
+      "viewers": 267
     }
   ],
-  "viewers_total": 271,
+  "viewers_total": 267,
   "videos": [
     {
       "video_id": "r_Sd3aXcArc",
