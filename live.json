@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T21:08:49Z",
+  "updated": "2026-10-23T21:18:20Z",
   "streams": [
     {
       "platform": "twitch",
@@ -18,6 +18,14 @@
   ],
   "viewers_total": 598,
   "videos": [
+    {
+      "video_id": "gELVxw2FCXQ",
+      "channel": "SecurityWeekly",
+      "title": "Tor, PhP2Shell, Deepfakes, eMudhra, LiteLLM, Meta, Josh Marpet, and More - SWN #627",
+      "link": "https://www.youtube.com/watch?v=gELVxw2FCXQ",
+      "published_at": "2026-10-23T21:00:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gELVxw2FCXQ/hqdefault.jpg"
+    },
     {
       "video_id": "96BLUHGIFxc",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=FY67jdL1TGc",
       "published_at": "2026-10-22T15:21:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FY67jdL1TGc/hqdefault.jpg"
-    },
-    {
-      "video_id": "Tma7LCSNRso",
-      "channel": "JohnHammond010",
-      "title": "The Economics of AI",
-      "link": "https://www.youtube.com/watch?v=Tma7LCSNRso",
-      "published_at": "2026-10-22T15:20:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Tma7LCSNRso/hqdefault.jpg"
     }
   ]
 }
