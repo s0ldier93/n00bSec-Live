@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-23T00:58:48Z",
+  "updated": "2026-10-23T01:08:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "i am support (and toxic)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 500
+      "viewers": 428
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "THURSDAY NIGHT BATTLE BEAGLES! 10/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 327
+      "viewers": 300
     }
   ],
-  "viewers_total": 827,
+  "viewers_total": 728,
   "videos": [
     {
       "video_id": "vpeExBW53VQ",
