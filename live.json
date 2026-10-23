@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-23T14:08:36Z",
+  "updated": "2026-10-23T15:07:55Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "3RbemNhB3y0",
+      "channel": "SecurityWeekly",
+      "title": "Why More Security Controls Aren't Enough",
+      "link": "https://www.youtube.com/watch?v=3RbemNhB3y0",
+      "published_at": "2026-10-23T15:00:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3RbemNhB3y0/hqdefault.jpg"
+    },
     {
       "video_id": "a-hhpZSf6Gw",
       "channel": "TheShyHat",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=iXp-TCaAWng",
       "published_at": "2026-10-22T05:18:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/iXp-TCaAWng/hqdefault.jpg"
-    },
-    {
-      "video_id": "JfF2VRp44Jc",
-      "channel": "EJSA",
-      "title": "WARDOGS WEDNESDAY WITH THE EJ CREW! 10/21/26",
-      "link": "https://www.youtube.com/watch?v=JfF2VRp44Jc",
-      "published_at": "2026-10-22T04:15:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/JfF2VRp44Jc/hqdefault.jpg"
     }
   ]
 }
