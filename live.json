@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-23T06:48:49Z",
+  "updated": "2026-10-23T06:58:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AWS Module 13: Well-Architected Solutions",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "SP7y1h0laN0",
