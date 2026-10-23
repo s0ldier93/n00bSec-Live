@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:48:49Z",
+  "updated": "2026-10-23T17:58:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,9 +7,16 @@
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
       "viewers": 3
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "EJ'S NASA ARTEMIS ACCELERATION UPDATE! 10/23/26",
+      "link": "https://www.youtube.com/watch?v=IqdyJwY9YA4",
+      "viewers": 61
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 64,
   "videos": [
     {
       "video_id": "IqdyJwY9YA4",
