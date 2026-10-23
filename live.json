@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-23T21:18:20Z",
+  "updated": "2026-10-23T21:18:49Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "EJ'S NASA ARTEMIS ACCELERATION UPDATE! 10/23/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 596
-    },
     {
       "platform": "twitch",
       "name": "freshforensics",
@@ -16,7 +9,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 598,
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "gELVxw2FCXQ",
