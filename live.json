@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-23T18:58:49Z",
+  "updated": "2026-10-23T19:08:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S NASA ARTEMIS ACCELERATION UPDATE! 10/23/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 559
+      "viewers": 587
     },
     {
       "platform": "twitch",
       "name": "offsecofficial",
       "title": "OffSec Live | Footprints in the Logs - Catching Lateral Movement",
       "link": "https://twitch.tv/offsecofficial",
-      "viewers": 5
+      "viewers": 14
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 565,
+  "viewers_total": 602,
   "videos": [
+    {
+      "video_id": "96BLUHGIFxc",
+      "channel": "mbcrump",
+      "title": "Switch 2 Exploit News: How to Install SmileBASIC 4 After It Disappeared from Search (USA)",
+      "link": "https://www.youtube.com/watch?v=96BLUHGIFxc",
+      "published_at": "2026-10-23T18:47:48+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/96BLUHGIFxc/hqdefault.jpg"
+    },
     {
       "video_id": "sXU0aV6l26Y",
       "channel": "Hackavis",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=Tma7LCSNRso",
       "published_at": "2026-10-22T15:20:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Tma7LCSNRso/hqdefault.jpg"
-    },
-    {
-      "video_id": "SMQR1xW7XFA",
-      "channel": "SecurityWeekly",
-      "title": "Are You Measuring Cyber Risk Correctly?",
-      "link": "https://www.youtube.com/watch?v=SMQR1xW7XFA",
-      "published_at": "2026-10-22T14:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SMQR1xW7XFA/hqdefault.jpg"
     }
   ]
 }
