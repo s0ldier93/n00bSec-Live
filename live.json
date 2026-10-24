@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-24T14:20:13Z",
+  "updated": "2026-10-24T14:39:35Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "07_B6kKLDh0",
+      "channel": "TheLaluka",
+      "title": "Is manual pentesting now unethical? #shorts",
+      "link": "https://www.youtube.com/watch?v=07_B6kKLDh0",
+      "published_at": "2026-10-24T14:20:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/07_B6kKLDh0/hqdefault.jpg"
+    },
     {
       "video_id": "LJwAv_US-oI",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=0D-6jnTJq1w",
       "published_at": "2026-10-22T21:15:57+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0D-6jnTJq1w/hqdefault.jpg"
-    },
-    {
-      "video_id": "xDuFNowQSHc",
-      "channel": "SecurityWeekly",
-      "title": "PHP2Hell - Joshua Wright - PSW #949",
-      "link": "https://www.youtube.com/watch?v=xDuFNowQSHc",
-      "published_at": "2026-10-22T21:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xDuFNowQSHc/hqdefault.jpg"
     }
   ]
 }
