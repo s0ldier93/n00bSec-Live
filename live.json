@@ -1,29 +1,22 @@
 {
-  "updated": "2026-10-24T04:48:48Z",
+  "updated": "2026-10-24T04:58:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays Cyberpunk | First Playthrough",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 11
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Este RANKED es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "freshforensics",
-      "title": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f I Built an FBI Tool to Investigate YouTube Comments",
-      "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 15,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
