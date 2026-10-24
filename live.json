@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T08:48:49Z",
+  "updated": "2026-10-24T09:48:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,9 +7,16 @@
       "title": "State of Decay 2 with @datadominatrix",
       "link": "https://twitch.tv/irasakai",
       "viewers": 5
+    },
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "hiding in your computer",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 9
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 14,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
