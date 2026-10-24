@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-24T15:19:37Z",
+  "updated": "2026-10-24T17:59:35Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "oBYDnLdslJs",
+      "channel": "ElPinguinoDeMario",
+      "title": "\ud83d\udc49 Curso Intensivo de HACKING \u00c9TICO de 0 a Hackear Aplicaciones  \ud83e\udd77",
+      "link": "https://www.youtube.com/watch?v=oBYDnLdslJs",
+      "published_at": "2026-10-24T17:38:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oBYDnLdslJs/hqdefault.jpg"
+    },
     {
       "video_id": "kYzWlWx6hQM",
       "channel": "HaxrByte",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=SP7y1h0laN0",
       "published_at": "2026-10-23T02:16:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SP7y1h0laN0/hqdefault.jpg"
-    },
-    {
-      "video_id": "r_Sd3aXcArc",
-      "channel": "EJSA",
-      "title": "THURSDAY NIGHT BATTLE BEAGLES! 10/22/26",
-      "link": "https://www.youtube.com/watch?v=r_Sd3aXcArc",
-      "published_at": "2026-10-23T00:46:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/r_Sd3aXcArc/hqdefault.jpg"
     }
   ]
 }
