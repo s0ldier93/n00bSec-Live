@@ -1,22 +1,29 @@
 {
-  "updated": "2026-10-24T05:28:48Z",
+  "updated": "2026-10-24T05:38:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays Cyberpunk | First Playthrough",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 17
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Este RANKED es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 2
+    },
+    {
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "State of Decay 2 with @datadominatrix",
+      "link": "https://twitch.tv/irasakai",
+      "viewers": 1
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
