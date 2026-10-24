@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-24T18:39:36Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-24T22:10:30Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "State of Decay 2 with @datadominatrix",
+      "link": "https://twitch.tv/irasakai",
+      "viewers": 3
+    }
+  ],
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "sX1Vor_2gN0",
