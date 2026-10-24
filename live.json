@@ -1,8 +1,32 @@
 {
-  "updated": "2026-10-24T14:39:35Z",
+  "updated": "2026-10-24T15:19:37Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "kYzWlWx6hQM",
+      "channel": "HaxrByte",
+      "title": "The Secret Kerberos Flaw Hackers Use To Get Domain Admin #hacking #ihaxrbyte #shorts",
+      "link": "https://www.youtube.com/watch?v=kYzWlWx6hQM",
+      "published_at": "2026-10-24T15:07:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/kYzWlWx6hQM/hqdefault.jpg"
+    },
+    {
+      "video_id": "c_ioEqX7NFE",
+      "channel": "ippsec",
+      "title": "HackTheBox - Checkpoint",
+      "link": "https://www.youtube.com/watch?v=c_ioEqX7NFE",
+      "published_at": "2026-10-24T15:07:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/c_ioEqX7NFE/hqdefault.jpg"
+    },
+    {
+      "video_id": "1H5aEn7iO-k",
+      "channel": "SecurityWeekly",
+      "title": "Tor Wasn't Built to Protect Everything",
+      "link": "https://www.youtube.com/watch?v=1H5aEn7iO-k",
+      "published_at": "2026-10-24T15:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1H5aEn7iO-k/hqdefault.jpg"
+    },
     {
       "video_id": "07_B6kKLDh0",
       "channel": "TheLaluka",
@@ -138,30 +162,6 @@
       "link": "https://www.youtube.com/watch?v=r_Sd3aXcArc",
       "published_at": "2026-10-23T00:46:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/r_Sd3aXcArc/hqdefault.jpg"
-    },
-    {
-      "video_id": "vpeExBW53VQ",
-      "channel": "Cyber_Insecurity",
-      "title": "Humans read 3M words a year. LLMs read 10 trillion.",
-      "link": "https://www.youtube.com/watch?v=vpeExBW53VQ",
-      "published_at": "2026-10-22T22:05:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/vpeExBW53VQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "g7jdZ8mtUMY",
-      "channel": "SecurityWeekly",
-      "title": "Incident Responders Are Overwhelmed",
-      "link": "https://www.youtube.com/watch?v=g7jdZ8mtUMY",
-      "published_at": "2026-10-22T22:00:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/g7jdZ8mtUMY/hqdefault.jpg"
-    },
-    {
-      "video_id": "0D-6jnTJq1w",
-      "channel": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 10/22/26",
-      "link": "https://www.youtube.com/watch?v=0D-6jnTJq1w",
-      "published_at": "2026-10-22T21:15:57+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0D-6jnTJq1w/hqdefault.jpg"
     }
   ]
 }
