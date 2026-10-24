@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-24T02:58:48Z",
+  "updated": "2026-10-24T03:08:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays Cyberpunk | First Playthrough",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 17
+      "viewers": 18
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 25,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
