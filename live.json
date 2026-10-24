@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T05:18:48Z",
+  "updated": "2026-10-24T05:28:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "c04tl",
       "title": "Este RANKED es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 20,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
