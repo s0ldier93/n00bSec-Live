@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T10:08:48Z",
+  "updated": "2026-10-24T10:18:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "panekopanko",
       "title": "hiding in your computer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 15
+      "viewers": 27
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 31,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
