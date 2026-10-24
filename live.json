@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-24T04:08:49Z",
+  "updated": "2026-10-24T04:18:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays Cyberpunk | First Playthrough",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 16
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Este RANKED es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  10 subs for a shot!  Backlog hunt has begun!\ud83c\udfc615/35\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 24,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
