@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T10:48:48Z",
+  "updated": "2026-10-24T10:58:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "panekopanko",
       "title": "scp 3001 | hiding in your computer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 23
+      "viewers": 31
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
