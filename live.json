@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T00:58:49Z",
+  "updated": "2026-10-24T01:08:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/23/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 416
+      "viewers": 414
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f I Built an FBI Tool to Investigate YouTube Comments",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 424,
+  "viewers_total": 423,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
