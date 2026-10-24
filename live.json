@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T01:28:49Z",
+  "updated": "2026-10-24T01:38:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "c04tl",
       "title": "Este hacking es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -27,10 +27,10 @@
       "name": "freshforensics",
       "title": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f I Built an FBI Tool to Investigate YouTube Comments",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 5
     }
   ],
-  "viewers_total": 15,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "LJwAv_US-oI",
