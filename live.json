@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-25T02:00:30Z",
+  "updated": "2026-10-25T02:10:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 15
+      "viewers": 21
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "freshforensics",
       "title": "\ud83d\udc80Building Tools for Hackers: M5Launcher & Bruce Firmware",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 7
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 35,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
