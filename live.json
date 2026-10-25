@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T01:40:30Z",
+  "updated": "2026-10-25T01:50:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "freshforensics",
       "title": "\ud83d\udc80Building Tools for Hackers: M5Launcher & Bruce Firmware",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -34,11 +34,19 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=HHWTTLHqjak",
-      "viewers": 5
+      "viewers": 6
     }
   ],
   "viewers_total": 23,
   "videos": [
+    {
+      "video_id": "HHWTTLHqjak",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=HHWTTLHqjak",
+      "published_at": "2026-10-25T01:18:57+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/HHWTTLHqjak/hqdefault.jpg"
+    },
     {
       "video_id": "sX1Vor_2gN0",
       "channel": "Hackavis",
@@ -190,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=mHtGpuvtdLc",
       "published_at": "2026-10-23T09:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mHtGpuvtdLc/hqdefault.jpg"
-    },
-    {
-      "video_id": "QorQOzphxGo",
-      "channel": "censoredHacker",
-      "title": "AWS Module 13: Well-Architected Solutions",
-      "link": "https://www.youtube.com/watch?v=QorQOzphxGo",
-      "published_at": "2026-10-23T06:32:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/QorQOzphxGo/hqdefault.jpg"
     }
   ]
 }
