@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T04:10:30Z",
+  "updated": "2026-10-25T04:19:57Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "cybertechvibes",
       "title": "SUBATHON!!  10 subs for a shot!  Backlog hunt has begun!\ud83c\udfc620/35\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -27,17 +27,10 @@
       "name": "irasakai",
       "title": "State of Decay 2 with @datadominatrix",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
-    },
-    {
-      "platform": "youtube",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
-      "link": "https://www.youtube.com/watch?v=HHWTTLHqjak",
-      "viewers": 7
+      "viewers": 4
     }
   ],
-  "viewers_total": 57,
+  "viewers_total": 49,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
