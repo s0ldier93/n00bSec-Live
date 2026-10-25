@@ -1,43 +1,36 @@
 {
-  "updated": "2026-10-25T17:40:30Z",
+  "updated": "2026-10-25T17:50:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux] Cours Shell : d\u00e9couvrez la ligne de commande !",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 28
+      "viewers": 44
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Learning Linux for the enterprise.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 38
-    },
-    {
-      "platform": "twitch",
-      "name": "Khaos_Farbauti",
-      "title": "C'est le facteur ? | HTB Postman",
-      "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 45
+      "viewers": 33
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 36
+      "viewers": 34
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=OhaKyiaEUzA",
-      "viewers": 29
+      "viewers": 27
     }
   ],
-  "viewers_total": 176,
+  "viewers_total": 138,
   "videos": [
     {
       "video_id": "oMQbgEj6lgU",
