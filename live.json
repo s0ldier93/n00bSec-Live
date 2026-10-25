@@ -1,23 +1,16 @@
 {
-  "updated": "2026-10-25T20:33:12Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "pebl3",
-      "title": "Hacking CTFs | !htb !discord !youtube",
-      "link": "https://twitch.tv/pebl3",
-      "viewers": 52
-    },
-    {
-      "platform": "youtube",
-      "name": "pebl3",
-      "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=OhaKyiaEUzA",
-      "viewers": 26
-    }
-  ],
-  "viewers_total": 78,
+  "updated": "2026-10-25T20:42:46Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "05xGk78MqBk",
+      "channel": "mbcrump",
+      "title": "PlayStation Homebrew News (Prolapse 14.00/14.10, Steam on PS5 & PS5SX2)",
+      "link": "https://www.youtube.com/watch?v=05xGk78MqBk",
+      "published_at": "2026-10-25T20:37:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/05xGk78MqBk/hqdefault.jpg"
+    },
     {
       "video_id": "ZUOpe9PGMDw",
       "channel": "Hackavis",
@@ -169,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=sXU0aV6l26Y",
       "published_at": "2026-10-23T18:30:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/sXU0aV6l26Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "IqdyJwY9YA4",
-      "channel": "EJSA",
-      "title": "THURSDAY NIGHT BATTLE BEAGLES! 10/22/26",
-      "link": "https://www.youtube.com/watch?v=IqdyJwY9YA4",
-      "published_at": "2026-10-23T17:37:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IqdyJwY9YA4/hqdefault.jpg"
     }
   ]
 }
