@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T02:40:30Z",
+  "updated": "2026-10-25T02:50:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,14 @@
       "name": "c04tl",
       "title": "Este RANKED es real \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 2
+      "viewers": 1
+    },
+    {
+      "platform": "twitch",
+      "name": "cybertechvibes",
+      "title": "SUBATHON!!  10 subs for a shot!  Backlog hunt has begun!\ud83c\udfc620/35\ud83c\udfc6 #TheTrophyTrackers",
+      "link": "https://twitch.tv/cybertechvibes",
+      "viewers": 0
     },
     {
       "platform": "twitch",
@@ -34,10 +41,10 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=HHWTTLHqjak",
-      "viewers": 9
+      "viewers": 8
     }
   ],
-  "viewers_total": 38,
+  "viewers_total": 36,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
