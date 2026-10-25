@@ -232,11 +232,11 @@
   }
   .tvResume button:hover { background: #9147ff; }
   .sidebarEmpty { color: #9aa0ab; font-size: 13px; padding: 12px 4px; }
-  #promo { margin-top: 16px; }
+  #promo { margin-bottom: 16px; }
   #promo img { display: block; width: 100%; border-radius: 8px; }
-#shipMap { margin-top: 16px; }
-#shipMap .shipTitle { font-weight: 600; margin-bottom: 6px; }
-#shipMap iframe { display: block; width: 100%; border: 0; border-radius: 8px; }
+  #shipMap { margin-top: 16px; }
+  #shipMap .shipTitle { font-weight: 600; margin-bottom: 6px; }
+  #shipMap iframe { display: block; width: 100%; border: 0; border-radius: 8px; }
   #recentVideos { margin-top: 16px; }
   #recentVideos h3 { font-size: 13px; color: #9aa0ab; margin: 0 4px 8px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
   .recentItem {
@@ -293,9 +293,9 @@
 </header>
 <div id="layout">
   <aside id="sidebar">
-    <div id="streamList"></div>
     <!-- Sidebar artwork: swap by replacing promo.jpg in the repo (keep the filename). Links to the SeaCon3 page. -->
     <div id="promo"><a href="seacon3.html"><img src="promo.jpg" alt="SeaCon3 Persistence — click for details" loading="lazy"></a></div>
+    <div id="streamList"></div>
     <!-- Live AIS position of the SeaCon3 ship (Scarlet Lady, IMO 9804801) via the VesselFinder embed (vesselfinder.com/embed).
          Options live in their own object (map_options_name) so they don't leak into page globals; the script enforces height >= 400. -->
     <div id="shipMap">
