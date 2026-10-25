@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-25T15:40:31Z",
+  "updated": "2026-10-25T15:50:30Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "het_tanis",
+      "title": "Learning Linux for the enterprise.",
+      "link": "https://twitch.tv/het_tanis",
+      "viewers": 5
+    },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "octobre rouge ?!",
       "link": "https://twitch.tv/topklean",
-      "viewers": 99
+      "viewers": 79
     }
   ],
-  "viewers_total": 99,
+  "viewers_total": 84,
   "videos": [
     {
       "video_id": "2SV4mnHE6tw",
