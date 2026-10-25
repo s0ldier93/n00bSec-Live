@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T00:50:30Z",
+  "updated": "2026-10-25T01:00:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "freshforensics",
       "title": "\ud83d\udc80Building Tools for Hackers: M5Launcher & Bruce Firmware",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "State of Decay 2 with @datadominatrix",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "sX1Vor_2gN0",
