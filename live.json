@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-25T15:20:30Z",
+  "updated": "2026-10-25T15:30:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "octobre rouge ?!",
       "link": "https://twitch.tv/topklean",
-      "viewers": 84
+      "viewers": 86
     }
   ],
-  "viewers_total": 84,
+  "viewers_total": 86,
   "videos": [
+    {
+      "video_id": "2SV4mnHE6tw",
+      "channel": "TheLaluka",
+      "title": "I pranked a kernel researcher... it went WRONG #shorts",
+      "link": "https://www.youtube.com/watch?v=2SV4mnHE6tw",
+      "published_at": "2026-10-25T15:20:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2SV4mnHE6tw/hqdefault.jpg"
+    },
     {
       "video_id": "HHWTTLHqjak",
       "channel": "BlaiseBits",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=a-hhpZSf6Gw",
       "published_at": "2026-10-23T12:00:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/a-hhpZSf6Gw/hqdefault.jpg"
-    },
-    {
-      "video_id": "mHtGpuvtdLc",
-      "channel": "antisyphon",
-      "title": "Fusion: Where Automation Meets Manual Testing",
-      "link": "https://www.youtube.com/watch?v=mHtGpuvtdLc",
-      "published_at": "2026-10-23T09:00:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mHtGpuvtdLc/hqdefault.jpg"
     }
   ]
 }
