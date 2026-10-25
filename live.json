@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-25T15:10:30Z",
+  "updated": "2026-10-25T15:20:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "octobre rouge ?!",
       "link": "https://twitch.tv/topklean",
-      "viewers": 77
+      "viewers": 84
     }
   ],
-  "viewers_total": 77,
+  "viewers_total": 84,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
