@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T04:20:30Z",
+  "updated": "2026-10-25T04:30:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "freshforensics",
       "title": "\ud83d\udc80Building Tools for Hackers: M5Launcher & Bruce Firmware",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 18
+      "viewers": 20
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 25,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
