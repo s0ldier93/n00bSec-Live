@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T07:20:31Z",
+  "updated": "2026-10-25T07:30:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,16 +7,9 @@
       "title": "SUBATHON!!  10 subs for a shot!  Backlog hunt has begun!\ud83c\udfc620/35\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
       "viewers": 6
-    },
-    {
-      "platform": "twitch",
-      "name": "irasakai",
-      "title": "Attack on Titan 2",
-      "link": "https://twitch.tv/irasakai",
-      "viewers": 6
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 6,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
