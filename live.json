@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T05:40:30Z",
+  "updated": "2026-10-25T05:50:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "goproflowyo",
       "title": "KARMA",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 10
+      "viewers": 13
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 5
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 33,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
