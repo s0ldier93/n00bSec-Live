@@ -1,23 +1,45 @@
 {
-  "updated": "2026-10-25T16:00:31Z",
+  "updated": "2026-10-25T16:10:09Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Learning Linux for the enterprise.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 17
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "C'est le facteur ? | HTB Postman",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 17
+      "viewers": 63
+    },
+    {
+      "platform": "twitch",
+      "name": "pebl3",
+      "title": "Hacking CTFs | !htb !discord !youtube",
+      "link": "https://twitch.tv/pebl3",
+      "viewers": 20
+    },
+    {
+      "platform": "youtube",
+      "name": "pebl3",
+      "title": "Hacking CTFs",
+      "link": "https://www.youtube.com/watch?v=OhaKyiaEUzA",
+      "viewers": 12
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 118,
   "videos": [
+    {
+      "video_id": "OhaKyiaEUzA",
+      "channel": "pebl3",
+      "title": "Hacking CTFs",
+      "link": "https://www.youtube.com/watch?v=OhaKyiaEUzA",
+      "published_at": "2026-10-25T15:56:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/OhaKyiaEUzA/hqdefault.jpg"
+    },
     {
       "video_id": "2SV4mnHE6tw",
       "channel": "TheLaluka",
@@ -169,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=3RbemNhB3y0",
       "published_at": "2026-10-23T15:00:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/3RbemNhB3y0/hqdefault.jpg"
-    },
-    {
-      "video_id": "a-hhpZSf6Gw",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Catchy Tune - Reverse Audio Search - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=a-hhpZSf6Gw",
-      "published_at": "2026-10-23T12:00:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/a-hhpZSf6Gw/hqdefault.jpg"
     }
   ]
 }
