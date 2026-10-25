@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:10:31Z",
+  "updated": "2026-10-25T18:20:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "het_tanis",
       "title": "Learning Linux for the enterprise.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 21
+      "viewers": 26
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 33
+      "viewers": 41
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=OhaKyiaEUzA",
-      "viewers": 27
+      "viewers": 25
     }
   ],
-  "viewers_total": 132,
+  "viewers_total": 143,
   "videos": [
     {
       "video_id": "oMQbgEj6lgU",
