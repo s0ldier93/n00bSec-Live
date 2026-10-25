@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-25T05:00:29Z",
+  "updated": "2026-10-25T05:20:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  10 subs for a shot!  Backlog hunt has begun!\ud83c\udfc620/35\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -17,13 +17,20 @@
     },
     {
       "platform": "twitch",
+      "name": "goproflowyo",
+      "title": "KARMA",
+      "link": "https://twitch.tv/goproflowyo",
+      "viewers": 4
+    },
+    {
+      "platform": "twitch",
       "name": "irasakai",
       "title": "State of Decay 2 with @datadominatrix",
       "link": "https://twitch.tv/irasakai",
       "viewers": 4
     }
   ],
-  "viewers_total": 21,
+  "viewers_total": 26,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
