@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-25T15:50:30Z",
+  "updated": "2026-10-25T16:00:31Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Learning Linux for the enterprise.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 5
+      "viewers": 17
     },
     {
       "platform": "twitch",
-      "name": "topklean",
-      "title": "octobre rouge ?!",
-      "link": "https://twitch.tv/topklean",
-      "viewers": 79
+      "name": "Khaos_Farbauti",
+      "title": "C'est le facteur ? | HTB Postman",
+      "link": "https://twitch.tv/Khaos_Farbauti",
+      "viewers": 17
     }
   ],
-  "viewers_total": 84,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "2SV4mnHE6tw",
