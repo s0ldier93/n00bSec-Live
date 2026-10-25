@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T16:40:30Z",
+  "updated": "2026-10-25T16:50:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "Khaos_Farbauti",
       "title": "C'est le facteur ? | HTB Postman",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 67
+      "viewers": 66
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 42
+      "viewers": 39
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=OhaKyiaEUzA",
-      "viewers": 24
+      "viewers": 32
     }
   ],
-  "viewers_total": 156,
+  "viewers_total": 160,
   "videos": [
     {
       "video_id": "oMQbgEj6lgU",
