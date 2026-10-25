@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-25T03:20:29Z",
+  "updated": "2026-10-25T03:30:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 42
+      "viewers": 39
     },
     {
       "platform": "twitch",
@@ -27,17 +27,17 @@
       "name": "irasakai",
       "title": "State of Decay 2 with @datadominatrix",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=HHWTTLHqjak",
-      "viewers": 7
+      "viewers": 8
     }
   ],
-  "viewers_total": 53,
+  "viewers_total": 52,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
