@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-25T02:10:30Z",
+  "updated": "2026-10-25T02:20:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 21
+      "viewers": 20
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 7
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
