@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T06:50:28Z",
+  "updated": "2026-10-25T07:00:30Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "goproflowyo",
       "title": "KARMA | ty: @djscottducey",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 25
+      "viewers": 31
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 42,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
