@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-25T00:00:31Z",
+  "updated": "2026-10-25T00:10:30Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "freshforensics",
+      "title": "\ud83d\udc80Building Tools for Hackers: M5Launcher & Bruce Firmware",
+      "link": "https://twitch.tv/freshforensics",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "irasakai",
