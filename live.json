@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-25T23:23:12Z",
+  "updated": "2026-10-25T23:53:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Hacking real y en vivo \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 5
+      "viewers": 8
+    },
+    {
+      "platform": "twitch",
+      "name": "chiefgyk3d",
+      "title": "Time for Morrowind, Chat, and Chill |Cybersecurity,Rants,Chill,&Linux Gaming|10-25-26",
+      "link": "https://twitch.tv/chiefgyk3d",
+      "viewers": 8
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 16,
   "videos": [
     {
       "video_id": "05xGk78MqBk",
