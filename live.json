@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-25T13:20:31Z",
+  "updated": "2026-10-25T13:30:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hello hello hello",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 25
+      "viewers": 41
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "octobre rouge ?!",
       "link": "https://twitch.tv/topklean",
-      "viewers": 35
+      "viewers": 51
     }
   ],
-  "viewers_total": 60,
+  "viewers_total": 92,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
