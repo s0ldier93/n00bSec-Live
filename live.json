@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T07:00:30Z",
+  "updated": "2026-10-25T07:10:29Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,20 +10,13 @@
     },
     {
       "platform": "twitch",
-      "name": "goproflowyo",
-      "title": "KARMA | ty: @djscottducey",
-      "link": "https://twitch.tv/goproflowyo",
-      "viewers": 31
-    },
-    {
-      "platform": "twitch",
       "name": "irasakai",
       "title": "Attack on Titan 2",
       "link": "https://twitch.tv/irasakai",
       "viewers": 6
     }
   ],
-  "viewers_total": 42,
+  "viewers_total": 11,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
