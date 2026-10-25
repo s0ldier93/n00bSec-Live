@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-25T06:30:29Z",
+  "updated": "2026-10-25T06:40:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  10 subs for a shot!  Backlog hunt has begun!\ud83c\udfc620/35\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 7
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "goproflowyo",
       "title": "KARMA | ty: @djscottducey",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 40
+      "viewers": 35
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Attack on Titan 2",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 6
+      "viewers": 7
     }
   ],
-  "viewers_total": 64,
+  "viewers_total": 63,
   "videos": [
     {
       "video_id": "HHWTTLHqjak",
