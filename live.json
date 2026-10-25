@@ -1,37 +1,45 @@
 {
-  "updated": "2026-10-25T16:10:09Z",
+  "updated": "2026-10-25T16:20:31Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Learning Linux for the enterprise.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 23
+      "viewers": 22
     },
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "C'est le facteur ? | HTB Postman",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 63
+      "viewers": 65
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 20
+      "viewers": 23
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=OhaKyiaEUzA",
-      "viewers": 12
+      "viewers": 26
     }
   ],
-  "viewers_total": 118,
+  "viewers_total": 136,
   "videos": [
+    {
+      "video_id": "oMQbgEj6lgU",
+      "channel": "JohnHammond010",
+      "title": "The AI Threat Landscape",
+      "link": "https://www.youtube.com/watch?v=oMQbgEj6lgU",
+      "published_at": "2026-10-25T16:01:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oMQbgEj6lgU/hqdefault.jpg"
+    },
     {
       "video_id": "OhaKyiaEUzA",
       "channel": "pebl3",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=K3SS9mm-Ld0",
       "published_at": "2026-10-23T16:13:53+00:00",
       "thumbnail": "https://i.ytimg.com/vi/K3SS9mm-Ld0/hqdefault.jpg"
-    },
-    {
-      "video_id": "3RbemNhB3y0",
-      "channel": "SecurityWeekly",
-      "title": "Why More Security Controls Aren't Enough",
-      "link": "https://www.youtube.com/watch?v=3RbemNhB3y0",
-      "published_at": "2026-10-23T15:00:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/3RbemNhB3y0/hqdefault.jpg"
     }
   ]
 }
