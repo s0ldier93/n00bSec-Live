@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-26T00:43:12Z",
+  "updated": "2026-10-26T00:53:11Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Time for Morrowind, Chat, and Chill |Cybersecurity,Rants,Chill,&Linux Gaming|10-25-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 14
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "HaxrByte",
       "title": "[LIVE] After Hours in the GhostShell \u2014 Red Team Debrief (25 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "HaxrByte",
       "title": "[LIVE] After Hours in the GhostShell \u2014 Red Team Debrief (25 Oct 2026)",
       "link": "https://www.youtube.com/watch?v=T_34v3HP_Ks",
-      "viewers": 5
+      "viewers": 4
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "05xGk78MqBk",
