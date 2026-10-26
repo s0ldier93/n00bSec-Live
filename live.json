@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T01:03:12Z",
+  "updated": "2026-10-26T01:12:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -17,14 +17,29 @@
     },
     {
       "platform": "youtube",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=P8e0pCg1iJQ",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
       "name": "HaxrByte",
       "title": "[LIVE] After Hours in the GhostShell \u2014 Red Team Debrief (25 Oct 2026)",
       "link": "https://www.youtube.com/watch?v=T_34v3HP_Ks",
       "viewers": 4
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 27,
   "videos": [
+    {
+      "video_id": "T_34v3HP_Ks",
+      "channel": "HaxrByte",
+      "title": "[LIVE] After Hours in the GhostShell \u2014 Red Team Debrief (25 Oct 2026)",
+      "link": "https://www.youtube.com/watch?v=T_34v3HP_Ks",
+      "published_at": "2026-10-25T23:09:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/T_34v3HP_Ks/hqdefault.jpg"
+    },
     {
       "video_id": "05xGk78MqBk",
       "channel": "mbcrump",
@@ -176,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=96BLUHGIFxc",
       "published_at": "2026-10-23T18:47:48+00:00",
       "thumbnail": "https://i.ytimg.com/vi/96BLUHGIFxc/hqdefault.jpg"
-    },
-    {
-      "video_id": "sXU0aV6l26Y",
-      "channel": "Hackavis",
-      "title": "3 herramientas de OPSEC #shorts  #opsec  #privacidad",
-      "link": "https://www.youtube.com/watch?v=sXU0aV6l26Y",
-      "published_at": "2026-10-23T18:30:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sXU0aV6l26Y/hqdefault.jpg"
     }
   ]
 }
