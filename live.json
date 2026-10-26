@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T00:13:12Z",
+  "updated": "2026-10-26T00:23:12Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "HaxrByte",
       "title": "[LIVE] After Hours in the GhostShell \u2014 Red Team Debrief (25 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 2
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "HaxrByte",
       "title": "[LIVE] After Hours in the GhostShell \u2014 Red Team Debrief (25 Oct 2026)",
       "link": "https://www.youtube.com/watch?v=T_34v3HP_Ks",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 23,
   "videos": [
     {
       "video_id": "05xGk78MqBk",
