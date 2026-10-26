@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-26T01:43:11Z",
+  "updated": "2026-10-26T01:53:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 15
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Time for Morrowind, Chat, and Chill |Cybersecurity,Rants,Chill,&Linux Gaming|10-25-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 12
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udea8 From Drug Dealer to Ethical Hacker | My Real Story",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=P8e0pCg1iJQ",
-      "viewers": 5
+      "viewers": 6
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "P8e0pCg1iJQ",
