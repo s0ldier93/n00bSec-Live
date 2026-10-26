@@ -1,29 +1,15 @@
 {
-  "updated": "2026-10-26T04:43:10Z",
+  "updated": "2026-10-26T04:52:40Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 34
-    },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udea8 From Drug Dealer to Ethical Hacker | My Real Story",
       "link": "https://twitch.tv/freshforensics",
       "viewers": 8
-    },
-    {
-      "platform": "youtube",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
-      "link": "https://www.youtube.com/watch?v=P8e0pCg1iJQ",
-      "viewers": 5
     }
   ],
-  "viewers_total": 47,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "P8e0pCg1iJQ",
