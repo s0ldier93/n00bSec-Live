@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-26T01:12:38Z",
+  "updated": "2026-10-26T01:13:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Time for Morrowind, Chat, and Chill |Cybersecurity,Rants,Chill,&Linux Gaming|10-25-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 17
+      "viewers": 20
+    },
+    {
+      "platform": "twitch",
+      "name": "freshforensics",
+      "title": "\ud83d\udea8 From Drug Dealer to Ethical Hacker | My Real Story",
+      "link": "https://twitch.tv/freshforensics",
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "HaxrByte",
       "title": "[LIVE] After Hours in the GhostShell \u2014 Red Team Debrief (25 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -30,7 +37,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 27,
+  "viewers_total": 31,
   "videos": [
     {
       "video_id": "T_34v3HP_Ks",
