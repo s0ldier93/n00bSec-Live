@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-26T03:33:11Z",
+  "updated": "2026-10-26T03:43:11Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 28
+      "viewers": 26
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 6
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udea8 From Drug Dealer to Ethical Hacker | My Real Story",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 43,
+  "viewers_total": 40,
   "videos": [
     {
       "video_id": "P8e0pCg1iJQ",
