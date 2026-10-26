@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T17:13:11Z",
+  "updated": "2026-10-26T17:22:56Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,9 +7,23 @@
       "title": "Now trying to untangle the mess of urban sprawl! Transport Fever (Part 6) 10/26/26",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 307
+    },
+    {
+      "platform": "twitch",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
+      "link": "https://twitch.tv/hack_smarter",
+      "viewers": 14
+    },
+    {
+      "platform": "youtube",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Ethical Hacking & Ask Me Anything (AMA)",
+      "link": "https://www.youtube.com/watch?v=TJU7ez1am78",
+      "viewers": 42
     }
   ],
-  "viewers_total": 307,
+  "viewers_total": 363,
   "videos": [
     {
       "video_id": "wFOler2We4w",
