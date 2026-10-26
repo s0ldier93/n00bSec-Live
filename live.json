@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T20:53:13Z",
+  "updated": "2026-10-26T21:03:12Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,18 +13,26 @@
       "name": "ej_sa",
       "title": "Now trying to untangle the mess of urban sprawl! Transport Fever (Part 6) 10/26/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 455
+      "viewers": 459
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | Final Final Building Stream V2",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 20
+      "viewers": 21
     }
   ],
-  "viewers_total": 476,
+  "viewers_total": 481,
   "videos": [
+    {
+      "video_id": "cjllrMo1XKY",
+      "channel": "gerald_auger_simplycyber",
+      "title": "What Happens When Bad Hackers Get Top Tier AI #cybersecurity #ai",
+      "link": "https://www.youtube.com/watch?v=cjllrMo1XKY",
+      "published_at": "2026-10-26T20:45:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cjllrMo1XKY/hqdefault.jpg"
+    },
     {
       "video_id": "pbwH_38ADjU",
       "channel": "JohnHammond010",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=5h9o1QxtK74",
       "published_at": "2026-10-26T10:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/5h9o1QxtK74/hqdefault.jpg"
-    },
-    {
-      "video_id": "pj4nLAvL50s",
-      "channel": "jarnobaselier",
-      "title": "Hacklab 16 - Hacking an Enterprise AI Pipeline: From Prompt Injection to Linux Root (Full Lab Demo)",
-      "link": "https://www.youtube.com/watch?v=pj4nLAvL50s",
-      "published_at": "2026-10-26T10:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/pj4nLAvL50s/hqdefault.jpg"
     }
   ]
 }
