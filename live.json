@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-26T02:23:12Z",
+  "updated": "2026-10-26T02:33:13Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 25
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 0
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Time for Morrowind, Chat, and Chill |Cybersecurity,Rants,Chill,&Linux Gaming|10-25-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 13
+      "viewers": 8
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=P8e0pCg1iJQ",
-      "viewers": 6
+      "viewers": 5
     }
   ],
-  "viewers_total": 47,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "P8e0pCg1iJQ",
