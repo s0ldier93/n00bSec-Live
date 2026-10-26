@@ -1,29 +1,36 @@
 {
-  "updated": "2026-10-26T18:43:12Z",
+  "updated": "2026-10-26T18:53:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Now trying to untangle the mess of urban sprawl! Transport Fever (Part 6) 10/26/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 385
+      "viewers": 402
+    },
+    {
+      "platform": "twitch",
+      "name": "FloraTheExplorer_cyber",
+      "title": "500 Follower Special! | Final Final Building Stream V2",
+      "link": "https://twitch.tv/FloraTheExplorer_cyber",
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 33
+      "viewers": 29
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=TJU7ez1am78",
-      "viewers": 78
+      "viewers": 86
     }
   ],
-  "viewers_total": 496,
+  "viewers_total": 519,
   "videos": [
     {
       "video_id": "oLzo-yUZRyQ",
