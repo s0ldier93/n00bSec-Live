@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T10:02:17Z",
+  "updated": "2026-10-26T10:12:18Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
@@ -10,6 +10,14 @@
       "link": "https://www.youtube.com/watch?v=5h9o1QxtK74",
       "published_at": "2026-10-26T10:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/5h9o1QxtK74/hqdefault.jpg"
+    },
+    {
+      "video_id": "pj4nLAvL50s",
+      "channel": "jarnobaselier",
+      "title": "Hacklab 16 - Hacking an Enterprise AI Pipeline: From Prompt Injection to Linux Root (Full Lab Demo)",
+      "link": "https://www.youtube.com/watch?v=pj4nLAvL50s",
+      "published_at": "2026-10-26T10:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/pj4nLAvL50s/hqdefault.jpg"
     },
     {
       "video_id": "F8Ve_9IkaBA",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=QACa1Vg8g2c",
       "published_at": "2026-10-23T21:54:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QACa1Vg8g2c/hqdefault.jpg"
-    },
-    {
-      "video_id": "2xwaCJxzPjQ",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 30's Top Cyber News NOW! - Ep 1277",
-      "link": "https://www.youtube.com/watch?v=2xwaCJxzPjQ",
-      "published_at": "2026-10-23T21:54:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2xwaCJxzPjQ/hqdefault.jpg"
     }
   ]
 }
