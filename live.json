@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-26T04:23:10Z",
+  "updated": "2026-10-26T04:33:11Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 37
+      "viewers": 35
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udea8 From Drug Dealer to Ethical Hacker | My Real Story",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 6
+      "viewers": 8
     },
     {
       "platform": "youtube",
