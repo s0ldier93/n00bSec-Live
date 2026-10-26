@@ -237,6 +237,7 @@
   #shipMap { margin-top: 16px; }
   #shipMap .shipTitle { font-weight: 600; margin-bottom: 6px; }
   #shipMap iframe { display: block; width: 100%; border: 0; border-radius: 8px; }
+  #shipMap .shipUpdated { color: #9aa0ab; font-size: 12px; margin-top: 4px; }
   #recentVideos { margin-top: 16px; }
   #recentVideos h3 { font-size: 13px; color: #9aa0ab; margin: 0 4px 8px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
   .recentItem {
@@ -305,6 +306,22 @@
         var map_options_name = "vfScarletLady";
       </script>
       <script src="https://www.vesselfinder.com/aismap.js"></script>
+      <div class="shipUpdated" id="shipUpdated"></div>
+      <script>
+        // Reload the map iframe every 30 min so the ship position stays fresh without reloading the page (and the live players).
+        (function () {
+          var REFRESH_MS = 30 * 60 * 1000;
+          function stamp() {
+            document.getElementById('shipUpdated').textContent = 'Updated ' +
+              new Date().toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' }) + ' · refreshes every 30 min';
+          }
+          stamp();
+          setInterval(function () {
+            var f = document.getElementById('vesselfinder');
+            if (f) { f.src = f.src; stamp(); }
+          }, REFRESH_MS);
+        })();
+      </script>
     </div>
     <!-- Newest YouTube uploads across all tracked channels (from live.json "videos"). Click = play in the pane below the live players. -->
     <div id="recentVideos"></div>
