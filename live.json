@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-26T11:02:28Z",
+  "updated": "2026-10-26T12:02:20Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "Gpu9_47Dhrc",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Tube III - Limited RPN Calculations - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=Gpu9_47Dhrc",
+      "published_at": "2026-10-26T12:00:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Gpu9_47Dhrc/hqdefault.jpg"
+    },
     {
       "video_id": "P16dNlcqb-U",
       "channel": "DCCyberSec",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=07_B6kKLDh0",
       "published_at": "2026-10-24T14:20:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/07_B6kKLDh0/hqdefault.jpg"
-    },
-    {
-      "video_id": "LJwAv_US-oI",
-      "channel": "SecurityWeekly",
-      "title": "You Don't Know What Code You're Running",
-      "link": "https://www.youtube.com/watch?v=LJwAv_US-oI",
-      "published_at": "2026-10-23T22:00:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LJwAv_US-oI/hqdefault.jpg"
     }
   ]
 }
