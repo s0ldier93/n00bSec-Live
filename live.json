@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-26T00:02:42Z",
+  "updated": "2026-10-26T00:03:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Hacking real y en vivo \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 8
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Time for Morrowind, Chat, and Chill |Cybersecurity,Rants,Chill,&Linux Gaming|10-25-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 8
+      "viewers": 15
+    },
+    {
+      "platform": "twitch",
+      "name": "HaxrByte",
+      "title": "[LIVE] After Hours in the GhostShell \u2014 Red Team Debrief (25 Oct 2026)",
+      "link": "https://twitch.tv/HaxrByte",
+      "viewers": 0
     },
     {
       "platform": "youtube",
@@ -23,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 17,
+  "viewers_total": 20,
   "videos": [
     {
       "video_id": "05xGk78MqBk",
