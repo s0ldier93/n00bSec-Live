@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T20:13:12Z",
+  "updated": "2026-10-26T20:23:12Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | Final Final Building Stream V2",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 14
+      "viewers": 17
     }
   ],
-  "viewers_total": 474,
+  "viewers_total": 477,
   "videos": [
+    {
+      "video_id": "i3-01eAKUUA",
+      "channel": "gerald_auger_simplycyber",
+      "title": "More Bugs Don't Always Mean More Breaches #cybersecurity #infosec",
+      "link": "https://www.youtube.com/watch?v=i3-01eAKUUA",
+      "published_at": "2026-10-26T19:58:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/i3-01eAKUUA/hqdefault.jpg"
+    },
     {
       "video_id": "kkFS0JAEXLo",
       "channel": "Hackavis",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=F8Ve_9IkaBA",
       "published_at": "2026-10-26T09:00:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/F8Ve_9IkaBA/hqdefault.jpg"
-    },
-    {
-      "video_id": "O7YGWLBqBn8",
-      "channel": "Khaos_Farbauti",
-      "title": "100% HUMAIN, GARANTI SANS IA | HTB Postman",
-      "link": "https://www.youtube.com/watch?v=O7YGWLBqBn8",
-      "published_at": "2026-10-26T07:34:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/O7YGWLBqBn8/hqdefault.jpg"
     }
   ]
 }
