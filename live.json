@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-26T13:42:59Z",
+  "updated": "2026-10-26T14:03:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 38
+      "viewers": 45
     }
   ],
-  "viewers_total": 38,
+  "viewers_total": 45,
   "videos": [
+    {
+      "video_id": "IhA9Ikkd3MI",
+      "channel": "LowLevelTV",
+      "title": "Do You See The Problem Here?",
+      "link": "https://www.youtube.com/watch?v=IhA9Ikkd3MI",
+      "published_at": "2026-10-26T13:31:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IhA9Ikkd3MI/hqdefault.jpg"
+    },
     {
       "video_id": "CRkFArW5jAI",
       "channel": "NahamSec",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=c_ioEqX7NFE",
       "published_at": "2026-10-24T15:07:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/c_ioEqX7NFE/hqdefault.jpg"
-    },
-    {
-      "video_id": "1H5aEn7iO-k",
-      "channel": "SecurityWeekly",
-      "title": "Tor Wasn't Built to Protect Everything",
-      "link": "https://www.youtube.com/watch?v=1H5aEn7iO-k",
-      "published_at": "2026-10-24T15:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1H5aEn7iO-k/hqdefault.jpg"
     }
   ]
 }
