@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-26T02:43:12Z",
+  "updated": "2026-10-26T02:53:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 22
+      "viewers": 29
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=P8e0pCg1iJQ",
-      "viewers": 7
+      "viewers": 6
     }
   ],
-  "viewers_total": 44,
+  "viewers_total": 48,
   "videos": [
     {
       "video_id": "P8e0pCg1iJQ",
