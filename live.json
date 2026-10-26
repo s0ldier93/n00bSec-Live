@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-26T14:03:12Z",
+  "updated": "2026-10-26T14:13:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 45
+      "viewers": 47
     }
   ],
-  "viewers_total": 45,
+  "viewers_total": 47,
   "videos": [
+    {
+      "video_id": "XuQCbBM9A4A",
+      "channel": "SecurityWeekly",
+      "title": "PHP2Shell: It's Not Just Websites",
+      "link": "https://www.youtube.com/watch?v=XuQCbBM9A4A",
+      "published_at": "2026-10-26T14:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XuQCbBM9A4A/hqdefault.jpg"
+    },
     {
       "video_id": "IhA9Ikkd3MI",
       "channel": "LowLevelTV",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=kYzWlWx6hQM",
       "published_at": "2026-10-24T15:07:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kYzWlWx6hQM/hqdefault.jpg"
-    },
-    {
-      "video_id": "c_ioEqX7NFE",
-      "channel": "ippsec",
-      "title": "HackTheBox - Checkpoint",
-      "link": "https://www.youtube.com/watch?v=c_ioEqX7NFE",
-      "published_at": "2026-10-24T15:07:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/c_ioEqX7NFE/hqdefault.jpg"
     }
   ]
 }
