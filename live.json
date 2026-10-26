@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-26T06:03:12Z",
+  "updated": "2026-10-26T07:42:29Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "O7YGWLBqBn8",
+      "channel": "Khaos_Farbauti",
+      "title": "100% HUMAIN, GARANTI SANS IA | HTB Postman",
+      "link": "https://www.youtube.com/watch?v=O7YGWLBqBn8",
+      "published_at": "2026-10-26T07:34:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/O7YGWLBqBn8/hqdefault.jpg"
+    },
     {
       "video_id": "P8e0pCg1iJQ",
       "channel": "BlaiseBits",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=hLnCYWp2G68",
       "published_at": "2026-10-23T21:27:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/hLnCYWp2G68/hqdefault.jpg"
-    },
-    {
-      "video_id": "gELVxw2FCXQ",
-      "channel": "SecurityWeekly",
-      "title": "Tor, PhP2Shell, Deepfakes, eMudhra, LiteLLM, Meta, Josh Marpet, and More - SWN #627",
-      "link": "https://www.youtube.com/watch?v=gELVxw2FCXQ",
-      "published_at": "2026-10-23T21:00:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gELVxw2FCXQ/hqdefault.jpg"
     }
   ]
 }
