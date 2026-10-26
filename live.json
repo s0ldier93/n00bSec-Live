@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T17:53:12Z",
+  "updated": "2026-10-26T18:03:13Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 30
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=TJU7ez1am78",
-      "viewers": 84
+      "viewers": 70
     }
   ],
-  "viewers_total": 463,
+  "viewers_total": 447,
   "videos": [
     {
       "video_id": "TJU7ez1am78",
