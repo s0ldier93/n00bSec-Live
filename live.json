@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-26T14:13:12Z",
+  "updated": "2026-10-26T14:23:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 47
+      "viewers": 39
     }
   ],
-  "viewers_total": 47,
+  "viewers_total": 39,
   "videos": [
     {
       "video_id": "XuQCbBM9A4A",
