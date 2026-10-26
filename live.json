@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-26T13:33:12Z",
+  "updated": "2026-10-26T13:42:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 3
-    },
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 26's Top Cyber News NOW! - Ep 1273",
-      "link": "https://www.youtube.com/watch?v=9BwM06CYR1I",
-      "viewers": 283
+      "viewers": 38
     }
   ],
-  "viewers_total": 286,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "CRkFArW5jAI",
