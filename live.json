@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-26T14:23:12Z",
+  "updated": "2026-10-26T14:33:11Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 39
+      "viewers": 38
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 38,
   "videos": [
+    {
+      "video_id": "6X8DIN5VO8E",
+      "channel": "InvokeReversing",
+      "title": "Indirect Syscall Rust Loader Analysis (Stream - 20/10/2026)",
+      "link": "https://www.youtube.com/watch?v=6X8DIN5VO8E",
+      "published_at": "2026-10-26T14:22:55+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6X8DIN5VO8E/hqdefault.jpg"
+    },
     {
       "video_id": "XuQCbBM9A4A",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=oBYDnLdslJs",
       "published_at": "2026-10-24T17:38:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oBYDnLdslJs/hqdefault.jpg"
-    },
-    {
-      "video_id": "kYzWlWx6hQM",
-      "channel": "HaxrByte",
-      "title": "The Secret Kerberos Flaw Hackers Use To Get Domain Admin #hacking #ihaxrbyte #shorts",
-      "link": "https://www.youtube.com/watch?v=kYzWlWx6hQM",
-      "published_at": "2026-10-24T15:07:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/kYzWlWx6hQM/hqdefault.jpg"
     }
   ]
 }
