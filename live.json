@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-26T09:22:22Z",
+  "updated": "2026-10-26T10:02:17Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "5h9o1QxtK74",
+      "channel": "BySepa",
+      "title": "\u00bfDebilidad en TOR? \u00bfRobo de credenciales de SSH?",
+      "link": "https://www.youtube.com/watch?v=5h9o1QxtK74",
+      "published_at": "2026-10-26T10:00:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5h9o1QxtK74/hqdefault.jpg"
+    },
     {
       "video_id": "F8Ve_9IkaBA",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=2xwaCJxzPjQ",
       "published_at": "2026-10-23T21:54:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2xwaCJxzPjQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "IhBbKxHxiVE",
-      "channel": "B7H30",
-      "title": "POV: Your OpenAI agent was \"counting hospital beds\" & \"found\" path traversal | HTB",
-      "link": "https://www.youtube.com/watch?v=IhBbKxHxiVE",
-      "published_at": "2026-10-23T21:43:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IhBbKxHxiVE/hqdefault.jpg"
     }
   ]
 }
