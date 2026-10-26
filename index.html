@@ -234,10 +234,37 @@
   .sidebarEmpty { color: #9aa0ab; font-size: 13px; padding: 12px 4px; }
   #promo { margin-bottom: 16px; }
   #promo img { display: block; width: 100%; border-radius: 8px; }
-  #shipMap { margin-top: 16px; }
-  #shipMap .shipTitle { font-weight: 600; margin-bottom: 6px; }
-  #shipMap iframe { display: block; width: 100%; border: 0; border-radius: 8px; }
-  #shipMap .shipUpdated { color: #9aa0ab; font-size: 12px; margin-top: 4px; }
+  /* Ship map in a green-phosphor terminal window. The map itself is a cross-origin iframe, so it can only be
+     re-tinted with a CSS filter (not restyled); scanlines are an overlay that lets clicks through. */
+  #shipMap {
+    margin-top: 16px; background: #050a06; border: 1px solid #1f6f3a; border-radius: 8px; overflow: hidden;
+    font-family: "Cascadia Mono", Consolas, "Fira Code", Menlo, monospace; color: #39ff6a;
+    box-shadow: 0 0 12px rgba(57, 255, 106, .15);
+  }
+  #shipMap .shipBar {
+    display: flex; align-items: center; gap: 5px; padding: 5px 8px;
+    background: #0b1a0f; border-bottom: 1px solid #1f6f3a; font-size: 11px; color: #6fae80;
+  }
+  #shipMap .shipBar i { width: 8px; height: 8px; border-radius: 50%; background: #1f6f3a; display: inline-block; }
+  #shipMap .shipBar span { margin-left: 4px; }
+  #shipMap .shipTitle { padding: 6px 8px; font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    text-shadow: 0 0 4px rgba(57, 255, 106, .6); }
+  #shipMap .shipTitle .prompt { color: #6fae80; }
+  #shipMap .cursor { display: inline-block; width: 7px; height: 12px; background: #39ff6a; vertical-align: -1px; margin-left: 2px;
+    animation: shipBlink 1s steps(1) infinite; }
+  @keyframes shipBlink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { #shipMap .cursor { animation: none; } }
+  #shipMap .shipScreen { position: relative; margin: 0 8px; border: 1px solid #1f6f3a; }
+  #shipMap .shipScreen::after {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background: repeating-linear-gradient(to bottom, rgba(0, 0, 0, 0) 0 2px, rgba(0, 0, 0, .25) 2px 3px);
+    box-shadow: inset 0 0 18px rgba(0, 0, 0, .8);
+  }
+  #shipMap iframe {
+    display: block; width: 100%; border: 0;
+    filter: grayscale(1) invert(1) sepia(1) hue-rotate(70deg) saturate(4) brightness(.85) contrast(1.2);
+  }
+  #shipMap .shipUpdated { color: #6fae80; font-size: 11px; padding: 6px 8px; }
   #recentVideos { margin-top: 16px; }
   #recentVideos h3 { font-size: 13px; color: #9aa0ab; margin: 0 4px 8px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
   .recentItem {
@@ -300,20 +327,23 @@
     <!-- Live AIS position of the SeaCon3 ship (Scarlet Lady, IMO 9804801) via the VesselFinder embed (vesselfinder.com/embed).
          Options live in their own object (map_options_name) so they don't leak into page globals; the script enforces height >= 400. -->
     <div id="shipMap">
-      <div class="shipTitle">&#x1F6A2; Where's the Scarlet Lady?</div>
-      <script>
-        var vfScarletLady = { width: "100%", height: "400", names: true, imo: "9804801", show_track: true };
-        var map_options_name = "vfScarletLady";
-      </script>
-      <script src="https://www.vesselfinder.com/aismap.js"></script>
+      <div class="shipBar"><i></i><i></i><i></i><span>ais-track &mdash; scarlet-lady</span></div>
+      <div class="shipTitle" title="Where's the Scarlet Lady?"><span class="prompt">n00b@sec:~$</span> track --imo 9804801<span class="cursor"></span></div>
+      <div class="shipScreen">
+        <script>
+          var vfScarletLady = { width: "100%", height: "400", names: true, imo: "9804801", show_track: true };
+          var map_options_name = "vfScarletLady";
+        </script>
+        <script src="https://www.vesselfinder.com/aismap.js"></script>
+      </div>
       <div class="shipUpdated" id="shipUpdated"></div>
       <script>
         // Reload the map iframe every 30 min so the ship position stays fresh without reloading the page (and the live players).
         (function () {
           var REFRESH_MS = 30 * 60 * 1000;
           function stamp() {
-            document.getElementById('shipUpdated').textContent = 'Updated ' +
-              new Date().toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' }) + ' · refreshes every 30 min';
+            document.getElementById('shipUpdated').textContent = '> last sync ' +
+              new Date().toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' }) + ' · refresh every 30m';
           }
           stamp();
           setInterval(function () {
