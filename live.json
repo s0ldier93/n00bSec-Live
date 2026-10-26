@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-26T18:53:12Z",
+  "updated": "2026-10-26T19:03:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Now trying to untangle the mess of urban sprawl! Transport Fever (Part 6) 10/26/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 402
+      "viewers": 401
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | Final Final Building Stream V2",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 2
+      "viewers": 11
     },
     {
       "platform": "twitch",
@@ -27,11 +27,19 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=TJU7ez1am78",
-      "viewers": 86
+      "viewers": 87
     }
   ],
-  "viewers_total": 519,
+  "viewers_total": 528,
   "videos": [
+    {
+      "video_id": "VhNiMWtOutw",
+      "channel": "LiveOverflow",
+      "title": "How the $2,000 php2shell Challenge Was Solved",
+      "link": "https://www.youtube.com/watch?v=VhNiMWtOutw",
+      "published_at": "2026-10-26T18:49:46+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VhNiMWtOutw/hqdefault.jpg"
+    },
     {
       "video_id": "oLzo-yUZRyQ",
       "channel": "JohnHammond010",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=05xGk78MqBk",
       "published_at": "2026-10-25T20:37:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/05xGk78MqBk/hqdefault.jpg"
-    },
-    {
-      "video_id": "ZUOpe9PGMDw",
-      "channel": "Hackavis",
-      "title": "3 herramientas de OPSEC que ojal\u00e1 hubiera conocido antes. #shorts  #opsec #privacidad",
-      "link": "https://www.youtube.com/watch?v=ZUOpe9PGMDw",
-      "published_at": "2026-10-25T19:30:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ZUOpe9PGMDw/hqdefault.jpg"
     }
   ]
 }
