@@ -1,37 +1,45 @@
 {
-  "updated": "2026-10-26T01:23:12Z",
+  "updated": "2026-10-26T01:33:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 8
+      "viewers": 13
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Time for Morrowind, Chat, and Chill |Cybersecurity,Rants,Chill,&Linux Gaming|10-25-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 16
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udea8 From Drug Dealer to Ethical Hacker | My Real Story",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=P8e0pCg1iJQ",
-      "viewers": 4
+      "viewers": 5
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 31,
   "videos": [
+    {
+      "video_id": "P8e0pCg1iJQ",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
+      "link": "https://www.youtube.com/watch?v=P8e0pCg1iJQ",
+      "published_at": "2026-10-26T01:06:48+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/P8e0pCg1iJQ/hqdefault.jpg"
+    },
     {
       "video_id": "T_34v3HP_Ks",
       "channel": "HaxrByte",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=gELVxw2FCXQ",
       "published_at": "2026-10-23T21:00:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gELVxw2FCXQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "96BLUHGIFxc",
-      "channel": "mbcrump",
-      "title": "Switch 2 Exploit News: How to Install SmileBASIC 4 After It Disappeared from Search (USA)",
-      "link": "https://www.youtube.com/watch?v=96BLUHGIFxc",
-      "published_at": "2026-10-23T18:47:48+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/96BLUHGIFxc/hqdefault.jpg"
     }
   ]
 }
