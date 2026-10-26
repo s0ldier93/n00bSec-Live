@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T01:13:12Z",
+  "updated": "2026-10-26T01:22:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -27,17 +27,10 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://www.youtube.com/watch?v=P8e0pCg1iJQ",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "HaxrByte",
-      "title": "[LIVE] After Hours in the GhostShell \u2014 Red Team Debrief (25 Oct 2026)",
-      "link": "https://www.youtube.com/watch?v=T_34v3HP_Ks",
       "viewers": 4
     }
   ],
-  "viewers_total": 31,
+  "viewers_total": 30,
   "videos": [
     {
       "video_id": "T_34v3HP_Ks",
