@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-26T12:53:11Z",
+  "updated": "2026-10-26T13:03:12Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 26's Top Cyber News NOW! - Ep 1273",
       "link": "https://www.youtube.com/watch?v=9BwM06CYR1I",
-      "viewers": 416
+      "viewers": 380
     }
   ],
-  "viewers_total": 416,
+  "viewers_total": 380,
   "videos": [
+    {
+      "video_id": "CRkFArW5jAI",
+      "channel": "NahamSec",
+      "title": "My $250 AI Hackbot Ran 24/7 on a VPS and Missed This",
+      "link": "https://www.youtube.com/watch?v=CRkFArW5jAI",
+      "published_at": "2026-10-26T12:45:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CRkFArW5jAI/hqdefault.jpg"
+    },
     {
       "video_id": "Gpu9_47Dhrc",
       "channel": "TheShyHat",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=1H5aEn7iO-k",
       "published_at": "2026-10-24T15:00:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1H5aEn7iO-k/hqdefault.jpg"
-    },
-    {
-      "video_id": "07_B6kKLDh0",
-      "channel": "TheLaluka",
-      "title": "Is manual pentesting now unethical? #shorts",
-      "link": "https://www.youtube.com/watch?v=07_B6kKLDh0",
-      "published_at": "2026-10-24T14:20:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/07_B6kKLDh0/hqdefault.jpg"
     }
   ]
 }
