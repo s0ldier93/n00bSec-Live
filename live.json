@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-26T18:03:13Z",
+  "updated": "2026-10-26T18:13:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Now trying to untangle the mess of urban sprawl! Transport Fever (Part 6) 10/26/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 349
+      "viewers": 360
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 28
+      "viewers": 31
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=TJU7ez1am78",
-      "viewers": 70
+      "viewers": 78
     }
   ],
-  "viewers_total": 447,
+  "viewers_total": 469,
   "videos": [
+    {
+      "video_id": "oLzo-yUZRyQ",
+      "channel": "JohnHammond010",
+      "title": "AI Meets Minecraft",
+      "link": "https://www.youtube.com/watch?v=oLzo-yUZRyQ",
+      "published_at": "2026-10-26T18:01:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oLzo-yUZRyQ/hqdefault.jpg"
+    },
     {
       "video_id": "TJU7ez1am78",
       "channel": "hack_smarter",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=ZUOpe9PGMDw",
       "published_at": "2026-10-25T19:30:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ZUOpe9PGMDw/hqdefault.jpg"
-    },
-    {
-      "video_id": "oMQbgEj6lgU",
-      "channel": "JohnHammond010",
-      "title": "The AI Threat Landscape",
-      "link": "https://www.youtube.com/watch?v=oMQbgEj6lgU",
-      "published_at": "2026-10-25T16:01:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oMQbgEj6lgU/hqdefault.jpg"
     }
   ]
 }
