@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T21:43:12Z",
+  "updated": "2026-10-26T21:52:43Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 384,
   "videos": [
+    {
+      "video_id": "NY68oRPNDyE",
+      "channel": "Whimmery",
+      "title": "MSA Finale Fanimation",
+      "link": "https://www.youtube.com/watch?v=NY68oRPNDyE",
+      "published_at": "2026-10-26T21:33:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NY68oRPNDyE/hqdefault.jpg"
+    },
     {
       "video_id": "d1P2P-0KTfM",
       "channel": "EJSA",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=CRkFArW5jAI",
       "published_at": "2026-10-26T12:45:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CRkFArW5jAI/hqdefault.jpg"
-    },
-    {
-      "video_id": "Gpu9_47Dhrc",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Tube III - Limited RPN Calculations - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=Gpu9_47Dhrc",
-      "published_at": "2026-10-26T12:00:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Gpu9_47Dhrc/hqdefault.jpg"
     }
   ]
 }
