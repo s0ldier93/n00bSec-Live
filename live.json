@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-26T10:12:18Z",
+  "updated": "2026-10-26T11:02:28Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "P16dNlcqb-U",
+      "channel": "DCCyberSec",
+      "title": "Your Name Is Probably On This List Of People I Love & Respect",
+      "link": "https://www.youtube.com/watch?v=P16dNlcqb-U",
+      "published_at": "2026-10-26T11:00:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/P16dNlcqb-U/hqdefault.jpg"
+    },
     {
       "video_id": "5h9o1QxtK74",
       "channel": "BySepa",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=LJwAv_US-oI",
       "published_at": "2026-10-23T22:00:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LJwAv_US-oI/hqdefault.jpg"
-    },
-    {
-      "video_id": "QACa1Vg8g2c",
-      "channel": "gerald_auger_simplycyber",
-      "title": "Stop Chatting, Start Building: Your First AI Agent",
-      "link": "https://www.youtube.com/watch?v=QACa1Vg8g2c",
-      "published_at": "2026-10-23T21:54:59+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/QACa1Vg8g2c/hqdefault.jpg"
     }
   ]
 }
