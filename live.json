@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-26T19:52:50Z",
+  "updated": "2026-10-26T19:53:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Now trying to untangle the mess of urban sprawl! Transport Fever (Part 6) 10/26/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 418
+      "viewers": 431
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 19
     }
   ],
-  "viewers_total": 437,
+  "viewers_total": 450,
   "videos": [
     {
       "video_id": "kkFS0JAEXLo",
