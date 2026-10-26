@@ -1,19 +1,12 @@
 {
-  "updated": "2026-10-26T21:33:12Z",
+  "updated": "2026-10-26T21:43:12Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "antisyphon",
-      "title": "BHIS - Talkin' Bout [infosec] News 2026-10-26",
-      "link": "https://twitch.tv/antisyphon",
-      "viewers": 1
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/26/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 383
+      "viewers": 384
     }
   ],
   "viewers_total": 384,
@@ -25,6 +18,14 @@
       "link": "https://www.youtube.com/watch?v=d1P2P-0KTfM",
       "published_at": "2026-10-26T21:17:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/d1P2P-0KTfM/hqdefault.jpg"
+    },
+    {
+      "video_id": "S_nyyJ0eXpE",
+      "channel": "blacksincybersecurity",
+      "title": "Early Computing, Degrees vs Certs, and LLMs w/ Terrance Dillard - BIC Podcast Episode #29",
+      "link": "https://www.youtube.com/watch?v=S_nyyJ0eXpE",
+      "published_at": "2026-10-26T21:12:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/S_nyyJ0eXpE/hqdefault.jpg"
     },
     {
       "video_id": "cjllrMo1XKY",
@@ -169,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Gpu9_47Dhrc",
       "published_at": "2026-10-26T12:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Gpu9_47Dhrc/hqdefault.jpg"
-    },
-    {
-      "video_id": "P16dNlcqb-U",
-      "channel": "DCCyberSec",
-      "title": "Your Name Is Probably On This List Of People I Love & Respect",
-      "link": "https://www.youtube.com/watch?v=P16dNlcqb-U",
-      "published_at": "2026-10-26T11:00:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/P16dNlcqb-U/hqdefault.jpg"
     }
   ]
 }
