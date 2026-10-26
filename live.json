@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T19:43:12Z",
+  "updated": "2026-10-26T19:52:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,25 +13,19 @@
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | Final Final Building Stream V2",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 16
-    },
-    {
-      "platform": "twitch",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
-      "link": "https://twitch.tv/hack_smarter",
-      "viewers": 21
-    },
-    {
-      "platform": "youtube",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Ethical Hacking & Ask Me Anything (AMA)",
-      "link": "https://www.youtube.com/watch?v=TJU7ez1am78",
-      "viewers": 69
+      "viewers": 19
     }
   ],
-  "viewers_total": 524,
+  "viewers_total": 437,
   "videos": [
+    {
+      "video_id": "kkFS0JAEXLo",
+      "channel": "Hackavis",
+      "title": "20 formas de que tu app acabe hackeada si la has hecho con IA #shorts #ciberseguridad #programaci\u00f3n",
+      "link": "https://www.youtube.com/watch?v=kkFS0JAEXLo",
+      "published_at": "2026-10-26T19:30:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/kkFS0JAEXLo/hqdefault.jpg"
+    },
     {
       "video_id": "AxRRdzRBpR8",
       "channel": "mbcrump",
@@ -183,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=O7YGWLBqBn8",
       "published_at": "2026-10-26T07:34:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/O7YGWLBqBn8/hqdefault.jpg"
-    },
-    {
-      "video_id": "P8e0pCg1iJQ",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
-      "link": "https://www.youtube.com/watch?v=P8e0pCg1iJQ",
-      "published_at": "2026-10-26T01:06:48+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/P8e0pCg1iJQ/hqdefault.jpg"
     }
   ]
 }
