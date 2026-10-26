@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-26T17:23:16Z",
+  "updated": "2026-10-26T17:33:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Now trying to untangle the mess of urban sprawl! Transport Fever (Part 6) 10/26/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 325
+      "viewers": 321
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 14
+      "viewers": 19
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=TJU7ez1am78",
-      "viewers": 42
+      "viewers": 61
     }
   ],
-  "viewers_total": 381,
+  "viewers_total": 401,
   "videos": [
+    {
+      "video_id": "TJU7ez1am78",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - Ethical Hacking & Ask Me Anything (AMA)",
+      "link": "https://www.youtube.com/watch?v=TJU7ez1am78",
+      "published_at": "2026-10-26T17:13:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/TJU7ez1am78/hqdefault.jpg"
+    },
     {
       "video_id": "wFOler2We4w",
       "channel": "gerald_auger_simplycyber",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=oMQbgEj6lgU",
       "published_at": "2026-10-25T16:01:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oMQbgEj6lgU/hqdefault.jpg"
-    },
-    {
-      "video_id": "OhaKyiaEUzA",
-      "channel": "pebl3",
-      "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=OhaKyiaEUzA",
-      "published_at": "2026-10-25T15:56:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OhaKyiaEUzA/hqdefault.jpg"
     }
   ]
 }
