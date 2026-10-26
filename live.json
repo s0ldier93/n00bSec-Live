@@ -1,22 +1,29 @@
 {
-  "updated": "2026-10-26T20:23:12Z",
+  "updated": "2026-10-26T20:33:13Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "BHIS - Talkin' Bout [infosec] News 2026-10-26",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Now trying to untangle the mess of urban sprawl! Transport Fever (Part 6) 10/26/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 460
+      "viewers": 458
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | Final Final Building Stream V2",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 17
+      "viewers": 15
     }
   ],
-  "viewers_total": 477,
+  "viewers_total": 474,
   "videos": [
     {
       "video_id": "i3-01eAKUUA",
