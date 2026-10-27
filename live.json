@@ -1,37 +1,45 @@
 {
-  "updated": "2026-10-27T22:05:58Z",
+  "updated": "2026-10-27T22:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 463
+      "viewers": 472
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "moonbase panko",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 39
+      "viewers": 44
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 32
+      "viewers": 31
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
       "link": "https://www.youtube.com/watch?v=5Y_WA8W4zQE",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 537,
+  "viewers_total": 549,
   "videos": [
+    {
+      "video_id": "ipPoov4dLhg",
+      "channel": "Cyber_Insecurity",
+      "title": "Is bypassing AI safety just hacking?",
+      "link": "https://www.youtube.com/watch?v=ipPoov4dLhg",
+      "published_at": "2026-10-27T22:02:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ipPoov4dLhg/hqdefault.jpg"
+    },
     {
       "video_id": "nsY0WTJnHns",
       "channel": "mbcrump",
@@ -39,6 +47,14 @@
       "link": "https://www.youtube.com/watch?v=nsY0WTJnHns",
       "published_at": "2026-10-27T22:00:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nsY0WTJnHns/hqdefault.jpg"
+    },
+    {
+      "video_id": "CswYB2ymELc",
+      "channel": "SecurityWeekly",
+      "title": "Malicious Markdown Files Can Hijack AI Agents",
+      "link": "https://www.youtube.com/watch?v=CswYB2ymELc",
+      "published_at": "2026-10-27T22:00:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CswYB2ymELc/hqdefault.jpg"
     },
     {
       "video_id": "yrrS6dZiniY",
@@ -175,22 +191,6 @@
       "link": "https://www.youtube.com/watch?v=nE_wjUrgwe0",
       "published_at": "2026-10-27T10:26:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nE_wjUrgwe0/hqdefault.jpg"
-    },
-    {
-      "video_id": "bS2lQBvS3PM",
-      "channel": "SecurityWeekly",
-      "title": "Securing Modern Financial Systems in the Age of AI - Rashid Feroze - ASW #406",
-      "link": "https://www.youtube.com/watch?v=bS2lQBvS3PM",
-      "published_at": "2026-10-27T09:00:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bS2lQBvS3PM/hqdefault.jpg"
-    },
-    {
-      "video_id": "_XWEyZG7JjQ",
-      "channel": "mbcrump",
-      "title": "Relapse Port Shown in PS5 Remote Lua Loader",
-      "link": "https://www.youtube.com/watch?v=_XWEyZG7JjQ",
-      "published_at": "2026-10-27T03:00:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/_XWEyZG7JjQ/hqdefault.jpg"
     }
   ]
 }
