@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-27T15:15:58Z",
+  "updated": "2026-10-27T15:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Backlog hunt has begun!\ud83c\udfc6\ud83c\udfc6",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "IMuaMlRgJYQ",
+      "channel": "TheLaluka",
+      "title": "He found an RCE... on the wrong server #shorts",
+      "link": "https://www.youtube.com/watch?v=IMuaMlRgJYQ",
+      "published_at": "2026-10-27T15:20:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IMuaMlRgJYQ/hqdefault.jpg"
+    },
     {
       "video_id": "VvfVN8S90UI",
       "channel": "TheGoodHackerTV",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=VhNiMWtOutw",
       "published_at": "2026-10-26T18:49:46+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VhNiMWtOutw/hqdefault.jpg"
-    },
-    {
-      "video_id": "oLzo-yUZRyQ",
-      "channel": "JohnHammond010",
-      "title": "AI Meets Minecraft",
-      "link": "https://www.youtube.com/watch?v=oLzo-yUZRyQ",
-      "published_at": "2026-10-26T18:01:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oLzo-yUZRyQ/hqdefault.jpg"
     }
   ]
 }
