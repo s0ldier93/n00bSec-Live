@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-27T00:52:38Z",
+  "updated": "2026-10-27T00:53:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Do these PCs I got work? (Testing Console) |Cybersecurity,Rants,Chill,&Linux Gaming|10-26-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 15
+      "viewers": 21
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "ej_sa",
       "title": "MONDAY NIGHT CONFLICT PUPPERS! 10/26/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 494
+      "viewers": 408
     }
   ],
-  "viewers_total": 510,
+  "viewers_total": 430,
   "videos": [
     {
       "video_id": "mIy3mNP0_uo",
