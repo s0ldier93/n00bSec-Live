@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-27T15:55:58Z",
+  "updated": "2026-10-27T16:06:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Backlog hunt has begun!\ud83c\udfc6\ud83c\udfc6",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 5
+      "viewers": 4
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "J8HqY65ztE0",
+      "channel": "ElPinguinoDeMario",
+      "title": "As\u00ed de F\u00e1cil es Instalar Aplicaciones en Linux",
+      "link": "https://www.youtube.com/watch?v=J8HqY65ztE0",
+      "published_at": "2026-10-27T16:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/J8HqY65ztE0/hqdefault.jpg"
+    },
     {
       "video_id": "IMuaMlRgJYQ",
       "channel": "TheLaluka",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Ypn5U0UNHN4",
       "published_at": "2026-10-26T19:00:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Ypn5U0UNHN4/hqdefault.jpg"
-    },
-    {
-      "video_id": "VhNiMWtOutw",
-      "channel": "LiveOverflow",
-      "title": "How the $2,000 php2shell Challenge Was Solved",
-      "link": "https://www.youtube.com/watch?v=VhNiMWtOutw",
-      "published_at": "2026-10-26T18:49:46+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VhNiMWtOutw/hqdefault.jpg"
     }
   ]
 }
