@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T19:55:59Z",
+  "updated": "2026-10-27T20:05:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #11",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 48
+      "viewers": 53
     },
     {
       "platform": "twitch",
@@ -21,10 +21,25 @@
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d LEUTE K\u00d6NNEN IMMER ETWAS HACKEN!",
       "link": "https://twitch.tv/Leetcore",
       "viewers": 8
+    },
+    {
+      "platform": "youtube",
+      "name": "TheLaluka",
+      "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
+      "link": "https://www.youtube.com/watch?v=5Y_WA8W4zQE",
+      "viewers": 2
     }
   ],
-  "viewers_total": 364,
+  "viewers_total": 371,
   "videos": [
+    {
+      "video_id": "5Y_WA8W4zQE",
+      "channel": "TheLaluka",
+      "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
+      "link": "https://www.youtube.com/watch?v=5Y_WA8W4zQE",
+      "published_at": "2026-10-27T19:56:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5Y_WA8W4zQE/hqdefault.jpg"
+    },
     {
       "video_id": "Bby5NW_5UEY",
       "channel": "Hackavis",
@@ -176,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=mIy3mNP0_uo",
       "published_at": "2026-10-26T22:00:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mIy3mNP0_uo/hqdefault.jpg"
-    },
-    {
-      "video_id": "NY68oRPNDyE",
-      "channel": "Whimmery",
-      "title": "MSA Finale Fanimation",
-      "link": "https://www.youtube.com/watch?v=NY68oRPNDyE",
-      "published_at": "2026-10-26T21:33:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NY68oRPNDyE/hqdefault.jpg"
     }
   ]
 }
