@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-27T10:25:33Z",
+  "updated": "2026-10-27T10:35:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Backlog hunt has begun!\ud83c\udfc6\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 1,
+  "viewers_total": 2,
   "videos": [
+    {
+      "video_id": "nE_wjUrgwe0",
+      "channel": "Khaos_Farbauti",
+      "title": "Je suis myope",
+      "link": "https://www.youtube.com/watch?v=nE_wjUrgwe0",
+      "published_at": "2026-10-27T10:26:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nE_wjUrgwe0/hqdefault.jpg"
+    },
     {
       "video_id": "bS2lQBvS3PM",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=LChXwF3TI4E",
       "published_at": "2026-10-26T16:00:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LChXwF3TI4E/hqdefault.jpg"
-    },
-    {
-      "video_id": "-_udXkVnQwI",
-      "channel": "TheLaluka",
-      "title": "They OSINT'd my stream to beat the exam #shorts",
-      "link": "https://www.youtube.com/watch?v=-_udXkVnQwI",
-      "published_at": "2026-10-26T15:20:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-_udXkVnQwI/hqdefault.jpg"
     }
   ]
 }
