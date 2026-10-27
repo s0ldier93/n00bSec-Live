@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-27T14:15:59Z",
+  "updated": "2026-10-27T14:55:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Backlog hunt has begun!\ud83c\udfc6\ud83c\udfc6",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 2,
   "videos": [
+    {
+      "video_id": "VvfVN8S90UI",
+      "channel": "TheGoodHackerTV",
+      "title": "C\u00f3mo Hackers encuentran informaci\u00f3n oculta de empresas usando Google Dorks",
+      "link": "https://www.youtube.com/watch?v=VvfVN8S90UI",
+      "published_at": "2026-10-27T14:27:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VvfVN8S90UI/hqdefault.jpg"
+    },
     {
       "video_id": "CLYnHlw_KHI",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=oLzo-yUZRyQ",
       "published_at": "2026-10-26T18:01:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oLzo-yUZRyQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "TJU7ez1am78",
-      "channel": "hack_smarter",
-      "title": "[LIVE] - Ethical Hacking & Ask Me Anything (AMA)",
-      "link": "https://www.youtube.com/watch?v=TJU7ez1am78",
-      "published_at": "2026-10-26T17:13:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TJU7ez1am78/hqdefault.jpg"
     }
   ]
 }
