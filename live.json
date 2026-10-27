@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-27T20:05:38Z",
+  "updated": "2026-10-27T20:05:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "More cutting and splicing to make good 4 door rockers! The Crew Cab Coronet (Part 58) 10/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 308
+      "viewers": 316
     },
     {
       "platform": "twitch",
@@ -20,7 +20,14 @@
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d LEUTE K\u00d6NNEN IMMER ETWAS HACKEN!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 8
+      "viewers": 7
+    },
+    {
+      "platform": "twitch",
+      "name": "TheLaluka",
+      "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
+      "link": "https://twitch.tv/TheLaluka",
+      "viewers": 23
     },
     {
       "platform": "youtube",
@@ -30,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 371,
+  "viewers_total": 401,
   "videos": [
     {
       "video_id": "5Y_WA8W4zQE",
