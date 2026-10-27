@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-27T13:55:58Z",
+  "updated": "2026-10-27T14:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Backlog hunt has begun!\ud83c\udfc6\ud83c\udfc6",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "CLYnHlw_KHI",
+      "channel": "SecurityWeekly",
+      "title": "What Protects You Before Patching?",
+      "link": "https://www.youtube.com/watch?v=CLYnHlw_KHI",
+      "published_at": "2026-10-27T14:00:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CLYnHlw_KHI/hqdefault.jpg"
+    },
     {
       "video_id": "6_HSeYfoLRk",
       "channel": "JohnHammond010",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=TJU7ez1am78",
       "published_at": "2026-10-26T17:13:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TJU7ez1am78/hqdefault.jpg"
-    },
-    {
-      "video_id": "wFOler2We4w",
-      "channel": "gerald_auger_simplycyber",
-      "title": "Must Hear | Why Traditional Patch Cycles Are No Longer Enough",
-      "link": "https://www.youtube.com/watch?v=wFOler2We4w",
-      "published_at": "2026-10-26T16:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wFOler2We4w/hqdefault.jpg"
     }
   ]
 }
