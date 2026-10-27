@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-27T13:15:59Z",
+  "updated": "2026-10-27T13:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Backlog hunt has begun!\ud83c\udfc6\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 27's Top Cyber News NOW! - Ep 1274",
       "link": "https://www.youtube.com/watch?v=Ev6Pt-9i-JA",
-      "viewers": 262
+      "viewers": 242
     }
   ],
-  "viewers_total": 264,
+  "viewers_total": 243,
   "videos": [
+    {
+      "video_id": "6_HSeYfoLRk",
+      "channel": "JohnHammond010",
+      "title": "New AI Threats in 2026 #sponsored by @Snyksec",
+      "link": "https://www.youtube.com/watch?v=6_HSeYfoLRk",
+      "published_at": "2026-10-27T13:00:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6_HSeYfoLRk/hqdefault.jpg"
+    },
     {
       "video_id": "nE_wjUrgwe0",
       "channel": "Khaos_Farbauti",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=wFOler2We4w",
       "published_at": "2026-10-26T16:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wFOler2We4w/hqdefault.jpg"
-    },
-    {
-      "video_id": "LChXwF3TI4E",
-      "channel": "mbcrump",
-      "title": "Prolapse Announced for PS5 14.00 and 14.10",
-      "link": "https://www.youtube.com/watch?v=LChXwF3TI4E",
-      "published_at": "2026-10-26T16:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LChXwF3TI4E/hqdefault.jpg"
     }
   ]
 }
