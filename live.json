@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:25:42Z",
+  "updated": "2026-10-27T16:25:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -9,14 +9,14 @@
       "viewers": 4
     },
     {
-      "platform": "youtube",
-      "name": "EJSA",
+      "platform": "twitch",
+      "name": "ej_sa",
       "title": "More cutting and splicing to make good 4 door rockers! The Crew Cab Coronet (Part 58) 10/27/26",
-      "link": "https://www.youtube.com/watch?v=74yQD1rOWLc",
-      "viewers": 22
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 123
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 127,
   "videos": [
     {
       "video_id": "74yQD1rOWLc",
