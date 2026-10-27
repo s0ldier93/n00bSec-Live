@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:35:59Z",
+  "updated": "2026-10-27T22:45:58Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,17 @@
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 483
-    },
-    {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "moonbase panko",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 37
+      "viewers": 504
     },
     {
       "platform": "youtube",
       "name": "BrakeSec",
       "title": "Sam Altman says we can't patch all the things, PHP-a-palooza, Qwen AI reaching back to China?",
       "link": "https://www.youtube.com/watch?v=mTu8sGbzdiA",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 524,
+  "viewers_total": 507,
   "videos": [
     {
       "video_id": "mTu8sGbzdiA",
