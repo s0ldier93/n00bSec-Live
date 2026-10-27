@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T08:53:11Z",
+  "updated": "2026-10-27T09:03:12Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 2,
   "videos": [
+    {
+      "video_id": "bS2lQBvS3PM",
+      "channel": "SecurityWeekly",
+      "title": "Securing Modern Financial Systems in the Age of AI - Rashid Feroze - ASW #406",
+      "link": "https://www.youtube.com/watch?v=bS2lQBvS3PM",
+      "published_at": "2026-10-27T09:00:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bS2lQBvS3PM/hqdefault.jpg"
+    },
     {
       "video_id": "_XWEyZG7JjQ",
       "channel": "mbcrump",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=-_udXkVnQwI",
       "published_at": "2026-10-26T15:20:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-_udXkVnQwI/hqdefault.jpg"
-    },
-    {
-      "video_id": "Oa4NPGxccpg",
-      "channel": "gamozo",
-      "title": "Turning a hemisphere in 2 passes on my manual Bridgeport #machining #millingmachine #bridgeport",
-      "link": "https://www.youtube.com/watch?v=Oa4NPGxccpg",
-      "published_at": "2026-10-26T14:53:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Oa4NPGxccpg/hqdefault.jpg"
     }
   ]
 }
