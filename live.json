@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-27T00:03:12Z",
+  "updated": "2026-10-27T00:13:12Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Do these PCs I got work? (Testing Console) |Cybersecurity,Rants,Chill,&Linux Gaming|10-26-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 14
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/26/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 521
+      "viewers": 494
     }
   ],
-  "viewers_total": 535,
+  "viewers_total": 512,
   "videos": [
     {
       "video_id": "mIy3mNP0_uo",
