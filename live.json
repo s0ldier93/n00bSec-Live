@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T20:35:59Z",
+  "updated": "2026-10-27T20:45:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,31 +13,31 @@
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #11",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 54
+      "viewers": 51
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "moonbase panko",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 6
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 36
+      "viewers": 27
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
       "link": "https://www.youtube.com/watch?v=5Y_WA8W4zQE",
-      "viewers": 1
+      "viewers": 5
     }
   ],
-  "viewers_total": 427,
+  "viewers_total": 431,
   "videos": [
     {
       "video_id": "5Y_WA8W4zQE",
