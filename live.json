@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T06:23:12Z",
+  "updated": "2026-10-27T07:03:12Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "_XWEyZG7JjQ",
+      "channel": "mbcrump",
+      "title": "Relapse Port Shown in PS5 Remote Lua Loader",
+      "link": "https://www.youtube.com/watch?v=_XWEyZG7JjQ",
+      "published_at": "2026-10-27T03:00:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_XWEyZG7JjQ/hqdefault.jpg"
+    },
     {
       "video_id": "vwuUpYKe7tI",
       "channel": "EJSA",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Oa4NPGxccpg",
       "published_at": "2026-10-26T14:53:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Oa4NPGxccpg/hqdefault.jpg"
-    },
-    {
-      "video_id": "6X8DIN5VO8E",
-      "channel": "InvokeReversing",
-      "title": "Indirect Syscall Rust Loader Analysis (Stream - 20/10/2026)",
-      "link": "https://www.youtube.com/watch?v=6X8DIN5VO8E",
-      "published_at": "2026-10-26T14:22:55+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6X8DIN5VO8E/hqdefault.jpg"
     }
   ]
 }
