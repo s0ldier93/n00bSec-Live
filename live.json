@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T03:33:11Z",
+  "updated": "2026-10-27T03:42:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,16 +7,9 @@
       "title": "SUBATHON!!  5 subs for a bean! 75 more for the one chip challenge! Backlog hunt has begun!\ud83c\udfc6\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
       "viewers": 2
-    },
-    {
-      "platform": "youtube",
-      "name": "EJSA",
-      "title": "MONDAY NIGHT CONFLICT PUPPERS! 10/26/26",
-      "link": "https://www.youtube.com/watch?v=vwuUpYKe7tI",
-      "viewers": 22
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "mIy3mNP0_uo",
