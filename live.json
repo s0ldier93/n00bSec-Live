@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T03:42:38Z",
+  "updated": "2026-10-27T05:03:11Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,22 @@
   ],
   "viewers_total": 2,
   "videos": [
+    {
+      "video_id": "vwuUpYKe7tI",
+      "channel": "EJSA",
+      "title": "MONDAY NIGHT CONFLICT PUPPERS! 10/26/26",
+      "link": "https://www.youtube.com/watch?v=vwuUpYKe7tI",
+      "published_at": "2026-10-27T00:41:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vwuUpYKe7tI/hqdefault.jpg"
+    },
+    {
+      "video_id": "15v38lOn-SE",
+      "channel": "HaxrByte",
+      "title": "I Analyzed the PHP2Shell Exploit and It Is Terrifying",
+      "link": "https://www.youtube.com/watch?v=15v38lOn-SE",
+      "published_at": "2026-10-27T00:00:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/15v38lOn-SE/hqdefault.jpg"
+    },
     {
       "video_id": "mIy3mNP0_uo",
       "channel": "mbcrump",
@@ -154,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=6X8DIN5VO8E",
       "published_at": "2026-10-26T14:22:55+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6X8DIN5VO8E/hqdefault.jpg"
-    },
-    {
-      "video_id": "XuQCbBM9A4A",
-      "channel": "SecurityWeekly",
-      "title": "PHP2Shell: It's Not Just Websites",
-      "link": "https://www.youtube.com/watch?v=XuQCbBM9A4A",
-      "published_at": "2026-10-26T14:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XuQCbBM9A4A/hqdefault.jpg"
-    },
-    {
-      "video_id": "IhA9Ikkd3MI",
-      "channel": "LowLevelTV",
-      "title": "Do You See The Problem Here?",
-      "link": "https://www.youtube.com/watch?v=IhA9Ikkd3MI",
-      "published_at": "2026-10-26T13:31:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IhA9Ikkd3MI/hqdefault.jpg"
     }
   ]
 }
