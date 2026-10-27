@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:35:58Z",
+  "updated": "2026-10-27T12:05:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,9 +7,16 @@
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Backlog hunt has begun!\ud83c\udfc6\ud83c\udfc6 #TheTrophyTrackers",
       "link": "https://twitch.tv/cybertechvibes",
       "viewers": 2
+    },
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 27's Top Cyber News NOW! - Ep 1274",
+      "link": "https://www.youtube.com/watch?v=Ev6Pt-9i-JA",
+      "viewers": 141
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 143,
   "videos": [
     {
       "video_id": "nE_wjUrgwe0",
