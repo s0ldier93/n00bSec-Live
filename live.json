@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:35:27Z",
+  "updated": "2026-10-27T22:35:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,14 @@
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 476
+      "viewers": 483
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "moonbase panko",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 41
-    },
-    {
-      "platform": "twitch",
-      "name": "TheLaluka",
-      "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
-      "link": "https://twitch.tv/TheLaluka",
-      "viewers": 28
+      "viewers": 37
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 549,
+  "viewers_total": 524,
   "videos": [
     {
       "video_id": "mTu8sGbzdiA",
