@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-27T18:05:59Z",
+  "updated": "2026-10-27T18:15:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Backlog hunt has begun!\ud83c\udfc6\ud83c\udfc6",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "More cutting and splicing to make good 4 door rockers! The Crew Cab Coronet (Part 58) 10/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 261
+      "viewers": 268
     },
     {
       "platform": "twitch",
@@ -25,12 +25,12 @@
     {
       "platform": "twitch",
       "name": "Leetcore",
-      "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d LEUTE K\u00d6NNEN IMMER WAS HACKEN!",
+      "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d LEUTE K\u00d6NNEN IMMER ETWAS HACKEN!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 0
+      "viewers": 3
     }
   ],
-  "viewers_total": 295,
+  "viewers_total": 309,
   "videos": [
     {
       "video_id": "74yQD1rOWLc",
