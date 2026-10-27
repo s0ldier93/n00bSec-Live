@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-27T22:25:58Z",
+  "updated": "2026-10-27T22:35:27Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BrakeSec",
       "title": "Sam Altman says we can't patch all the things, PHP-a-palooza, Qwen AI reaching back to China?",
       "link": "https://twitch.tv/BrakeSec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -33,19 +33,20 @@
       "platform": "youtube",
       "name": "BrakeSec",
       "title": "Sam Altman says we can't patch all the things, PHP-a-palooza, Qwen AI reaching back to China?",
-      "link": "https://www.youtube.com/watch?v=yC3Oq9i3Rpg",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "TheLaluka",
-      "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
-      "link": "https://www.youtube.com/watch?v=5Y_WA8W4zQE",
-      "viewers": 7
+      "link": "https://www.youtube.com/watch?v=mTu8sGbzdiA",
+      "viewers": 2
     }
   ],
-  "viewers_total": 554,
+  "viewers_total": 549,
   "videos": [
+    {
+      "video_id": "mTu8sGbzdiA",
+      "channel": "BrakeSec",
+      "title": "Sam Altman says we can't patch all the things, PHP-a-palooza, Qwen AI reaching back to China?",
+      "link": "https://www.youtube.com/watch?v=mTu8sGbzdiA",
+      "published_at": "2026-10-27T22:25:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mTu8sGbzdiA/hqdefault.jpg"
+    },
     {
       "video_id": "ipPoov4dLhg",
       "channel": "Cyber_Insecurity",
@@ -197,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=6_HSeYfoLRk",
       "published_at": "2026-10-27T13:00:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6_HSeYfoLRk/hqdefault.jpg"
-    },
-    {
-      "video_id": "nE_wjUrgwe0",
-      "channel": "Khaos_Farbauti",
-      "title": "Je suis myope",
-      "link": "https://www.youtube.com/watch?v=nE_wjUrgwe0",
-      "published_at": "2026-10-27T10:26:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nE_wjUrgwe0/hqdefault.jpg"
     }
   ]
 }
