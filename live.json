@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-27T21:15:59Z",
+  "updated": "2026-10-27T21:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 333
+      "viewers": 329
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #11",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 43
+      "viewers": 36
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "moonbase panko",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 24
+      "viewers": 28
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 32
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
       "link": "https://www.youtube.com/watch?v=5Y_WA8W4zQE",
-      "viewers": 1
+      "viewers": 4
     }
   ],
-  "viewers_total": 433,
+  "viewers_total": 425,
   "videos": [
     {
       "video_id": "yrrS6dZiniY",
