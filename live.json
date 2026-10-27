@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-27T19:05:59Z",
+  "updated": "2026-10-27T19:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "More cutting and splicing to make good 4 door rockers! The Crew Cab Coronet (Part 58) 10/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 277
+      "viewers": 297
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #11",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 30
+      "viewers": 42
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 11
     }
   ],
-  "viewers_total": 318,
+  "viewers_total": 350,
   "videos": [
     {
       "video_id": "74yQD1rOWLc",
