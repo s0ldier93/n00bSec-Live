@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-27T19:35:59Z",
+  "updated": "2026-10-27T19:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "More cutting and splicing to make good 4 door rockers! The Crew Cab Coronet (Part 58) 10/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 324
+      "viewers": 311
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #11",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 39
+      "viewers": 45
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d LEUTE K\u00d6NNEN IMMER ETWAS HACKEN!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 9
+      "viewers": 14
     }
   ],
-  "viewers_total": 372,
+  "viewers_total": 370,
   "videos": [
     {
       "video_id": "Bby5NW_5UEY",
@@ -32,6 +32,14 @@
       "link": "https://www.youtube.com/watch?v=Bby5NW_5UEY",
       "published_at": "2026-10-27T19:30:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Bby5NW_5UEY/hqdefault.jpg"
+    },
+    {
+      "video_id": "4z8C1InsKAQ",
+      "channel": "HackerMentor",
+      "title": "Mentor Live - Explotaci\u00f3n Manual vs Autom\u00e1tica",
+      "link": "https://www.youtube.com/watch?v=4z8C1InsKAQ",
+      "published_at": "2026-10-27T19:28:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4z8C1InsKAQ/hqdefault.jpg"
     },
     {
       "video_id": "W7ROGK2E14o",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=NY68oRPNDyE",
       "published_at": "2026-10-26T21:33:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NY68oRPNDyE/hqdefault.jpg"
-    },
-    {
-      "video_id": "d1P2P-0KTfM",
-      "channel": "EJSA",
-      "title": "Now trying to untangle the mess of urban sprawl! Transport Fever (Part 6) 10/26/26",
-      "link": "https://www.youtube.com/watch?v=d1P2P-0KTfM",
-      "published_at": "2026-10-26T21:17:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/d1P2P-0KTfM/hqdefault.jpg"
     }
   ]
 }
