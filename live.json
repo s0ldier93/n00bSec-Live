@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-28T15:45:59Z",
+  "updated": "2026-10-28T15:55:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Using AI as Your Personal Research Assistant w/ Ashley Knowles",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Using AI as Your Personal Research Assistant w/ Ashley Knowles",
       "link": "https://www.youtube.com/watch?v=mQ8PV62JDkI",
-      "viewers": 29
+      "viewers": 37
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 39,
   "videos": [
     {
       "video_id": "vyY_MVnt57U",
