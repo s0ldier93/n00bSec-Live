@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T19:25:59Z",
+  "updated": "2026-10-28T19:36:00Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "ElPinguinoDeMario",
       "title": "Resuelve tus dudas sobre el M\u00e1ster en Ciberseguridad y Hacking \u00c9tico",
       "link": "https://www.youtube.com/watch?v=uwf3lm-0M64",
-      "viewers": 199
+      "viewers": 194
     }
   ],
-  "viewers_total": 463,
+  "viewers_total": 458,
   "videos": [
     {
       "video_id": "Sa93xWnzD_s",
