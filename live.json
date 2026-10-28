@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T17:55:59Z",
+  "updated": "2026-10-28T18:05:43Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,13 +10,20 @@
     },
     {
       "platform": "youtube",
+      "name": "blacksincybersecurity",
+      "title": "Early Computing, Degrees vs Certs, and LLMs w/ Terrance Dillard - BIC Podcast Episode #29",
+      "link": "https://www.youtube.com/watch?v=S_nyyJ0eXpE",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Resuelve tus dudas sobre el M\u00e1ster en Ciberseguridad y Hacking \u00c9tico",
       "link": "https://www.youtube.com/watch?v=uwf3lm-0M64",
-      "viewers": 112
+      "viewers": 230
     }
   ],
-  "viewers_total": 373,
+  "viewers_total": 492,
   "videos": [
     {
       "video_id": "WkNvolMKeEE",
