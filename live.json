@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-28T02:25:58Z",
+  "updated": "2026-10-28T02:35:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Quick test stream for new setups",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 8
+      "viewers": 9
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "mTu8sGbzdiA",
