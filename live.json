@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:15:59Z",
+  "updated": "2026-10-28T18:25:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,18 +13,26 @@
       "name": "blacksincybersecurity",
       "title": "Early Computing, Degrees vs Certs, and LLMs w/ Terrance Dillard - BIC Podcast Episode #29",
       "link": "https://www.youtube.com/watch?v=S_nyyJ0eXpE",
-      "viewers": 2
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Resuelve tus dudas sobre el M\u00e1ster en Ciberseguridad y Hacking \u00c9tico",
       "link": "https://www.youtube.com/watch?v=uwf3lm-0M64",
-      "viewers": 317
+      "viewers": 302
     }
   ],
-  "viewers_total": 595,
+  "viewers_total": 582,
   "videos": [
+    {
+      "video_id": "pt6FxMwQzjU",
+      "channel": "hack_smarter",
+      "title": "Hacking A Bank... (404 Bank - Part 1)",
+      "link": "https://www.youtube.com/watch?v=pt6FxMwQzjU",
+      "published_at": "2026-10-28T18:10:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/pt6FxMwQzjU/hqdefault.jpg"
+    },
     {
       "video_id": "WkNvolMKeEE",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=Bby5NW_5UEY",
       "published_at": "2026-10-27T19:30:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Bby5NW_5UEY/hqdefault.jpg"
-    },
-    {
-      "video_id": "4z8C1InsKAQ",
-      "channel": "HackerMentor",
-      "title": "Mentor Live - Explotaci\u00f3n Manual vs Autom\u00e1tica",
-      "link": "https://www.youtube.com/watch?v=4z8C1InsKAQ",
-      "published_at": "2026-10-27T19:28:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/4z8C1InsKAQ/hqdefault.jpg"
     }
   ]
 }
