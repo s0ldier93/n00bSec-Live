@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-28T01:25:59Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-28T01:35:58Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "BlaiseBits",
+      "title": "Quick test stream for new setups",
+      "link": "https://twitch.tv/BlaiseBits",
+      "viewers": 7
+    }
+  ],
+  "viewers_total": 7,
   "videos": [
     {
       "video_id": "mTu8sGbzdiA",
