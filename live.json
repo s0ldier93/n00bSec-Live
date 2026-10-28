@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-28T17:25:59Z",
+  "updated": "2026-10-28T17:35:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Talking about my project car.",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 212
+      "viewers": 224
     }
   ],
-  "viewers_total": 212,
+  "viewers_total": 224,
   "videos": [
     {
       "video_id": "WkNvolMKeEE",
