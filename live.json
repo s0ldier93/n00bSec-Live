@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-28T18:35:59Z",
+  "updated": "2026-10-28T18:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Talking about my project car.",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 274
+      "viewers": 282
     },
     {
       "platform": "youtube",
       "name": "blacksincybersecurity",
       "title": "Early Computing, Degrees vs Certs, and LLMs w/ Terrance Dillard - BIC Podcast Episode #29",
       "link": "https://www.youtube.com/watch?v=S_nyyJ0eXpE",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Resuelve tus dudas sobre el M\u00e1ster en Ciberseguridad y Hacking \u00c9tico",
       "link": "https://www.youtube.com/watch?v=uwf3lm-0M64",
-      "viewers": 285
+      "viewers": 284
     }
   ],
-  "viewers_total": 563,
+  "viewers_total": 571,
   "videos": [
     {
       "video_id": "MdcziDthhRg",
