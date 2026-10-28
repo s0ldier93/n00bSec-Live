@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T17:46:00Z",
+  "updated": "2026-10-28T17:55:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,9 +7,16 @@
       "title": "Talking about my project car.",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 245
+    },
+    {
+      "platform": "youtube",
+      "name": "ElPinguinoDeMario",
+      "title": "Resuelve tus dudas sobre el M\u00e1ster en Ciberseguridad y Hacking \u00c9tico",
+      "link": "https://www.youtube.com/watch?v=uwf3lm-0M64",
+      "viewers": 112
     }
   ],
-  "viewers_total": 245,
+  "viewers_total": 357,
   "videos": [
     {
       "video_id": "WkNvolMKeEE",
