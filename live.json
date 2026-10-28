@@ -1,37 +1,24 @@
 {
-  "updated": "2026-10-28T16:56:00Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "antisyphon",
-      "title": "Using AI as Your Personal Research Assistant w/ Ashley Knowles",
-      "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
-    },
-    {
-      "platform": "twitch",
-      "name": "thecybermentor",
-      "title": "Real Folks of Cyber | Thomas Rogers | DITL",
-      "link": "https://twitch.tv/thecybermentor",
-      "viewers": 11
-    },
-    {
-      "platform": "youtube",
-      "name": "antisyphon",
-      "title": "Using AI as Your Personal Research Assistant w/ Ashley Knowles",
-      "link": "https://www.youtube.com/watch?v=mQ8PV62JDkI",
-      "viewers": 55
-    },
-    {
-      "platform": "youtube",
-      "name": "thecybermentor",
-      "title": "Real Folks of Cyber | Thomas Rogers | DITL",
-      "link": "https://www.youtube.com/watch?v=3lIYPeb9oDY",
-      "viewers": 27
-    }
-  ],
-  "viewers_total": 96,
+  "updated": "2026-10-28T17:05:40Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "WkNvolMKeEE",
+      "channel": "SecurityWeekly",
+      "title": "Strong MFA Means Nothing If It's Optional",
+      "link": "https://www.youtube.com/watch?v=WkNvolMKeEE",
+      "published_at": "2026-10-28T17:00:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/WkNvolMKeEE/hqdefault.jpg"
+    },
+    {
+      "video_id": "1ukERx833Tg",
+      "channel": "HaxrByte",
+      "title": "Why a PHP Core Flaw Can Take Down More Than One App #php2shell #shorts",
+      "link": "https://www.youtube.com/watch?v=1ukERx833Tg",
+      "published_at": "2026-10-28T17:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1ukERx833Tg/hqdefault.jpg"
+    },
     {
       "video_id": "3lIYPeb9oDY",
       "channel": "thecybermentor",
@@ -175,22 +162,6 @@
       "link": "https://www.youtube.com/watch?v=4z8C1InsKAQ",
       "published_at": "2026-10-27T19:28:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4z8C1InsKAQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "W7ROGK2E14o",
-      "channel": "mbcrump",
-      "title": "PSSwanStation Build 25: PS1 Cloud Saves on PS5",
-      "link": "https://www.youtube.com/watch?v=W7ROGK2E14o",
-      "published_at": "2026-10-27T19:00:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/W7ROGK2E14o/hqdefault.jpg"
-    },
-    {
-      "video_id": "STm_svW_eFQ",
-      "channel": "SecurityWeekly",
-      "title": "eBPF Is Not a Security Tool",
-      "link": "https://www.youtube.com/watch?v=STm_svW_eFQ",
-      "published_at": "2026-10-27T19:00:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/STm_svW_eFQ/hqdefault.jpg"
     }
   ]
 }
