@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T19:36:00Z",
+  "updated": "2026-10-28T19:45:45Z",
   "streams": [
     {
       "platform": "twitch",
@@ -9,14 +9,28 @@
       "viewers": 264
     },
     {
+      "platform": "twitch",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
+      "link": "https://twitch.tv/hack_smarter",
+      "viewers": 4
+    },
+    {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Resuelve tus dudas sobre el M\u00e1ster en Ciberseguridad y Hacking \u00c9tico",
       "link": "https://www.youtube.com/watch?v=uwf3lm-0M64",
-      "viewers": 194
+      "viewers": 174
+    },
+    {
+      "platform": "youtube",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
+      "link": "https://www.youtube.com/watch?v=8yfYQU2lSW8",
+      "viewers": 27
     }
   ],
-  "viewers_total": 458,
+  "viewers_total": 469,
   "videos": [
     {
       "video_id": "Sa93xWnzD_s",
