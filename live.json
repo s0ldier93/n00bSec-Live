@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-28T21:06:00Z",
+  "updated": "2026-10-28T21:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY WARDOGS! RECON GRIND FOR M14! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 276
+      "viewers": 272
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 14
+      "viewers": 13
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://www.youtube.com/watch?v=8yfYQU2lSW8",
-      "viewers": 30
+      "viewers": 29
     }
   ],
-  "viewers_total": 320,
+  "viewers_total": 314,
   "videos": [
+    {
+      "video_id": "TpcX6ZQPlBs",
+      "channel": "FixIt42",
+      "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools... 3/4",
+      "link": "https://www.youtube.com/watch?v=TpcX6ZQPlBs",
+      "published_at": "2026-10-28T21:06:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/TpcX6ZQPlBs/hqdefault.jpg"
+    },
     {
       "video_id": "OHK8110taYQ",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=zCpPf3znEB4",
       "published_at": "2026-10-28T03:00:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zCpPf3znEB4/hqdefault.jpg"
-    },
-    {
-      "video_id": "SD3N2lixklo",
-      "channel": "EJSA",
-      "title": "WEDNESDAY WARDOGS! RECON GRIND FOR M14! 10/28/26",
-      "link": "https://www.youtube.com/watch?v=SD3N2lixklo",
-      "published_at": "2026-10-28T01:16:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SD3N2lixklo/hqdefault.jpg"
     }
   ]
 }
