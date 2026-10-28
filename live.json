@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-28T22:15:59Z",
+  "updated": "2026-10-28T22:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 342
+      "viewers": 386
     }
   ],
-  "viewers_total": 342,
+  "viewers_total": 386,
   "videos": [
+    {
+      "video_id": "UexidixFXp4",
+      "channel": "Cyber_Insecurity",
+      "title": "I stopped paying for frontier AI",
+      "link": "https://www.youtube.com/watch?v=UexidixFXp4",
+      "published_at": "2026-10-28T22:06:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UexidixFXp4/hqdefault.jpg"
+    },
     {
       "video_id": "hZhN2m885P4",
       "channel": "mbcrump",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=jXpSmHO5008",
       "published_at": "2026-10-28T14:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/jXpSmHO5008/hqdefault.jpg"
-    },
-    {
-      "video_id": "QUvsB2Bmd5w",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Ports - Ethernet Wiring - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=QUvsB2Bmd5w",
-      "published_at": "2026-10-28T12:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/QUvsB2Bmd5w/hqdefault.jpg"
     }
   ]
 }
