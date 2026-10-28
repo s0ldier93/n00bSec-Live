@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-28T19:45:45Z",
+  "updated": "2026-10-28T19:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY WARDOGS! RECON GRIND FOR M14! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 264
+      "viewers": 263
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 27
     }
   ],
-  "viewers_total": 469,
+  "viewers_total": 468,
   "videos": [
     {
       "video_id": "Sa93xWnzD_s",
