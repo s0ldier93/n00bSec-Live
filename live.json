@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-28T18:25:59Z",
+  "updated": "2026-10-28T18:35:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Talking about my project car.",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 276
+      "viewers": 274
     },
     {
       "platform": "youtube",
@@ -20,11 +20,27 @@
       "name": "ElPinguinoDeMario",
       "title": "Resuelve tus dudas sobre el M\u00e1ster en Ciberseguridad y Hacking \u00c9tico",
       "link": "https://www.youtube.com/watch?v=uwf3lm-0M64",
-      "viewers": 302
+      "viewers": 285
     }
   ],
-  "viewers_total": 582,
+  "viewers_total": 563,
   "videos": [
+    {
+      "video_id": "MdcziDthhRg",
+      "channel": "NahamSec",
+      "title": "Cloudflare is offering a $3,000 bounty for any unique PHO2SHELL bypass.",
+      "link": "https://www.youtube.com/watch?v=MdcziDthhRg",
+      "published_at": "2026-10-28T18:22:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MdcziDthhRg/hqdefault.jpg"
+    },
+    {
+      "video_id": "VjesGKMKqxo",
+      "channel": "JohnHammond010",
+      "title": "AI Meets Minecraft",
+      "link": "https://www.youtube.com/watch?v=VjesGKMKqxo",
+      "published_at": "2026-10-28T18:12:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VjesGKMKqxo/hqdefault.jpg"
+    },
     {
       "video_id": "pt6FxMwQzjU",
       "channel": "hack_smarter",
@@ -168,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=DxCrn00oMdo",
       "published_at": "2026-10-27T21:00:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/DxCrn00oMdo/hqdefault.jpg"
-    },
-    {
-      "video_id": "5Y_WA8W4zQE",
-      "channel": "TheLaluka",
-      "title": "Monarch \u2694\ufe0f Skillarch Ft. @y0no",
-      "link": "https://www.youtube.com/watch?v=5Y_WA8W4zQE",
-      "published_at": "2026-10-27T19:56:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5Y_WA8W4zQE/hqdefault.jpg"
-    },
-    {
-      "video_id": "Bby5NW_5UEY",
-      "channel": "Hackavis",
-      "title": "3 herramientas de privacidad gratis #shorts #privacidad  #ciberseguridad",
-      "link": "https://www.youtube.com/watch?v=Bby5NW_5UEY",
-      "published_at": "2026-10-27T19:30:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Bby5NW_5UEY/hqdefault.jpg"
     }
   ]
 }
