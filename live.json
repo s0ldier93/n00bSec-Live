@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-28T16:46:00Z",
+  "updated": "2026-10-28T16:56:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Using AI as Your Personal Research Assistant w/ Ashley Knowles",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Thomas Rogers | DITL",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 7
+      "viewers": 11
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Using AI as Your Personal Research Assistant w/ Ashley Knowles",
       "link": "https://www.youtube.com/watch?v=mQ8PV62JDkI",
-      "viewers": 50
+      "viewers": 55
     },
     {
       "platform": "youtube",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Thomas Rogers | DITL",
       "link": "https://www.youtube.com/watch?v=3lIYPeb9oDY",
-      "viewers": 25
+      "viewers": 27
     }
   ],
-  "viewers_total": 84,
+  "viewers_total": 96,
   "videos": [
     {
       "video_id": "3lIYPeb9oDY",
