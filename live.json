@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-28T19:16:00Z",
+  "updated": "2026-10-28T19:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY WARDOGS! RECON GRIND FOR M14! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 251
+      "viewers": 264
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Resuelve tus dudas sobre el M\u00e1ster en Ciberseguridad y Hacking \u00c9tico",
       "link": "https://www.youtube.com/watch?v=uwf3lm-0M64",
-      "viewers": 225
+      "viewers": 199
     }
   ],
-  "viewers_total": 476,
+  "viewers_total": 463,
   "videos": [
     {
       "video_id": "Sa93xWnzD_s",
