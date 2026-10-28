@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-28T14:15:04Z",
+  "updated": "2026-10-28T14:35:03Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "gm1hm3ZEXho",
+      "channel": "gerald_auger_simplycyber",
+      "title": "Get Ready for Simply Cyber Con - Speakers, Sessions and More!",
+      "link": "https://www.youtube.com/watch?v=gm1hm3ZEXho",
+      "published_at": "2026-10-28T14:26:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gm1hm3ZEXho/hqdefault.jpg"
+    },
     {
       "video_id": "jXpSmHO5008",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=J8HqY65ztE0",
       "published_at": "2026-10-27T16:00:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/J8HqY65ztE0/hqdefault.jpg"
-    },
-    {
-      "video_id": "ozaSVLDMhGI",
-      "channel": "thecybermentor",
-      "title": "Is AI Security a Real Career?",
-      "link": "https://www.youtube.com/watch?v=ozaSVLDMhGI",
-      "published_at": "2026-10-27T16:00:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ozaSVLDMhGI/hqdefault.jpg"
     }
   ]
 }
