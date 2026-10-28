@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-28T23:45:58Z",
+  "updated": "2026-10-28T23:55:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot - CoWork & Chill",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 28
+      "viewers": 22
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 442
+      "viewers": 438
     }
   ],
-  "viewers_total": 476,
+  "viewers_total": 466,
   "videos": [
     {
       "video_id": "UexidixFXp4",
