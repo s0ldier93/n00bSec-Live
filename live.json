@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-28T10:25:58Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-28T12:05:46Z",
+  "streams": [
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Oct 28's Top Cyber News NOW! - Ep 1275",
+      "link": "https://www.youtube.com/watch?v=4ZjcmiS7oX4",
+      "viewers": 139
+    }
+  ],
+  "viewers_total": 139,
   "videos": [
     {
       "video_id": "BpVhNqxjuJ4",
