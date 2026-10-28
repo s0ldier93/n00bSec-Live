@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-28T03:05:58Z",
+  "updated": "2026-10-28T03:15:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Quick test stream for new setups",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 17
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Backlog hunt has begun!\ud83c\udfc6\ud83c\udfc6",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 23,
   "videos": [
     {
       "video_id": "mTu8sGbzdiA",
