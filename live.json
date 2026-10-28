@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-28T21:25:59Z",
+  "updated": "2026-10-28T21:35:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "WEDNESDAY WARDOGS! RECON GRIND FOR M14! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 279
+      "viewers": 294
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 8
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://www.youtube.com/watch?v=8yfYQU2lSW8",
-      "viewers": 25
+      "viewers": 28
     }
   ],
-  "viewers_total": 312,
+  "viewers_total": 329,
   "videos": [
     {
       "video_id": "TpcX6ZQPlBs",
