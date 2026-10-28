@@ -1,37 +1,53 @@
 {
-  "updated": "2026-10-28T16:05:50Z",
+  "updated": "2026-10-28T16:16:02Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Using AI as Your Personal Research Assistant w/ Ashley Knowles",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Thomas Rogers | DITL",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Using AI as Your Personal Research Assistant w/ Ashley Knowles",
       "link": "https://www.youtube.com/watch?v=mQ8PV62JDkI",
-      "viewers": 49
+      "viewers": 46
     },
     {
       "platform": "youtube",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Thomas Rogers | DITL",
       "link": "https://www.youtube.com/watch?v=3lIYPeb9oDY",
-      "viewers": 20
+      "viewers": 26
     }
   ],
-  "viewers_total": 77,
+  "viewers_total": 78,
   "videos": [
+    {
+      "video_id": "3lIYPeb9oDY",
+      "channel": "thecybermentor",
+      "title": "Real Folks of Cyber | Thomas Rogers | DITL",
+      "link": "https://www.youtube.com/watch?v=3lIYPeb9oDY",
+      "published_at": "2026-10-28T16:00:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3lIYPeb9oDY/hqdefault.jpg"
+    },
+    {
+      "video_id": "YYmuSS2TMI8",
+      "channel": "mbcrump",
+      "title": "ghostldr: PS4 Game Dumps From USB on PS5 Without a Kernel Jailbreak",
+      "link": "https://www.youtube.com/watch?v=YYmuSS2TMI8",
+      "published_at": "2026-10-28T16:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/YYmuSS2TMI8/hqdefault.jpg"
+    },
     {
       "video_id": "vyY_MVnt57U",
       "channel": "TheLaluka",
@@ -175,22 +191,6 @@
       "link": "https://www.youtube.com/watch?v=STm_svW_eFQ",
       "published_at": "2026-10-27T19:00:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/STm_svW_eFQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "74yQD1rOWLc",
-      "channel": "EJSA",
-      "title": "MONDAY NIGHT CONFLICT PUPPERS! 10/26/26",
-      "link": "https://www.youtube.com/watch?v=74yQD1rOWLc",
-      "published_at": "2026-10-27T16:12:46+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/74yQD1rOWLc/hqdefault.jpg"
-    },
-    {
-      "video_id": "2laIRyzX_cY",
-      "channel": "BySepa",
-      "title": "Vulnerabilidad - Intercepci\u00f3n de conexiones SSH en nodos de salida Tor",
-      "link": "https://www.youtube.com/watch?v=2laIRyzX_cY",
-      "published_at": "2026-10-27T16:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2laIRyzX_cY/hqdefault.jpg"
     }
   ]
 }
