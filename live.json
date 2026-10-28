@@ -1,8 +1,31 @@
 {
-  "updated": "2026-10-28T15:05:01Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-28T15:35:43Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "Using AI as Your Personal Research Assistant w/ Ashley Knowles",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "antisyphon",
+      "title": "Using AI as Your Personal Research Assistant w/ Ashley Knowles",
+      "link": "https://www.youtube.com/watch?v=mQ8PV62JDkI",
+      "viewers": 16
+    }
+  ],
+  "viewers_total": 17,
   "videos": [
+    {
+      "video_id": "vyY_MVnt57U",
+      "channel": "TheLaluka",
+      "title": "We swore off AI for 2 years #shorts",
+      "link": "https://www.youtube.com/watch?v=vyY_MVnt57U",
+      "published_at": "2026-10-28T15:20:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vyY_MVnt57U/hqdefault.jpg"
+    },
     {
       "video_id": "FFRMTwh_acg",
       "channel": "ElPinguinoDeMario",
@@ -154,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=2laIRyzX_cY",
       "published_at": "2026-10-27T16:00:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2laIRyzX_cY/hqdefault.jpg"
-    },
-    {
-      "video_id": "8KiXiZDrAxQ",
-      "channel": "mbcrump",
-      "title": "PS5SX2 2.15: Launch PS2 Games From the PS5 Home Screen",
-      "link": "https://www.youtube.com/watch?v=8KiXiZDrAxQ",
-      "published_at": "2026-10-27T16:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8KiXiZDrAxQ/hqdefault.jpg"
     }
   ]
 }
