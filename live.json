@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:55:59Z",
+  "updated": "2026-10-28T19:05:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,20 +10,13 @@
     },
     {
       "platform": "youtube",
-      "name": "blacksincybersecurity",
-      "title": "Early Computing, Degrees vs Certs, and LLMs w/ Terrance Dillard - BIC Podcast Episode #29",
-      "link": "https://www.youtube.com/watch?v=S_nyyJ0eXpE",
-      "viewers": 3
-    },
-    {
-      "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Resuelve tus dudas sobre el M\u00e1ster en Ciberseguridad y Hacking \u00c9tico",
       "link": "https://www.youtube.com/watch?v=uwf3lm-0M64",
-      "viewers": 261
+      "viewers": 244
     }
   ],
-  "viewers_total": 524,
+  "viewers_total": 504,
   "videos": [
     {
       "video_id": "MdcziDthhRg",
@@ -138,6 +131,14 @@
       "thumbnail": "https://i.ytimg.com/vi/zCpPf3znEB4/hqdefault.jpg"
     },
     {
+      "video_id": "SD3N2lixklo",
+      "channel": "EJSA",
+      "title": "WEDNESDAY WARDOGS! RECON GRIND FOR M14! 10/28/26",
+      "link": "https://www.youtube.com/watch?v=SD3N2lixklo",
+      "published_at": "2026-10-28T01:16:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SD3N2lixklo/hqdefault.jpg"
+    },
+    {
       "video_id": "mTu8sGbzdiA",
       "channel": "BrakeSec",
       "title": "Sam Altman says we can't patch all the things, PHP-a-palooza, Qwen AI reaching back to China?",
@@ -176,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=yrrS6dZiniY",
       "published_at": "2026-10-27T21:09:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yrrS6dZiniY/hqdefault.jpg"
-    },
-    {
-      "video_id": "DxCrn00oMdo",
-      "channel": "SecurityWeekly",
-      "title": "Agents, Train Robberies, Jazz, Microsoft, Elvis Gyrates, Aaran Leyland, and More - SWN #628",
-      "link": "https://www.youtube.com/watch?v=DxCrn00oMdo",
-      "published_at": "2026-10-27T21:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DxCrn00oMdo/hqdefault.jpg"
     }
   ]
 }
