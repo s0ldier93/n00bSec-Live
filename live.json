@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T19:45:59Z",
+  "updated": "2026-10-28T19:55:36Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,25 +13,42 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 4
-    },
-    {
-      "platform": "youtube",
-      "name": "ElPinguinoDeMario",
-      "title": "Resuelve tus dudas sobre el M\u00e1ster en Ciberseguridad y Hacking \u00c9tico",
-      "link": "https://www.youtube.com/watch?v=uwf3lm-0M64",
-      "viewers": 174
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://www.youtube.com/watch?v=8yfYQU2lSW8",
-      "viewers": 27
+      "viewers": 17
     }
   ],
-  "viewers_total": 468,
+  "viewers_total": 287,
   "videos": [
+    {
+      "video_id": "fPTu-NwHSJI",
+      "channel": "FixIt42",
+      "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools... 2/4",
+      "link": "https://www.youtube.com/watch?v=fPTu-NwHSJI",
+      "published_at": "2026-10-28T19:47:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fPTu-NwHSJI/hqdefault.jpg"
+    },
+    {
+      "video_id": "8yfYQU2lSW8",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
+      "link": "https://www.youtube.com/watch?v=8yfYQU2lSW8",
+      "published_at": "2026-10-28T19:39:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8yfYQU2lSW8/hqdefault.jpg"
+    },
+    {
+      "video_id": "FgYCRcUKnNQ",
+      "channel": "Hackavis",
+      "title": "3 herramientas OSINT que utiliza el FBI #shorts #osint #ciberseguridad",
+      "link": "https://www.youtube.com/watch?v=FgYCRcUKnNQ",
+      "published_at": "2026-10-28T19:30:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FgYCRcUKnNQ/hqdefault.jpg"
+    },
     {
       "video_id": "Sa93xWnzD_s",
       "channel": "mbcrump",
@@ -167,30 +184,6 @@
       "link": "https://www.youtube.com/watch?v=mTu8sGbzdiA",
       "published_at": "2026-10-27T22:25:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mTu8sGbzdiA/hqdefault.jpg"
-    },
-    {
-      "video_id": "ipPoov4dLhg",
-      "channel": "Cyber_Insecurity",
-      "title": "Is bypassing AI safety just hacking?",
-      "link": "https://www.youtube.com/watch?v=ipPoov4dLhg",
-      "published_at": "2026-10-27T22:02:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ipPoov4dLhg/hqdefault.jpg"
-    },
-    {
-      "video_id": "nsY0WTJnHns",
-      "channel": "mbcrump",
-      "title": "Chiral-FTP 1.1: Quick Connect for PS5 File Transfers",
-      "link": "https://www.youtube.com/watch?v=nsY0WTJnHns",
-      "published_at": "2026-10-27T22:00:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nsY0WTJnHns/hqdefault.jpg"
-    },
-    {
-      "video_id": "CswYB2ymELc",
-      "channel": "SecurityWeekly",
-      "title": "Malicious Markdown Files Can Hijack AI Agents",
-      "link": "https://www.youtube.com/watch?v=CswYB2ymELc",
-      "published_at": "2026-10-27T22:00:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CswYB2ymELc/hqdefault.jpg"
     }
   ]
 }
