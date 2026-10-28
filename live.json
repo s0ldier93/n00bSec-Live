@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-28T23:25:58Z",
+  "updated": "2026-10-28T23:35:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot - CoWork & Chill",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 3
+      "viewers": 13
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Girl Boy grind then we explore LEGO Gotham!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 443
+      "viewers": 434
     }
   ],
-  "viewers_total": 447,
+  "viewers_total": 451,
   "videos": [
     {
       "video_id": "UexidixFXp4",
