@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T06:55:58Z",
+  "updated": "2026-10-29T07:05:58Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,30 @@
   ],
   "viewers_total": 8,
   "videos": [
+    {
+      "video_id": "ISWY8SJ9Nyg",
+      "channel": "EJSA",
+      "title": "MORE WEDNESDAY WARDOGS! Grinding Recon XP for the M14! 10/28/26",
+      "link": "https://www.youtube.com/watch?v=ISWY8SJ9Nyg",
+      "published_at": "2026-10-29T04:18:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ISWY8SJ9Nyg/hqdefault.jpg"
+    },
+    {
+      "video_id": "RsuC6ngUKeU",
+      "channel": "mbcrump",
+      "title": "PS5 Upload 7.5.2: Wake Your Console for Queued Transfers",
+      "link": "https://www.youtube.com/watch?v=RsuC6ngUKeU",
+      "published_at": "2026-10-29T03:00:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RsuC6ngUKeU/hqdefault.jpg"
+    },
+    {
+      "video_id": "ccShe6z5b2Y",
+      "channel": "HaxrByte",
+      "title": "\ud83d\udcf1 [LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (22 Oct 2026)",
+      "link": "https://www.youtube.com/watch?v=ccShe6z5b2Y",
+      "published_at": "2026-10-29T02:58:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ccShe6z5b2Y/hqdefault.jpg"
+    },
     {
       "video_id": "s01g8hblBjM",
       "channel": "HackerMentor",
@@ -146,30 +170,6 @@
       "link": "https://www.youtube.com/watch?v=WkNvolMKeEE",
       "published_at": "2026-10-28T17:00:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/WkNvolMKeEE/hqdefault.jpg"
-    },
-    {
-      "video_id": "1ukERx833Tg",
-      "channel": "HaxrByte",
-      "title": "Why a PHP Core Flaw Can Take Down More Than One App #php2shell #shorts",
-      "link": "https://www.youtube.com/watch?v=1ukERx833Tg",
-      "published_at": "2026-10-28T17:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1ukERx833Tg/hqdefault.jpg"
-    },
-    {
-      "video_id": "3lIYPeb9oDY",
-      "channel": "thecybermentor",
-      "title": "Real Folks of Cyber | Thomas Rogers | DITL",
-      "link": "https://www.youtube.com/watch?v=3lIYPeb9oDY",
-      "published_at": "2026-10-28T16:00:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/3lIYPeb9oDY/hqdefault.jpg"
-    },
-    {
-      "video_id": "YYmuSS2TMI8",
-      "channel": "mbcrump",
-      "title": "ghostldr: PS4 Game Dumps From USB on PS5 Without a Kernel Jailbreak",
-      "link": "https://www.youtube.com/watch?v=YYmuSS2TMI8",
-      "published_at": "2026-10-28T16:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/YYmuSS2TMI8/hqdefault.jpg"
     }
   ]
 }
