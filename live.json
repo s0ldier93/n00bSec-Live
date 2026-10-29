@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-29T21:25:58Z",
+  "updated": "2026-10-29T21:35:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -21,9 +21,16 @@
       "title": "The Unforgivable Mistakes You Cannot Make (Episode 8, Season 13)",
       "link": "https://twitch.tv/mchow01",
       "viewers": 24
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 10/29/26",
+      "link": "https://www.youtube.com/watch?v=c80b1s24jHM",
+      "viewers": 43
     }
   ],
-  "viewers_total": 44,
+  "viewers_total": 89,
   "videos": [
     {
       "video_id": "wpQ_OJdOGrI",
