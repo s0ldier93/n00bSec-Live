@@ -1,26 +1,33 @@
 {
-  "updated": "2026-10-29T18:15:58Z",
+  "updated": "2026-10-29T18:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Spacewalk and EVA 100 Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 360
+      "viewers": 347
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (10/29/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 18
+      "viewers": 27
+    },
+    {
+      "platform": "twitch",
+      "name": "Leetcore",
+      "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Kritische CVE Warnungen!",
+      "link": "https://twitch.tv/Leetcore",
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 100",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13626
+      "viewers": 13211
     },
     {
       "platform": "youtube",
@@ -30,7 +37,7 @@
       "viewers": 46
     }
   ],
-  "viewers_total": 14050,
+  "viewers_total": 13634,
   "videos": [
     {
       "video_id": "I2ibH3WRhcI",
