@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-29T14:05:58Z",
+  "updated": "2026-10-29T14:15:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 100",
       "link": "https://twitch.tv/nasa",
-      "viewers": 12736
+      "viewers": 12598
     }
   ],
-  "viewers_total": 12736,
+  "viewers_total": 12598,
   "videos": [
+    {
+      "video_id": "CKM9O7NtOtk",
+      "channel": "SecurityWeekly",
+      "title": "CVE Remediation Is Getting Too Slow",
+      "link": "https://www.youtube.com/watch?v=CKM9O7NtOtk",
+      "published_at": "2026-10-29T14:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CKM9O7NtOtk/hqdefault.jpg"
+    },
     {
       "video_id": "ISWY8SJ9Nyg",
       "channel": "EJSA",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=pt6FxMwQzjU",
       "published_at": "2026-10-28T18:10:58+00:00",
       "thumbnail": "https://i.ytimg.com/vi/pt6FxMwQzjU/hqdefault.jpg"
-    },
-    {
-      "video_id": "WkNvolMKeEE",
-      "channel": "SecurityWeekly",
-      "title": "Strong MFA Means Nothing If It's Optional",
-      "link": "https://www.youtube.com/watch?v=WkNvolMKeEE",
-      "published_at": "2026-10-28T17:00:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WkNvolMKeEE/hqdefault.jpg"
     }
   ]
 }
