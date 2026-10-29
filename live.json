@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-29T20:25:58Z",
+  "updated": "2026-10-29T20:35:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | We're back to hacking <3 | HTB Nexus",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 10
+      "viewers": 13
+    },
+    {
+      "platform": "twitch",
+      "name": "mchow01",
+      "title": "The Unforgivable Mistakes You Cannot Make (Episode 8, Season 13)",
+      "link": "https://twitch.tv/mchow01",
+      "viewers": 6
     }
   ],
-  "viewers_total": 10,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "4dYdgchSFNg",
