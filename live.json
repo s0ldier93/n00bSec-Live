@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-29T01:55:59Z",
+  "updated": "2026-10-29T02:05:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot - CoWork & Chill",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 42
+      "viewers": 40
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Girl Boy grind then we explore LEGO Gotham!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MORE WEDNESDAY WARDOGS! Grinding Recon XP for the M14! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 290
+      "viewers": 294
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - AI-Powered Web App Hacking (Workshop)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 19
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - AI-Powered Web App Hacking (Workshop)",
       "link": "https://www.youtube.com/watch?v=tpWLYDhBJBU",
-      "viewers": 64
+      "viewers": 81
     }
   ],
-  "viewers_total": 418,
+  "viewers_total": 445,
   "videos": [
     {
       "video_id": "d3UTb0PVqgk",
