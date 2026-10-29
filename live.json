@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-29T18:25:59Z",
+  "updated": "2026-10-29T18:35:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Spacewalk and EVA 100 Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 347
+      "viewers": 361
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (10/29/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 27
+      "viewers": 29
     },
     {
       "platform": "twitch",
@@ -27,18 +27,34 @@
       "name": "nasa",
       "title": "U.S. Spacewalk 100",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13211
+      "viewers": 13030
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (10/29/26)",
       "link": "https://www.youtube.com/watch?v=I2ibH3WRhcI",
-      "viewers": 46
+      "viewers": 50
     }
   ],
-  "viewers_total": 13634,
+  "viewers_total": 13473,
   "videos": [
+    {
+      "video_id": "RndFaZ61UZA",
+      "channel": "CyberWarriorStudios",
+      "title": "Take care of your health, oh and show your support by voting for me as Top Host!",
+      "link": "https://www.youtube.com/watch?v=RndFaZ61UZA",
+      "published_at": "2026-10-29T18:31:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RndFaZ61UZA/hqdefault.jpg"
+    },
+    {
+      "video_id": "o8LWS7XiW84",
+      "channel": "JohnHammond010",
+      "title": "Hack a Water Tower! & Two Big Announcements",
+      "link": "https://www.youtube.com/watch?v=o8LWS7XiW84",
+      "published_at": "2026-10-29T18:22:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/o8LWS7XiW84/hqdefault.jpg"
+    },
     {
       "video_id": "I2ibH3WRhcI",
       "channel": "hack_smarter",
@@ -182,22 +198,6 @@
       "link": "https://www.youtube.com/watch?v=Nkqa6Oa747s",
       "published_at": "2026-10-28T21:56:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Nkqa6Oa747s/hqdefault.jpg"
-    },
-    {
-      "video_id": "TpcX6ZQPlBs",
-      "channel": "FixIt42",
-      "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools... 3/4",
-      "link": "https://www.youtube.com/watch?v=TpcX6ZQPlBs",
-      "published_at": "2026-10-28T21:06:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TpcX6ZQPlBs/hqdefault.jpg"
-    },
-    {
-      "video_id": "OHK8110taYQ",
-      "channel": "SecurityWeekly",
-      "title": "AI Fails When Leaders Work in Silos",
-      "link": "https://www.youtube.com/watch?v=OHK8110taYQ",
-      "published_at": "2026-10-28T21:00:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OHK8110taYQ/hqdefault.jpg"
     }
   ]
 }
