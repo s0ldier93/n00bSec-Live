@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T20:35:59Z",
+  "updated": "2026-10-29T20:45:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "mchow01",
       "title": "The Unforgivable Mistakes You Cannot Make (Episode 8, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 6
+      "viewers": 27
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 40,
   "videos": [
+    {
+      "video_id": "M-CmYzObKPM",
+      "channel": "EJSA",
+      "title": "MORE WEDNESDAY WARDOGS! Grinding Recon XP for the M14! 10/28/26",
+      "link": "https://www.youtube.com/watch?v=M-CmYzObKPM",
+      "published_at": "2026-10-29T20:36:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/M-CmYzObKPM/hqdefault.jpg"
+    },
     {
       "video_id": "4dYdgchSFNg",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=UexidixFXp4",
       "published_at": "2026-10-28T22:06:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/UexidixFXp4/hqdefault.jpg"
-    },
-    {
-      "video_id": "hZhN2m885P4",
-      "channel": "mbcrump",
-      "title": "Y2JB Installer 1.1.0: Experimental Android Setup for PS5",
-      "link": "https://www.youtube.com/watch?v=hZhN2m885P4",
-      "published_at": "2026-10-28T22:00:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hZhN2m885P4/hqdefault.jpg"
     }
   ]
 }
