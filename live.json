@@ -1,29 +1,15 @@
 {
-  "updated": "2026-10-29T19:55:39Z",
+  "updated": "2026-10-29T19:55:58Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "EJ's Spacewalk and EVA 100 Revue! 10/29/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 411
-    },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | We're back to hacking <3 | HTB Nexus",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
       "viewers": 19
-    },
-    {
-      "platform": "twitch",
-      "name": "Leetcore",
-      "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Kritische CVE Warnungen!",
-      "link": "https://twitch.tv/Leetcore",
-      "viewers": 11
     }
   ],
-  "viewers_total": 441,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "4dYdgchSFNg",
