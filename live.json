@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-29T20:05:59Z",
+  "updated": "2026-10-29T20:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | We're back to hacking <3 | HTB Nexus",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 19
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Kritische CVE Warnungen!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 0
+      "viewers": 5
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 28,
   "videos": [
     {
       "video_id": "4dYdgchSFNg",
