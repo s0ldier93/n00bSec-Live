@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:35:30Z",
+  "updated": "2026-10-29T21:35:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,27 +10,20 @@
     },
     {
       "platform": "twitch",
-      "name": "FloraTheExplorer_cyber",
-      "title": "500 Follower Special! | We're back to hacking <3 | HTB Nexus",
-      "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 19
+      "name": "ej_sa",
+      "title": "EJ's Space and Rocket Revue! 10/29/26",
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 167
     },
     {
       "platform": "twitch",
-      "name": "mchow01",
-      "title": "The Unforgivable Mistakes You Cannot Make (Episode 8, Season 13)",
-      "link": "https://twitch.tv/mchow01",
-      "viewers": 24
-    },
-    {
-      "platform": "youtube",
-      "name": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 10/29/26",
-      "link": "https://www.youtube.com/watch?v=c80b1s24jHM",
-      "viewers": 43
+      "name": "FloraTheExplorer_cyber",
+      "title": "500 Follower Special! | We're back to hacking <3 | HTB Nexus",
+      "link": "https://twitch.tv/FloraTheExplorer_cyber",
+      "viewers": 13
     }
   ],
-  "viewers_total": 89,
+  "viewers_total": 183,
   "videos": [
     {
       "video_id": "wpQ_OJdOGrI",
