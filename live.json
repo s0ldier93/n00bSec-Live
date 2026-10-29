@@ -1,29 +1,36 @@
 {
-  "updated": "2026-10-29T16:15:45Z",
+  "updated": "2026-10-29T16:25:59Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ej_sa",
+      "title": "Stack the ET and a REUSED Orbiter! The SLC-6 Project (Part 28) 10/29/26",
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (10/29/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 9
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 100",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13277
+      "viewers": 13362
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (10/29/26)",
       "link": "https://www.youtube.com/watch?v=I2ibH3WRhcI",
-      "viewers": 23
+      "viewers": 43
     }
   ],
-  "viewers_total": 13309,
+  "viewers_total": 13426,
   "videos": [
     {
       "video_id": "I2ibH3WRhcI",
@@ -48,6 +55,14 @@
       "link": "https://www.youtube.com/watch?v=1ScXiu5xbD0",
       "published_at": "2026-10-29T16:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1ScXiu5xbD0/hqdefault.jpg"
+    },
+    {
+      "video_id": "CZ8wQyE5gks",
+      "channel": "mbcrump",
+      "title": "PS5 and PS4 Game Roundup: Syphon Filter, Trackmania and More",
+      "link": "https://www.youtube.com/watch?v=CZ8wQyE5gks",
+      "published_at": "2026-10-29T16:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CZ8wQyE5gks/hqdefault.jpg"
     },
     {
       "video_id": "2rGXFVQUy0o",
@@ -176,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=OHK8110taYQ",
       "published_at": "2026-10-28T21:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/OHK8110taYQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "fPTu-NwHSJI",
-      "channel": "FixIt42",
-      "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools... 2/4",
-      "link": "https://www.youtube.com/watch?v=fPTu-NwHSJI",
-      "published_at": "2026-10-28T19:47:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fPTu-NwHSJI/hqdefault.jpg"
     }
   ]
 }
