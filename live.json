@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-29T14:55:59Z",
+  "updated": "2026-10-29T15:06:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 100",
       "link": "https://twitch.tv/nasa",
-      "viewers": 12799
+      "viewers": 12322
     }
   ],
-  "viewers_total": 12799,
+  "viewers_total": 12322,
   "videos": [
+    {
+      "video_id": "CCZD3VhldEA",
+      "channel": "Khaos_Farbauti",
+      "title": "Un cadeau choisi par IA est-il un vrai cadeau ?",
+      "link": "https://www.youtube.com/watch?v=CCZD3VhldEA",
+      "published_at": "2026-10-29T15:02:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CCZD3VhldEA/hqdefault.jpg"
+    },
     {
       "video_id": "CKM9O7NtOtk",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=MdcziDthhRg",
       "published_at": "2026-10-28T18:22:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/MdcziDthhRg/hqdefault.jpg"
-    },
-    {
-      "video_id": "VjesGKMKqxo",
-      "channel": "JohnHammond010",
-      "title": "AI Meets Minecraft",
-      "link": "https://www.youtube.com/watch?v=VjesGKMKqxo",
-      "published_at": "2026-10-28T18:12:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VjesGKMKqxo/hqdefault.jpg"
     }
   ]
 }
