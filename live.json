@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-29T23:25:59Z",
+  "updated": "2026-10-29T23:35:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Hablando con Juan Blanco sobre seguridad en aplicaciones mobile #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 461
+      "viewers": 488
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Hablando con Juan Blanco sobre seguridad en aplicaciones mobile",
       "link": "https://www.youtube.com/watch?v=ed2nqwuPmxE",
-      "viewers": 2
+      "viewers": 4
     }
   ],
-  "viewers_total": 470,
+  "viewers_total": 498,
   "videos": [
     {
       "video_id": "VnwrdVMXg1U",
