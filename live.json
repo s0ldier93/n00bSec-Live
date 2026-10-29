@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-29T02:35:58Z",
+  "updated": "2026-10-29T02:45:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Haking real y en vivo \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 0
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot - CoWork & Chill",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 21
+      "viewers": 19
     },
     {
       "platform": "twitch",
@@ -34,17 +34,17 @@
       "name": "hack_smarter",
       "title": "[LIVE] - AI-Powered Web App Hacking (Workshop)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 29
+      "viewers": 25
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - AI-Powered Web App Hacking (Workshop)",
       "link": "https://www.youtube.com/watch?v=tpWLYDhBJBU",
-      "viewers": 95
+      "viewers": 98
     }
   ],
-  "viewers_total": 415,
+  "viewers_total": 414,
   "videos": [
     {
       "video_id": "d3UTb0PVqgk",
