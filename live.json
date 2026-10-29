@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-29T21:05:59Z",
+  "updated": "2026-10-29T21:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | We're back to hacking <3 | HTB Nexus",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 12
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "mchow01",
       "title": "The Unforgivable Mistakes You Cannot Make (Episode 8, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 26
+      "viewers": 24
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 35,
   "videos": [
     {
       "video_id": "wpQ_OJdOGrI",
