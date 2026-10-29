@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T01:35:24Z",
+  "updated": "2026-10-29T01:45:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,31 +13,31 @@
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Girl Boy grind then we explore LEGO Gotham!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MORE WEDNESDAY WARDOGS! Grinding Recon XP for the M14! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 283
+      "viewers": 286
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - AI-Powered Web App Hacking (Workshop)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 3
+      "viewers": 18
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - AI-Powered Web App Hacking (Workshop)",
       "link": "https://www.youtube.com/watch?v=tpWLYDhBJBU",
-      "viewers": 29
+      "viewers": 59
     }
   ],
-  "viewers_total": 363,
+  "viewers_total": 415,
   "videos": [
     {
       "video_id": "d3UTb0PVqgk",
