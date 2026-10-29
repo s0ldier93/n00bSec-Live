@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:55:59Z",
+  "updated": "2026-10-29T22:05:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,10 +14,33 @@
       "title": "EJ's Space and Rocket Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 282
+    },
+    {
+      "platform": "youtube",
+      "name": "BySepa",
+      "title": "Hablando con Juan Blanco sobre seguridad en aplicaciones mobile",
+      "link": "https://www.youtube.com/watch?v=ed2nqwuPmxE",
+      "viewers": 3
     }
   ],
-  "viewers_total": 283,
+  "viewers_total": 286,
   "videos": [
+    {
+      "video_id": "9He8Ipq_8zM",
+      "channel": "mbcrump",
+      "title": "Half-Life: Alyx on PS5 With PSVR2? HLA-PSVR2 Explained",
+      "link": "https://www.youtube.com/watch?v=9He8Ipq_8zM",
+      "published_at": "2026-10-29T22:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9He8Ipq_8zM/hqdefault.jpg"
+    },
+    {
+      "video_id": "JxVkDVy80rQ",
+      "channel": "SecurityWeekly",
+      "title": "The Windows Drivers Attackers Can Abuse",
+      "link": "https://www.youtube.com/watch?v=JxVkDVy80rQ",
+      "published_at": "2026-10-29T22:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/JxVkDVy80rQ/hqdefault.jpg"
+    },
     {
       "video_id": "c80b1s24jHM",
       "channel": "EJSA",
@@ -161,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=s01g8hblBjM",
       "published_at": "2026-10-29T01:44:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/s01g8hblBjM/hqdefault.jpg"
-    },
-    {
-      "video_id": "tyq_e3vfKx0",
-      "channel": "FixIt42",
-      "title": "Reviving old projects, rss tts ai cyber news reader, esp32 hacker tools... 4/4",
-      "link": "https://www.youtube.com/watch?v=tyq_e3vfKx0",
-      "published_at": "2026-10-29T01:42:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tyq_e3vfKx0/hqdefault.jpg"
-    },
-    {
-      "video_id": "tpWLYDhBJBU",
-      "channel": "hack_smarter",
-      "title": "[LIVE] - AI-Powered Web App Hacking (Workshop)",
-      "link": "https://www.youtube.com/watch?v=tpWLYDhBJBU",
-      "published_at": "2026-10-29T01:31:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tpWLYDhBJBU/hqdefault.jpg"
     }
   ]
 }
