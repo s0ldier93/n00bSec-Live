@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-29T21:15:59Z",
+  "updated": "2026-10-29T21:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | We're back to hacking <3 | HTB Nexus",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 9
+      "viewers": 19
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 24
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 44,
   "videos": [
     {
       "video_id": "wpQ_OJdOGrI",
