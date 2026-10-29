@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-29T04:25:24Z",
+  "updated": "2026-10-29T04:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Haking real y en vivo \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 16
+      "viewers": 11
     },
     {
       "platform": "twitch",
@@ -14,16 +14,9 @@
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Girl Boy grind then we explore LEGO Gotham!",
       "link": "https://twitch.tv/cybertechvibes",
       "viewers": 8
-    },
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "MORE WEDNESDAY WARDOGS! Grinding Recon XP for the M14! 10/28/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 212
     }
   ],
-  "viewers_total": 236,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "tyq_e3vfKx0",
