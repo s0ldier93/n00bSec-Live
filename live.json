@@ -1,23 +1,38 @@
 {
-  "updated": "2026-10-29T20:45:59Z",
+  "updated": "2026-10-29T21:05:59Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "cybertechvibes",
+      "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
+      "link": "https://twitch.tv/cybertechvibes",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! | We're back to hacking <3 | HTB Nexus",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 13
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "mchow01",
       "title": "The Unforgivable Mistakes You Cannot Make (Episode 8, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 27
+      "viewers": 26
     }
   ],
-  "viewers_total": 40,
+  "viewers_total": 39,
   "videos": [
+    {
+      "video_id": "wpQ_OJdOGrI",
+      "channel": "SecurityWeekly",
+      "title": "Vulnpocalypse Continues Until Defense Improves - PSW #950",
+      "link": "https://www.youtube.com/watch?v=wpQ_OJdOGrI",
+      "published_at": "2026-10-29T21:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wpQ_OJdOGrI/hqdefault.jpg"
+    },
     {
       "video_id": "M-CmYzObKPM",
       "channel": "EJSA",
@@ -169,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=d3UTb0PVqgk",
       "published_at": "2026-10-29T00:26:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/d3UTb0PVqgk/hqdefault.jpg"
-    },
-    {
-      "video_id": "UexidixFXp4",
-      "channel": "Cyber_Insecurity",
-      "title": "I stopped paying for frontier AI",
-      "link": "https://www.youtube.com/watch?v=UexidixFXp4",
-      "published_at": "2026-10-28T22:06:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UexidixFXp4/hqdefault.jpg"
     }
   ]
 }
