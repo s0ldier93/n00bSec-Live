@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-29T00:35:59Z",
+  "updated": "2026-10-29T00:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot - CoWork & Chill",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 34
+      "viewers": 27
     },
     {
       "platform": "twitch",
@@ -20,11 +20,19 @@
       "name": "ej_sa",
       "title": "MORE WEDNESDAY WARDOGS! Grinding Recon XP for the M14! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 320
+      "viewers": 319
     }
   ],
-  "viewers_total": 358,
+  "viewers_total": 350,
   "videos": [
+    {
+      "video_id": "d3UTb0PVqgk",
+      "channel": "mbcrump",
+      "title": "Using Y2JB with Relapse to Jailbreak the PS5!  (Latest Method!)",
+      "link": "https://www.youtube.com/watch?v=d3UTb0PVqgk",
+      "published_at": "2026-10-29T00:26:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/d3UTb0PVqgk/hqdefault.jpg"
+    },
     {
       "video_id": "UexidixFXp4",
       "channel": "Cyber_Insecurity",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=gm1hm3ZEXho",
       "published_at": "2026-10-28T14:26:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gm1hm3ZEXho/hqdefault.jpg"
-    },
-    {
-      "video_id": "jXpSmHO5008",
-      "channel": "SecurityWeekly",
-      "title": "AI Governance Can't Live on a Shelf",
-      "link": "https://www.youtube.com/watch?v=jXpSmHO5008",
-      "published_at": "2026-10-28T14:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/jXpSmHO5008/hqdefault.jpg"
     }
   ]
 }
