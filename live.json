@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T03:45:57Z",
+  "updated": "2026-10-29T03:55:57Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Girl Boy grind then we explore LEGO Gotham!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MORE WEDNESDAY WARDOGS! Grinding Recon XP for the M14! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 230
+      "viewers": 224
     }
   ],
-  "viewers_total": 236,
+  "viewers_total": 233,
   "videos": [
     {
       "video_id": "d3UTb0PVqgk",
