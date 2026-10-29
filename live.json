@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-29T02:15:58Z",
+  "updated": "2026-10-29T02:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Building an AI Hackbot - CoWork & Chill",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 40
+      "viewers": 24
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ej_sa",
       "title": "MORE WEDNESDAY WARDOGS! Grinding Recon XP for the M14! 10/28/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 277
+      "viewers": 268
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - AI-Powered Web App Hacking (Workshop)",
       "link": "https://www.youtube.com/watch?v=tpWLYDhBJBU",
-      "viewers": 87
+      "viewers": 96
     }
   ],
-  "viewers_total": 434,
+  "viewers_total": 418,
   "videos": [
     {
       "video_id": "d3UTb0PVqgk",
