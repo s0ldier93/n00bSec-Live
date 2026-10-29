@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-29T04:25:58Z",
+  "updated": "2026-10-29T04:35:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Haking real y en vivo \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 11
+      "viewers": 13
     },
     {
       "platform": "twitch",
@@ -16,8 +16,16 @@
       "viewers": 8
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 21,
   "videos": [
+    {
+      "video_id": "s01g8hblBjM",
+      "channel": "HackerMentor",
+      "title": "Curso Completo de Hacking \u00c9tico B\u00e1sico desde Cero: Pentesting Completo",
+      "link": "https://www.youtube.com/watch?v=s01g8hblBjM",
+      "published_at": "2026-10-29T01:44:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/s01g8hblBjM/hqdefault.jpg"
+    },
     {
       "video_id": "tyq_e3vfKx0",
       "channel": "FixIt42",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=YYmuSS2TMI8",
       "published_at": "2026-10-28T16:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/YYmuSS2TMI8/hqdefault.jpg"
-    },
-    {
-      "video_id": "vyY_MVnt57U",
-      "channel": "TheLaluka",
-      "title": "We swore off AI for 2 years #shorts",
-      "link": "https://www.youtube.com/watch?v=vyY_MVnt57U",
-      "published_at": "2026-10-28T15:20:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/vyY_MVnt57U/hqdefault.jpg"
     }
   ]
 }
