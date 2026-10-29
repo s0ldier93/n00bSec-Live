@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:45:58Z",
+  "updated": "2026-10-29T11:55:58Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "nasa",
       "title": "U.S. Spacewalk 100",
       "link": "https://twitch.tv/nasa",
-      "viewers": 10186
+      "viewers": 10507
     }
   ],
-  "viewers_total": 10194,
+  "viewers_total": 10515,
   "videos": [
     {
       "video_id": "ISWY8SJ9Nyg",
