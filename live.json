@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-29T22:15:59Z",
+  "updated": "2026-10-29T22:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Hablando con Juan Blanco sobre seguridad en aplicaciones mobile #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 352
+      "viewers": 367
     },
     {
       "platform": "youtube",
@@ -30,8 +30,16 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 360,
+  "viewers_total": 376,
   "videos": [
+    {
+      "video_id": "VnwrdVMXg1U",
+      "channel": "Cyber_Insecurity",
+      "title": "Your AI cannot tell an authorized test from an attack",
+      "link": "https://www.youtube.com/watch?v=VnwrdVMXg1U",
+      "published_at": "2026-10-29T22:01:45+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VnwrdVMXg1U/hqdefault.jpg"
+    },
     {
       "video_id": "9He8Ipq_8zM",
       "channel": "mbcrump",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=RsuC6ngUKeU",
       "published_at": "2026-10-29T03:00:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RsuC6ngUKeU/hqdefault.jpg"
-    },
-    {
-      "video_id": "ccShe6z5b2Y",
-      "channel": "HaxrByte",
-      "title": "\ud83d\udcf1 [LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (22 Oct 2026)",
-      "link": "https://www.youtube.com/watch?v=ccShe6z5b2Y",
-      "published_at": "2026-10-29T02:58:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ccShe6z5b2Y/hqdefault.jpg"
     }
   ]
 }
