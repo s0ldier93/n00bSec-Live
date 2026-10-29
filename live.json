@@ -1,16 +1,38 @@
 {
-  "updated": "2026-10-29T16:05:59Z",
+  "updated": "2026-10-29T16:15:45Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Ethical Hacking & Ask Me Anything (10/29/26)",
+      "link": "https://twitch.tv/hack_smarter",
+      "viewers": 9
+    },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 100",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13631
+      "viewers": 13277
+    },
+    {
+      "platform": "youtube",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Ethical Hacking & Ask Me Anything (10/29/26)",
+      "link": "https://www.youtube.com/watch?v=I2ibH3WRhcI",
+      "viewers": 23
     }
   ],
-  "viewers_total": 13631,
+  "viewers_total": 13309,
   "videos": [
+    {
+      "video_id": "I2ibH3WRhcI",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - Ethical Hacking & Ask Me Anything (10/29/26)",
+      "link": "https://www.youtube.com/watch?v=I2ibH3WRhcI",
+      "published_at": "2026-10-29T16:05:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/I2ibH3WRhcI/hqdefault.jpg"
+    },
     {
       "video_id": "VmatvdMAZrg",
       "channel": "LuNiZz",
@@ -18,6 +40,14 @@
       "link": "https://www.youtube.com/watch?v=VmatvdMAZrg",
       "published_at": "2026-10-29T16:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VmatvdMAZrg/hqdefault.jpg"
+    },
+    {
+      "video_id": "1ScXiu5xbD0",
+      "channel": "KeonBowman",
+      "title": "File Upload Vulnerability to Remote Code Execution | Part 1 #shorts",
+      "link": "https://www.youtube.com/watch?v=1ScXiu5xbD0",
+      "published_at": "2026-10-29T16:00:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1ScXiu5xbD0/hqdefault.jpg"
     },
     {
       "video_id": "2rGXFVQUy0o",
@@ -154,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=fPTu-NwHSJI",
       "published_at": "2026-10-28T19:47:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fPTu-NwHSJI/hqdefault.jpg"
-    },
-    {
-      "video_id": "8yfYQU2lSW8",
-      "channel": "hack_smarter",
-      "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
-      "link": "https://www.youtube.com/watch?v=8yfYQU2lSW8",
-      "published_at": "2026-10-28T19:39:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8yfYQU2lSW8/hqdefault.jpg"
-    },
-    {
-      "video_id": "FgYCRcUKnNQ",
-      "channel": "Hackavis",
-      "title": "3 herramientas OSINT que utiliza el FBI #shorts #osint #ciberseguridad",
-      "link": "https://www.youtube.com/watch?v=FgYCRcUKnNQ",
-      "published_at": "2026-10-28T19:30:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FgYCRcUKnNQ/hqdefault.jpg"
     }
   ]
 }
