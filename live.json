@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:05:59Z",
+  "updated": "2026-10-29T22:15:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 325
+      "viewers": 352
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 332,
+  "viewers_total": 360,
   "videos": [
     {
       "video_id": "9He8Ipq_8zM",
@@ -47,6 +47,14 @@
       "link": "https://www.youtube.com/watch?v=JxVkDVy80rQ",
       "published_at": "2026-10-29T22:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/JxVkDVy80rQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "ed2nqwuPmxE",
+      "channel": "BySepa",
+      "title": "Hablando con Juan Blanco sobre seguridad en aplicaciones mobile #hacktheplanet #teaminvierno",
+      "link": "https://www.youtube.com/watch?v=ed2nqwuPmxE",
+      "published_at": "2026-10-29T21:55:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ed2nqwuPmxE/hqdefault.jpg"
     },
     {
       "video_id": "c80b1s24jHM",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=ccShe6z5b2Y",
       "published_at": "2026-10-29T02:58:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ccShe6z5b2Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "s01g8hblBjM",
-      "channel": "HackerMentor",
-      "title": "Curso Completo de Hacking \u00c9tico B\u00e1sico desde Cero: Pentesting Completo",
-      "link": "https://www.youtube.com/watch?v=s01g8hblBjM",
-      "published_at": "2026-10-29T01:44:52+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/s01g8hblBjM/hqdefault.jpg"
     }
   ]
 }
