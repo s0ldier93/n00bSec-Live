@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-29T05:05:58Z",
+  "updated": "2026-10-29T05:15:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Haking real y en vivo \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 9
+      "viewers": 8
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 10
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "s01g8hblBjM",
