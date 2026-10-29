@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T04:15:57Z",
+  "updated": "2026-10-29T04:25:24Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "cybertechvibes",
       "title": "SUBATHON!!  5 subs for a bean! 60 more for the one chip challenge! Girl Boy grind then we explore LEGO Gotham!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 7
+      "viewers": 8
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 212
     }
   ],
-  "viewers_total": 235,
+  "viewers_total": 236,
   "videos": [
     {
       "video_id": "tyq_e3vfKx0",
@@ -32,6 +32,14 @@
       "link": "https://www.youtube.com/watch?v=tyq_e3vfKx0",
       "published_at": "2026-10-29T01:42:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tyq_e3vfKx0/hqdefault.jpg"
+    },
+    {
+      "video_id": "tpWLYDhBJBU",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - AI-Powered Web App Hacking (Workshop)",
+      "link": "https://www.youtube.com/watch?v=tpWLYDhBJBU",
+      "published_at": "2026-10-29T01:31:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tpWLYDhBJBU/hqdefault.jpg"
     },
     {
       "video_id": "d3UTb0PVqgk",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=vyY_MVnt57U",
       "published_at": "2026-10-28T15:20:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/vyY_MVnt57U/hqdefault.jpg"
-    },
-    {
-      "video_id": "FFRMTwh_acg",
-      "channel": "ElPinguinoDeMario",
-      "title": "An\u00e1lisis de Malware en Emails: Prot\u00e9gete en 1 Minuto",
-      "link": "https://www.youtube.com/watch?v=FFRMTwh_acg",
-      "published_at": "2026-10-28T15:04:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FFRMTwh_acg/hqdefault.jpg"
     }
   ]
 }
