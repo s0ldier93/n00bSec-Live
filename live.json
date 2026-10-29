@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T16:35:47Z",
+  "updated": "2026-10-29T16:35:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,9 +11,9 @@
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "Stack the ET and a REUSED Orbiter! The SLC-6 Project (Part 28) 10/29/26",
+      "title": "EJ's Spacewalk and EVA 100 Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 0
+      "viewers": 113
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 53
     }
   ],
-  "viewers_total": 13261,
+  "viewers_total": 13374,
   "videos": [
     {
       "video_id": "I2ibH3WRhcI",
