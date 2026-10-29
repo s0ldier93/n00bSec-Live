@@ -1,43 +1,36 @@
 {
-  "updated": "2026-10-29T18:05:59Z",
+  "updated": "2026-10-29T18:15:58Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "antisyphon",
-      "title": "Free Lab Fridays - The Webcast",
-      "link": "https://twitch.tv/antisyphon",
-      "viewers": 2
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Spacewalk and EVA 100 Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 349
+      "viewers": 360
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (10/29/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 27
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 100",
       "link": "https://twitch.tv/nasa",
-      "viewers": 14171
+      "viewers": 13626
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (10/29/26)",
       "link": "https://www.youtube.com/watch?v=I2ibH3WRhcI",
-      "viewers": 63
+      "viewers": 46
     }
   ],
-  "viewers_total": 14612,
+  "viewers_total": 14050,
   "videos": [
     {
       "video_id": "I2ibH3WRhcI",
