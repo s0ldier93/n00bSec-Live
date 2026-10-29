@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-29T23:05:59Z",
+  "updated": "2026-10-29T23:15:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Hablando con Juan Blanco sobre seguridad en aplicaciones mobile #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 456
+      "viewers": 469
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Hablando con Juan Blanco sobre seguridad en aplicaciones mobile",
       "link": "https://www.youtube.com/watch?v=ed2nqwuPmxE",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 467,
+  "viewers_total": 479,
   "videos": [
     {
       "video_id": "VnwrdVMXg1U",
