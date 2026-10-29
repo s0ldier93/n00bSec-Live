@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-29T19:15:39Z",
+  "updated": "2026-10-29T19:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Spacewalk and EVA 100 Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 384
+      "viewers": 404
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Kritische CVE Warnungen!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 12
+      "viewers": 15
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 11591
     }
   ],
-  "viewers_total": 11987,
+  "viewers_total": 12010,
   "videos": [
     {
       "video_id": "4dYdgchSFNg",
