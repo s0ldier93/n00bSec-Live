@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-29T15:15:59Z",
+  "updated": "2026-10-29T15:26:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 100",
       "link": "https://twitch.tv/nasa",
-      "viewers": 12524
+      "viewers": 13320
     }
   ],
-  "viewers_total": 12524,
+  "viewers_total": 13320,
   "videos": [
+    {
+      "video_id": "2rGXFVQUy0o",
+      "channel": "TheLaluka",
+      "title": "$1M bugs now cost $2,000 in tokens #shorts",
+      "link": "https://www.youtube.com/watch?v=2rGXFVQUy0o",
+      "published_at": "2026-10-29T15:20:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2rGXFVQUy0o/hqdefault.jpg"
+    },
     {
       "video_id": "CCZD3VhldEA",
       "channel": "Khaos_Farbauti",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Sa93xWnzD_s",
       "published_at": "2026-10-28T19:00:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Sa93xWnzD_s/hqdefault.jpg"
-    },
-    {
-      "video_id": "MdcziDthhRg",
-      "channel": "NahamSec",
-      "title": "Cloudflare is offering a $3,000 bounty for any unique PHO2SHELL bypass.",
-      "link": "https://www.youtube.com/watch?v=MdcziDthhRg",
-      "published_at": "2026-10-28T18:22:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MdcziDthhRg/hqdefault.jpg"
     }
   ]
 }
