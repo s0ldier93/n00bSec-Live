@@ -1,23 +1,24 @@
 {
-  "updated": "2026-10-30T23:36:00Z",
+  "updated": "2026-10-30T23:46:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/30/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 505
-    },
-    {
-      "platform": "twitch",
-      "name": "FloraTheExplorer_cyber",
-      "title": "500 Follower Special! 3/5 | I have never played Minecraft in my life before this run",
-      "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 8
+      "viewers": 526
     }
   ],
-  "viewers_total": 513,
+  "viewers_total": 526,
   "videos": [
+    {
+      "video_id": "UvPTpbOCAQM",
+      "channel": "mbcrump",
+      "title": "Is the PS4 14.00 Jailbreak Real? I Tested BONK HEN",
+      "link": "https://www.youtube.com/watch?v=UvPTpbOCAQM",
+      "published_at": "2026-10-30T23:43:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UvPTpbOCAQM/hqdefault.jpg"
+    },
     {
       "video_id": "xaELc1Kode0",
       "channel": "EJSA",
@@ -169,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=u9B4Q7eEKl4",
       "published_at": "2026-10-30T11:00:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/u9B4Q7eEKl4/hqdefault.jpg"
-    },
-    {
-      "video_id": "B4mW4AYwo6o",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Cyber Security News & QA",
-      "link": "https://www.youtube.com/watch?v=B4mW4AYwo6o",
-      "published_at": "2026-10-30T04:29:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/B4mW4AYwo6o/hqdefault.jpg"
     }
   ]
 }
