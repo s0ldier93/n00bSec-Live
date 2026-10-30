@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-30T16:26:00Z",
+  "updated": "2026-10-30T16:36:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 12
+      "viewers": 20
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://www.youtube.com/watch?v=PlcALjG1ozw",
-      "viewers": 30
+      "viewers": 24
     }
   ],
-  "viewers_total": 42,
+  "viewers_total": 44,
   "videos": [
     {
       "video_id": "Z46D96dg0qg",
