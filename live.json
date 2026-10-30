@@ -1,29 +1,22 @@
 {
-  "updated": "2026-10-30T17:56:02Z",
+  "updated": "2026-10-30T18:05:41Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "invokereversing",
       "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 25
-    },
-    {
-      "platform": "twitch",
-      "name": "johnhammond010",
-      "title": "Hack a Water Tower! & Two Big Announcements",
-      "link": "https://twitch.tv/johnhammond010",
-      "viewers": 40
+      "viewers": 29
     },
     {
       "platform": "youtube",
-      "name": "JohnHammond010",
-      "title": "Hack a Water Tower! & Two Big Announcements",
-      "link": "https://www.youtube.com/watch?v=o8LWS7XiW84",
-      "viewers": 45
+      "name": "gerald_auger_simplycyber",
+      "title": "The Countdown to Simply Cyber Con 2026 Is On",
+      "link": "https://www.youtube.com/watch?v=gm1hm3ZEXho",
+      "viewers": 25
     }
   ],
-  "viewers_total": 110,
+  "viewers_total": 54,
   "videos": [
     {
       "video_id": "Z46D96dg0qg",
