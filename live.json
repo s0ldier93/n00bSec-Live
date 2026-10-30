@@ -1,30 +1,31 @@
 {
-  "updated": "2026-10-30T22:06:00Z",
+  "updated": "2026-10-30T22:16:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/30/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 451
+      "viewers": 458
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 3/5 | I have never played Minecraft in my life before this run",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 12
-    },
-    {
-      "platform": "twitch",
-      "name": "invokereversing",
-      "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
-      "link": "https://twitch.tv/invokereversing",
-      "viewers": 27
+      "viewers": 15
     }
   ],
-  "viewers_total": 490,
+  "viewers_total": 473,
   "videos": [
+    {
+      "video_id": "QP4ua1_S5GE",
+      "channel": "mbcrump",
+      "title": "ShadowMountPlus 1.7beta8: Install and Manage PS5 Games From Your TV",
+      "link": "https://www.youtube.com/watch?v=QP4ua1_S5GE",
+      "published_at": "2026-10-30T22:00:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QP4ua1_S5GE/hqdefault.jpg"
+    },
     {
       "video_id": "cKFYHtkG3dw",
       "channel": "gerald_auger_simplycyber",
@@ -176,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=VnwrdVMXg1U",
       "published_at": "2026-10-29T22:01:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VnwrdVMXg1U/hqdefault.jpg"
-    },
-    {
-      "video_id": "9He8Ipq_8zM",
-      "channel": "mbcrump",
-      "title": "Half-Life: Alyx on PS5 With PSVR2? HLA-PSVR2 Explained",
-      "link": "https://www.youtube.com/watch?v=9He8Ipq_8zM",
-      "published_at": "2026-10-29T22:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9He8Ipq_8zM/hqdefault.jpg"
     }
   ]
 }
