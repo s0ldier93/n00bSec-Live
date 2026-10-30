@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-30T21:26:01Z",
+  "updated": "2026-10-30T21:36:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/30/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 397
+      "viewers": 428
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "invokereversing",
       "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 29
+      "viewers": 28
     }
   ],
-  "viewers_total": 439,
+  "viewers_total": 469,
   "videos": [
     {
       "video_id": "cKFYHtkG3dw",
