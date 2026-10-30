@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-30T19:36:00Z",
+  "updated": "2026-10-30T19:46:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 3/5 | I have never played Minecraft in my life before this run",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "invokereversing",
       "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 42
+      "viewers": 39
     }
   ],
-  "viewers_total": 46,
+  "viewers_total": 41,
   "videos": [
+    {
+      "video_id": "ovEVuCODS-Q",
+      "channel": "Hackavis",
+      "title": "3 herramientas de privacidad que utilizan los expertos #shorts #opsec  #privacidad",
+      "link": "https://www.youtube.com/watch?v=ovEVuCODS-Q",
+      "published_at": "2026-10-30T19:30:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ovEVuCODS-Q/hqdefault.jpg"
+    },
     {
       "video_id": "btgiYO7a_NE",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=wpQ_OJdOGrI",
       "published_at": "2026-10-29T21:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wpQ_OJdOGrI/hqdefault.jpg"
-    },
-    {
-      "video_id": "M-CmYzObKPM",
-      "channel": "EJSA",
-      "title": "MORE WEDNESDAY WARDOGS! Grinding Recon XP for the M14! 10/28/26",
-      "link": "https://www.youtube.com/watch?v=M-CmYzObKPM",
-      "published_at": "2026-10-29T20:36:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/M-CmYzObKPM/hqdefault.jpg"
     }
   ]
 }
