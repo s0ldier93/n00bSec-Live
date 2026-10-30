@@ -1,23 +1,39 @@
 {
-  "updated": "2026-10-30T15:15:48Z",
+  "updated": "2026-10-30T15:26:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 7
+      "viewers": 13
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://www.youtube.com/watch?v=PlcALjG1ozw",
-      "viewers": 16
+      "viewers": 19
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 32,
   "videos": [
+    {
+      "video_id": "GvldI3hYuDw",
+      "channel": "TheLaluka",
+      "title": "Pentesters will become accountants #shorts",
+      "link": "https://www.youtube.com/watch?v=GvldI3hYuDw",
+      "published_at": "2026-10-30T15:20:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GvldI3hYuDw/hqdefault.jpg"
+    },
+    {
+      "video_id": "PlcALjG1ozw",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
+      "link": "https://www.youtube.com/watch?v=PlcALjG1ozw",
+      "published_at": "2026-10-30T15:06:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PlcALjG1ozw/hqdefault.jpg"
+    },
     {
       "video_id": "bfyTcPsWric",
       "channel": "CyberWarriorStudios",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=I2ibH3WRhcI",
       "published_at": "2026-10-29T16:05:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/I2ibH3WRhcI/hqdefault.jpg"
-    },
-    {
-      "video_id": "VmatvdMAZrg",
-      "channel": "LuNiZz",
-      "title": "Botunuzla Botum G\u00f6r\u00fc\u015fs\u00fcn.",
-      "link": "https://www.youtube.com/watch?v=VmatvdMAZrg",
-      "published_at": "2026-10-29T16:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VmatvdMAZrg/hqdefault.jpg"
-    },
-    {
-      "video_id": "1ScXiu5xbD0",
-      "channel": "KeonBowman",
-      "title": "File Upload Vulnerability to Remote Code Execution | Part 1 #shorts",
-      "link": "https://www.youtube.com/watch?v=1ScXiu5xbD0",
-      "published_at": "2026-10-29T16:00:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1ScXiu5xbD0/hqdefault.jpg"
     }
   ]
 }
