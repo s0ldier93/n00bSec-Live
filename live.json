@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-30T14:16:01Z",
+  "updated": "2026-10-30T14:36:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Tea with a Hacker",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 52
+      "viewers": 42
     }
   ],
-  "viewers_total": 52,
+  "viewers_total": 42,
   "videos": [
+    {
+      "video_id": "bfyTcPsWric",
+      "channel": "CyberWarriorStudios",
+      "title": "Finish strong so you can have a great weekend and don\u2019t forget to vote for me as top host.",
+      "link": "https://www.youtube.com/watch?v=bfyTcPsWric",
+      "published_at": "2026-10-30T14:12:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bfyTcPsWric/hqdefault.jpg"
+    },
     {
       "video_id": "f92LfA0AR2E",
       "channel": "JohnHammond010",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=1ScXiu5xbD0",
       "published_at": "2026-10-29T16:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1ScXiu5xbD0/hqdefault.jpg"
-    },
-    {
-      "video_id": "CZ8wQyE5gks",
-      "channel": "mbcrump",
-      "title": "PS5 and PS4 Game Roundup: Syphon Filter, Trackmania and More",
-      "link": "https://www.youtube.com/watch?v=CZ8wQyE5gks",
-      "published_at": "2026-10-29T16:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CZ8wQyE5gks/hqdefault.jpg"
     }
   ]
 }
