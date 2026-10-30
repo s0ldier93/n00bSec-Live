@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-30T01:25:59Z",
+  "updated": "2026-10-30T01:35:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 7
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -20,21 +20,21 @@
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (22 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 8
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Aniimo Update with Friends",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=B4mW4AYwo6o",
-      "viewers": 4
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 33,
   "videos": [
     {
       "video_id": "VnwrdVMXg1U",
