@@ -1,23 +1,24 @@
 {
-  "updated": "2026-10-30T13:56:01Z",
+  "updated": "2026-10-30T14:05:47Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Tea with a Hacker",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 37
-    },
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Oct 30's Top Cyber News NOW! - Ep 1277",
-      "link": "https://www.youtube.com/watch?v=2xwaCJxzPjQ",
-      "viewers": 231
+      "viewers": 33
     }
   ],
-  "viewers_total": 268,
+  "viewers_total": 33,
   "videos": [
+    {
+      "video_id": "mjv9SZZvkS0",
+      "channel": "SecurityWeekly",
+      "title": "What Your Smart TV Might Hear",
+      "link": "https://www.youtube.com/watch?v=mjv9SZZvkS0",
+      "published_at": "2026-10-30T14:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mjv9SZZvkS0/hqdefault.jpg"
+    },
     {
       "video_id": "NzwWsl0tlEY",
       "channel": "TheShyHat",
@@ -169,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=2rGXFVQUy0o",
       "published_at": "2026-10-29T15:20:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2rGXFVQUy0o/hqdefault.jpg"
-    },
-    {
-      "video_id": "CCZD3VhldEA",
-      "channel": "Khaos_Farbauti",
-      "title": "Un cadeau choisi par IA est-il un vrai cadeau ?",
-      "link": "https://www.youtube.com/watch?v=CCZD3VhldEA",
-      "published_at": "2026-10-29T15:02:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CCZD3VhldEA/hqdefault.jpg"
     }
   ]
 }
