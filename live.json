@@ -1,23 +1,24 @@
 {
-  "updated": "2026-10-30T18:56:01Z",
+  "updated": "2026-10-30T19:05:35Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "invokereversing",
       "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 39
-    },
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "The Countdown to Simply Cyber Con 2026 Is On",
-      "link": "https://www.youtube.com/watch?v=gm1hm3ZEXho",
-      "viewers": 52
+      "viewers": 31
     }
   ],
-  "viewers_total": 91,
+  "viewers_total": 31,
   "videos": [
+    {
+      "video_id": "btgiYO7a_NE",
+      "channel": "mbcrump",
+      "title": "PS5 FPKGs: Why the A53 Disclosure Wait Continues",
+      "link": "https://www.youtube.com/watch?v=btgiYO7a_NE",
+      "published_at": "2026-10-30T19:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/btgiYO7a_NE/hqdefault.jpg"
+    },
     {
       "video_id": "Z46D96dg0qg",
       "channel": "thecybermentor",
@@ -169,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=M-CmYzObKPM",
       "published_at": "2026-10-29T20:36:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/M-CmYzObKPM/hqdefault.jpg"
-    },
-    {
-      "video_id": "4dYdgchSFNg",
-      "channel": "mbcrump",
-      "title": "Lapse vs Relapse vs Prolapse: PS5 Firmware Differences Explained",
-      "link": "https://www.youtube.com/watch?v=4dYdgchSFNg",
-      "published_at": "2026-10-29T19:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/4dYdgchSFNg/hqdefault.jpg"
     }
   ]
 }
