@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-30T11:15:05Z",
+  "updated": "2026-10-30T12:05:04Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "NzwWsl0tlEY",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Forms - Web Forms - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=NzwWsl0tlEY",
+      "published_at": "2026-10-30T12:00:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NzwWsl0tlEY/hqdefault.jpg"
+    },
     {
       "video_id": "u9B4Q7eEKl4",
       "channel": "hack_smarter",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=CCZD3VhldEA",
       "published_at": "2026-10-29T15:02:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CCZD3VhldEA/hqdefault.jpg"
-    },
-    {
-      "video_id": "CKM9O7NtOtk",
-      "channel": "SecurityWeekly",
-      "title": "CVE Remediation Is Getting Too Slow",
-      "link": "https://www.youtube.com/watch?v=CKM9O7NtOtk",
-      "published_at": "2026-10-29T14:00:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CKM9O7NtOtk/hqdefault.jpg"
     }
   ]
 }
