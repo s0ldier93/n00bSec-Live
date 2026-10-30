@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-30T06:05:57Z",
+  "updated": "2026-10-30T06:15:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 6,
   "videos": [
     {
       "video_id": "VnwrdVMXg1U",
