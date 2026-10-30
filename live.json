@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:05:23Z",
+  "updated": "2026-10-30T01:05:58Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,17 +10,10 @@
     },
     {
       "platform": "twitch",
-      "name": "ej_sa",
-      "title": "EJ's Space and Rocket Revue! 10/29/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 418
-    },
-    {
-      "platform": "twitch",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (22 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 6
+      "viewers": 8
     },
     {
       "platform": "youtube",
@@ -30,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 431,
+  "viewers_total": 15,
   "videos": [
     {
       "video_id": "VnwrdVMXg1U",
