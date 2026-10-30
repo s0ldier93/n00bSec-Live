@@ -1,30 +1,38 @@
 {
-  "updated": "2026-10-30T21:16:01Z",
+  "updated": "2026-10-30T21:26:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/30/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 363
+      "viewers": 397
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 3/5 | I have never played Minecraft in my life before this run",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 12
+      "viewers": 13
     },
     {
       "platform": "twitch",
       "name": "invokereversing",
       "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 33
+      "viewers": 29
     }
   ],
-  "viewers_total": 408,
+  "viewers_total": 439,
   "videos": [
+    {
+      "video_id": "cKFYHtkG3dw",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 3's Top Cyber News NOW! - Ep 1279",
+      "link": "https://www.youtube.com/watch?v=cKFYHtkG3dw",
+      "published_at": "2026-10-30T21:16:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cKFYHtkG3dw/hqdefault.jpg"
+    },
     {
       "video_id": "xUopvwUyj_c",
       "channel": "SecurityWeekly",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=9He8Ipq_8zM",
       "published_at": "2026-10-29T22:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9He8Ipq_8zM/hqdefault.jpg"
-    },
-    {
-      "video_id": "JxVkDVy80rQ",
-      "channel": "SecurityWeekly",
-      "title": "The Windows Drivers Attackers Can Abuse",
-      "link": "https://www.youtube.com/watch?v=JxVkDVy80rQ",
-      "published_at": "2026-10-29T22:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/JxVkDVy80rQ/hqdefault.jpg"
     }
   ]
 }
