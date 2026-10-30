@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-30T22:36:00Z",
+  "updated": "2026-10-30T22:46:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/30/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 483
+      "viewers": 429
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 3/5 | I have never played Minecraft in my life before this run",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 12
+      "viewers": 10
     }
   ],
-  "viewers_total": 495,
+  "viewers_total": 439,
   "videos": [
     {
       "video_id": "aJBFgMl7CBk",
