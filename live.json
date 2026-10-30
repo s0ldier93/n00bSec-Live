@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-30T14:05:47Z",
+  "updated": "2026-10-30T14:16:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Tea with a Hacker",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 33
+      "viewers": 52
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 52,
   "videos": [
+    {
+      "video_id": "f92LfA0AR2E",
+      "channel": "JohnHammond010",
+      "title": "The ClickFix Deception",
+      "link": "https://www.youtube.com/watch?v=f92LfA0AR2E",
+      "published_at": "2026-10-30T14:06:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/f92LfA0AR2E/hqdefault.jpg"
+    },
     {
       "video_id": "mjv9SZZvkS0",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=CZ8wQyE5gks",
       "published_at": "2026-10-29T16:00:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CZ8wQyE5gks/hqdefault.jpg"
-    },
-    {
-      "video_id": "2rGXFVQUy0o",
-      "channel": "TheLaluka",
-      "title": "$1M bugs now cost $2,000 in tokens #shorts",
-      "link": "https://www.youtube.com/watch?v=2rGXFVQUy0o",
-      "published_at": "2026-10-29T15:20:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2rGXFVQUy0o/hqdefault.jpg"
     }
   ]
 }
