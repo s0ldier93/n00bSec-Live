@@ -1,23 +1,39 @@
 {
-  "updated": "2026-10-30T22:16:01Z",
+  "updated": "2026-10-30T22:26:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/30/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 458
+      "viewers": 467
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 3/5 | I have never played Minecraft in my life before this run",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 15
+      "viewers": 11
     }
   ],
-  "viewers_total": 473,
+  "viewers_total": 478,
   "videos": [
+    {
+      "video_id": "aJBFgMl7CBk",
+      "channel": "Cyber_Insecurity",
+      "title": "What does an AI find when it hunts your repo?",
+      "link": "https://www.youtube.com/watch?v=aJBFgMl7CBk",
+      "published_at": "2026-10-30T22:05:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/aJBFgMl7CBk/hqdefault.jpg"
+    },
+    {
+      "video_id": "IaTrKgj8N9Y",
+      "channel": "SecurityWeekly",
+      "title": "Who Really Owns These Anonymous Companies?",
+      "link": "https://www.youtube.com/watch?v=IaTrKgj8N9Y",
+      "published_at": "2026-10-30T22:00:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IaTrKgj8N9Y/hqdefault.jpg"
+    },
     {
       "video_id": "QP4ua1_S5GE",
       "channel": "mbcrump",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=NUyJVpAhvdo",
       "published_at": "2026-10-30T03:00:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NUyJVpAhvdo/hqdefault.jpg"
-    },
-    {
-      "video_id": "V7Wn2MLRDLQ",
-      "channel": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 10/30/26",
-      "link": "https://www.youtube.com/watch?v=V7Wn2MLRDLQ",
-      "published_at": "2026-10-30T01:02:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/V7Wn2MLRDLQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "VnwrdVMXg1U",
-      "channel": "Cyber_Insecurity",
-      "title": "Your AI cannot tell an authorized test from an attack",
-      "link": "https://www.youtube.com/watch?v=VnwrdVMXg1U",
-      "published_at": "2026-10-29T22:01:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VnwrdVMXg1U/hqdefault.jpg"
     }
   ]
 }
