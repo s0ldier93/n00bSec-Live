@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-30T07:25:59Z",
+  "updated": "2026-10-30T07:35:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Once Didgeri",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 5
+      "viewers": 3
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "B4mW4AYwo6o",
