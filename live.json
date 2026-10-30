@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-30T13:46:01Z",
+  "updated": "2026-10-30T13:56:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Tea with a Hacker",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 6
+      "viewers": 37
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Oct 30's Top Cyber News NOW! - Ep 1277",
       "link": "https://www.youtube.com/watch?v=2xwaCJxzPjQ",
-      "viewers": 235
+      "viewers": 231
     }
   ],
-  "viewers_total": 241,
+  "viewers_total": 268,
   "videos": [
     {
       "video_id": "NzwWsl0tlEY",
