@@ -1,43 +1,36 @@
 {
-  "updated": "2026-10-30T17:05:41Z",
+  "updated": "2026-10-30T17:16:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 22
-    },
-    {
-      "platform": "twitch",
-      "name": "invokereversing",
-      "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
-      "link": "https://twitch.tv/invokereversing",
-      "viewers": 3
+      "viewers": 30
     },
     {
       "platform": "twitch",
       "name": "johnhammond010",
       "title": "Hack a Water Tower! & Two Big Announcements",
       "link": "https://twitch.tv/johnhammond010",
-      "viewers": 1
+      "viewers": 14
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://www.youtube.com/watch?v=PlcALjG1ozw",
-      "viewers": 17
+      "viewers": 20
     },
     {
       "platform": "youtube",
       "name": "JohnHammond010",
       "title": "Hack a Water Tower! & Two Big Announcements",
       "link": "https://www.youtube.com/watch?v=o8LWS7XiW84",
-      "viewers": 43
+      "viewers": 65
     }
   ],
-  "viewers_total": 86,
+  "viewers_total": 129,
   "videos": [
     {
       "video_id": "Z46D96dg0qg",
