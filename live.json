@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:16:01Z",
+  "updated": "2026-10-30T20:25:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,9 +14,16 @@
       "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
       "link": "https://twitch.tv/invokereversing",
       "viewers": 35
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 10/30/26",
+      "link": "https://www.youtube.com/watch?v=V7Wn2MLRDLQ",
+      "viewers": 33
     }
   ],
-  "viewers_total": 47,
+  "viewers_total": 80,
   "videos": [
     {
       "video_id": "aZ_1JT_SGN4",
@@ -139,6 +146,14 @@
       "thumbnail": "https://i.ytimg.com/vi/NUyJVpAhvdo/hqdefault.jpg"
     },
     {
+      "video_id": "V7Wn2MLRDLQ",
+      "channel": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 10/30/26",
+      "link": "https://www.youtube.com/watch?v=V7Wn2MLRDLQ",
+      "published_at": "2026-10-30T01:02:41+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/V7Wn2MLRDLQ/hqdefault.jpg"
+    },
+    {
       "video_id": "VnwrdVMXg1U",
       "channel": "Cyber_Insecurity",
       "title": "Your AI cannot tell an authorized test from an attack",
@@ -169,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=ed2nqwuPmxE",
       "published_at": "2026-10-29T21:55:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ed2nqwuPmxE/hqdefault.jpg"
-    },
-    {
-      "video_id": "c80b1s24jHM",
-      "channel": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 10/29/26",
-      "link": "https://www.youtube.com/watch?v=c80b1s24jHM",
-      "published_at": "2026-10-29T21:26:57+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/c80b1s24jHM/hqdefault.jpg"
     }
   ]
 }
