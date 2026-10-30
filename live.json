@@ -1,50 +1,50 @@
 {
-  "updated": "2026-10-30T01:35:59Z",
+  "updated": "2026-10-30T01:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 12
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (22 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 9
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Aniimo Update with Friends",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=B4mW4AYwo6o",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "HaxrByte",
       "title": "\ud83d\udcf1 [LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (22 Oct 2026)",
       "link": "https://www.youtube.com/watch?v=ccShe6z5b2Y",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 28,
   "videos": [
     {
       "video_id": "VnwrdVMXg1U",
