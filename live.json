@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T07:35:59Z",
+  "updated": "2026-10-30T07:46:00Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "irasakai",
       "title": "Once Didgeri",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 4
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "B4mW4AYwo6o",
