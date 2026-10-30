@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-30T20:06:01Z",
+  "updated": "2026-10-30T20:16:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 3/5 | I have never played Minecraft in my life before this run",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 10
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "invokereversing",
       "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 38
+      "viewers": 35
     }
   ],
-  "viewers_total": 48,
+  "viewers_total": 47,
   "videos": [
+    {
+      "video_id": "aZ_1JT_SGN4",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 2's Top Cyber News NOW! - Ep 1278",
+      "link": "https://www.youtube.com/watch?v=aZ_1JT_SGN4",
+      "published_at": "2026-10-30T19:58:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/aZ_1JT_SGN4/hqdefault.jpg"
+    },
     {
       "video_id": "ovEVuCODS-Q",
       "channel": "Hackavis",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=c80b1s24jHM",
       "published_at": "2026-10-29T21:26:57+00:00",
       "thumbnail": "https://i.ytimg.com/vi/c80b1s24jHM/hqdefault.jpg"
-    },
-    {
-      "video_id": "wpQ_OJdOGrI",
-      "channel": "SecurityWeekly",
-      "title": "Vulnpocalypse Continues Until Defense Improves - PSW #950",
-      "link": "https://www.youtube.com/watch?v=wpQ_OJdOGrI",
-      "published_at": "2026-10-29T21:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wpQ_OJdOGrI/hqdefault.jpg"
     }
   ]
 }
