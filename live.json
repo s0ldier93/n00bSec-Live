@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-30T17:36:00Z",
+  "updated": "2026-10-30T17:46:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "invokereversing",
       "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 23
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "johnhammond010",
       "title": "Hack a Water Tower! & Two Big Announcements",
       "link": "https://twitch.tv/johnhammond010",
-      "viewers": 38
+      "viewers": 34
     },
     {
       "platform": "youtube",
       "name": "JohnHammond010",
       "title": "Hack a Water Tower! & Two Big Announcements",
       "link": "https://www.youtube.com/watch?v=o8LWS7XiW84",
-      "viewers": 50
+      "viewers": 59
     }
   ],
-  "viewers_total": 111,
+  "viewers_total": 114,
   "videos": [
     {
       "video_id": "Z46D96dg0qg",
