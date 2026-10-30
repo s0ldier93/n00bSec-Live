@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-30T00:45:59Z",
+  "updated": "2026-10-30T00:55:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/29/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 438
+      "viewers": 418
     },
     {
       "platform": "twitch",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (22 Oct 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 447,
+  "viewers_total": 429,
   "videos": [
     {
       "video_id": "VnwrdVMXg1U",
