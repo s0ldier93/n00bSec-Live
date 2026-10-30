@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-30T20:46:00Z",
+  "updated": "2026-10-30T20:56:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/30/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 290
+      "viewers": 301
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 3/5 | I have never played Minecraft in my life before this run",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 5
+      "viewers": 7
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 33
     }
   ],
-  "viewers_total": 328,
+  "viewers_total": 341,
   "videos": [
     {
       "video_id": "aZ_1JT_SGN4",
