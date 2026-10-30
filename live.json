@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-30T03:05:57Z",
+  "updated": "2026-10-30T03:15:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 32
+      "viewers": 29
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Aniimo Update with Friends",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=B4mW4AYwo6o",
-      "viewers": 7
+      "viewers": 6
     }
   ],
-  "viewers_total": 45,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "VnwrdVMXg1U",
