@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-30T14:56:01Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "cyber_insecurity",
-      "title": "Tea with a Hacker",
-      "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 65
-    }
-  ],
-  "viewers_total": 65,
+  "updated": "2026-10-30T15:06:01Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "bfyTcPsWric",
