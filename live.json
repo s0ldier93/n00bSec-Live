@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-30T22:46:00Z",
+  "updated": "2026-10-30T22:56:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/30/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 429
+      "viewers": 450
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 3/5 | I have never played Minecraft in my life before this run",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 10
+      "viewers": 11
     }
   ],
-  "viewers_total": 439,
+  "viewers_total": 461,
   "videos": [
+    {
+      "video_id": "xaELc1Kode0",
+      "channel": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 10/30/26",
+      "link": "https://www.youtube.com/watch?v=xaELc1Kode0",
+      "published_at": "2026-10-30T22:35:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xaELc1Kode0/hqdefault.jpg"
+    },
     {
       "video_id": "aJBFgMl7CBk",
       "channel": "Cyber_Insecurity",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=B4mW4AYwo6o",
       "published_at": "2026-10-30T04:29:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/B4mW4AYwo6o/hqdefault.jpg"
-    },
-    {
-      "video_id": "NUyJVpAhvdo",
-      "channel": "mbcrump",
-      "title": "PS5 BD-JB Disc v29: New Payload Presets and Emulator Installers",
-      "link": "https://www.youtube.com/watch?v=NUyJVpAhvdo",
-      "published_at": "2026-10-30T03:00:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NUyJVpAhvdo/hqdefault.jpg"
     }
   ]
 }
