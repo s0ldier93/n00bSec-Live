@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-30T18:26:01Z",
+  "updated": "2026-10-30T18:36:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "invokereversing",
       "title": "\ud83c\udf83\ud83d\udc7b\ud83d\udd25 Halloween Malware Analysis \ud83d\udd25\ud83d\udc7b\ud83c\udf83",
       "link": "https://twitch.tv/invokereversing",
-      "viewers": 27
+      "viewers": 30
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "The Countdown to Simply Cyber Con 2026 Is On",
       "link": "https://www.youtube.com/watch?v=gm1hm3ZEXho",
-      "viewers": 49
+      "viewers": 53
     }
   ],
-  "viewers_total": 76,
+  "viewers_total": 83,
   "videos": [
     {
       "video_id": "Z46D96dg0qg",
