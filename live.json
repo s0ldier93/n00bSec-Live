@@ -1,23 +1,39 @@
 {
-  "updated": "2026-10-30T06:35:59Z",
+  "updated": "2026-10-30T07:05:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "SUBATHON!!  23 more for the one chip challenge! Scammin fools and then Lego Batman platinum!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "Once Didgeri",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 2
     }
   ],
   "viewers_total": 7,
   "videos": [
+    {
+      "video_id": "B4mW4AYwo6o",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! Cyber Security News & QA",
+      "link": "https://www.youtube.com/watch?v=B4mW4AYwo6o",
+      "published_at": "2026-10-30T04:29:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/B4mW4AYwo6o/hqdefault.jpg"
+    },
+    {
+      "video_id": "NUyJVpAhvdo",
+      "channel": "mbcrump",
+      "title": "PS5 BD-JB Disc v29: New Payload Presets and Emulator Installers",
+      "link": "https://www.youtube.com/watch?v=NUyJVpAhvdo",
+      "published_at": "2026-10-30T03:00:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NUyJVpAhvdo/hqdefault.jpg"
+    },
     {
       "video_id": "VnwrdVMXg1U",
       "channel": "Cyber_Insecurity",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=7h7FYGF7tuQ",
       "published_at": "2026-10-29T13:52:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/7h7FYGF7tuQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "ISWY8SJ9Nyg",
-      "channel": "EJSA",
-      "title": "MORE WEDNESDAY WARDOGS! Grinding Recon XP for the M14! 10/28/26",
-      "link": "https://www.youtube.com/watch?v=ISWY8SJ9Nyg",
-      "published_at": "2026-10-29T04:18:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ISWY8SJ9Nyg/hqdefault.jpg"
-    },
-    {
-      "video_id": "RsuC6ngUKeU",
-      "channel": "mbcrump",
-      "title": "PS5 Upload 7.5.2: Wake Your Console for Queued Transfers",
-      "link": "https://www.youtube.com/watch?v=RsuC6ngUKeU",
-      "published_at": "2026-10-29T03:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RsuC6ngUKeU/hqdefault.jpg"
     }
   ]
 }
