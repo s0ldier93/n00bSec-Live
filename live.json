@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-30T03:15:58Z",
+  "updated": "2026-10-30T03:25:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 29
+      "viewers": 25
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "irasakai",
       "title": "Aniimo Update with Friends",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=B4mW4AYwo6o",
-      "viewers": 6
+      "viewers": 8
     }
   ],
-  "viewers_total": 38,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "VnwrdVMXg1U",
