@@ -1,23 +1,39 @@
 {
-  "updated": "2026-10-30T15:56:00Z",
+  "updated": "2026-10-30T16:06:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 17
+      "viewers": 14
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
       "link": "https://www.youtube.com/watch?v=PlcALjG1ozw",
-      "viewers": 21
+      "viewers": 25
     }
   ],
-  "viewers_total": 38,
+  "viewers_total": 39,
   "videos": [
+    {
+      "video_id": "Z46D96dg0qg",
+      "channel": "thecybermentor",
+      "title": "DEF CON CTF Walkthrough: OSINT Edition",
+      "link": "https://www.youtube.com/watch?v=Z46D96dg0qg",
+      "published_at": "2026-10-30T16:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Z46D96dg0qg/hqdefault.jpg"
+    },
+    {
+      "video_id": "tp5-JI4B2AM",
+      "channel": "mbcrump",
+      "title": "PS3 Discs and USB Guitars on PS5: PS5SX3 Progress",
+      "link": "https://www.youtube.com/watch?v=tp5-JI4B2AM",
+      "published_at": "2026-10-30T16:00:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tp5-JI4B2AM/hqdefault.jpg"
+    },
     {
       "video_id": "kyLkmPsEAbU",
       "channel": "ElPinguinoDeMario",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=4dYdgchSFNg",
       "published_at": "2026-10-29T19:00:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4dYdgchSFNg/hqdefault.jpg"
-    },
-    {
-      "video_id": "RndFaZ61UZA",
-      "channel": "CyberWarriorStudios",
-      "title": "Take care of your health, oh and show your support by voting for me as Top Host!",
-      "link": "https://www.youtube.com/watch?v=RndFaZ61UZA",
-      "published_at": "2026-10-29T18:31:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RndFaZ61UZA/hqdefault.jpg"
-    },
-    {
-      "video_id": "o8LWS7XiW84",
-      "channel": "JohnHammond010",
-      "title": "Hack a Water Tower! & Two Big Announcements",
-      "link": "https://www.youtube.com/watch?v=o8LWS7XiW84",
-      "published_at": "2026-10-29T18:22:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/o8LWS7XiW84/hqdefault.jpg"
     }
   ]
 }
