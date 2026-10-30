@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-30T21:06:00Z",
+  "updated": "2026-10-30T21:16:01Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 10/30/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 337
+      "viewers": 363
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 3/5 | I have never played Minecraft in my life before this run",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 5
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 33
     }
   ],
-  "viewers_total": 375,
+  "viewers_total": 408,
   "videos": [
+    {
+      "video_id": "xUopvwUyj_c",
+      "channel": "SecurityWeekly",
+      "title": "Mrfoofoo, Binance, Polymarket, Silent Train, robosurance, privacy, and Josh Marpet - SWN #629",
+      "link": "https://www.youtube.com/watch?v=xUopvwUyj_c",
+      "published_at": "2026-10-30T21:00:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xUopvwUyj_c/hqdefault.jpg"
+    },
     {
       "video_id": "aZ_1JT_SGN4",
       "channel": "gerald_auger_simplycyber",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=JxVkDVy80rQ",
       "published_at": "2026-10-29T22:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/JxVkDVy80rQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "ed2nqwuPmxE",
-      "channel": "BySepa",
-      "title": "Hablando con Juan Blanco sobre seguridad en aplicaciones mobile #hacktheplanet #teaminvierno",
-      "link": "https://www.youtube.com/watch?v=ed2nqwuPmxE",
-      "published_at": "2026-10-29T21:55:52+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ed2nqwuPmxE/hqdefault.jpg"
     }
   ]
 }
