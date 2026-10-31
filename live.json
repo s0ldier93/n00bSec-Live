@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-31T06:15:59Z",
+  "updated": "2026-10-31T06:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 9
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "LUNA \ud83c\udf19 ESPECIAL HALLOWEEN | ty: @flowerangel__",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 58
+      "viewers": 61
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "QT Didgeri",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 68,
+  "viewers_total": 75,
   "videos": [
     {
       "video_id": "-y-y8J9GqTI",
