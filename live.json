@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-31T01:16:00Z",
+  "updated": "2026-10-31T01:26:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 8
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 10/30/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 525
+      "viewers": 511
     }
   ],
-  "viewers_total": 533,
+  "viewers_total": 522,
   "videos": [
     {
       "video_id": "UvPTpbOCAQM",
