@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-31T22:55:58Z",
+  "updated": "2026-10-31T23:05:58Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "b7h30",
-      "title": "happy halloween",
-      "link": "https://twitch.tv/b7h30",
-      "viewers": 18
-    },
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "why would I deceive you? !today",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 589
+      "viewers": 612
     }
   ],
-  "viewers_total": 607,
+  "viewers_total": 612,
   "videos": [
     {
       "video_id": "M0dspv-NA-M",
