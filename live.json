@@ -1,30 +1,32 @@
 {
-  "updated": "2026-10-31T15:55:58Z",
+  "updated": "2026-10-31T16:05:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 17
-    },
-    {
-      "platform": "youtube",
-      "name": "B7H30",
-      "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB",
-      "link": "https://www.youtube.com/watch?v=uIXsAUPeZTU",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "keylogin",
-      "title": "Azeroth Survivors And Warmane Playing Today Chill",
-      "link": "https://www.youtube.com/watch?v=cBoeMZhRsyI",
-      "viewers": 1
+      "viewers": 22
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 22,
   "videos": [
+    {
+      "video_id": "SXme2brYD8c",
+      "channel": "mbcrump",
+      "title": "PS4 Ambilight: WLED Lighting Without a Capture Card or PC",
+      "link": "https://www.youtube.com/watch?v=SXme2brYD8c",
+      "published_at": "2026-10-31T16:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SXme2brYD8c/hqdefault.jpg"
+    },
+    {
+      "video_id": "IJRKlJo_AP4",
+      "channel": "B7H30",
+      "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB",
+      "link": "https://www.youtube.com/watch?v=IJRKlJo_AP4",
+      "published_at": "2026-10-31T15:59:48+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IJRKlJo_AP4/hqdefault.jpg"
+    },
     {
       "video_id": "8BMqNGM8b-Y",
       "channel": "B7H30",
@@ -168,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=xUopvwUyj_c",
       "published_at": "2026-10-30T21:00:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xUopvwUyj_c/hqdefault.jpg"
-    },
-    {
-      "video_id": "aZ_1JT_SGN4",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 2's Top Cyber News NOW! - Ep 1278",
-      "link": "https://www.youtube.com/watch?v=aZ_1JT_SGN4",
-      "published_at": "2026-10-30T19:58:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/aZ_1JT_SGN4/hqdefault.jpg"
-    },
-    {
-      "video_id": "ovEVuCODS-Q",
-      "channel": "Hackavis",
-      "title": "3 herramientas de privacidad que utilizan los expertos #shorts #opsec  #privacidad",
-      "link": "https://www.youtube.com/watch?v=ovEVuCODS-Q",
-      "published_at": "2026-10-30T19:30:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ovEVuCODS-Q/hqdefault.jpg"
     }
   ]
 }
