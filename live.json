@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-31T09:05:58Z",
+  "updated": "2026-10-31T09:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "QT Didgeri",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "gSP5Y4DotLY",
