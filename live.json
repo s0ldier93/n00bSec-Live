@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T13:45:59Z",
+  "updated": "2026-10-31T14:05:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "DCCyberSec",
       "title": "BUILDING LIVE WITH AI",
       "link": "https://www.youtube.com/watch?v=dQRw92VI0HY",
-      "viewers": 7
+      "viewers": 6
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 7,
   "videos": [
+    {
+      "video_id": "drEZB8CBb-A",
+      "channel": "HaxrByte",
+      "title": "How to Think Like a Professional Hacker #haxrbyte #shorts",
+      "link": "https://www.youtube.com/watch?v=drEZB8CBb-A",
+      "published_at": "2026-10-31T14:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/drEZB8CBb-A/hqdefault.jpg"
+    },
     {
       "video_id": "gSP5Y4DotLY",
       "channel": "keylogin",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=GvldI3hYuDw",
       "published_at": "2026-10-30T15:20:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GvldI3hYuDw/hqdefault.jpg"
-    },
-    {
-      "video_id": "PlcALjG1ozw",
-      "channel": "hack_smarter",
-      "title": "[LIVE] - Study With Me (Pomodoro - 25/5)",
-      "link": "https://www.youtube.com/watch?v=PlcALjG1ozw",
-      "published_at": "2026-10-30T15:06:51+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PlcALjG1ozw/hqdefault.jpg"
     }
   ]
 }
