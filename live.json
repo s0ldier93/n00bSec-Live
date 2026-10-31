@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-31T03:16:00Z",
+  "updated": "2026-10-31T03:26:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 10
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "FRIDAY NIGHT GTA SHENANGIANS IN FIVEM!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 264
+      "viewers": 263
     },
     {
       "platform": "twitch",
       "name": "unhackerencapital",
       "title": "October Black en Ciberseguridad",
       "link": "https://twitch.tv/unhackerencapital",
-      "viewers": 26
+      "viewers": 25
     }
   ],
-  "viewers_total": 300,
+  "viewers_total": 299,
   "videos": [
     {
       "video_id": "-y-y8J9GqTI",
