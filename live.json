@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-31T15:25:58Z",
+  "updated": "2026-10-31T15:35:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 12
+      "viewers": 14
     },
     {
       "platform": "youtube",
@@ -16,8 +16,32 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 15,
   "videos": [
+    {
+      "video_id": "8BMqNGM8b-Y",
+      "channel": "B7H30",
+      "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB",
+      "link": "https://www.youtube.com/watch?v=8BMqNGM8b-Y",
+      "published_at": "2026-10-31T15:23:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8BMqNGM8b-Y/hqdefault.jpg"
+    },
+    {
+      "video_id": "NnVbo4KX4RA",
+      "channel": "TheLaluka",
+      "title": "Joined the call with 2 fresh crashes #shorts",
+      "link": "https://www.youtube.com/watch?v=NnVbo4KX4RA",
+      "published_at": "2026-10-31T15:20:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NnVbo4KX4RA/hqdefault.jpg"
+    },
+    {
+      "video_id": "Z5DAv-zgrcI",
+      "channel": "ippsec",
+      "title": "HackTheBox - MakeSense",
+      "link": "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
+      "published_at": "2026-10-31T15:16:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Z5DAv-zgrcI/hqdefault.jpg"
+    },
     {
       "video_id": "byD_p_TCHDo",
       "channel": "SecurityWeekly",
@@ -153,30 +177,6 @@
       "link": "https://www.youtube.com/watch?v=ovEVuCODS-Q",
       "published_at": "2026-10-30T19:30:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ovEVuCODS-Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "btgiYO7a_NE",
-      "channel": "mbcrump",
-      "title": "PS5 FPKGs: Why the A53 Disclosure Wait Continues",
-      "link": "https://www.youtube.com/watch?v=btgiYO7a_NE",
-      "published_at": "2026-10-30T19:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/btgiYO7a_NE/hqdefault.jpg"
-    },
-    {
-      "video_id": "Z46D96dg0qg",
-      "channel": "thecybermentor",
-      "title": "DEF CON CTF Walkthrough: OSINT Edition",
-      "link": "https://www.youtube.com/watch?v=Z46D96dg0qg",
-      "published_at": "2026-10-30T16:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Z46D96dg0qg/hqdefault.jpg"
-    },
-    {
-      "video_id": "tp5-JI4B2AM",
-      "channel": "mbcrump",
-      "title": "PS3 Discs and USB Guitars on PS5: PS5SX3 Progress",
-      "link": "https://www.youtube.com/watch?v=tp5-JI4B2AM",
-      "published_at": "2026-10-30T16:00:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tp5-JI4B2AM/hqdefault.jpg"
     }
   ]
 }
