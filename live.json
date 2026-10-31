@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-31T10:35:35Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-10-31T12:05:39Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "dccybersec",
+      "title": "BUILDING LIVE WITH AI",
+      "link": "https://twitch.tv/dccybersec",
+      "viewers": 0
+    },
+    {
+      "platform": "youtube",
+      "name": "DCCyberSec",
+      "title": "BUILDING LIVE WITH AI",
+      "link": "https://www.youtube.com/watch?v=dQRw92VI0HY",
+      "viewers": 3
+    }
+  ],
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "gSP5Y4DotLY",
