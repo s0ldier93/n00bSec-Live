@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-31T16:45:59Z",
+  "updated": "2026-10-31T16:55:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 22
+      "viewers": 16
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "It is Halloween, and I am a penguin. Co-working in the home lab. We'll talk some AI with attacking and defending Linux in the enterprise.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 20
+      "viewers": 16
     },
     {
       "platform": "youtube",
@@ -21,9 +21,16 @@
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB",
       "link": "https://www.youtube.com/watch?v=tAtB3XxAbAw",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "keylogin",
+      "title": "Priest Disc Warmane Blackrock Arena chill",
+      "link": "https://www.youtube.com/watch?v=bsHTCBd0n-Y",
+      "viewers": 1
     }
   ],
-  "viewers_total": 43,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "K5k8w0PRY2g",
