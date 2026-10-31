@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-31T20:15:59Z",
+  "updated": "2026-10-31T20:25:59Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "b7h30",
-      "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
-      "link": "https://twitch.tv/b7h30",
-      "viewers": 31
-    },
     {
       "platform": "youtube",
       "name": "B7H30",
@@ -16,8 +9,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "uIXsAUPeZTU",
+      "channel": "B7H30",
+      "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB",
+      "link": "https://www.youtube.com/watch?v=uIXsAUPeZTU",
+      "published_at": "2026-10-31T20:08:41+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/uIXsAUPeZTU/hqdefault.jpg"
+    },
     {
       "video_id": "F0tWorTQxg4",
       "channel": "Hackavis",
@@ -169,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=MiZNvgYi9tY",
       "published_at": "2026-10-31T00:06:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/MiZNvgYi9tY/hqdefault.jpg"
-    },
-    {
-      "video_id": "UvPTpbOCAQM",
-      "channel": "mbcrump",
-      "title": "Is the PS4 14.00 Jailbreak Real? I Tested BONK HEN",
-      "link": "https://www.youtube.com/watch?v=UvPTpbOCAQM",
-      "published_at": "2026-10-30T23:43:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UvPTpbOCAQM/hqdefault.jpg"
     }
   ]
 }
