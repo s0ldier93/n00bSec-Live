@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-31T16:55:36Z",
+  "updated": "2026-10-31T17:05:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 16
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "It is Halloween, and I am a penguin. Co-working in the home lab. We'll talk some AI with attacking and defending Linux in the enterprise.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 16
+      "viewers": 22
     },
     {
       "platform": "youtube",
@@ -30,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 44,
   "videos": [
+    {
+      "video_id": "bsHTCBd0n-Y",
+      "channel": "keylogin",
+      "title": "Priest Disc Warmane Blackrock Arena chill",
+      "link": "https://www.youtube.com/watch?v=bsHTCBd0n-Y",
+      "published_at": "2026-10-31T16:53:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bsHTCBd0n-Y/hqdefault.jpg"
+    },
     {
       "video_id": "K5k8w0PRY2g",
       "channel": "Cyber_Insecurity",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=aJBFgMl7CBk",
       "published_at": "2026-10-30T22:05:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/aJBFgMl7CBk/hqdefault.jpg"
-    },
-    {
-      "video_id": "IaTrKgj8N9Y",
-      "channel": "SecurityWeekly",
-      "title": "Who Really Owns These Anonymous Companies?",
-      "link": "https://www.youtube.com/watch?v=IaTrKgj8N9Y",
-      "published_at": "2026-10-30T22:00:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IaTrKgj8N9Y/hqdefault.jpg"
     }
   ]
 }
