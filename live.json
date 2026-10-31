@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-31T16:05:38Z",
+  "updated": "2026-10-31T16:15:58Z",
   "streams": [
     {
       "platform": "twitch",
-      "name": "b7h30",
-      "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
-      "link": "https://twitch.tv/b7h30",
-      "viewers": 22
+      "name": "het_tanis",
+      "title": "It is Halloween, and I am a penguin. Co-working in the home lab. We'll talk some AI with attacking and defending Linux in the enterprise.",
+      "link": "https://twitch.tv/het_tanis",
+      "viewers": 0
     }
   ],
-  "viewers_total": 22,
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "L6ahzf2Y_HI",
+      "channel": "B7H30",
+      "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB",
+      "link": "https://www.youtube.com/watch?v=L6ahzf2Y_HI",
+      "published_at": "2026-10-31T16:13:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/L6ahzf2Y_HI/hqdefault.jpg"
+    },
     {
       "video_id": "SXme2brYD8c",
       "channel": "mbcrump",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=cKFYHtkG3dw",
       "published_at": "2026-10-30T21:16:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cKFYHtkG3dw/hqdefault.jpg"
-    },
-    {
-      "video_id": "xUopvwUyj_c",
-      "channel": "SecurityWeekly",
-      "title": "Mrfoofoo, Binance, Polymarket, Silent Train, robosurance, privacy, and Josh Marpet - SWN #629",
-      "link": "https://www.youtube.com/watch?v=xUopvwUyj_c",
-      "published_at": "2026-10-30T21:00:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xUopvwUyj_c/hqdefault.jpg"
     }
   ]
 }
