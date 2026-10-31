@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-31T19:25:59Z",
+  "updated": "2026-10-31T19:35:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 31
+      "viewers": 32
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 33,
   "videos": [
+    {
+      "video_id": "F0tWorTQxg4",
+      "channel": "Hackavis",
+      "title": "3 herramientas OSINT gratis #shorts #osint #ciberseguridad",
+      "link": "https://www.youtube.com/watch?v=F0tWorTQxg4",
+      "published_at": "2026-10-31T19:30:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/F0tWorTQxg4/hqdefault.jpg"
+    },
     {
       "video_id": "6CsFR0XXx7g",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=UvPTpbOCAQM",
       "published_at": "2026-10-30T23:43:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/UvPTpbOCAQM/hqdefault.jpg"
-    },
-    {
-      "video_id": "xaELc1Kode0",
-      "channel": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 10/30/26",
-      "link": "https://www.youtube.com/watch?v=xaELc1Kode0",
-      "published_at": "2026-10-30T22:35:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xaELc1Kode0/hqdefault.jpg"
     }
   ]
 }
