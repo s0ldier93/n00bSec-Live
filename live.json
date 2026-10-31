@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-31T06:55:59Z",
+  "updated": "2026-10-31T07:06:00Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "goproflowyo",
-      "title": "LUNA \ud83c\udf19 ESPECIAL HALLOWEEN | ty: @zenseibeats @flowerangel__",
-      "link": "https://twitch.tv/goproflowyo",
-      "viewers": 74
-    },
     {
       "platform": "twitch",
       "name": "irasakai",
@@ -16,8 +9,24 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 77,
+  "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "aXlKsknYkMw",
+      "channel": "EJSA",
+      "title": "FRIDAY NIGHT GTA SHENANGIANS IN FIVEM!",
+      "link": "https://www.youtube.com/watch?v=aXlKsknYkMw",
+      "published_at": "2026-10-31T04:35:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/aXlKsknYkMw/hqdefault.jpg"
+    },
+    {
+      "video_id": "Vu-lTxri3m8",
+      "channel": "mbcrump",
+      "title": "RustPS5Emu: A New PS5 Emulator Alpha for Windows and Linux",
+      "link": "https://www.youtube.com/watch?v=Vu-lTxri3m8",
+      "published_at": "2026-10-31T03:00:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Vu-lTxri3m8/hqdefault.jpg"
+    },
     {
       "video_id": "-y-y8J9GqTI",
       "channel": "B7H30",
@@ -161,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=bfyTcPsWric",
       "published_at": "2026-10-30T14:12:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bfyTcPsWric/hqdefault.jpg"
-    },
-    {
-      "video_id": "f92LfA0AR2E",
-      "channel": "JohnHammond010",
-      "title": "The ClickFix Deception",
-      "link": "https://www.youtube.com/watch?v=f92LfA0AR2E",
-      "published_at": "2026-10-30T14:06:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/f92LfA0AR2E/hqdefault.jpg"
-    },
-    {
-      "video_id": "mjv9SZZvkS0",
-      "channel": "SecurityWeekly",
-      "title": "What Your Smart TV Might Hear",
-      "link": "https://www.youtube.com/watch?v=mjv9SZZvkS0",
-      "published_at": "2026-10-30T14:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mjv9SZZvkS0/hqdefault.jpg"
     }
   ]
 }
