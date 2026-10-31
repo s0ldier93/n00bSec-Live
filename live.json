@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-31T18:35:59Z",
+  "updated": "2026-10-31T18:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 19
+      "viewers": 37
     },
     {
       "platform": "youtube",
       "name": "B7H30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB",
       "link": "https://www.youtube.com/watch?v=tAtB3XxAbAw",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 39,
   "videos": [
     {
       "video_id": "bsHTCBd0n-Y",
