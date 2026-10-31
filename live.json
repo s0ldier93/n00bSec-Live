@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-31T14:35:58Z",
+  "updated": "2026-10-31T14:45:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 3
+      "viewers": 9
+    },
+    {
+      "platform": "youtube",
+      "name": "keylogin",
+      "title": "Azeroth Survivors And Warmane Playing Today Chill",
+      "link": "https://www.youtube.com/watch?v=cBoeMZhRsyI",
+      "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "drEZB8CBb-A",
