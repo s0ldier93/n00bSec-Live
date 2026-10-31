@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-31T06:45:59Z",
+  "updated": "2026-10-31T06:55:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "LUNA \ud83c\udf19 ESPECIAL HALLOWEEN | ty: @zenseibeats @flowerangel__",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 66
+      "viewers": 74
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 69,
+  "viewers_total": 77,
   "videos": [
     {
       "video_id": "-y-y8J9GqTI",
