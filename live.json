@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-31T10:05:59Z",
+  "updated": "2026-10-31T10:15:59Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "irasakai",
-      "title": "QT Didgeri",
-      "link": "https://twitch.tv/irasakai",
-      "viewers": 2
-    },
     {
       "platform": "youtube",
       "name": "keylogin",
       "title": "Azeroth Survivors And Warmane Playing Today Chill",
       "link": "https://www.youtube.com/watch?v=gSP5Y4DotLY",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "gSP5Y4DotLY",
