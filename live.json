@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-31T19:15:59Z",
+  "updated": "2026-10-31T19:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 34
+      "viewers": 31
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 32,
   "videos": [
+    {
+      "video_id": "6CsFR0XXx7g",
+      "channel": "mbcrump",
+      "title": "Neo Geo and Arcade Games on PS5: FinalBurn Neo 2.1",
+      "link": "https://www.youtube.com/watch?v=6CsFR0XXx7g",
+      "published_at": "2026-10-31T19:00:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6CsFR0XXx7g/hqdefault.jpg"
+    },
     {
       "video_id": "bsHTCBd0n-Y",
       "channel": "keylogin",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=xaELc1Kode0",
       "published_at": "2026-10-30T22:35:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xaELc1Kode0/hqdefault.jpg"
-    },
-    {
-      "video_id": "aJBFgMl7CBk",
-      "channel": "Cyber_Insecurity",
-      "title": "What does an AI find when it hunts your repo?",
-      "link": "https://www.youtube.com/watch?v=aJBFgMl7CBk",
-      "published_at": "2026-10-30T22:05:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/aJBFgMl7CBk/hqdefault.jpg"
     }
   ]
 }
