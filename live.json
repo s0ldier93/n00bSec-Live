@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-31T17:05:59Z",
+  "updated": "2026-10-31T17:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 20
+      "viewers": 21
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 44,
+  "viewers_total": 45,
   "videos": [
     {
       "video_id": "bsHTCBd0n-Y",
