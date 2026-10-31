@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T09:25:58Z",
+  "updated": "2026-10-31T10:05:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "keylogin",
       "title": "Azeroth Survivors And Warmane Playing Today Chill",
       "link": "https://www.youtube.com/watch?v=gSP5Y4DotLY",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 4,
   "videos": [
     {
       "video_id": "gSP5Y4DotLY",
