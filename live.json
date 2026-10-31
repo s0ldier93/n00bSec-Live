@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-31T14:45:36Z",
+  "updated": "2026-10-31T14:55:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB| !discord | !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 9
+      "viewers": 20
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 10,
+  "viewers_total": 21,
   "videos": [
+    {
+      "video_id": "cBoeMZhRsyI",
+      "channel": "keylogin",
+      "title": "Azeroth Survivors And Warmane Playing Today Chill",
+      "link": "https://www.youtube.com/watch?v=cBoeMZhRsyI",
+      "published_at": "2026-10-31T14:43:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cBoeMZhRsyI/hqdefault.jpg"
+    },
     {
       "video_id": "drEZB8CBb-A",
       "channel": "HaxrByte",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=kyLkmPsEAbU",
       "published_at": "2026-10-30T15:21:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kyLkmPsEAbU/hqdefault.jpg"
-    },
-    {
-      "video_id": "GvldI3hYuDw",
-      "channel": "TheLaluka",
-      "title": "Pentesters will become accountants #shorts",
-      "link": "https://www.youtube.com/watch?v=GvldI3hYuDw",
-      "published_at": "2026-10-30T15:20:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GvldI3hYuDw/hqdefault.jpg"
     }
   ]
 }
