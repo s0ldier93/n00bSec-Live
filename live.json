@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T08:06:01Z",
+  "updated": "2026-10-31T08:45:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,10 +7,25 @@
       "title": "QT Didgeri",
       "link": "https://twitch.tv/irasakai",
       "viewers": 2
+    },
+    {
+      "platform": "youtube",
+      "name": "keylogin",
+      "title": "Azeroth Survivors And Warmane Playing Today Chill",
+      "link": "https://www.youtube.com/watch?v=gSP5Y4DotLY",
+      "viewers": 1
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "gSP5Y4DotLY",
+      "channel": "keylogin",
+      "title": "Azeroth Survivors And Warmane Playing Today Chill",
+      "link": "https://www.youtube.com/watch?v=gSP5Y4DotLY",
+      "published_at": "2026-10-31T08:37:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gSP5Y4DotLY/hqdefault.jpg"
+    },
     {
       "video_id": "aXlKsknYkMw",
       "channel": "EJSA",
@@ -162,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=PlcALjG1ozw",
       "published_at": "2026-10-30T15:06:51+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PlcALjG1ozw/hqdefault.jpg"
-    },
-    {
-      "video_id": "bfyTcPsWric",
-      "channel": "CyberWarriorStudios",
-      "title": "Finish strong so you can have a great weekend and don\u2019t forget to vote for me as top host.",
-      "link": "https://www.youtube.com/watch?v=bfyTcPsWric",
-      "published_at": "2026-10-30T14:12:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bfyTcPsWric/hqdefault.jpg"
     }
   ]
 }
