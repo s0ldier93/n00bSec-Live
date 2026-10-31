@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-31T20:35:33Z",
-  "streams": [],
+  "updated": "2026-10-31T21:05:59Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "b7h30",
+      "title": "happy halloween",
+      "link": "https://twitch.tv/b7h30",
+      "viewers": 0
+    }
+  ],
   "viewers_total": 0,
   "videos": [
     {
