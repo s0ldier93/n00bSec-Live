@@ -1,23 +1,31 @@
 {
-  "updated": "2026-10-31T22:15:59Z",
+  "updated": "2026-10-31T22:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "happy halloween",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 12
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "why would I deceive you? !today",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 348
+      "viewers": 465
     }
   ],
-  "viewers_total": 360,
+  "viewers_total": 483,
   "videos": [
+    {
+      "video_id": "M0dspv-NA-M",
+      "channel": "Cyber_Insecurity",
+      "title": "Every operator needs a battle buddy. Mine is Grok.",
+      "link": "https://www.youtube.com/watch?v=M0dspv-NA-M",
+      "published_at": "2026-10-31T22:04:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/M0dspv-NA-M/hqdefault.jpg"
+    },
     {
       "video_id": "dXeBKjQJl8w",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=Vu-lTxri3m8",
       "published_at": "2026-10-31T03:00:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Vu-lTxri3m8/hqdefault.jpg"
-    },
-    {
-      "video_id": "-y-y8J9GqTI",
-      "channel": "B7H30",
-      "title": "Mill Creek Park   EAST CHANNEL AND ISLANDS TRAIL",
-      "link": "https://www.youtube.com/watch?v=-y-y8J9GqTI",
-      "published_at": "2026-10-31T01:11:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-y-y8J9GqTI/hqdefault.jpg"
     }
   ]
 }
