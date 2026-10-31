@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-31T02:26:00Z",
+  "updated": "2026-10-31T02:36:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 18
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "FRIDAY NIGHT GTA SHENANGIANS IN FIVEM!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 319
+      "viewers": 307
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 24
     }
   ],
-  "viewers_total": 361,
+  "viewers_total": 342,
   "videos": [
     {
       "video_id": "-y-y8J9GqTI",
