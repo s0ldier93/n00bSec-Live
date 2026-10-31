@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T02:36:00Z",
+  "updated": "2026-10-31T02:46:00Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "ej_sa",
       "title": "FRIDAY NIGHT GTA SHENANGIANS IN FIVEM!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 307
+      "viewers": 273
     },
     {
       "platform": "twitch",
       "name": "unhackerencapital",
       "title": "October Black en Ciberseguridad",
       "link": "https://twitch.tv/unhackerencapital",
-      "viewers": 24
+      "viewers": 19
     }
   ],
-  "viewers_total": 342,
+  "viewers_total": 303,
   "videos": [
     {
       "video_id": "-y-y8J9GqTI",
