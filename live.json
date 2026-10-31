@@ -1,19 +1,12 @@
 {
-  "updated": "2026-10-31T04:26:00Z",
+  "updated": "2026-10-31T04:36:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays | Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 14
-    },
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "FRIDAY NIGHT GTA SHENANGIANS IN FIVEM!",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 227
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -21,9 +14,16 @@
       "title": "QT Didgeri",
       "link": "https://twitch.tv/irasakai",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "FRIDAY NIGHT GTA SHENANGIANS IN FIVEM!",
+      "link": "https://www.youtube.com/watch?v=xaELc1Kode0",
+      "viewers": 22
     }
   ],
-  "viewers_total": 242,
+  "viewers_total": 32,
   "videos": [
     {
       "video_id": "-y-y8J9GqTI",
