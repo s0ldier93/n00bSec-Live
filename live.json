@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-01T01:45:59Z",
+  "updated": "2026-11-01T01:55:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "why would I deceive you? !today",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 320
+      "viewers": 315
+    },
+    {
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "Halloween Special | The Vampire Hunter D Novel Read-A-long",
+      "link": "https://twitch.tv/irasakai",
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -16,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 322,
+  "viewers_total": 318,
   "videos": [
     {
       "video_id": "W3HBNj1CXFc",
