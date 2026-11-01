@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-01T15:25:58Z",
+  "updated": "2026-11-01T15:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "on passe au vlan",
       "link": "https://twitch.tv/topklean",
-      "viewers": 77
+      "viewers": 83
     }
   ],
-  "viewers_total": 77,
+  "viewers_total": 83,
   "videos": [
     {
       "video_id": "viuwntyoBFI",
