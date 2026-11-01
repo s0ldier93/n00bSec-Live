@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-01T03:15:57Z",
+  "updated": "2026-11-01T03:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "why would I deceive you? !today",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 286
+      "viewers": 349
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 289,
+  "viewers_total": 352,
   "videos": [
+    {
+      "video_id": "04u2nBUOLW8",
+      "channel": "mbcrump",
+      "title": "Xbox Controllers on PS4: Games, Homebrew and the USB Limits",
+      "link": "https://www.youtube.com/watch?v=04u2nBUOLW8",
+      "published_at": "2026-11-01T03:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/04u2nBUOLW8/hqdefault.jpg"
+    },
     {
       "video_id": "W3HBNj1CXFc",
       "channel": "mbcrump",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=gSP5Y4DotLY",
       "published_at": "2026-10-31T08:37:51+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gSP5Y4DotLY/hqdefault.jpg"
-    },
-    {
-      "video_id": "aXlKsknYkMw",
-      "channel": "EJSA",
-      "title": "FRIDAY NIGHT GTA SHENANGIANS IN FIVEM!",
-      "link": "https://www.youtube.com/watch?v=aXlKsknYkMw",
-      "published_at": "2026-10-31T04:35:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/aXlKsknYkMw/hqdefault.jpg"
     }
   ]
 }
