@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-01T22:25:59Z",
+  "updated": "2026-11-01T22:35:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "unhackerencapital",
       "title": "October Black en Ciberseguridad",
       "link": "https://twitch.tv/unhackerencapital",
-      "viewers": 13
+      "viewers": 14
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 14,
   "videos": [
     {
       "video_id": "4k96XOpfMAU",
