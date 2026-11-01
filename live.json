@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-01T05:25:58Z",
+  "updated": "2026-11-01T05:35:57Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "why would I deceive you? !today",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 325
+      "viewers": 290
     }
   ],
-  "viewers_total": 325,
+  "viewers_total": 290,
   "videos": [
     {
       "video_id": "04u2nBUOLW8",
