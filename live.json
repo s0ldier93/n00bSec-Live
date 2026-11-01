@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-01T14:15:36Z",
+  "updated": "2026-11-01T14:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "linux... surtout !",
       "link": "https://twitch.tv/topklean",
-      "viewers": 59
+      "viewers": 57
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 60,
+  "viewers_total": 58,
   "videos": [
+    {
+      "video_id": "t-bHsi3DSDo",
+      "channel": "keylogin",
+      "title": "Warlock Affliction 80 - 90 WoW Midnight Gear UP",
+      "link": "https://www.youtube.com/watch?v=t-bHsi3DSDo",
+      "published_at": "2026-11-01T14:05:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/t-bHsi3DSDo/hqdefault.jpg"
+    },
     {
       "video_id": "04u2nBUOLW8",
       "channel": "mbcrump",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=drEZB8CBb-A",
       "published_at": "2026-10-31T14:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/drEZB8CBb-A/hqdefault.jpg"
-    },
-    {
-      "video_id": "gSP5Y4DotLY",
-      "channel": "keylogin",
-      "title": "Azeroth Survivors And Warmane Playing Today Chill",
-      "link": "https://www.youtube.com/watch?v=gSP5Y4DotLY",
-      "published_at": "2026-10-31T08:37:51+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gSP5Y4DotLY/hqdefault.jpg"
     }
   ]
 }
