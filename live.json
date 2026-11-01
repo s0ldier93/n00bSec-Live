@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-01T14:25:59Z",
+  "updated": "2026-11-01T14:35:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "linux... surtout !",
       "link": "https://twitch.tv/topklean",
-      "viewers": 57
-    },
-    {
-      "platform": "youtube",
-      "name": "keylogin",
-      "title": "Warlock Affliction 80 - 90 WoW Midnight Gear UP",
-      "link": "https://www.youtube.com/watch?v=t-bHsi3DSDo",
-      "viewers": 1
+      "viewers": 51
     }
   ],
-  "viewers_total": 58,
+  "viewers_total": 51,
   "videos": [
     {
       "video_id": "t-bHsi3DSDo",
