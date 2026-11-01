@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-01T20:35:59Z",
+  "updated": "2026-11-01T20:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 4/5 | Big Brother is watching you and it is US!",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 11
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 47
+      "viewers": 44
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=GaMbTUTxyrY",
-      "viewers": 27
+      "viewers": 24
     }
   ],
-  "viewers_total": 85,
+  "viewers_total": 78,
   "videos": [
     {
       "video_id": "4k96XOpfMAU",
