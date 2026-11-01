@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-01T18:55:36Z",
+  "updated": "2026-11-01T18:55:59Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "AMA",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
-    },
     {
       "platform": "twitch",
       "name": "pebl3",
@@ -23,7 +16,7 @@
       "viewers": 23
     }
   ],
-  "viewers_total": 70,
+  "viewers_total": 67,
   "videos": [
     {
       "video_id": "GaMbTUTxyrY",
