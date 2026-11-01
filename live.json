@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T15:55:38Z",
+  "updated": "2026-11-01T16:05:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,25 +13,33 @@
       "name": "Khaos_Farbauti",
       "title": "La vie du futur | State Of Mind #3",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 1
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "on passe au vlan",
       "link": "https://twitch.tv/topklean",
-      "viewers": 85
+      "viewers": 83
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://www.youtube.com/watch?v=1vNz_PLfgYg",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 90,
+  "viewers_total": 97,
   "videos": [
+    {
+      "video_id": "1vNz_PLfgYg",
+      "channel": "censoredHacker",
+      "title": "AMA",
+      "link": "https://www.youtube.com/watch?v=1vNz_PLfgYg",
+      "published_at": "2026-11-01T15:48:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1vNz_PLfgYg/hqdefault.jpg"
+    },
     {
       "video_id": "viuwntyoBFI",
       "channel": "TheLaluka",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
       "published_at": "2026-10-31T15:16:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Z5DAv-zgrcI/hqdefault.jpg"
-    },
-    {
-      "video_id": "byD_p_TCHDo",
-      "channel": "SecurityWeekly",
-      "title": "Your AI Girlfriend Knows Too Much",
-      "link": "https://www.youtube.com/watch?v=byD_p_TCHDo",
-      "published_at": "2026-10-31T15:00:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/byD_p_TCHDo/hqdefault.jpg"
     }
   ]
 }
