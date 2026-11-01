@@ -1,16 +1,31 @@
 {
-  "updated": "2026-11-01T14:35:38Z",
+  "updated": "2026-11-01T14:45:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "linux... surtout !",
       "link": "https://twitch.tv/topklean",
-      "viewers": 51
+      "viewers": 56
+    },
+    {
+      "platform": "youtube",
+      "name": "keylogin",
+      "title": "Shadow Priest Low Gear Soloq Midnight",
+      "link": "https://www.youtube.com/watch?v=gjN6lP9sKyU",
+      "viewers": 1
     }
   ],
-  "viewers_total": 51,
+  "viewers_total": 57,
   "videos": [
+    {
+      "video_id": "gjN6lP9sKyU",
+      "channel": "keylogin",
+      "title": "Shadow Priest Low Gear Soloq Midnight",
+      "link": "https://www.youtube.com/watch?v=gjN6lP9sKyU",
+      "published_at": "2026-11-01T14:41:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gjN6lP9sKyU/hqdefault.jpg"
+    },
     {
       "video_id": "t-bHsi3DSDo",
       "channel": "keylogin",
@@ -162,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=cBoeMZhRsyI",
       "published_at": "2026-10-31T14:43:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cBoeMZhRsyI/hqdefault.jpg"
-    },
-    {
-      "video_id": "drEZB8CBb-A",
-      "channel": "HaxrByte",
-      "title": "How to Think Like a Professional Hacker #haxrbyte #shorts",
-      "link": "https://www.youtube.com/watch?v=drEZB8CBb-A",
-      "published_at": "2026-10-31T14:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/drEZB8CBb-A/hqdefault.jpg"
     }
   ]
 }
