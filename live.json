@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-01T17:35:37Z",
+  "updated": "2026-11-01T17:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 9
+      "viewers": 25
     },
     {
       "platform": "twitch",
@@ -27,18 +27,26 @@
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://www.youtube.com/watch?v=1vNz_PLfgYg",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=GaMbTUTxyrY",
-      "viewers": 8
+      "viewers": 21
     }
   ],
-  "viewers_total": 110,
+  "viewers_total": 137,
   "videos": [
+    {
+      "video_id": "GaMbTUTxyrY",
+      "channel": "pebl3",
+      "title": "Hacking CTFs",
+      "link": "https://www.youtube.com/watch?v=GaMbTUTxyrY",
+      "published_at": "2026-11-01T17:26:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GaMbTUTxyrY/hqdefault.jpg"
+    },
     {
       "video_id": "PAYbqme4aNo",
       "channel": "Hackavis",
@@ -190,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=8BMqNGM8b-Y",
       "published_at": "2026-10-31T15:23:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8BMqNGM8b-Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "NnVbo4KX4RA",
-      "channel": "TheLaluka",
-      "title": "Joined the call with 2 fresh crashes #shorts",
-      "link": "https://www.youtube.com/watch?v=NnVbo4KX4RA",
-      "published_at": "2026-10-31T15:20:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NnVbo4KX4RA/hqdefault.jpg"
     }
   ]
 }
