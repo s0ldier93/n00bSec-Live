@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-01T18:35:58Z",
+  "updated": "2026-11-01T18:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 39
+      "viewers": 48
     },
     {
       "platform": "youtube",
@@ -27,10 +27,10 @@
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=GaMbTUTxyrY",
-      "viewers": 24
+      "viewers": 26
     }
   ],
-  "viewers_total": 67,
+  "viewers_total": 79,
   "videos": [
     {
       "video_id": "GaMbTUTxyrY",
