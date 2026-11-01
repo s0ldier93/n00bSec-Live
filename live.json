@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-01T23:15:59Z",
+  "updated": "2026-11-01T23:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "unhackerencapital",
       "title": "October Black en Ciberseguridad",
       "link": "https://twitch.tv/unhackerencapital",
-      "viewers": 16
+      "viewers": 14
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 14,
   "videos": [
+    {
+      "video_id": "w-C2zcZI-Kg",
+      "channel": "Cyber_Insecurity",
+      "title": "Local AI is the Linux of this era",
+      "link": "https://www.youtube.com/watch?v=w-C2zcZI-Kg",
+      "published_at": "2026-11-01T23:02:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/w-C2zcZI-Kg/hqdefault.jpg"
+    },
     {
       "video_id": "4k96XOpfMAU",
       "channel": "Hackavis",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=tAtB3XxAbAw",
       "published_at": "2026-10-31T16:24:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tAtB3XxAbAw/hqdefault.jpg"
-    },
-    {
-      "video_id": "L6ahzf2Y_HI",
-      "channel": "B7H30",
-      "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB",
-      "link": "https://www.youtube.com/watch?v=L6ahzf2Y_HI",
-      "published_at": "2026-10-31T16:13:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/L6ahzf2Y_HI/hqdefault.jpg"
     }
   ]
 }
