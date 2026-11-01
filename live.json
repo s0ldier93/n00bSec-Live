@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T16:35:59Z",
+  "updated": "2026-11-01T16:45:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,25 +13,33 @@
       "name": "Khaos_Farbauti",
       "title": "La vie du futur | State Of Mind #3",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 9
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "on passe au vlan",
       "link": "https://twitch.tv/topklean",
-      "viewers": 83
+      "viewers": 82
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://www.youtube.com/watch?v=1vNz_PLfgYg",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 94,
+  "viewers_total": 91,
   "videos": [
+    {
+      "video_id": "PAYbqme4aNo",
+      "channel": "Hackavis",
+      "title": "As\u00ed borraron 200.000 dispositivos con una herramienta de Microsoft",
+      "link": "https://www.youtube.com/watch?v=PAYbqme4aNo",
+      "published_at": "2026-11-01T16:30:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PAYbqme4aNo/hqdefault.jpg"
+    },
     {
       "video_id": "1vNz_PLfgYg",
       "channel": "censoredHacker",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=NnVbo4KX4RA",
       "published_at": "2026-10-31T15:20:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NnVbo4KX4RA/hqdefault.jpg"
-    },
-    {
-      "video_id": "Z5DAv-zgrcI",
-      "channel": "ippsec",
-      "title": "HackTheBox - MakeSense",
-      "link": "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
-      "published_at": "2026-10-31T15:16:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Z5DAv-zgrcI/hqdefault.jpg"
     }
   ]
 }
