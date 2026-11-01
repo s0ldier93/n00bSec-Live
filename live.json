@@ -1,16 +1,24 @@
 {
-  "updated": "2026-10-31T23:55:58Z",
+  "updated": "2026-11-01T00:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "why would I deceive you? !today",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 613
+      "viewers": 651
     }
   ],
-  "viewers_total": 613,
+  "viewers_total": 651,
   "videos": [
+    {
+      "video_id": "W3HBNj1CXFc",
+      "channel": "mbcrump",
+      "title": "Switch 2: SmileBASIC 4, Seedsow Lullaby & Drift Legends 2 - What Makes Them Special?",
+      "link": "https://www.youtube.com/watch?v=W3HBNj1CXFc",
+      "published_at": "2026-10-31T23:57:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/W3HBNj1CXFc/hqdefault.jpg"
+    },
     {
       "video_id": "M0dspv-NA-M",
       "channel": "Cyber_Insecurity",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=aXlKsknYkMw",
       "published_at": "2026-10-31T04:35:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/aXlKsknYkMw/hqdefault.jpg"
-    },
-    {
-      "video_id": "Vu-lTxri3m8",
-      "channel": "mbcrump",
-      "title": "RustPS5Emu: A New PS5 Emulator Alpha for Windows and Linux",
-      "link": "https://www.youtube.com/watch?v=Vu-lTxri3m8",
-      "published_at": "2026-10-31T03:00:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Vu-lTxri3m8/hqdefault.jpg"
     }
   ]
 }
