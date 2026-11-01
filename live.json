@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T17:25:59Z",
+  "updated": "2026-11-01T17:35:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,20 +10,34 @@
     },
     {
       "platform": "twitch",
+      "name": "pebl3",
+      "title": "Hacking CTFs | !htb !discord !youtube",
+      "link": "https://twitch.tv/pebl3",
+      "viewers": 9
+    },
+    {
+      "platform": "twitch",
       "name": "topklean",
       "title": "on passe au vlan",
       "link": "https://twitch.tv/topklean",
-      "viewers": 91
+      "viewers": 88
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://www.youtube.com/watch?v=1vNz_PLfgYg",
-      "viewers": 3
+      "viewers": 2
+    },
+    {
+      "platform": "youtube",
+      "name": "pebl3",
+      "title": "Hacking CTFs",
+      "link": "https://www.youtube.com/watch?v=GaMbTUTxyrY",
+      "viewers": 8
     }
   ],
-  "viewers_total": 97,
+  "viewers_total": 110,
   "videos": [
     {
       "video_id": "PAYbqme4aNo",
