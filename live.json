@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T19:25:59Z",
+  "updated": "2026-11-01T19:35:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,18 +13,34 @@
       "name": "pebl3",
       "title": "Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 32
+      "viewers": 48
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=GaMbTUTxyrY",
-      "viewers": 24
+      "viewers": 23
     }
   ],
-  "viewers_total": 59,
+  "viewers_total": 74,
   "videos": [
+    {
+      "video_id": "4k96XOpfMAU",
+      "channel": "Hackavis",
+      "title": "3 herramientas OSINT de ciberinteligencia #shorts #osint #privacidad",
+      "link": "https://www.youtube.com/watch?v=4k96XOpfMAU",
+      "published_at": "2026-11-01T19:30:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4k96XOpfMAU/hqdefault.jpg"
+    },
+    {
+      "video_id": "jXmDwIYepAo",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 6's Top Cyber News NOW! - Ep 1282",
+      "link": "https://www.youtube.com/watch?v=jXmDwIYepAo",
+      "published_at": "2026-11-01T19:16:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/jXmDwIYepAo/hqdefault.jpg"
+    },
     {
       "video_id": "wOZyw_X9qR4",
       "channel": "gerald_auger_simplycyber",
@@ -168,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=L6ahzf2Y_HI",
       "published_at": "2026-10-31T16:13:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/L6ahzf2Y_HI/hqdefault.jpg"
-    },
-    {
-      "video_id": "SXme2brYD8c",
-      "channel": "mbcrump",
-      "title": "PS4 Ambilight: WLED Lighting Without a Capture Card or PC",
-      "link": "https://www.youtube.com/watch?v=SXme2brYD8c",
-      "published_at": "2026-10-31T16:00:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SXme2brYD8c/hqdefault.jpg"
-    },
-    {
-      "video_id": "IJRKlJo_AP4",
-      "channel": "B7H30",
-      "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB",
-      "link": "https://www.youtube.com/watch?v=IJRKlJo_AP4",
-      "published_at": "2026-10-31T15:59:48+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IJRKlJo_AP4/hqdefault.jpg"
     }
   ]
 }
