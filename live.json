@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-01T01:35:59Z",
+  "updated": "2026-11-01T01:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "why would I deceive you? !today",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 330
+      "viewers": 320
     },
     {
       "platform": "twitch",
       "name": "kinslay3r",
       "title": "Halloween spooky dudes",
       "link": "https://twitch.tv/kinslay3r",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 331,
+  "viewers_total": 322,
   "videos": [
     {
       "video_id": "W3HBNj1CXFc",
