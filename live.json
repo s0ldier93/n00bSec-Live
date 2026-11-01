@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-01T15:15:36Z",
+  "updated": "2026-11-01T15:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "on passe au vlan",
       "link": "https://twitch.tv/topklean",
-      "viewers": 55
+      "viewers": 77
     }
   ],
-  "viewers_total": 55,
+  "viewers_total": 77,
   "videos": [
+    {
+      "video_id": "viuwntyoBFI",
+      "channel": "TheLaluka",
+      "title": "The next Mirai botnet will be AI #shorts",
+      "link": "https://www.youtube.com/watch?v=viuwntyoBFI",
+      "published_at": "2026-11-01T15:20:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/viuwntyoBFI/hqdefault.jpg"
+    },
     {
       "video_id": "gjN6lP9sKyU",
       "channel": "keylogin",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=byD_p_TCHDo",
       "published_at": "2026-10-31T15:00:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/byD_p_TCHDo/hqdefault.jpg"
-    },
-    {
-      "video_id": "cBoeMZhRsyI",
-      "channel": "keylogin",
-      "title": "Azeroth Survivors And Warmane Playing Today Chill",
-      "link": "https://www.youtube.com/watch?v=cBoeMZhRsyI",
-      "published_at": "2026-10-31T14:43:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cBoeMZhRsyI/hqdefault.jpg"
     }
   ]
 }
