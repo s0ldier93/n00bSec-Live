@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T16:25:58Z",
+  "updated": "2026-11-01T16:35:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "Khaos_Farbauti",
       "title": "La vie du futur | State Of Mind #3",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 8
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "on passe au vlan",
       "link": "https://twitch.tv/topklean",
-      "viewers": 82
+      "viewers": 83
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://www.youtube.com/watch?v=1vNz_PLfgYg",
-      "viewers": 3
+      "viewers": 1
     }
   ],
   "viewers_total": 94,
