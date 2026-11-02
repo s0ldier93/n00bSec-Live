@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-02T16:15:59Z",
+  "updated": "2026-11-02T16:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "HELP ME STAY AWAKE!!  We playing Balatro!  Hot chip tho?? \ud83d\udc40",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 9
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "testing in prod teehee",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 23
     }
   ],
-  "viewers_total": 37,
+  "viewers_total": 30,
   "videos": [
+    {
+      "video_id": "yKBeKerDM7Q",
+      "channel": "NahamSec",
+      "title": "I recreated a real MCP vulnerability and tested it with @snyksec\u2019s Evo to see if it finds it. \ud83d\udc40 #ad",
+      "link": "https://www.youtube.com/watch?v=yKBeKerDM7Q",
+      "published_at": "2026-11-02T16:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yKBeKerDM7Q/hqdefault.jpg"
+    },
     {
       "video_id": "O56fqVNXFWo",
       "channel": "TheLaluka",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=wOZyw_X9qR4",
       "published_at": "2026-11-01T19:10:58+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wOZyw_X9qR4/hqdefault.jpg"
-    },
-    {
-      "video_id": "gxIiTqSRacM",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 2's Top Cyber News NOW! - Ep 1278",
-      "link": "https://www.youtube.com/watch?v=gxIiTqSRacM",
-      "published_at": "2026-11-01T19:08:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gxIiTqSRacM/hqdefault.jpg"
     }
   ]
 }
