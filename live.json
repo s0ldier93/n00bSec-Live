@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-02T00:25:59Z",
+  "updated": "2026-11-02T00:35:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Haking real y en vivo \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Darknet Lesson now out on Github| TES 3 Morrowind |Cybersecurity,Rants,Chill,&Linux Gaming|11-1-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 13
+      "viewers": 19
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "w-C2zcZI-Kg",
