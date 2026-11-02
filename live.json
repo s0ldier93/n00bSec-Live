@@ -1,23 +1,39 @@
 {
-  "updated": "2026-11-02T20:35:59Z",
+  "updated": "2026-11-02T20:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Finishing a custom 4 door outer rocker panel for my car! The Crew Cab Coronet (Part 59)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 286
+      "viewers": 292
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 5/5 | Hey ChatGPT, delete all my accounts",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 22
+      "viewers": 14
     }
   ],
-  "viewers_total": 308,
+  "viewers_total": 306,
   "videos": [
+    {
+      "video_id": "TBlhuG1S7Sw",
+      "channel": "mbcrump",
+      "title": "BD-JB-Relapse Relapse Released for PS5: Testing and Thoughts",
+      "link": "https://www.youtube.com/watch?v=TBlhuG1S7Sw",
+      "published_at": "2026-11-02T20:42:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/TBlhuG1S7Sw/hqdefault.jpg"
+    },
+    {
+      "video_id": "dHikgaV_OJ4",
+      "channel": "JohnHammond010",
+      "title": "This Chicken is an Internet File",
+      "link": "https://www.youtube.com/watch?v=dHikgaV_OJ4",
+      "published_at": "2026-11-02T20:30:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dHikgaV_OJ4/hqdefault.jpg"
+    },
     {
       "video_id": "gIPf9KhVPLo",
       "channel": "SecurityWeekly",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=lDGA6OvPW90",
       "published_at": "2026-11-02T02:42:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lDGA6OvPW90/hqdefault.jpg"
-    },
-    {
-      "video_id": "oRQOLUQr63I",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
-      "link": "https://www.youtube.com/watch?v=oRQOLUQr63I",
-      "published_at": "2026-11-02T02:07:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oRQOLUQr63I/hqdefault.jpg"
-    },
-    {
-      "video_id": "dnEe7b_TcUE",
-      "channel": "LaurieWired",
-      "title": "A Cruel Angel's (Halloween) Thesis",
-      "link": "https://www.youtube.com/watch?v=dnEe7b_TcUE",
-      "published_at": "2026-11-02T01:21:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dnEe7b_TcUE/hqdefault.jpg"
     }
   ]
 }
