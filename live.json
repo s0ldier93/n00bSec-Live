@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-02T08:45:29Z",
+  "updated": "2026-11-02T10:05:04Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "dNIL5z1DDCc",
+      "channel": "jarnobaselier",
+      "title": "Hacklab 17 - Hacking AI Agents & Multi-Agent Meshes: From Workflow Bypasses to Database Dumps",
+      "link": "https://www.youtube.com/watch?v=dNIL5z1DDCc",
+      "published_at": "2026-11-02T10:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dNIL5z1DDCc/hqdefault.jpg"
+    },
     {
       "video_id": "c1QEFf1k2Ho",
       "channel": "keylogin",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=dXeBKjQJl8w",
       "published_at": "2026-10-31T22:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dXeBKjQJl8w/hqdefault.jpg"
-    },
-    {
-      "video_id": "uIXsAUPeZTU",
-      "channel": "B7H30",
-      "title": "TFW your AI IDE\u2019s tiny browser can read ~/.ssh | OSCP study on HTB",
-      "link": "https://www.youtube.com/watch?v=uIXsAUPeZTU",
-      "published_at": "2026-10-31T20:08:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/uIXsAUPeZTU/hqdefault.jpg"
     }
   ]
 }
