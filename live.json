@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-02T15:15:59Z",
+  "updated": "2026-11-02T15:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Qwen4 Waiting Room - AI + Cyber",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 63
+      "viewers": 58
     },
     {
       "platform": "twitch",
@@ -20,11 +20,27 @@
       "name": "panekopanko",
       "title": "testing in prod teehee",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 29
     }
   ],
-  "viewers_total": 99,
+  "viewers_total": 95,
   "videos": [
+    {
+      "video_id": "O56fqVNXFWo",
+      "channel": "TheLaluka",
+      "title": "AI didn't save time, it moved the work #shorts",
+      "link": "https://www.youtube.com/watch?v=O56fqVNXFWo",
+      "published_at": "2026-11-02T15:20:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/O56fqVNXFWo/hqdefault.jpg"
+    },
+    {
+      "video_id": "fJn2bctJ7O0",
+      "channel": "CyberWarriorStudios",
+      "title": "Security Happy Hour returns Friday Nov 6, 2026 until then hope this helps!",
+      "link": "https://www.youtube.com/watch?v=fJn2bctJ7O0",
+      "published_at": "2026-11-02T15:15:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fJn2bctJ7O0/hqdefault.jpg"
+    },
     {
       "video_id": "PFy0TPjitcY",
       "channel": "NahamSec",
@@ -168,22 +184,6 @@
       "link": "https://www.youtube.com/watch?v=gxIiTqSRacM",
       "published_at": "2026-11-01T19:08:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gxIiTqSRacM/hqdefault.jpg"
-    },
-    {
-      "video_id": "GaMbTUTxyrY",
-      "channel": "pebl3",
-      "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=GaMbTUTxyrY",
-      "published_at": "2026-11-01T17:26:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GaMbTUTxyrY/hqdefault.jpg"
-    },
-    {
-      "video_id": "PAYbqme4aNo",
-      "channel": "Hackavis",
-      "title": "As\u00ed borraron 200.000 dispositivos con una herramienta de Microsoft",
-      "link": "https://www.youtube.com/watch?v=PAYbqme4aNo",
-      "published_at": "2026-11-01T16:30:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PAYbqme4aNo/hqdefault.jpg"
     }
   ]
 }
