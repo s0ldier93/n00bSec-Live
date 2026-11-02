@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T10:05:04Z",
+  "updated": "2026-11-02T10:15:03Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
@@ -10,6 +10,14 @@
       "link": "https://www.youtube.com/watch?v=dNIL5z1DDCc",
       "published_at": "2026-11-02T10:00:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dNIL5z1DDCc/hqdefault.jpg"
+    },
+    {
+      "video_id": "WdChPsz066U",
+      "channel": "SecurityWeekly",
+      "title": "Shifting Cyber Turtles with Casey Ellis, the Vibe Check, and the News - Casey Ellis - ESW #483",
+      "link": "https://www.youtube.com/watch?v=WdChPsz066U",
+      "published_at": "2026-11-02T10:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/WdChPsz066U/hqdefault.jpg"
     },
     {
       "video_id": "c1QEFf1k2Ho",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=M0dspv-NA-M",
       "published_at": "2026-10-31T22:04:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/M0dspv-NA-M/hqdefault.jpg"
-    },
-    {
-      "video_id": "dXeBKjQJl8w",
-      "channel": "mbcrump",
-      "title": "PS5 PKG Folderizer: Convert Debug Packages for ShadowMountPlus",
-      "link": "https://www.youtube.com/watch?v=dXeBKjQJl8w",
-      "published_at": "2026-10-31T22:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dXeBKjQJl8w/hqdefault.jpg"
     }
   ]
 }
