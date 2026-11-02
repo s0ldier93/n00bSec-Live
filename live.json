@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-02T16:05:59Z",
+  "updated": "2026-11-02T16:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "HELP ME STAY AWAKE!!  We playing Balatro!  Hot chip tho?? \ud83d\udc40",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 28
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "O56fqVNXFWo",
