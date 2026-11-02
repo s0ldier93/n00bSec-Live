@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-02T14:05:59Z",
+  "updated": "2026-11-02T14:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Qwen4 Waiting Room - AI + Cyber",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 4
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "HELP ME STAY AWAKE!!  We playing Balatro!  Hot chip tho?? \ud83d\udc40",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 10
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "testing in prod teehee",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 24
+      "viewers": 33
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 2's Top Cyber News NOW! - Ep 1278",
       "link": "https://www.youtube.com/watch?v=gxIiTqSRacM",
-      "viewers": 400
+      "viewers": 338
     }
   ],
-  "viewers_total": 438,
+  "viewers_total": 399,
   "videos": [
     {
       "video_id": "m4gx5YoRYfM",
