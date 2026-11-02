@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T07:35:27Z",
+  "updated": "2026-11-02T08:05:59Z",
   "streams": [
     {
       "platform": "youtube",
@@ -11,6 +11,22 @@
   ],
   "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "c1QEFf1k2Ho",
+      "channel": "keylogin",
+      "title": "WoW: Midnight | Shadow Priest Solo Shuffle & PvP Gearing (Low Gear Grind)",
+      "link": "https://www.youtube.com/watch?v=c1QEFf1k2Ho",
+      "published_at": "2026-11-02T07:34:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/c1QEFf1k2Ho/hqdefault.jpg"
+    },
+    {
+      "video_id": "D2Nw91hfU1A",
+      "channel": "Khaos_Farbauti",
+      "title": "LE SORT S'ACHARNE | State Of Mind #3",
+      "link": "https://www.youtube.com/watch?v=D2Nw91hfU1A",
+      "published_at": "2026-11-02T07:08:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/D2Nw91hfU1A/hqdefault.jpg"
+    },
     {
       "video_id": "lDGA6OvPW90",
       "channel": "mbcrump",
@@ -26,6 +42,14 @@
       "link": "https://www.youtube.com/watch?v=oRQOLUQr63I",
       "published_at": "2026-11-02T02:07:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oRQOLUQr63I/hqdefault.jpg"
+    },
+    {
+      "video_id": "dnEe7b_TcUE",
+      "channel": "LaurieWired",
+      "title": "A Cruel Angel's (Halloween) Thesis",
+      "link": "https://www.youtube.com/watch?v=dnEe7b_TcUE",
+      "published_at": "2026-11-02T01:21:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dnEe7b_TcUE/hqdefault.jpg"
     },
     {
       "video_id": "w-C2zcZI-Kg",
@@ -146,30 +170,6 @@
       "link": "https://www.youtube.com/watch?v=uIXsAUPeZTU",
       "published_at": "2026-10-31T20:08:41+00:00",
       "thumbnail": "https://i.ytimg.com/vi/uIXsAUPeZTU/hqdefault.jpg"
-    },
-    {
-      "video_id": "F0tWorTQxg4",
-      "channel": "Hackavis",
-      "title": "3 herramientas OSINT gratis #shorts #osint #ciberseguridad",
-      "link": "https://www.youtube.com/watch?v=F0tWorTQxg4",
-      "published_at": "2026-10-31T19:30:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/F0tWorTQxg4/hqdefault.jpg"
-    },
-    {
-      "video_id": "6CsFR0XXx7g",
-      "channel": "mbcrump",
-      "title": "Neo Geo and Arcade Games on PS5: FinalBurn Neo 2.1",
-      "link": "https://www.youtube.com/watch?v=6CsFR0XXx7g",
-      "published_at": "2026-10-31T19:00:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6CsFR0XXx7g/hqdefault.jpg"
-    },
-    {
-      "video_id": "bsHTCBd0n-Y",
-      "channel": "keylogin",
-      "title": "Priest Disc Warmane Blackrock Arena chill",
-      "link": "https://www.youtube.com/watch?v=bsHTCBd0n-Y",
-      "published_at": "2026-10-31T16:53:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bsHTCBd0n-Y/hqdefault.jpg"
     }
   ]
 }
