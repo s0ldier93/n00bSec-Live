@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-02T23:05:59Z",
+  "updated": "2026-11-02T23:15:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/2/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 481
+      "viewers": 486
     }
   ],
-  "viewers_total": 481,
+  "viewers_total": 486,
   "videos": [
+    {
+      "video_id": "lQ26-x8npwI",
+      "channel": "Cyber_Insecurity",
+      "title": "Big AI is afraid of small models",
+      "link": "https://www.youtube.com/watch?v=lQ26-x8npwI",
+      "published_at": "2026-11-02T23:06:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lQ26-x8npwI/hqdefault.jpg"
+    },
     {
       "video_id": "7Rv9BvWNSOw",
       "channel": "EJSA",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=WdChPsz066U",
       "published_at": "2026-11-02T10:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/WdChPsz066U/hqdefault.jpg"
-    },
-    {
-      "video_id": "c1QEFf1k2Ho",
-      "channel": "keylogin",
-      "title": "WoW: Midnight | Shadow Priest Solo Shuffle & PvP Gearing (Low Gear Grind)",
-      "link": "https://www.youtube.com/watch?v=c1QEFf1k2Ho",
-      "published_at": "2026-11-02T07:34:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/c1QEFf1k2Ho/hqdefault.jpg"
     }
   ]
 }
