@@ -1,30 +1,45 @@
 {
-  "updated": "2026-11-02T13:55:58Z",
+  "updated": "2026-11-02T14:05:59Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "cyber_insecurity",
+      "title": "Qwen4 Waiting Room - AI + Cyber",
+      "link": "https://twitch.tv/cyber_insecurity",
+      "viewers": 4
+    },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "HELP ME STAY AWAKE!!  We playing Balatro!  Hot chip tho?? \ud83d\udc40",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 11
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "testing in prod teehee",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 21
+      "viewers": 24
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 2's Top Cyber News NOW! - Ep 1278",
       "link": "https://www.youtube.com/watch?v=gxIiTqSRacM",
-      "viewers": 419
+      "viewers": 400
     }
   ],
-  "viewers_total": 451,
+  "viewers_total": 438,
   "videos": [
+    {
+      "video_id": "m4gx5YoRYfM",
+      "channel": "LowLevelTV",
+      "title": "This Number Broke the Internet Last Week (twice...)",
+      "link": "https://www.youtube.com/watch?v=m4gx5YoRYfM",
+      "published_at": "2026-11-02T13:46:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/m4gx5YoRYfM/hqdefault.jpg"
+    },
     {
       "video_id": "jUC61hkoVDc",
       "channel": "TheShyHat",
@@ -176,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=viuwntyoBFI",
       "published_at": "2026-11-01T15:20:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/viuwntyoBFI/hqdefault.jpg"
-    },
-    {
-      "video_id": "gjN6lP9sKyU",
-      "channel": "keylogin",
-      "title": "Shadow Priest Low Gear Soloq Midnight",
-      "link": "https://www.youtube.com/watch?v=gjN6lP9sKyU",
-      "published_at": "2026-11-01T14:41:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gjN6lP9sKyU/hqdefault.jpg"
     }
   ]
 }
