@@ -1,19 +1,26 @@
 {
-  "updated": "2026-11-02T12:55:58Z",
+  "updated": "2026-11-02T13:05:43Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "HELP ME STAY AWAKE!!  We playing Balatro!  Hot chip tho?? \ud83d\udc40",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "testing in prod teehee",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 20
+      "viewers": 27
+    },
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 2's Top Cyber News NOW! - Ep 1278",
+      "link": "https://www.youtube.com/watch?v=gxIiTqSRacM",
+      "viewers": 180
     },
     {
       "platform": "youtube",
@@ -23,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 213,
   "videos": [
+    {
+      "video_id": "jUC61hkoVDc",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Tedious Work III - Sequential Number Adding Trick - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=jUC61hkoVDc",
+      "published_at": "2026-11-02T13:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/jUC61hkoVDc/hqdefault.jpg"
+    },
     {
       "video_id": "PCyiIdzjzFc",
       "channel": "keylogin",
@@ -176,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=t-bHsi3DSDo",
       "published_at": "2026-11-01T14:05:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/t-bHsi3DSDo/hqdefault.jpg"
-    },
-    {
-      "video_id": "04u2nBUOLW8",
-      "channel": "mbcrump",
-      "title": "Xbox Controllers on PS4: Games, Homebrew and the USB Limits",
-      "link": "https://www.youtube.com/watch?v=04u2nBUOLW8",
-      "published_at": "2026-11-01T03:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/04u2nBUOLW8/hqdefault.jpg"
     }
   ]
 }
