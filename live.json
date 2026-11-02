@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-02T11:05:03Z",
+  "updated": "2026-11-02T11:25:02Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "PCyiIdzjzFc",
+      "channel": "keylogin",
+      "title": "WoW: Midnight | Shadow Priest Solo Shuffle & PvP Gearing (Low Gear Grind)",
+      "link": "https://www.youtube.com/watch?v=PCyiIdzjzFc",
+      "published_at": "2026-11-02T11:16:57+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PCyiIdzjzFc/hqdefault.jpg"
+    },
     {
       "video_id": "jsgEufaQbsE",
       "channel": "DCCyberSec",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=04u2nBUOLW8",
       "published_at": "2026-11-01T03:00:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/04u2nBUOLW8/hqdefault.jpg"
-    },
-    {
-      "video_id": "W3HBNj1CXFc",
-      "channel": "mbcrump",
-      "title": "Switch 2: SmileBASIC 4, Seedsow Lullaby & Drift Legends 2 - What Makes Them Special?",
-      "link": "https://www.youtube.com/watch?v=W3HBNj1CXFc",
-      "published_at": "2026-10-31T23:57:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/W3HBNj1CXFc/hqdefault.jpg"
     }
   ]
 }
