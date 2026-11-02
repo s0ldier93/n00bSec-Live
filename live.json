@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-02T22:15:59Z",
+  "updated": "2026-11-02T22:25:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-11-02",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 6
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "Finishing a custom 4 door outer rocker panel for my car! The Crew Cab Coronet (Part 59)",
+      "title": "EJ's Space and Rocket Revue! 11/2/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 322
+      "viewers": 352
     }
   ],
-  "viewers_total": 328,
+  "viewers_total": 360,
   "videos": [
+    {
+      "video_id": "7Rv9BvWNSOw",
+      "channel": "EJSA",
+      "title": "Finishing a custom 4 door outer rocker panel for my car! The Crew Cab Coronet (Part 59)",
+      "link": "https://www.youtube.com/watch?v=7Rv9BvWNSOw",
+      "published_at": "2026-11-02T22:13:41+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/7Rv9BvWNSOw/hqdefault.jpg"
+    },
     {
       "video_id": "pKiHiUt60Q0",
       "channel": "hack_smarter",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=c1QEFf1k2Ho",
       "published_at": "2026-11-02T07:34:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/c1QEFf1k2Ho/hqdefault.jpg"
-    },
-    {
-      "video_id": "D2Nw91hfU1A",
-      "channel": "Khaos_Farbauti",
-      "title": "LE SORT S'ACHARNE | State Of Mind #3",
-      "link": "https://www.youtube.com/watch?v=D2Nw91hfU1A",
-      "published_at": "2026-11-02T07:08:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/D2Nw91hfU1A/hqdefault.jpg"
     }
   ]
 }
