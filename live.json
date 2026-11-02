@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-02T21:35:59Z",
+  "updated": "2026-11-02T21:45:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-11-02",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 12
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Finishing a custom 4 door outer rocker panel for my car! The Crew Cab Coronet (Part 59)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 304
+      "viewers": 320
     }
   ],
-  "viewers_total": 316,
+  "viewers_total": 330,
   "videos": [
     {
       "video_id": "pKiHiUt60Q0",
