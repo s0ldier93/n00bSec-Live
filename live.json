@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-02T03:05:59Z",
+  "updated": "2026-11-02T03:15:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacksmarter BlackRiver Range + Q&A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 21
+      "viewers": 24
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Darknet Lesson now out on Github| TES 3 Morrowind |Cybersecurity,Rants,Chill,&Linux Gaming|11-1-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 17
+      "viewers": 12
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 41,
+  "viewers_total": 39,
   "videos": [
     {
       "video_id": "w-C2zcZI-Kg",
