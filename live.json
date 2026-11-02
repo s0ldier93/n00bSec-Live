@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T15:05:58Z",
+  "updated": "2026-11-02T15:15:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "cybertechvibes",
       "title": "HELP ME STAY AWAKE!!  We playing Balatro!  Hot chip tho?? \ud83d\udc40",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 9
+      "viewers": 8
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 28
     }
   ],
-  "viewers_total": 100,
+  "viewers_total": 99,
   "videos": [
+    {
+      "video_id": "PFy0TPjitcY",
+      "channel": "NahamSec",
+      "title": "I Rebuilt a Real World MCP Bug. Can AI Find It?",
+      "link": "https://www.youtube.com/watch?v=PFy0TPjitcY",
+      "published_at": "2026-11-02T15:00:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PFy0TPjitcY/hqdefault.jpg"
+    },
     {
       "video_id": "VQKEnO7ntBg",
       "channel": "ElPinguinoDeMario",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=PAYbqme4aNo",
       "published_at": "2026-11-01T16:30:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PAYbqme4aNo/hqdefault.jpg"
-    },
-    {
-      "video_id": "1vNz_PLfgYg",
-      "channel": "censoredHacker",
-      "title": "AMA",
-      "link": "https://www.youtube.com/watch?v=1vNz_PLfgYg",
-      "published_at": "2026-11-01T15:48:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1vNz_PLfgYg/hqdefault.jpg"
     }
   ]
 }
