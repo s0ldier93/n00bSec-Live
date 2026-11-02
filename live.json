@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-02T17:15:59Z",
+  "updated": "2026-11-02T17:25:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "testing in prod teehee",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 25
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 25,
   "videos": [
     {
       "video_id": "LGcWRJ_yOEQ",
