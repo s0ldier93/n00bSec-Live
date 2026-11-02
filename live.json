@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-02T19:55:59Z",
+  "updated": "2026-11-02T20:06:00Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Finishing a custom 4 door outer rocker panel for my car! The Crew Cab Coronet (Part 59)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 278
+      "viewers": 282
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "500 Follower Special! 5/5 | Hey ChatGPT, delete all my accounts",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 11
+      "viewers": 17
     }
   ],
-  "viewers_total": 289,
+  "viewers_total": 299,
   "videos": [
+    {
+      "video_id": "gIPf9KhVPLo",
+      "channel": "SecurityWeekly",
+      "title": "When AI Hallucinations Become Headlines",
+      "link": "https://www.youtube.com/watch?v=gIPf9KhVPLo",
+      "published_at": "2026-11-02T20:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gIPf9KhVPLo/hqdefault.jpg"
+    },
     {
       "video_id": "Zwk_q4Jg7vg",
       "channel": "Hackavis",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=dnEe7b_TcUE",
       "published_at": "2026-11-02T01:21:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dnEe7b_TcUE/hqdefault.jpg"
-    },
-    {
-      "video_id": "w-C2zcZI-Kg",
-      "channel": "Cyber_Insecurity",
-      "title": "Local AI is the Linux of this era",
-      "link": "https://www.youtube.com/watch?v=w-C2zcZI-Kg",
-      "published_at": "2026-11-01T23:02:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/w-C2zcZI-Kg/hqdefault.jpg"
     }
   ]
 }
