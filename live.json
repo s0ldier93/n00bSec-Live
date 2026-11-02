@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T13:05:43Z",
+  "updated": "2026-11-02T13:15:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,17 @@
       "name": "panekopanko",
       "title": "testing in prod teehee",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 29
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 2's Top Cyber News NOW! - Ep 1278",
       "link": "https://www.youtube.com/watch?v=gxIiTqSRacM",
-      "viewers": 180
-    },
-    {
-      "platform": "youtube",
-      "name": "keylogin",
-      "title": "WoW: Midnight | Shadow Priest Solo Shuffle & PvP Gearing (Low Gear Grind)",
-      "link": "https://www.youtube.com/watch?v=PCyiIdzjzFc",
-      "viewers": 1
+      "viewers": 288
     }
   ],
-  "viewers_total": 213,
+  "viewers_total": 322,
   "videos": [
     {
       "video_id": "jUC61hkoVDc",
