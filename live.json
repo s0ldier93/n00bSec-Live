@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-02T15:35:59Z",
+  "updated": "2026-11-02T15:45:59Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "HELP ME STAY AWAKE!!  We playing Balatro!  Hot chip tho?? \ud83d\udc40",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 8
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "testing in prod teehee",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 24
+      "viewers": 21
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 27,
   "videos": [
     {
       "video_id": "O56fqVNXFWo",
