@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-02T11:25:37Z",
+  "updated": "2026-11-02T11:35:59Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "keylogin",
       "title": "WoW: Midnight | Shadow Priest Solo Shuffle & PvP Gearing (Low Gear Grind)",
       "link": "https://www.youtube.com/watch?v=PCyiIdzjzFc",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 1,
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "PCyiIdzjzFc",
