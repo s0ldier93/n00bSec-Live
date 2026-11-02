@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-02T15:25:58Z",
+  "updated": "2026-11-02T15:35:59Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "cyber_insecurity",
-      "title": "Qwen4 Waiting Room - AI + Cyber",
-      "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 58
-    },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
@@ -20,10 +13,10 @@
       "name": "panekopanko",
       "title": "testing in prod teehee",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 24
     }
   ],
-  "viewers_total": 95,
+  "viewers_total": 32,
   "videos": [
     {
       "video_id": "O56fqVNXFWo",
