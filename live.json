@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-02T14:55:59Z",
+  "updated": "2026-11-02T15:05:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Qwen4 Waiting Room - AI + Cyber",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 64
+      "viewers": 63
     },
     {
       "platform": "twitch",
@@ -20,11 +20,19 @@
       "name": "panekopanko",
       "title": "testing in prod teehee",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 28
     }
   ],
-  "viewers_total": 102,
+  "viewers_total": 100,
   "videos": [
+    {
+      "video_id": "VQKEnO7ntBg",
+      "channel": "ElPinguinoDeMario",
+      "title": "Vulnerabilidad TOCTOU en Paneles de Subidas de Archivos",
+      "link": "https://www.youtube.com/watch?v=VQKEnO7ntBg",
+      "published_at": "2026-11-02T14:45:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VQKEnO7ntBg/hqdefault.jpg"
+    },
     {
       "video_id": "m4gx5YoRYfM",
       "channel": "LowLevelTV",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=1vNz_PLfgYg",
       "published_at": "2026-11-01T15:48:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1vNz_PLfgYg/hqdefault.jpg"
-    },
-    {
-      "video_id": "viuwntyoBFI",
-      "channel": "TheLaluka",
-      "title": "The next Mirai botnet will be AI #shorts",
-      "link": "https://www.youtube.com/watch?v=viuwntyoBFI",
-      "published_at": "2026-11-01T15:20:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/viuwntyoBFI/hqdefault.jpg"
     }
   ]
 }
