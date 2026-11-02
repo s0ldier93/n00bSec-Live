@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-02T10:15:03Z",
+  "updated": "2026-11-02T11:05:03Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "jsgEufaQbsE",
+      "channel": "DCCyberSec",
+      "title": "My Reality: Building a Business While Raising a Family",
+      "link": "https://www.youtube.com/watch?v=jsgEufaQbsE",
+      "published_at": "2026-11-02T11:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/jsgEufaQbsE/hqdefault.jpg"
+    },
     {
       "video_id": "dNIL5z1DDCc",
       "channel": "jarnobaselier",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=W3HBNj1CXFc",
       "published_at": "2026-10-31T23:57:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/W3HBNj1CXFc/hqdefault.jpg"
-    },
-    {
-      "video_id": "M0dspv-NA-M",
-      "channel": "Cyber_Insecurity",
-      "title": "Every operator needs a battle buddy. Mine is Grok.",
-      "link": "https://www.youtube.com/watch?v=M0dspv-NA-M",
-      "published_at": "2026-10-31T22:04:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/M0dspv-NA-M/hqdefault.jpg"
     }
   ]
 }
