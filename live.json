@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-03T16:46:55Z",
+  "updated": "2026-11-03T16:56:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "znEcvInY2Yk",
+      "channel": "NahamSec",
+      "title": "OpenAI paid $5000 for this account takeover vulnerability that could also leak your private chats",
+      "link": "https://www.youtube.com/watch?v=znEcvInY2Yk",
+      "published_at": "2026-11-03T16:49:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/znEcvInY2Yk/hqdefault.jpg"
+    },
     {
       "video_id": "oTi8N1Q2iwI",
       "channel": "EJSA",
@@ -157,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=Zwk_q4Jg7vg",
       "published_at": "2026-11-02T19:30:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Zwk_q4Jg7vg/hqdefault.jpg"
-    },
-    {
-      "video_id": "aPNfVvh9EZA",
-      "channel": "JohnHammond010",
-      "title": "The PHP Vulnerabilities Explained",
-      "link": "https://www.youtube.com/watch?v=aPNfVvh9EZA",
-      "published_at": "2026-11-02T19:00:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/aPNfVvh9EZA/hqdefault.jpg"
     }
   ]
 }
