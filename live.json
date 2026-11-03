@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-03T16:56:54Z",
+  "updated": "2026-11-03T17:06:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "bSPPn9Oh5V0",
+      "channel": "Cyber_Insecurity",
+      "title": "Thomson Reuters fired Anthropic and fine-tuned an open model",
+      "link": "https://www.youtube.com/watch?v=bSPPn9Oh5V0",
+      "published_at": "2026-11-03T17:03:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bSPPn9Oh5V0/hqdefault.jpg"
+    },
     {
       "video_id": "znEcvInY2Yk",
       "channel": "NahamSec",
@@ -157,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=gIPf9KhVPLo",
       "published_at": "2026-11-02T20:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gIPf9KhVPLo/hqdefault.jpg"
-    },
-    {
-      "video_id": "Zwk_q4Jg7vg",
-      "channel": "Hackavis",
-      "title": "3 herramientas OSINT que uso en mi d\u00eda a d\u00eda como forense digital #shorts #osint #forensedigital",
-      "link": "https://www.youtube.com/watch?v=Zwk_q4Jg7vg",
-      "published_at": "2026-11-02T19:30:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Zwk_q4Jg7vg/hqdefault.jpg"
     }
   ]
 }
