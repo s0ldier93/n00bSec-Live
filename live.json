@@ -1,16 +1,31 @@
 {
-  "updated": "2026-11-03T14:05:59Z",
+  "updated": "2026-11-03T14:15:42Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 3's Top Cyber News NOW! - Ep 1279",
       "link": "https://www.youtube.com/watch?v=cKFYHtkG3dw",
-      "viewers": 353
+      "viewers": 215
+    },
+    {
+      "platform": "youtube",
+      "name": "keylogin",
+      "title": "WoW Midnight PvP | Goblin Shadow Priest Void Solo Shuffle Push | Road to 2100+ | !commands",
+      "link": "https://www.youtube.com/watch?v=hlshNeeMEFo",
+      "viewers": 1
     }
   ],
-  "viewers_total": 353,
+  "viewers_total": 216,
   "videos": [
+    {
+      "video_id": "ncYAPgzjD90",
+      "channel": "JohnHammond010",
+      "title": "AI made a Malware Viewer in Minecraft",
+      "link": "https://www.youtube.com/watch?v=ncYAPgzjD90",
+      "published_at": "2026-11-03T14:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ncYAPgzjD90/hqdefault.jpg"
+    },
     {
       "video_id": "DIatA_G2alw",
       "channel": "HaxrByte",
@@ -162,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=PFy0TPjitcY",
       "published_at": "2026-11-02T15:00:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PFy0TPjitcY/hqdefault.jpg"
-    },
-    {
-      "video_id": "VQKEnO7ntBg",
-      "channel": "ElPinguinoDeMario",
-      "title": "Vulnerabilidad TOCTOU en Paneles de Subidas de Archivos",
-      "link": "https://www.youtube.com/watch?v=VQKEnO7ntBg",
-      "published_at": "2026-11-02T14:45:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VQKEnO7ntBg/hqdefault.jpg"
     }
   ]
 }
