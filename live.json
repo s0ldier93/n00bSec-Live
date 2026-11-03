@@ -1,58 +1,74 @@
 {
-  "updated": "2026-11-03T19:07:53Z",
+  "updated": "2026-11-03T19:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Finishing up my custom made outer rocker! The Crew Cab Coronet! (Part 60)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 211
+      "viewers": 216
     },
     {
       "platform": "twitch",
       "name": "ElPinguinoDeMario",
       "title": "Practicamos Hacking Web en DockerLabs | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 43
+      "viewers": 42
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #12 | ty: @djzoso",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 21
+      "viewers": 28
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (11/3/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 16
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Recon Deutschland!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 9
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Vulnerabilidad File Upload y TocTou",
       "link": "https://www.youtube.com/watch?v=0Ss0-dKoky8",
-      "viewers": 149
+      "viewers": 154
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (11/3/26)",
       "link": "https://www.youtube.com/watch?v=_VZiG38S7eM",
-      "viewers": 88
+      "viewers": 83
     }
   ],
-  "viewers_total": 537,
+  "viewers_total": 548,
   "videos": [
+    {
+      "video_id": "6zG9mziUg84",
+      "channel": "thecybermentor",
+      "title": "Are CTF Platforms Useful? (Ask a CISO)",
+      "link": "https://www.youtube.com/watch?v=6zG9mziUg84",
+      "published_at": "2026-11-03T19:00:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6zG9mziUg84/hqdefault.jpg"
+    },
+    {
+      "video_id": "Yu1qqCF5beA",
+      "channel": "JohnHammond010",
+      "title": "Version Jumping in PHP",
+      "link": "https://www.youtube.com/watch?v=Yu1qqCF5beA",
+      "published_at": "2026-11-03T19:00:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Yu1qqCF5beA/hqdefault.jpg"
+    },
     {
       "video_id": "_VZiG38S7eM",
       "channel": "hack_smarter",
@@ -198,22 +214,6 @@
       "link": "https://www.youtube.com/watch?v=pKiHiUt60Q0",
       "published_at": "2026-11-02T20:57:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/pKiHiUt60Q0/hqdefault.jpg"
-    },
-    {
-      "video_id": "TBlhuG1S7Sw",
-      "channel": "mbcrump",
-      "title": "BD-JB-Relapse Relapse Released for PS5: Testing and Thoughts",
-      "link": "https://www.youtube.com/watch?v=TBlhuG1S7Sw",
-      "published_at": "2026-11-02T20:42:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TBlhuG1S7Sw/hqdefault.jpg"
-    },
-    {
-      "video_id": "dHikgaV_OJ4",
-      "channel": "JohnHammond010",
-      "title": "This Chicken is an Internet File",
-      "link": "https://www.youtube.com/watch?v=dHikgaV_OJ4",
-      "published_at": "2026-11-02T20:30:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dHikgaV_OJ4/hqdefault.jpg"
     }
   ]
 }
