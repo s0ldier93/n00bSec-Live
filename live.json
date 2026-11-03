@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-03T19:47:33Z",
+  "updated": "2026-11-03T19:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Finishing up my custom made outer rocker! The Crew Cab Coronet! (Part 60)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 238
+      "viewers": 236
     },
     {
       "platform": "twitch",
@@ -34,7 +34,7 @@
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Recon Deutschland!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 9
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 71
     }
   ],
-  "viewers_total": 405,
+  "viewers_total": 401,
   "videos": [
     {
       "video_id": "6zG9mziUg84",
