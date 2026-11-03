@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:57:49Z",
+  "updated": "2026-11-03T21:07:26Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,27 +10,13 @@
     },
     {
       "platform": "twitch",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Ethical Hacking & Ask Me Anything (11/3/26)",
-      "link": "https://twitch.tv/hack_smarter",
-      "viewers": 23
-    },
-    {
-      "platform": "twitch",
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, shellcode simple",
       "link": "https://twitch.tv/team_whoami",
       "viewers": 3
-    },
-    {
-      "platform": "youtube",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Ethical Hacking & Ask Me Anything (11/3/26)",
-      "link": "https://www.youtube.com/watch?v=_VZiG38S7eM",
-      "viewers": 38
     }
   ],
-  "viewers_total": 110,
+  "viewers_total": 49,
   "videos": [
     {
       "video_id": "IMuwRH3Tt6c",
