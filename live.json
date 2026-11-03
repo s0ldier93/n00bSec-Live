@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-03T08:05:10Z",
+  "updated": "2026-11-03T10:15:03Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "Ml1FEUj9L8g",
+      "channel": "SecurityWeekly",
+      "title": "More Vulns and More Guesswork from Less Data - Jeremiah Grossman - ASW #407",
+      "link": "https://www.youtube.com/watch?v=Ml1FEUj9L8g",
+      "published_at": "2026-11-03T10:00:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Ml1FEUj9L8g/hqdefault.jpg"
+    },
     {
       "video_id": "FJ96faRpXP8",
       "channel": "censoredHacker",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=jUC61hkoVDc",
       "published_at": "2026-11-02T13:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/jUC61hkoVDc/hqdefault.jpg"
-    },
-    {
-      "video_id": "PCyiIdzjzFc",
-      "channel": "keylogin",
-      "title": "WoW: Midnight | Shadow Priest Solo Shuffle & PvP Gearing (Low Gear Grind)",
-      "link": "https://www.youtube.com/watch?v=PCyiIdzjzFc",
-      "published_at": "2026-11-02T11:16:57+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PCyiIdzjzFc/hqdefault.jpg"
     }
   ]
 }
