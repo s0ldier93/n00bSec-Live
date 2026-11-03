@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T15:25:04Z",
+  "updated": "2026-11-03T16:07:33Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
@@ -49,7 +49,8 @@
       "title": "\ud83d\udcf1 [LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (03 Nov 2026)",
       "link": "https://www.youtube.com/watch?v=DIatA_G2alw",
       "published_at": "2026-11-03T12:54:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DIatA_G2alw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/DIatA_G2alw/hqdefault.jpg",
+      "upcoming": true
     },
     {
       "video_id": "rvOX7BqK3Ro",
@@ -73,7 +74,8 @@
       "title": "AMA",
       "link": "https://www.youtube.com/watch?v=FJ96faRpXP8",
       "published_at": "2026-11-03T04:18:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FJ96faRpXP8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/FJ96faRpXP8/hqdefault.jpg",
+      "upcoming": true
     },
     {
       "video_id": "Q6eSt65FWW4",
