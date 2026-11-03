@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-03T20:57:24Z",
+  "updated": "2026-11-03T20:57:49Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "Finishing up my custom made outer rocker! The Crew Cab Coronet! (Part 60)",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 286
-    },
     {
       "platform": "twitch",
       "name": "goproflowyo",
@@ -27,7 +20,7 @@
       "name": "team_whoami",
       "title": "Lenguaje ensamblador, shellcode simple",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 38
     }
   ],
-  "viewers_total": 395,
+  "viewers_total": 110,
   "videos": [
     {
       "video_id": "IMuwRH3Tt6c",
