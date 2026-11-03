@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-03T03:55:58Z",
+  "updated": "2026-11-03T04:05:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MONDAY NIGHT CONFLICT CANINES! 11/2/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 274
-    },
-    {
-      "platform": "twitch",
-      "name": "het_tanis",
-      "title": "Co-working in the home lab. We'll talk some AI with attacking and defending Linux in the enterprise.",
-      "link": "https://twitch.tv/het_tanis",
-      "viewers": 23
+      "viewers": 264
     }
   ],
-  "viewers_total": 297,
+  "viewers_total": 264,
   "videos": [
     {
       "video_id": "Gv0YmHrcL3I",
