@@ -1,8 +1,17 @@
 {
-  "updated": "2026-11-03T16:07:33Z",
+  "updated": "2026-11-03T16:46:55Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "oTi8N1Q2iwI",
+      "channel": "EJSA",
+      "title": "MONDAY NIGHT CONFLICT CANINES! 11/2/26",
+      "link": "https://www.youtube.com/watch?v=oTi8N1Q2iwI",
+      "published_at": "2026-11-03T16:42:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oTi8N1Q2iwI/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "jgsx3-4yMYk",
       "channel": "TheLaluka",
@@ -156,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=aPNfVvh9EZA",
       "published_at": "2026-11-02T19:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/aPNfVvh9EZA/hqdefault.jpg"
-    },
-    {
-      "video_id": "LGcWRJ_yOEQ",
-      "channel": "SecurityWeekly",
-      "title": "Not Every Internet Crisis Matters to You",
-      "link": "https://www.youtube.com/watch?v=LGcWRJ_yOEQ",
-      "published_at": "2026-11-02T16:35:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LGcWRJ_yOEQ/hqdefault.jpg"
     }
   ]
 }
