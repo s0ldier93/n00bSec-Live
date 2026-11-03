@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-03T14:15:42Z",
+  "updated": "2026-11-03T14:25:58Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 3's Top Cyber News NOW! - Ep 1279",
       "link": "https://www.youtube.com/watch?v=cKFYHtkG3dw",
-      "viewers": 215
+      "viewers": 206
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 216,
+  "viewers_total": 207,
   "videos": [
+    {
+      "video_id": "hlshNeeMEFo",
+      "channel": "keylogin",
+      "title": "WoW Midnight PvP | Goblin Shadow Priest Void Solo Shuffle Push | Road to 2100+ | !commands",
+      "link": "https://www.youtube.com/watch?v=hlshNeeMEFo",
+      "published_at": "2026-11-03T14:05:41+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/hlshNeeMEFo/hqdefault.jpg"
+    },
     {
       "video_id": "ncYAPgzjD90",
       "channel": "JohnHammond010",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=fJn2bctJ7O0",
       "published_at": "2026-11-02T15:15:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fJn2bctJ7O0/hqdefault.jpg"
-    },
-    {
-      "video_id": "PFy0TPjitcY",
-      "channel": "NahamSec",
-      "title": "I Rebuilt a Real World MCP Bug. Can AI Find It?",
-      "link": "https://www.youtube.com/watch?v=PFy0TPjitcY",
-      "published_at": "2026-11-02T15:00:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PFy0TPjitcY/hqdefault.jpg"
     }
   ]
 }
