@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-03T17:57:50Z",
+  "updated": "2026-11-03T18:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ElPinguinoDeMario",
       "title": "Practicamos Hacking Web en DockerLabs | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 24
+      "viewers": 38
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #12",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 9
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Vulnerabilidad File Upload y TocTou",
       "link": "https://www.youtube.com/watch?v=0Ss0-dKoky8",
-      "viewers": 65
+      "viewers": 106
     }
   ],
-  "viewers_total": 98,
+  "viewers_total": 149,
   "videos": [
     {
       "video_id": "bSPPn9Oh5V0",
