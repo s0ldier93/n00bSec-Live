@@ -664,7 +664,7 @@
     if (streams.length) {
       if (idle) { if (idle.player) { try { idle.player.destroy(); } catch (e) {} } idle.wrap.remove(); idle = null; }
     } else {
-      renderIdle(((lastData && lastData.videos) || []).slice(0, RECENT_MAX));
+      renderIdle(tvVideos());
     }
   }
 
@@ -693,8 +693,15 @@
     }
   }
 
+  /* Premieres / scheduled streams that haven't started (the bot sets "upcoming" in live.json)
+     would just sit on "Premieres in …", so the TV leaves them out. */
   function tvVideos() {
-    return ((lastData && lastData.videos) || []).slice(0, RECENT_MAX);
+    return ((lastData && lastData.videos) || []).slice(0, RECENT_MAX)
+      .filter(function (v) { return !v.upcoming; });
+  }
+
+  function isUpcoming(id) {
+    return ((lastData && lastData.videos) || []).some(function (v) { return v.video_id === id && v.upcoming; });
   }
 
   /* The embed's own playlist/loop params kept repeating the first video, so the page sequences
@@ -737,28 +744,53 @@
         + (v.channel ? v.channel + ' — ' : '') + (v.title || '');
     }
 
+    /* Fallback for an upcoming video the bot didn't flag: a premiere never reaches PLAYING and
+       never errors, so skip anything that hasn't started within STALL_MS of being loaded. Only
+       counted while the tab is visible (background tabs may hold autoplay back). */
+    var STALL_MS = 30000;
+    var waiting = false;
+    var stallTimer = null;
+    function live() { return idle !== null && idle.session === session; }
+    function armStall() {
+      clearTimeout(stallTimer);
+      waiting = true;
+      if (!document.hidden) stallTimer = setTimeout(function () { if (live() && ++errors < list.length) next(); }, STALL_MS);
+    }
+    function onVisibility() {
+      if (!live()) { clearTimeout(stallTimer); document.removeEventListener('visibilitychange', onVisibility); return; }
+      if (document.hidden) clearTimeout(stallTimer);
+      else if (waiting) armStall();
+    }
+    document.addEventListener('visibilitychange', onVisibility);
+
     loadYouTubeApi().then(function (YT) {
-      if (idle === null || idle.session !== session) return;
+      if (!live()) return;
       idle.player = new YT.Player(mount, {
         videoId: list[0].video_id,
         playerVars: { autoplay: 1, mute: 1, playsinline: 1, rel: 0 },
         events: {
-          onReady: function (e) { e.target.mute(); e.target.playVideo(); nowPlaying(); },
+          onReady: function (e) { e.target.mute(); e.target.playVideo(); nowPlaying(); armStall(); },
           onStateChange: function (e) {
-            if (e.data === YT.PlayerState.PLAYING) errors = 0;
+            if (e.data === YT.PlayerState.PLAYING) { errors = 0; waiting = false; clearTimeout(stallTimer); }
             if (e.data === YT.PlayerState.ENDED) next();
           },
           // Embedding disabled / removed video: skip it (give up after a full lap of failures).
           onError: function () { if (++errors < list.length) next(); }
         }
       });
-      function next() {
-        if (idle === null || idle.session !== session) return;
-        index = (index + 1) % list.length;
-        idle.player.loadVideoById(list[index].video_id);
-        nowPlaying();
-      }
     });
+
+    function next() {
+      if (!live() || !idle.player) return;
+      // Skip videos live.json has since flagged as upcoming.
+      for (var tries = 0; tries < list.length; tries++) {
+        index = (index + 1) % list.length;
+        if (!isUpcoming(list[index].video_id)) break;
+      }
+      idle.player.loadVideoById(list[index].video_id);
+      nowPlaying();
+      armStall();
+    }
   }
 
   function stopTv() {
