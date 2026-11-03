@@ -1,44 +1,52 @@
 {
-  "updated": "2026-11-03T19:57:50Z",
+  "updated": "2026-11-03T20:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Finishing up my custom made outer rocker! The Crew Cab Coronet! (Part 60)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 244
+      "viewers": 263
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #12 | ty: @djzoso",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 35
+      "viewers": 25
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (11/3/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 27
+      "viewers": 22
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Recon Deutschland!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 4
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (11/3/26)",
       "link": "https://www.youtube.com/watch?v=_VZiG38S7eM",
-      "viewers": 70
+      "viewers": 62
     }
   ],
-  "viewers_total": 380,
+  "viewers_total": 378,
   "videos": [
+    {
+      "video_id": "IMuwRH3Tt6c",
+      "channel": "SecurityWeekly",
+      "title": "Cybersecurity Is Obsessed With Failure",
+      "link": "https://www.youtube.com/watch?v=IMuwRH3Tt6c",
+      "published_at": "2026-11-03T20:00:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IMuwRH3Tt6c/hqdefault.jpg"
+    },
     {
       "video_id": "6zG9mziUg84",
       "channel": "thecybermentor",
@@ -192,14 +200,6 @@
       "link": "https://www.youtube.com/watch?v=7Rv9BvWNSOw",
       "published_at": "2026-11-02T22:13:41+00:00",
       "thumbnail": "https://i.ytimg.com/vi/7Rv9BvWNSOw/hqdefault.jpg"
-    },
-    {
-      "video_id": "pKiHiUt60Q0",
-      "channel": "hack_smarter",
-      "title": "How To Hack Web Apps with AI & Strix -- (Full Workshop)",
-      "link": "https://www.youtube.com/watch?v=pKiHiUt60Q0",
-      "published_at": "2026-11-02T20:57:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/pKiHiUt60Q0/hqdefault.jpg"
     }
   ]
 }
