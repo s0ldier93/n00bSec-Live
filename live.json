@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T19:37:50Z",
+  "updated": "2026-11-03T19:47:33Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "ElPinguinoDeMario",
       "title": "Practicamos Hacking Web en DockerLabs | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 32
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #12 | ty: @djzoso",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 24
+      "viewers": 33
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (11/3/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 16
+      "viewers": 23
     },
     {
       "platform": "twitch",
@@ -38,20 +38,13 @@
     },
     {
       "platform": "youtube",
-      "name": "ElPinguinoDeMario",
-      "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Vulnerabilidad File Upload y TocTou",
-      "link": "https://www.youtube.com/watch?v=0Ss0-dKoky8",
-      "viewers": 119
-    },
-    {
-      "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (11/3/26)",
       "link": "https://www.youtube.com/watch?v=_VZiG38S7eM",
-      "viewers": 68
+      "viewers": 71
     }
   ],
-  "viewers_total": 506,
+  "viewers_total": 405,
   "videos": [
     {
       "video_id": "6zG9mziUg84",
