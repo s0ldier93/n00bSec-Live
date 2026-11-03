@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-03T14:35:52Z",
+  "updated": "2026-11-03T15:15:08Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "7ADf9D2YN14",
+      "channel": "SecurityWeekly",
+      "title": "Passing Compliance Doesn't Mean You're Secure",
+      "link": "https://www.youtube.com/watch?v=7ADf9D2YN14",
+      "published_at": "2026-11-03T15:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/7ADf9D2YN14/hqdefault.jpg"
+    },
+    {
+      "video_id": "sj3Fwgtzet4",
+      "channel": "LuNiZz",
+      "title": "EYYY S\u0130BER G\u00dcVENL\u0130K\u00c7\u0130LER, \u015e\u0130MD\u0130 NANEY\u0130 YEMED\u0130K M\u0130?",
+      "link": "https://www.youtube.com/watch?v=sj3Fwgtzet4",
+      "published_at": "2026-11-03T15:00:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/sj3Fwgtzet4/hqdefault.jpg"
+    },
     {
       "video_id": "hlshNeeMEFo",
       "channel": "keylogin",
@@ -146,22 +162,6 @@
       "link": "https://www.youtube.com/watch?v=yKBeKerDM7Q",
       "published_at": "2026-11-02T16:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yKBeKerDM7Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "O56fqVNXFWo",
-      "channel": "TheLaluka",
-      "title": "AI didn't save time, it moved the work #shorts",
-      "link": "https://www.youtube.com/watch?v=O56fqVNXFWo",
-      "published_at": "2026-11-02T15:20:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/O56fqVNXFWo/hqdefault.jpg"
-    },
-    {
-      "video_id": "fJn2bctJ7O0",
-      "channel": "CyberWarriorStudios",
-      "title": "Security Happy Hour returns Friday Nov 6, 2026 until then hope this helps!",
-      "link": "https://www.youtube.com/watch?v=fJn2bctJ7O0",
-      "published_at": "2026-11-02T15:15:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fJn2bctJ7O0/hqdefault.jpg"
     }
   ]
 }
