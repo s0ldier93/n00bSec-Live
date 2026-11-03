@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-03T06:25:59Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "MONDAY NIGHT CONFLICT CANINES! 11/2/26",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 200
-    }
-  ],
-  "viewers_total": 200,
+  "updated": "2026-11-03T06:35:59Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "FJ96faRpXP8",
