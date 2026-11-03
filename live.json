@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-03T10:15:03Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-03T10:45:33Z",
+  "streams": [
+    {
+      "platform": "youtube",
+      "name": "keylogin",
+      "title": "\ud83d\udd34 WoW Midnight PvP | Goblin Shadow Priest Void Solo Shuffle Push | Road to 2100+ | !commands",
+      "link": "https://www.youtube.com/watch?v=rvOX7BqK3Ro",
+      "viewers": 1
+    }
+  ],
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "Ml1FEUj9L8g",
