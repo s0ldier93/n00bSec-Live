@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-03T15:15:08Z",
+  "updated": "2026-11-03T15:25:04Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "jgsx3-4yMYk",
+      "channel": "TheLaluka",
+      "title": "One update\u2026 and NOTHING works? #shorts",
+      "link": "https://www.youtube.com/watch?v=jgsx3-4yMYk",
+      "published_at": "2026-11-03T15:20:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/jgsx3-4yMYk/hqdefault.jpg"
+    },
     {
       "video_id": "7ADf9D2YN14",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=LGcWRJ_yOEQ",
       "published_at": "2026-11-02T16:35:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LGcWRJ_yOEQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "yKBeKerDM7Q",
-      "channel": "NahamSec",
-      "title": "I recreated a real MCP vulnerability and tested it with @snyksec\u2019s Evo to see if it finds it. \ud83d\udc40 #ad",
-      "link": "https://www.youtube.com/watch?v=yKBeKerDM7Q",
-      "published_at": "2026-11-02T16:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yKBeKerDM7Q/hqdefault.jpg"
     }
   ]
 }
