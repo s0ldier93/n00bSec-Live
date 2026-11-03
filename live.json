@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-03T18:47:49Z",
+  "updated": "2026-11-03T18:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Finishing up my custom made outer rocker! The Crew Cab Coronet! (Part 60)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 180
+      "viewers": 198
     },
     {
       "platform": "twitch",
       "name": "ElPinguinoDeMario",
       "title": "Practicamos Hacking Web en DockerLabs | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 35
+      "viewers": 50
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "Regularly Scheduled Shenanigans #12",
+      "title": "Regularly Scheduled Shenanigans #12 | ty: @djzoso",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 17
+      "viewers": 24
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (11/3/26)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 10
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Recon Deutschland!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 5
+      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -48,10 +48,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Ethical Hacking & Ask Me Anything (11/3/26)",
       "link": "https://www.youtube.com/watch?v=_VZiG38S7eM",
-      "viewers": 74
+      "viewers": 96
     }
   ],
-  "viewers_total": 486,
+  "viewers_total": 553,
   "videos": [
     {
       "video_id": "_VZiG38S7eM",
