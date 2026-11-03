@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-03T21:17:50Z",
+  "updated": "2026-11-03T21:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "Regularly Scheduled Shenanigans #12 | ty: @djzoso",
+      "title": "Regularly Scheduled Shenanigans #12 | ty: @beppomaier @djzoso",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 51
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Lenguaje ensamblador, shellcode simple",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 3
+      "viewers": 76
     }
   ],
-  "viewers_total": 54,
+  "viewers_total": 76,
   "videos": [
     {
       "video_id": "IMuwRH3Tt6c",
