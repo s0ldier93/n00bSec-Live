@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-03T12:25:34Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-03T13:05:39Z",
+  "streams": [
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 3's Top Cyber News NOW! - Ep 1279",
+      "link": "https://www.youtube.com/watch?v=cKFYHtkG3dw",
+      "viewers": 167
+    }
+  ],
+  "viewers_total": 167,
   "videos": [
     {
       "video_id": "rvOX7BqK3Ro",
