@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T01:45:59Z",
+  "updated": "2026-11-03T01:55:59Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/2/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 439
+      "viewers": 441
     }
   ],
-  "viewers_total": 455,
+  "viewers_total": 457,
   "videos": [
+    {
+      "video_id": "Gv0YmHrcL3I",
+      "channel": "mbcrump",
+      "title": "PS4 14.0 WebKit Jailbreak Released! Full Walkthrough!",
+      "link": "https://www.youtube.com/watch?v=Gv0YmHrcL3I",
+      "published_at": "2026-11-03T00:46:45+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Gv0YmHrcL3I/hqdefault.jpg"
+    },
     {
       "video_id": "lQ26-x8npwI",
       "channel": "Cyber_Insecurity",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=dNIL5z1DDCc",
       "published_at": "2026-11-02T10:00:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dNIL5z1DDCc/hqdefault.jpg"
-    },
-    {
-      "video_id": "WdChPsz066U",
-      "channel": "SecurityWeekly",
-      "title": "Shifting Cyber Turtles with Casey Ellis, the Vibe Check, and the News - Casey Ellis - ESW #483",
-      "link": "https://www.youtube.com/watch?v=WdChPsz066U",
-      "published_at": "2026-11-02T10:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WdChPsz066U/hqdefault.jpg"
     }
   ]
 }
