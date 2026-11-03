@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T10:45:33Z",
+  "updated": "2026-11-03T10:55:59Z",
   "streams": [
     {
       "platform": "youtube",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "rvOX7BqK3Ro",
+      "channel": "keylogin",
+      "title": "\ud83d\udd34 WoW Midnight PvP | Goblin Shadow Priest Void Solo Shuffle Push | Road to 2100+ | !commands",
+      "link": "https://www.youtube.com/watch?v=rvOX7BqK3Ro",
+      "published_at": "2026-11-03T10:39:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/rvOX7BqK3Ro/hqdefault.jpg"
+    },
     {
       "video_id": "Ml1FEUj9L8g",
       "channel": "SecurityWeekly",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=m4gx5YoRYfM",
       "published_at": "2026-11-02T13:46:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/m4gx5YoRYfM/hqdefault.jpg"
-    },
-    {
-      "video_id": "jUC61hkoVDc",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Tedious Work III - Sequential Number Adding Trick - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=jUC61hkoVDc",
-      "published_at": "2026-11-02T13:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/jUC61hkoVDc/hqdefault.jpg"
     }
   ]
 }
