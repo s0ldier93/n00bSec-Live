@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-03T22:16:53Z",
+  "updated": "2026-11-03T23:16:48Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "o625Mgp2Klw",
+      "channel": "SecurityWeekly",
+      "title": "The Hack That Cooked Supermarket Freezers",
+      "link": "https://www.youtube.com/watch?v=o625Mgp2Klw",
+      "published_at": "2026-11-03T23:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/o625Mgp2Klw/hqdefault.jpg"
+    },
     {
       "video_id": "uu_FRiGoKI0",
       "channel": "SecurityWeekly",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=Gv0YmHrcL3I",
       "published_at": "2026-11-03T00:46:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Gv0YmHrcL3I/hqdefault.jpg"
-    },
-    {
-      "video_id": "lQ26-x8npwI",
-      "channel": "Cyber_Insecurity",
-      "title": "Big AI is afraid of small models",
-      "link": "https://www.youtube.com/watch?v=lQ26-x8npwI",
-      "published_at": "2026-11-02T23:06:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lQ26-x8npwI/hqdefault.jpg"
     }
   ]
 }
