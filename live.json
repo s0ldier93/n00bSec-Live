@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-03T21:57:49Z",
+  "updated": "2026-11-03T22:16:53Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "uu_FRiGoKI0",
+      "channel": "SecurityWeekly",
+      "title": "Patrick Stewart, Videostrong, C3RB3R, GitLab, VMware, BTCPay, Binance, Aaran Leyland. - SWN #630",
+      "link": "https://www.youtube.com/watch?v=uu_FRiGoKI0",
+      "published_at": "2026-11-03T22:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/uu_FRiGoKI0/hqdefault.jpg"
+    },
     {
       "video_id": "IMuwRH3Tt6c",
       "channel": "SecurityWeekly",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=lQ26-x8npwI",
       "published_at": "2026-11-02T23:06:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lQ26-x8npwI/hqdefault.jpg"
-    },
-    {
-      "video_id": "7Rv9BvWNSOw",
-      "channel": "EJSA",
-      "title": "Finishing a custom 4 door outer rocker panel for my car! The Crew Cab Coronet (Part 59)",
-      "link": "https://www.youtube.com/watch?v=7Rv9BvWNSOw",
-      "published_at": "2026-11-02T22:13:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/7Rv9BvWNSOw/hqdefault.jpg"
     }
   ]
 }
