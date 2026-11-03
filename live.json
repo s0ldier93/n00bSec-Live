@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-03T00:45:58Z",
+  "updated": "2026-11-03T00:55:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Darknet Lessons now in my GitHub! | Proxmox Setup| GO VOTE! |Cybersecurity,Rants,&Chill|11-2-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 4
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/2/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 471
+      "viewers": 476
     }
   ],
-  "viewers_total": 475,
+  "viewers_total": 494,
   "videos": [
     {
       "video_id": "lQ26-x8npwI",
