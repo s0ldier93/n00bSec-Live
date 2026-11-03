@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-03T03:05:59Z",
+  "updated": "2026-11-03T03:15:58Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Darknet Lessons now in my GitHub! | Proxmox Setup| GO VOTE! |Cybersecurity,Rants,&Chill|11-2-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 29
+      "viewers": 33
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "MONDAY NIGHT CONFLICT CANINES! 11/2/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 296
+      "viewers": 284
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Co-working in the home lab. We'll talk some AI with attacking and defending Linux in the enterprise.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 4
+      "viewers": 9
     }
   ],
-  "viewers_total": 329,
+  "viewers_total": 326,
   "videos": [
     {
       "video_id": "Gv0YmHrcL3I",
