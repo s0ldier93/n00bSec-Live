@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-04T15:06:56Z",
+  "updated": "2026-11-04T15:16:56Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "hxqfjFl-M08",
+      "channel": "LowLevelTV",
+      "title": "How Can We Make Sure AI Generated Code is Secure? @snyksec #sponsored #AISecurity",
+      "link": "https://www.youtube.com/watch?v=hxqfjFl-M08",
+      "published_at": "2026-11-04T15:16:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/hxqfjFl-M08/hqdefault.jpg"
+    },
+    {
+      "video_id": "QmV8D0HZMLo",
+      "channel": "SecurityWeekly",
+      "title": "Blame Users or Fix Security Systems?",
+      "link": "https://www.youtube.com/watch?v=QmV8D0HZMLo",
+      "published_at": "2026-11-04T15:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QmV8D0HZMLo/hqdefault.jpg"
+    },
     {
       "video_id": "t4kQeI1SYnQ",
       "channel": "EJSA",
@@ -147,22 +163,6 @@
       "link": "https://www.youtube.com/watch?v=znEcvInY2Yk",
       "published_at": "2026-11-03T16:49:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/znEcvInY2Yk/hqdefault.jpg"
-    },
-    {
-      "video_id": "oTi8N1Q2iwI",
-      "channel": "EJSA",
-      "title": "MONDAY NIGHT CONFLICT CANINES! 11/2/26",
-      "link": "https://www.youtube.com/watch?v=oTi8N1Q2iwI",
-      "published_at": "2026-11-03T16:42:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oTi8N1Q2iwI/hqdefault.jpg"
-    },
-    {
-      "video_id": "jgsx3-4yMYk",
-      "channel": "TheLaluka",
-      "title": "One update\u2026 and NOTHING works? #shorts",
-      "link": "https://www.youtube.com/watch?v=jgsx3-4yMYk",
-      "published_at": "2026-11-03T15:20:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/jgsx3-4yMYk/hqdefault.jpg"
     }
   ]
 }
