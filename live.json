@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-04T13:57:49Z",
+  "updated": "2026-11-04T14:07:50Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 4's Top Cyber News NOW! - Ep 1280",
       "link": "https://www.youtube.com/watch?v=wOZyw_X9qR4",
-      "viewers": 353
+      "viewers": 324
     }
   ],
-  "viewers_total": 353,
+  "viewers_total": 324,
   "videos": [
+    {
+      "video_id": "AtGmZZrQHJo",
+      "channel": "JohnHammond010",
+      "title": "Microsoft Edge Did ANOTHER Awesome Thing",
+      "link": "https://www.youtube.com/watch?v=AtGmZZrQHJo",
+      "published_at": "2026-11-04T14:00:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/AtGmZZrQHJo/hqdefault.jpg"
+    },
     {
       "video_id": "gd-EdYSGtZY",
       "channel": "CyberWarriorStudios",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=7ADf9D2YN14",
       "published_at": "2026-11-03T15:00:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/7ADf9D2YN14/hqdefault.jpg"
-    },
-    {
-      "video_id": "sj3Fwgtzet4",
-      "channel": "LuNiZz",
-      "title": "EYYY S\u0130BER G\u00dcVENL\u0130K\u00c7\u0130LER, \u015e\u0130MD\u0130 NANEY\u0130 YEMED\u0130K M\u0130?",
-      "link": "https://www.youtube.com/watch?v=sj3Fwgtzet4",
-      "published_at": "2026-11-03T15:00:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sj3Fwgtzet4/hqdefault.jpg"
     }
   ]
 }
