@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T17:47:49Z",
+  "updated": "2026-11-04T17:57:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "antisyphon",
       "title": "Cover Your SaaS w/ Shane Hartman",
       "link": "https://www.youtube.com/watch?v=AmTYvg6JMRc",
-      "viewers": 29
+      "viewers": 30
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 33,
   "videos": [
     {
       "video_id": "CyuHd7wOAkM",
