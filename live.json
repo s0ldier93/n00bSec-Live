@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-04T23:27:49Z",
+  "updated": "2026-11-04T23:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "goodnight little hackers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 17
+      "viewers": 25
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 28,
   "videos": [
     {
       "video_id": "QhbtZyg7o-A",
