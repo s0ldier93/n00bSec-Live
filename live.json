@@ -1,8 +1,25 @@
 {
-  "updated": "2026-11-04T15:16:56Z",
+  "updated": "2026-11-04T15:36:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "SWIniUnGSV8",
+      "channel": "TheLaluka",
+      "title": "Why WON\u2019T he install pentest tools on his OS? #shorts",
+      "link": "https://www.youtube.com/watch?v=SWIniUnGSV8",
+      "published_at": "2026-11-04T15:20:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SWIniUnGSV8/hqdefault.jpg"
+    },
+    {
+      "video_id": "K6m60a6w6ow",
+      "channel": "antisyphon",
+      "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
+      "link": "https://www.youtube.com/watch?v=K6m60a6w6ow",
+      "published_at": "2026-11-04T15:19:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/K6m60a6w6ow/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "hxqfjFl-M08",
       "channel": "LowLevelTV",
@@ -147,22 +164,6 @@
       "link": "https://www.youtube.com/watch?v=_VZiG38S7eM",
       "published_at": "2026-11-03T18:07:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/_VZiG38S7eM/hqdefault.jpg"
-    },
-    {
-      "video_id": "bSPPn9Oh5V0",
-      "channel": "Cyber_Insecurity",
-      "title": "Thomson Reuters fired Anthropic and fine-tuned an open model",
-      "link": "https://www.youtube.com/watch?v=bSPPn9Oh5V0",
-      "published_at": "2026-11-03T17:03:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bSPPn9Oh5V0/hqdefault.jpg"
-    },
-    {
-      "video_id": "znEcvInY2Yk",
-      "channel": "NahamSec",
-      "title": "OpenAI paid $5000 for this account takeover vulnerability that could also leak your private chats",
-      "link": "https://www.youtube.com/watch?v=znEcvInY2Yk",
-      "published_at": "2026-11-03T16:49:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/znEcvInY2Yk/hqdefault.jpg"
     }
   ]
 }
