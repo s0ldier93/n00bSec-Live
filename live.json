@@ -1,23 +1,16 @@
 {
-  "updated": "2026-11-04T17:57:50Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "antisyphon",
-      "title": "Cover Your SaaS w/ Shane Hartman",
-      "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
-    },
-    {
-      "platform": "youtube",
-      "name": "antisyphon",
-      "title": "Cover Your SaaS w/ Shane Hartman",
-      "link": "https://www.youtube.com/watch?v=AmTYvg6JMRc",
-      "viewers": 30
-    }
-  ],
-  "viewers_total": 33,
+  "updated": "2026-11-04T18:07:30Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "yT-AxLRn_60",
+      "channel": "SecurityWeekly",
+      "title": "Your Android TV Box Could Be a Botnet",
+      "link": "https://www.youtube.com/watch?v=yT-AxLRn_60",
+      "published_at": "2026-11-04T18:00:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yT-AxLRn_60/hqdefault.jpg"
+    },
     {
       "video_id": "CyuHd7wOAkM",
       "channel": "JohnHammond010",
@@ -171,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=6zG9mziUg84",
       "published_at": "2026-11-03T19:00:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6zG9mziUg84/hqdefault.jpg"
-    },
-    {
-      "video_id": "Yu1qqCF5beA",
-      "channel": "JohnHammond010",
-      "title": "Version Jumping in PHP",
-      "link": "https://www.youtube.com/watch?v=Yu1qqCF5beA",
-      "published_at": "2026-11-03T19:00:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Yu1qqCF5beA/hqdefault.jpg"
     }
   ]
 }
