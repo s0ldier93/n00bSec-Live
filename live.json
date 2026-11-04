@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-04T03:07:49Z",
+  "updated": "2026-11-04T03:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "TUESDAY NIGHT HOTDOGGIN! EJSA After Hours! 11/3/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 252
+      "viewers": 235
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - How To Hunt for RCE ft. David Kutz-Marks",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 13
+      "viewers": 18
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - How To Hunt for RCE ft. David Kutz-Marks",
       "link": "https://www.youtube.com/watch?v=-gMM9qnC0J4",
-      "viewers": 69
+      "viewers": 63
     }
   ],
-  "viewers_total": 334,
+  "viewers_total": 316,
   "videos": [
     {
       "video_id": "o625Mgp2Klw",
