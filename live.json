@@ -1,8 +1,33 @@
 {
-  "updated": "2026-11-04T07:17:48Z",
+  "updated": "2026-11-04T08:06:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "_T7fGC22onA",
+      "channel": "EJSA",
+      "title": "TUESDAY NIGHT HOTDOGGIN! EJSA After Hours! 11/3/26",
+      "link": "https://www.youtube.com/watch?v=_T7fGC22onA",
+      "published_at": "2026-11-04T04:59:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_T7fGC22onA/hqdefault.jpg",
+      "upcoming": true
+    },
+    {
+      "video_id": "-gMM9qnC0J4",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - How To Hunt for RCE ft. David Kutz-Marks",
+      "link": "https://www.youtube.com/watch?v=-gMM9qnC0J4",
+      "published_at": "2026-11-04T02:45:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-gMM9qnC0J4/hqdefault.jpg"
+    },
+    {
+      "video_id": "sxFJqAfduHU",
+      "channel": "mbcrump",
+      "title": "CivSwitch Setup Guide for Switch 2: Step by Step",
+      "link": "https://www.youtube.com/watch?v=sxFJqAfduHU",
+      "published_at": "2026-11-04T01:57:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/sxFJqAfduHU/hqdefault.jpg"
+    },
     {
       "video_id": "o625Mgp2Klw",
       "channel": "SecurityWeekly",
@@ -139,30 +164,6 @@
       "link": "https://www.youtube.com/watch?v=Ml1FEUj9L8g",
       "published_at": "2026-11-03T10:00:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Ml1FEUj9L8g/hqdefault.jpg"
-    },
-    {
-      "video_id": "FJ96faRpXP8",
-      "channel": "censoredHacker",
-      "title": "AMA",
-      "link": "https://www.youtube.com/watch?v=FJ96faRpXP8",
-      "published_at": "2026-11-03T04:18:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FJ96faRpXP8/hqdefault.jpg"
-    },
-    {
-      "video_id": "Q6eSt65FWW4",
-      "channel": "EJSA",
-      "title": "MONDAY NIGHT CONFLICT CANINES! 11/2/26",
-      "link": "https://www.youtube.com/watch?v=Q6eSt65FWW4",
-      "published_at": "2026-11-03T01:59:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Q6eSt65FWW4/hqdefault.jpg"
-    },
-    {
-      "video_id": "Gv0YmHrcL3I",
-      "channel": "mbcrump",
-      "title": "PS4 14.0 WebKit Jailbreak Released! Full Walkthrough!",
-      "link": "https://www.youtube.com/watch?v=Gv0YmHrcL3I",
-      "published_at": "2026-11-03T00:46:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Gv0YmHrcL3I/hqdefault.jpg"
     }
   ]
 }
