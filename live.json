@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-04T06:47:49Z",
+  "updated": "2026-11-04T06:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Study plan for 2026 End-Game",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 8
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "o625Mgp2Klw",
