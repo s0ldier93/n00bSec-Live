@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-04T17:27:51Z",
+  "updated": "2026-11-04T17:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Cover Your SaaS w/ Shane Hartman",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Cover Your SaaS w/ Shane Hartman",
       "link": "https://www.youtube.com/watch?v=AmTYvg6JMRc",
-      "viewers": 31
+      "viewers": 27
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 32,
   "videos": [
     {
       "video_id": "CyuHd7wOAkM",
