@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-04T19:56:52Z",
+  "updated": "2026-11-04T21:06:53Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "27ayAOzF1gE",
+      "channel": "BrakeSec",
+      "title": "more vulns, more fridges, model weights, Binance got a billion dollar breach, and jobs are coming.",
+      "link": "https://www.youtube.com/watch?v=27ayAOzF1gE",
+      "published_at": "2026-11-04T20:44:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/27ayAOzF1gE/hqdefault.jpg"
+    },
     {
       "video_id": "J0WZhBNMkSA",
       "channel": "EJSA",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=sxFJqAfduHU",
       "published_at": "2026-11-04T01:57:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/sxFJqAfduHU/hqdefault.jpg"
-    },
-    {
-      "video_id": "o625Mgp2Klw",
-      "channel": "SecurityWeekly",
-      "title": "The Hack That Cooked Supermarket Freezers",
-      "link": "https://www.youtube.com/watch?v=o625Mgp2Klw",
-      "published_at": "2026-11-03T23:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/o625Mgp2Klw/hqdefault.jpg"
     }
   ]
 }
