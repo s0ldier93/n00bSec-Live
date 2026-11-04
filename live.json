@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-04T13:37:49Z",
+  "updated": "2026-11-04T13:47:49Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 4's Top Cyber News NOW! - Ep 1280",
       "link": "https://www.youtube.com/watch?v=wOZyw_X9qR4",
-      "viewers": 353
+      "viewers": 359
     }
   ],
-  "viewers_total": 353,
+  "viewers_total": 359,
   "videos": [
+    {
+      "video_id": "gd-EdYSGtZY",
+      "channel": "CyberWarriorStudios",
+      "title": "One Day At A Time!",
+      "link": "https://www.youtube.com/watch?v=gd-EdYSGtZY",
+      "published_at": "2026-11-04T13:20:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gd-EdYSGtZY/hqdefault.jpg"
+    },
     {
       "video_id": "RAioRn62hr0",
       "channel": "TheShyHat",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=sj3Fwgtzet4",
       "published_at": "2026-11-03T15:00:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/sj3Fwgtzet4/hqdefault.jpg"
-    },
-    {
-      "video_id": "hlshNeeMEFo",
-      "channel": "keylogin",
-      "title": "WoW Midnight PvP | Goblin Shadow Priest Void Solo Shuffle Push | Road to 2100+ | !commands",
-      "link": "https://www.youtube.com/watch?v=hlshNeeMEFo",
-      "published_at": "2026-11-03T14:05:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hlshNeeMEFo/hqdefault.jpg"
     }
   ]
 }
