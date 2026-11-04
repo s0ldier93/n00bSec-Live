@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-04T01:17:49Z",
+  "updated": "2026-11-04T01:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BrakeSec",
       "title": "more vulns, more fridges, model weights, Binance got a billion dollar breach, and jobs are coming.",
       "link": "https://twitch.tv/BrakeSec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "EJ's Space and Rocket Revue! 11/3/26",
+      "title": "TUESDAY NIGHT HOTDOGGIN! EJSA After Hours! 11/3/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 351
+      "viewers": 292
     },
     {
       "platform": "twitch",
       "name": "kinslay3r",
       "title": "Killing (orcs) is my business, and business is good.",
       "link": "https://twitch.tv/kinslay3r",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 355,
+  "viewers_total": 296,
   "videos": [
     {
       "video_id": "o625Mgp2Klw",
