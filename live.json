@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-04T18:36:55Z",
+  "updated": "2026-11-04T19:26:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "6BkHNbiRgLE",
+      "channel": "JohnHammond010",
+      "title": "Fighting PHP Zombies",
+      "link": "https://www.youtube.com/watch?v=6BkHNbiRgLE",
+      "published_at": "2026-11-04T19:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6BkHNbiRgLE/hqdefault.jpg"
+    },
     {
       "video_id": "4USeqlW5p54",
       "channel": "NahamSec",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=uu_FRiGoKI0",
       "published_at": "2026-11-03T22:00:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/uu_FRiGoKI0/hqdefault.jpg"
-    },
-    {
-      "video_id": "IMuwRH3Tt6c",
-      "channel": "SecurityWeekly",
-      "title": "Cybersecurity Is Obsessed With Failure",
-      "link": "https://www.youtube.com/watch?v=IMuwRH3Tt6c",
-      "published_at": "2026-11-03T20:00:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IMuwRH3Tt6c/hqdefault.jpg"
     }
   ]
 }
