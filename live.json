@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-04T23:47:48Z",
+  "updated": "2026-11-04T23:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "goodnight little hackers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Ingenieria inversa",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 4
+      "viewers": 19
     }
   ],
-  "viewers_total": 31,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "QhbtZyg7o-A",
