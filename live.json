@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-04T18:07:30Z",
+  "updated": "2026-11-04T18:36:55Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "4USeqlW5p54",
+      "channel": "NahamSec",
+      "title": "Meta paid a $300,000 bounty for this",
+      "link": "https://www.youtube.com/watch?v=4USeqlW5p54",
+      "published_at": "2026-11-04T18:31:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4USeqlW5p54/hqdefault.jpg"
+    },
     {
       "video_id": "yT-AxLRn_60",
       "channel": "SecurityWeekly",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=IMuwRH3Tt6c",
       "published_at": "2026-11-03T20:00:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/IMuwRH3Tt6c/hqdefault.jpg"
-    },
-    {
-      "video_id": "6zG9mziUg84",
-      "channel": "thecybermentor",
-      "title": "Are CTF Platforms Useful? (Ask a CISO)",
-      "link": "https://www.youtube.com/watch?v=6zG9mziUg84",
-      "published_at": "2026-11-03T19:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6zG9mziUg84/hqdefault.jpg"
     }
   ]
 }
