@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-04T14:57:33Z",
+  "updated": "2026-11-04T15:06:56Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "t4kQeI1SYnQ",
+      "channel": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 11/3/26",
+      "link": "https://www.youtube.com/watch?v=t4kQeI1SYnQ",
+      "published_at": "2026-11-04T14:40:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/t4kQeI1SYnQ/hqdefault.jpg"
+    },
     {
       "video_id": "AtGmZZrQHJo",
       "channel": "JohnHammond010",
@@ -155,14 +163,6 @@
       "link": "https://www.youtube.com/watch?v=jgsx3-4yMYk",
       "published_at": "2026-11-03T15:20:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/jgsx3-4yMYk/hqdefault.jpg"
-    },
-    {
-      "video_id": "7ADf9D2YN14",
-      "channel": "SecurityWeekly",
-      "title": "Passing Compliance Doesn't Mean You're Secure",
-      "link": "https://www.youtube.com/watch?v=7ADf9D2YN14",
-      "published_at": "2026-11-03T15:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/7ADf9D2YN14/hqdefault.jpg"
     }
   ]
 }
