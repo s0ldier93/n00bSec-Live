@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-04T13:07:34Z",
+  "updated": "2026-11-04T13:17:50Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 4's Top Cyber News NOW! - Ep 1280",
       "link": "https://www.youtube.com/watch?v=wOZyw_X9qR4",
-      "viewers": 192
+      "viewers": 292
     }
   ],
-  "viewers_total": 192,
+  "viewers_total": 292,
   "videos": [
+    {
+      "video_id": "RAioRn62hr0",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Ads - Manual Ad Removal - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=RAioRn62hr0",
+      "published_at": "2026-11-04T13:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RAioRn62hr0/hqdefault.jpg"
+    },
     {
       "video_id": "AJAYIaFftvY",
       "channel": "SecurityWeekly",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=hlshNeeMEFo",
       "published_at": "2026-11-03T14:05:41+00:00",
       "thumbnail": "https://i.ytimg.com/vi/hlshNeeMEFo/hqdefault.jpg"
-    },
-    {
-      "video_id": "ncYAPgzjD90",
-      "channel": "JohnHammond010",
-      "title": "AI made a Malware Viewer in Minecraft",
-      "link": "https://www.youtube.com/watch?v=ncYAPgzjD90",
-      "published_at": "2026-11-03T14:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ncYAPgzjD90/hqdefault.jpg"
     }
   ]
 }
