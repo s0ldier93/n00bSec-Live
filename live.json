@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-04T11:57:29Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-04T13:07:34Z",
+  "streams": [
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 4's Top Cyber News NOW! - Ep 1280",
+      "link": "https://www.youtube.com/watch?v=wOZyw_X9qR4",
+      "viewers": 192
+    }
+  ],
+  "viewers_total": 192,
   "videos": [
     {
       "video_id": "AJAYIaFftvY",
