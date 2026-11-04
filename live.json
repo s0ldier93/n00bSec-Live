@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T09:57:51Z",
+  "updated": "2026-11-04T10:07:50Z",
   "streams": [
     {
       "platform": "youtube",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "AJAYIaFftvY",
+      "channel": "SecurityWeekly",
+      "title": "It's The Trickery While Empowering Employees and Redesigning Work for AI - Frank Riccardi - BSW #472",
+      "link": "https://www.youtube.com/watch?v=AJAYIaFftvY",
+      "published_at": "2026-11-04T10:00:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/AJAYIaFftvY/hqdefault.jpg"
+    },
     {
       "video_id": "Qpck9aV89dM",
       "channel": "MDISEC",
@@ -163,15 +171,6 @@
       "link": "https://www.youtube.com/watch?v=ncYAPgzjD90",
       "published_at": "2026-11-03T14:00:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ncYAPgzjD90/hqdefault.jpg"
-    },
-    {
-      "video_id": "DIatA_G2alw",
-      "channel": "HaxrByte",
-      "title": "\ud83d\udcf1 [LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (03 Nov 2026)",
-      "link": "https://www.youtube.com/watch?v=DIatA_G2alw",
-      "published_at": "2026-11-03T12:54:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DIatA_G2alw/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
