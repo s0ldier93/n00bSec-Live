@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:47:49Z",
+  "updated": "2026-11-04T00:57:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/3/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 354
+      "viewers": 356
     },
     {
       "platform": "twitch",
       "name": "kinslay3r",
       "title": "Killing (orcs) is my business, and business is good.",
       "link": "https://twitch.tv/kinslay3r",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 357,
+  "viewers_total": 360,
   "videos": [
     {
       "video_id": "o625Mgp2Klw",
