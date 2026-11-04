@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-04T21:06:53Z",
+  "updated": "2026-11-04T22:16:52Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "QhbtZyg7o-A",
+      "channel": "SecurityWeekly",
+      "title": "Your Youngest Employees Could Drive Transformation",
+      "link": "https://www.youtube.com/watch?v=QhbtZyg7o-A",
+      "published_at": "2026-11-04T22:00:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QhbtZyg7o-A/hqdefault.jpg"
+    },
     {
       "video_id": "27ayAOzF1gE",
       "channel": "BrakeSec",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=-gMM9qnC0J4",
       "published_at": "2026-11-04T02:45:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-gMM9qnC0J4/hqdefault.jpg"
-    },
-    {
-      "video_id": "sxFJqAfduHU",
-      "channel": "mbcrump",
-      "title": "CivSwitch Setup Guide for Switch 2: Step by Step",
-      "link": "https://www.youtube.com/watch?v=sxFJqAfduHU",
-      "published_at": "2026-11-04T01:57:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sxFJqAfduHU/hqdefault.jpg"
     }
   ]
 }
