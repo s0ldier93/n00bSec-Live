@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-04T04:47:48Z",
+  "updated": "2026-11-04T04:57:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "TUESDAY NIGHT HOTDOGGIN! EJSA After Hours! 11/3/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 202
+      "viewers": 197
     }
   ],
-  "viewers_total": 202,
+  "viewers_total": 197,
   "videos": [
     {
       "video_id": "o625Mgp2Klw",
