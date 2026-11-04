@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-04T19:26:54Z",
+  "updated": "2026-11-04T19:56:52Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "J0WZhBNMkSA",
+      "channel": "EJSA",
+      "title": "TUESDAY NIGHT HOTDOGGIN! EJSA After Hours! 11/3/26",
+      "link": "https://www.youtube.com/watch?v=J0WZhBNMkSA",
+      "published_at": "2026-11-04T19:50:45+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/J0WZhBNMkSA/hqdefault.jpg"
+    },
     {
       "video_id": "6BkHNbiRgLE",
       "channel": "JohnHammond010",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=o625Mgp2Klw",
       "published_at": "2026-11-03T23:00:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/o625Mgp2Klw/hqdefault.jpg"
-    },
-    {
-      "video_id": "uu_FRiGoKI0",
-      "channel": "SecurityWeekly",
-      "title": "Patrick Stewart, Videostrong, C3RB3R, GitLab, VMware, BTCPay, Binance, Aaran Leyland. - SWN #630",
-      "link": "https://www.youtube.com/watch?v=uu_FRiGoKI0",
-      "published_at": "2026-11-03T22:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/uu_FRiGoKI0/hqdefault.jpg"
     }
   ]
 }
