@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-04T22:16:52Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-04T22:57:50Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "team_whoami",
+      "title": "Ingenieria inversa",
+      "link": "https://twitch.tv/team_whoami",
+      "viewers": 1
+    }
+  ],
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "QhbtZyg7o-A",
