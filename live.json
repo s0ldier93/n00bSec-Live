@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-05T12:37:49Z",
+  "updated": "2026-11-05T12:47:32Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 8800
-    },
-    {
-      "platform": "youtube",
-      "name": "keylogin",
-      "title": "\ud83d\udd34 The Ultimate Shadow Priest Journey Begins \u2694\ufe0f | WoW Forever Fresh (Horde) | !commands",
-      "link": "https://www.youtube.com/watch?v=4fSVuOinguM",
-      "viewers": 1
+      "viewers": 10392
     }
   ],
-  "viewers_total": 8801,
+  "viewers_total": 10392,
   "videos": [
     {
       "video_id": "jpU3B3QFS-k",
