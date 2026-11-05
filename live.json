@@ -1,43 +1,36 @@
 {
-  "updated": "2026-11-05T19:17:49Z",
+  "updated": "2026-11-05T19:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 15
-    },
-    {
-      "platform": "twitch",
-      "name": "Leetcore",
-      "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d 7 Freunde Peer2Peer",
-      "link": "https://twitch.tv/Leetcore",
-      "viewers": 5
+      "viewers": 11
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13618
+      "viewers": 13440
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
       "link": "https://www.youtube.com/watch?v=znrWiVKvVqI",
-      "viewers": 43
+      "viewers": 59
     },
     {
       "platform": "youtube",
       "name": "TheGoodHackerTV",
       "title": "Hackeamos una Aplicaci\u00f3n Web en Directo!",
       "link": "https://www.youtube.com/watch?v=8YgYXVCXbAg",
-      "viewers": 735
+      "viewers": 765
     }
   ],
-  "viewers_total": 14416,
+  "viewers_total": 14275,
   "videos": [
     {
       "video_id": "znrWiVKvVqI",
@@ -46,6 +39,14 @@
       "link": "https://www.youtube.com/watch?v=znrWiVKvVqI",
       "published_at": "2026-11-05T19:01:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/znrWiVKvVqI/hqdefault.jpg"
+    },
+    {
+      "video_id": "KdMdEwLbQ8M",
+      "channel": "JohnHammond010",
+      "title": "Dissecting PHP Vulnerabilities with AI",
+      "link": "https://www.youtube.com/watch?v=KdMdEwLbQ8M",
+      "published_at": "2026-11-05T19:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/KdMdEwLbQ8M/hqdefault.jpg"
     },
     {
       "video_id": "p5ow4kjZ_K4",
@@ -191,14 +192,6 @@
       "link": "https://www.youtube.com/watch?v=6BkHNbiRgLE",
       "published_at": "2026-11-04T19:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6BkHNbiRgLE/hqdefault.jpg"
-    },
-    {
-      "video_id": "4USeqlW5p54",
-      "channel": "NahamSec",
-      "title": "Meta paid a $300,000 bounty for this",
-      "link": "https://www.youtube.com/watch?v=4USeqlW5p54",
-      "published_at": "2026-11-04T18:31:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/4USeqlW5p54/hqdefault.jpg"
     }
   ]
 }
