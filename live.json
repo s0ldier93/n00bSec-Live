@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-05T14:17:32Z",
+  "updated": "2026-11-05T14:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13688
+      "viewers": 13368
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 5's Top Cyber News NOW! - Ep 1281",
       "link": "https://www.youtube.com/watch?v=al3b8A8iZHQ",
-      "viewers": 260
+      "viewers": 241
     }
   ],
-  "viewers_total": 13948,
+  "viewers_total": 13609,
   "videos": [
     {
       "video_id": "zY0CAOjufAU",
@@ -25,6 +25,14 @@
       "link": "https://www.youtube.com/watch?v=zY0CAOjufAU",
       "published_at": "2026-11-05T14:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zY0CAOjufAU/hqdefault.jpg"
+    },
+    {
+      "video_id": "XK4KBgyLhDc",
+      "channel": "CyberWarriorStudios",
+      "title": "Finish strong and stop making excuses! #TheCyberWarrior #TheModernDrengr #Motivation",
+      "link": "https://www.youtube.com/watch?v=XK4KBgyLhDc",
+      "published_at": "2026-11-05T13:59:55+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XK4KBgyLhDc/hqdefault.jpg"
     },
     {
       "video_id": "k3rmNoIQYAQ",
@@ -170,14 +178,6 @@
       "link": "https://www.youtube.com/watch?v=AtGmZZrQHJo",
       "published_at": "2026-11-04T14:00:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/AtGmZZrQHJo/hqdefault.jpg"
-    },
-    {
-      "video_id": "gd-EdYSGtZY",
-      "channel": "CyberWarriorStudios",
-      "title": "One Day At A Time!",
-      "link": "https://www.youtube.com/watch?v=gd-EdYSGtZY",
-      "published_at": "2026-11-04T13:20:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gd-EdYSGtZY/hqdefault.jpg"
     }
   ]
 }
