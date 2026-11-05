@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-05T21:07:50Z",
+  "updated": "2026-11-05T21:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "garr_7",
       "title": "Getting Back to the Hacks! | Come Learn AppSec Pentesting",
       "link": "https://twitch.tv/garr_7",
-      "viewers": 23
-    },
-    {
-      "platform": "twitch",
-      "name": "nasa",
-      "title": "U.S. Spacewalk 101",
-      "link": "https://twitch.tv/nasa",
-      "viewers": 11245
+      "viewers": 34
     }
   ],
-  "viewers_total": 11268,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "WwBfofDkq_w",
