@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-05T18:17:49Z",
+  "updated": "2026-11-05T18:27:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "Leetcore",
+      "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d 7 Freunde Peer2Peer",
+      "link": "https://twitch.tv/Leetcore",
+      "viewers": 3
+    },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13902
-    },
-    {
-      "platform": "twitch",
-      "name": "zunderrub",
-      "title": "Hola algo de hackers haremos | Hacker Ciberseguridad Informatica",
-      "link": "https://twitch.tv/zunderrub",
-      "viewers": 12
+      "viewers": 13498
     }
   ],
-  "viewers_total": 13914,
+  "viewers_total": 13501,
   "videos": [
     {
       "video_id": "p5ow4kjZ_K4",
