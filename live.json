@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-05T22:17:49Z",
+  "updated": "2026-11-05T22:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "garr_7",
       "title": "Getting Back to the Hacks! | Come Learn AppSec Pentesting",
       "link": "https://twitch.tv/garr_7",
-      "viewers": 37
+      "viewers": 35
     }
   ],
-  "viewers_total": 37,
+  "viewers_total": 35,
   "videos": [
     {
       "video_id": "eXaIT7-Z3SA",
