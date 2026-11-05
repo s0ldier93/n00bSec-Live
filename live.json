@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-05T17:57:49Z",
+  "updated": "2026-11-05T18:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 14681
+      "viewers": 14514
     },
     {
       "platform": "twitch",
       "name": "zunderrub",
       "title": "Hola algo de hackers haremos | Hacker Ciberseguridad Informatica",
       "link": "https://twitch.tv/zunderrub",
-      "viewers": 14
+      "viewers": 15
     }
   ],
-  "viewers_total": 14695,
+  "viewers_total": 14529,
   "videos": [
     {
       "video_id": "p5ow4kjZ_K4",
