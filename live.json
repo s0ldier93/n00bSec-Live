@@ -1,23 +1,38 @@
 {
-  "updated": "2026-11-05T13:07:34Z",
+  "updated": "2026-11-05T13:17:31Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 10969
+      "viewers": 11408
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 5's Top Cyber News NOW! - Ep 1281",
       "link": "https://www.youtube.com/watch?v=al3b8A8iZHQ",
-      "viewers": 187
+      "viewers": 271
+    },
+    {
+      "platform": "youtube",
+      "name": "keylogin",
+      "title": "\ud83d\udd34 2500+ MMR Priest Solo Shuffle | Holy & Shadow High Rating Push \u2694\ufe0f | !commands",
+      "link": "https://www.youtube.com/watch?v=k3rmNoIQYAQ",
+      "viewers": 1
     }
   ],
-  "viewers_total": 11156,
+  "viewers_total": 11680,
   "videos": [
+    {
+      "video_id": "k3rmNoIQYAQ",
+      "channel": "keylogin",
+      "title": "\ud83d\udd34 2500+ MMR Priest Solo Shuffle | Holy & Shadow High Rating Push \u2694\ufe0f | !commands",
+      "link": "https://www.youtube.com/watch?v=k3rmNoIQYAQ",
+      "published_at": "2026-11-05T13:09:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/k3rmNoIQYAQ/hqdefault.jpg"
+    },
     {
       "video_id": "jpU3B3QFS-k",
       "channel": "hack_smarter",
@@ -170,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=RAioRn62hr0",
       "published_at": "2026-11-04T13:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RAioRn62hr0/hqdefault.jpg"
-    },
-    {
-      "video_id": "AJAYIaFftvY",
-      "channel": "SecurityWeekly",
-      "title": "It's The Trickery While Empowering Employees and Redesigning Work for AI - Frank Riccardi - BSW #472",
-      "link": "https://www.youtube.com/watch?v=AJAYIaFftvY",
-      "published_at": "2026-11-04T10:00:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/AJAYIaFftvY/hqdefault.jpg"
     }
   ]
 }
