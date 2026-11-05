@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T09:57:26Z",
+  "updated": "2026-11-05T10:07:50Z",
   "streams": [
     {
       "platform": "youtube",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "4fSVuOinguM",
+      "channel": "keylogin",
+      "title": "\ud83d\udd34 The Ultimate Shadow Priest Journey Begins \u2694\ufe0f | WoW Forever Fresh (Horde) | !commands",
+      "link": "https://www.youtube.com/watch?v=4fSVuOinguM",
+      "published_at": "2026-11-05T09:54:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4fSVuOinguM/hqdefault.jpg"
+    },
     {
       "video_id": "4_1MJ4Owpcw",
       "channel": "censoredHacker",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=Qpck9aV89dM",
       "published_at": "2026-11-04T09:54:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Qpck9aV89dM/hqdefault.jpg"
-    },
-    {
-      "video_id": "ka29d2LoS68",
-      "channel": "keylogin",
-      "title": "\ud83d\udd34 Pushing 2400 in Solo Shuffle | Shadow Priest PvP (Midnight S2) | 2155 CR \ud83c\udfc6 | !commands",
-      "link": "https://www.youtube.com/watch?v=ka29d2LoS68",
-      "published_at": "2026-11-04T09:12:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ka29d2LoS68/hqdefault.jpg"
     }
   ]
 }
