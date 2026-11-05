@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-05T19:07:49Z",
+  "updated": "2026-11-05T19:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 1
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d 7 Freunde Peer2Peer",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -27,17 +27,17 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
       "link": "https://www.youtube.com/watch?v=znrWiVKvVqI",
-      "viewers": 23
+      "viewers": 43
     },
     {
       "platform": "youtube",
       "name": "TheGoodHackerTV",
       "title": "Hackeamos una Aplicaci\u00f3n Web en Directo!",
       "link": "https://www.youtube.com/watch?v=8YgYXVCXbAg",
-      "viewers": 638
+      "viewers": 735
     }
   ],
-  "viewers_total": 14283,
+  "viewers_total": 14416,
   "videos": [
     {
       "video_id": "znrWiVKvVqI",
