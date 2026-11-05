@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-05T08:06:53Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-05T09:57:26Z",
+  "streams": [
+    {
+      "platform": "youtube",
+      "name": "keylogin",
+      "title": "\ud83d\udd34 The Ultimate Shadow Priest Journey Begins \u2694\ufe0f | WoW Forever Fresh (Horde) | !commands",
+      "link": "https://www.youtube.com/watch?v=4fSVuOinguM",
+      "viewers": 1
+    }
+  ],
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "4_1MJ4Owpcw",
