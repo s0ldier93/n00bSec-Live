@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-05T10:07:50Z",
+  "updated": "2026-11-05T10:47:50Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "fixit42",
+      "title": "Playing with ai - why not stream?",
+      "link": "https://twitch.tv/fixit42",
+      "viewers": 1
+    },
     {
       "platform": "youtube",
       "name": "keylogin",
@@ -9,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 1,
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "4fSVuOinguM",
