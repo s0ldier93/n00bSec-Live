@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-05T21:27:49Z",
+  "updated": "2026-11-05T21:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "garr_7",
       "title": "Getting Back to the Hacks! | Come Learn AppSec Pentesting",
       "link": "https://twitch.tv/garr_7",
-      "viewers": 36
+      "viewers": 33
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 33,
   "videos": [
+    {
+      "video_id": "LKQ61kbVfKQ",
+      "channel": "mbcrump",
+      "title": "PS4 14.02 Jailbreak Demonstrated! What's New in PS5 14.22?",
+      "link": "https://www.youtube.com/watch?v=LKQ61kbVfKQ",
+      "published_at": "2026-11-05T21:25:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LKQ61kbVfKQ/hqdefault.jpg"
+    },
     {
       "video_id": "WwBfofDkq_w",
       "channel": "Hackavis",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=27ayAOzF1gE",
       "published_at": "2026-11-04T20:44:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/27ayAOzF1gE/hqdefault.jpg"
-    },
-    {
-      "video_id": "J0WZhBNMkSA",
-      "channel": "EJSA",
-      "title": "TUESDAY NIGHT HOTDOGGIN! EJSA After Hours! 11/3/26",
-      "link": "https://www.youtube.com/watch?v=J0WZhBNMkSA",
-      "published_at": "2026-11-04T19:50:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/J0WZhBNMkSA/hqdefault.jpg"
     }
   ]
 }
