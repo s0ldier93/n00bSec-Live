@@ -1,23 +1,40 @@
 {
-  "updated": "2026-11-05T17:37:49Z",
+  "updated": "2026-11-05T17:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 14153
+      "viewers": 14668
     },
     {
       "platform": "twitch",
       "name": "zunderrub",
       "title": "Hola algo de hackers haremos | Hacker Ciberseguridad Informatica",
       "link": "https://twitch.tv/zunderrub",
-      "viewers": 15
+      "viewers": 14
     }
   ],
-  "viewers_total": 14168,
+  "viewers_total": 14682,
   "videos": [
+    {
+      "video_id": "p5ow4kjZ_K4",
+      "channel": "HackerMentor",
+      "title": "Aprende a analizar una vulnerabilidad: Ejemplo pr\u00e1ctico an\u00e1lisis SMB (CVE-2017-0144) | TryHackMe",
+      "link": "https://www.youtube.com/watch?v=p5ow4kjZ_K4",
+      "published_at": "2026-11-05T17:33:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/p5ow4kjZ_K4/hqdefault.jpg"
+    },
+    {
+      "video_id": "whi6ZHDHddc",
+      "channel": "antisyphon",
+      "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
+      "link": "https://www.youtube.com/watch?v=whi6ZHDHddc",
+      "published_at": "2026-11-05T17:24:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/whi6ZHDHddc/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "RJwX3pb77c0",
       "channel": "CyberWarriorStudios",
@@ -161,22 +178,6 @@
       "link": "https://www.youtube.com/watch?v=yT-AxLRn_60",
       "published_at": "2026-11-04T18:00:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yT-AxLRn_60/hqdefault.jpg"
-    },
-    {
-      "video_id": "CyuHd7wOAkM",
-      "channel": "JohnHammond010",
-      "title": "Attacks Are Accelerating",
-      "link": "https://www.youtube.com/watch?v=CyuHd7wOAkM",
-      "published_at": "2026-11-04T15:43:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CyuHd7wOAkM/hqdefault.jpg"
-    },
-    {
-      "video_id": "SWIniUnGSV8",
-      "channel": "TheLaluka",
-      "title": "Why WON\u2019T he install pentest tools on his OS? #shorts",
-      "link": "https://www.youtube.com/watch?v=SWIniUnGSV8",
-      "published_at": "2026-11-04T15:20:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SWIniUnGSV8/hqdefault.jpg"
     }
   ]
 }
