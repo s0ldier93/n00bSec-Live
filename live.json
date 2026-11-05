@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:07:30Z",
+  "updated": "2026-11-05T19:07:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d 7 Freunde Peer2Peer",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 638
     }
   ],
-  "viewers_total": 14285,
+  "viewers_total": 14283,
   "videos": [
     {
       "video_id": "znrWiVKvVqI",
