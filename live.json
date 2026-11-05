@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-05T22:47:50Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "nthsec",
-      "title": "Ethical Hacking to Study and Chill to",
-      "link": "https://twitch.tv/nthsec",
-      "viewers": 22
-    }
-  ],
-  "viewers_total": 22,
+  "updated": "2026-11-05T22:57:49Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "eXaIT7-Z3SA",
