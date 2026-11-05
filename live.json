@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-05T11:57:49Z",
+  "updated": "2026-11-05T12:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with ai - why not stream?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 8
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 0
+      "viewers": 4303
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 4309,
   "videos": [
     {
       "video_id": "4fSVuOinguM",
