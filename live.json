@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-05T00:07:50Z",
+  "updated": "2026-11-05T00:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "goodnight little hackers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 20
+      "viewers": 25
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 25,
   "videos": [
+    {
+      "video_id": "AvA4sELfYXw",
+      "channel": "Cyber_Insecurity",
+      "title": "Your frontier AI vendor is training on your IP",
+      "link": "https://www.youtube.com/watch?v=AvA4sELfYXw",
+      "published_at": "2026-11-04T23:05:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/AvA4sELfYXw/hqdefault.jpg"
+    },
     {
       "video_id": "QhbtZyg7o-A",
       "channel": "SecurityWeekly",
@@ -164,14 +172,6 @@
       "published_at": "2026-11-04T04:59:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/_T7fGC22onA/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "-gMM9qnC0J4",
-      "channel": "hack_smarter",
-      "title": "[LIVE] - How To Hunt for RCE ft. David Kutz-Marks",
-      "link": "https://www.youtube.com/watch?v=-gMM9qnC0J4",
-      "published_at": "2026-11-04T02:45:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-gMM9qnC0J4/hqdefault.jpg"
     }
   ]
 }
