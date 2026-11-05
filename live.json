@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:37:49Z",
+  "updated": "2026-11-05T19:47:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13440
+      "viewers": 13963
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
       "link": "https://www.youtube.com/watch?v=znrWiVKvVqI",
-      "viewers": 70
+      "viewers": 74
     },
     {
       "platform": "youtube",
       "name": "TheGoodHackerTV",
       "title": "Hackeamos una Aplicaci\u00f3n Web en Directo!",
       "link": "https://www.youtube.com/watch?v=8YgYXVCXbAg",
-      "viewers": 735
+      "viewers": 689
     }
   ],
-  "viewers_total": 14258,
+  "viewers_total": 14739,
   "videos": [
     {
       "video_id": "WwBfofDkq_w",
