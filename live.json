@@ -1,30 +1,31 @@
 {
-  "updated": "2026-11-05T14:07:51Z",
+  "updated": "2026-11-05T14:17:32Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13014
+      "viewers": 13688
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 5's Top Cyber News NOW! - Ep 1281",
       "link": "https://www.youtube.com/watch?v=al3b8A8iZHQ",
-      "viewers": 292
-    },
-    {
-      "platform": "youtube",
-      "name": "keylogin",
-      "title": "\ud83d\udd34 2500+ MMR Priest Solo Shuffle | Holy & Shadow High Rating Push \u2694\ufe0f | !commands",
-      "link": "https://www.youtube.com/watch?v=k3rmNoIQYAQ",
-      "viewers": 1
+      "viewers": 260
     }
   ],
-  "viewers_total": 13307,
+  "viewers_total": 13948,
   "videos": [
+    {
+      "video_id": "zY0CAOjufAU",
+      "channel": "JohnHammond010",
+      "title": "My Minecraft Mod needs Quarantine",
+      "link": "https://www.youtube.com/watch?v=zY0CAOjufAU",
+      "published_at": "2026-11-05T14:00:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zY0CAOjufAU/hqdefault.jpg"
+    },
     {
       "video_id": "k3rmNoIQYAQ",
       "channel": "keylogin",
@@ -177,14 +178,6 @@
       "link": "https://www.youtube.com/watch?v=gd-EdYSGtZY",
       "published_at": "2026-11-04T13:20:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gd-EdYSGtZY/hqdefault.jpg"
-    },
-    {
-      "video_id": "RAioRn62hr0",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Ads - Manual Ad Removal - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=RAioRn62hr0",
-      "published_at": "2026-11-04T13:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RAioRn62hr0/hqdefault.jpg"
     }
   ]
 }
