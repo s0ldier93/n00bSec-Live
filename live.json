@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-05T18:37:50Z",
+  "updated": "2026-11-05T18:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d 7 Freunde Peer2Peer",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13793
+      "viewers": 14284
     }
   ],
-  "viewers_total": 13798,
+  "viewers_total": 14288,
   "videos": [
     {
       "video_id": "p5ow4kjZ_K4",
