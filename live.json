@@ -1,16 +1,32 @@
 {
-  "updated": "2026-11-05T14:57:48Z",
+  "updated": "2026-11-05T15:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 12703
+      "viewers": 13250
     }
   ],
-  "viewers_total": 12703,
+  "viewers_total": 13250,
   "videos": [
+    {
+      "video_id": "9Y8fRVTPXBk",
+      "channel": "antisyphon",
+      "title": "Cyber lore locked? Level up with John Strand\u2019s SOC Core Skills in the Age of AI. Pay what you can!",
+      "link": "https://www.youtube.com/watch?v=9Y8fRVTPXBk",
+      "published_at": "2026-11-05T15:00:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9Y8fRVTPXBk/hqdefault.jpg"
+    },
+    {
+      "video_id": "sE6wDeOpQUo",
+      "channel": "SecurityWeekly",
+      "title": "Patch Speed Isn't the Real Risk",
+      "link": "https://www.youtube.com/watch?v=sE6wDeOpQUo",
+      "published_at": "2026-11-05T15:00:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/sE6wDeOpQUo/hqdefault.jpg"
+    },
     {
       "video_id": "zY0CAOjufAU",
       "channel": "JohnHammond010",
@@ -155,22 +171,6 @@
       "link": "https://www.youtube.com/watch?v=QmV8D0HZMLo",
       "published_at": "2026-11-04T15:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QmV8D0HZMLo/hqdefault.jpg"
-    },
-    {
-      "video_id": "t4kQeI1SYnQ",
-      "channel": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 11/3/26",
-      "link": "https://www.youtube.com/watch?v=t4kQeI1SYnQ",
-      "published_at": "2026-11-04T14:40:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/t4kQeI1SYnQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "AtGmZZrQHJo",
-      "channel": "JohnHammond010",
-      "title": "Microsoft Edge Did ANOTHER Awesome Thing",
-      "link": "https://www.youtube.com/watch?v=AtGmZZrQHJo",
-      "published_at": "2026-11-04T14:00:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/AtGmZZrQHJo/hqdefault.jpg"
     }
   ]
 }
