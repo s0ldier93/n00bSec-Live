@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-05T19:47:49Z",
+  "updated": "2026-11-05T19:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 13
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13963
+      "viewers": 13746
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
       "link": "https://www.youtube.com/watch?v=znrWiVKvVqI",
-      "viewers": 74
+      "viewers": 71
     },
     {
       "platform": "youtube",
       "name": "TheGoodHackerTV",
       "title": "Hackeamos una Aplicaci\u00f3n Web en Directo!",
       "link": "https://www.youtube.com/watch?v=8YgYXVCXbAg",
-      "viewers": 689
+      "viewers": 568
     }
   ],
-  "viewers_total": 14739,
+  "viewers_total": 14397,
   "videos": [
     {
       "video_id": "WwBfofDkq_w",
