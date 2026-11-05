@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T18:47:49Z",
+  "updated": "2026-11-05T18:57:35Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,17 @@
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 14284
+      "viewers": 13733
+    },
+    {
+      "platform": "youtube",
+      "name": "TheGoodHackerTV",
+      "title": "Hackeamos una Aplicaci\u00f3n Web en Directo!",
+      "link": "https://www.youtube.com/watch?v=8YgYXVCXbAg",
+      "viewers": 212
     }
   ],
-  "viewers_total": 14288,
+  "viewers_total": 13949,
   "videos": [
     {
       "video_id": "p5ow4kjZ_K4",
