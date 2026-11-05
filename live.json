@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-05T13:47:49Z",
+  "updated": "2026-11-05T13:57:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 11921
+      "viewers": 12239
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 5's Top Cyber News NOW! - Ep 1281",
       "link": "https://www.youtube.com/watch?v=al3b8A8iZHQ",
-      "viewers": 351
+      "viewers": 349
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 12273,
+  "viewers_total": 12589,
   "videos": [
     {
       "video_id": "k3rmNoIQYAQ",
