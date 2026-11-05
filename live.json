@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-05T00:17:49Z",
+  "updated": "2026-11-05T00:27:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "chiefgyk3d",
+      "title": "So Apparently we had an election? |Cybersecurity,Rants,&Chill|11-4-26",
+      "link": "https://twitch.tv/chiefgyk3d",
+      "viewers": 3
+    },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "goodnight little hackers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 25
+      "viewers": 18
     }
   ],
-  "viewers_total": 25,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "AvA4sELfYXw",
