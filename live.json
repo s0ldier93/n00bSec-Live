@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-05T06:57:49Z",
+  "updated": "2026-11-05T07:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "API penetration testing: Zero to Hero (1)",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 4,
   "videos": [
     {
       "video_id": "AvA4sELfYXw",
