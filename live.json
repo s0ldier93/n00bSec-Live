@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-05T18:57:48Z",
+  "updated": "2026-11-05T19:07:30Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
+      "link": "https://twitch.tv/hack_smarter",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "Leetcore",
@@ -13,18 +20,33 @@
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 13733
+      "viewers": 13618
+    },
+    {
+      "platform": "youtube",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
+      "link": "https://www.youtube.com/watch?v=znrWiVKvVqI",
+      "viewers": 23
     },
     {
       "platform": "youtube",
       "name": "TheGoodHackerTV",
       "title": "Hackeamos una Aplicaci\u00f3n Web en Directo!",
       "link": "https://www.youtube.com/watch?v=8YgYXVCXbAg",
-      "viewers": 212
+      "viewers": 638
     }
   ],
-  "viewers_total": 13950,
+  "viewers_total": 14285,
   "videos": [
+    {
+      "video_id": "znrWiVKvVqI",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
+      "link": "https://www.youtube.com/watch?v=znrWiVKvVqI",
+      "published_at": "2026-11-05T19:01:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/znrWiVKvVqI/hqdefault.jpg"
+    },
     {
       "video_id": "p5ow4kjZ_K4",
       "channel": "HackerMentor",
@@ -177,14 +199,6 @@
       "link": "https://www.youtube.com/watch?v=4USeqlW5p54",
       "published_at": "2026-11-04T18:31:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4USeqlW5p54/hqdefault.jpg"
-    },
-    {
-      "video_id": "yT-AxLRn_60",
-      "channel": "SecurityWeekly",
-      "title": "Your Android TV Box Could Be a Botnet",
-      "link": "https://www.youtube.com/watch?v=yT-AxLRn_60",
-      "published_at": "2026-11-04T18:00:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yT-AxLRn_60/hqdefault.jpg"
     }
   ]
 }
