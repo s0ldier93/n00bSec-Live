@@ -1,19 +1,12 @@
 {
-  "updated": "2026-11-05T12:07:49Z",
+  "updated": "2026-11-05T12:17:49Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "fixit42",
-      "title": "Playing with ai - why not stream?",
-      "link": "https://twitch.tv/fixit42",
-      "viewers": 5
-    },
     {
       "platform": "twitch",
       "name": "nasa",
       "title": "U.S. Spacewalk 101",
       "link": "https://twitch.tv/nasa",
-      "viewers": 4303
+      "viewers": 6931
     },
     {
       "platform": "youtube",
@@ -23,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 4309,
+  "viewers_total": 6932,
   "videos": [
+    {
+      "video_id": "jpU3B3QFS-k",
+      "channel": "hack_smarter",
+      "title": "Hacking A Bank... (404 Bank - Part 3)",
+      "link": "https://www.youtube.com/watch?v=jpU3B3QFS-k",
+      "published_at": "2026-11-05T12:00:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/jpU3B3QFS-k/hqdefault.jpg"
+    },
     {
       "video_id": "4fSVuOinguM",
       "channel": "keylogin",
@@ -177,14 +178,6 @@
       "link": "https://www.youtube.com/watch?v=AJAYIaFftvY",
       "published_at": "2026-11-04T10:00:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/AJAYIaFftvY/hqdefault.jpg"
-    },
-    {
-      "video_id": "Qpck9aV89dM",
-      "channel": "MDISEC",
-      "title": "\ufffcBir Hacker'\u0131n G\u00fcnl\u00fc\u011f\u00fc 2027 geliyor \ud83d\udd25",
-      "link": "https://www.youtube.com/watch?v=Qpck9aV89dM",
-      "published_at": "2026-11-04T09:54:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Qpck9aV89dM/hqdefault.jpg"
     }
   ]
 }
