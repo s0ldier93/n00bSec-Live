@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-05T19:27:50Z",
+  "updated": "2026-11-05T19:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 11
+      "viewers": 13
     },
     {
       "platform": "twitch",
@@ -20,18 +20,26 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
       "link": "https://www.youtube.com/watch?v=znrWiVKvVqI",
-      "viewers": 59
+      "viewers": 70
     },
     {
       "platform": "youtube",
       "name": "TheGoodHackerTV",
       "title": "Hackeamos una Aplicaci\u00f3n Web en Directo!",
       "link": "https://www.youtube.com/watch?v=8YgYXVCXbAg",
-      "viewers": 765
+      "viewers": 735
     }
   ],
-  "viewers_total": 14275,
+  "viewers_total": 14258,
   "videos": [
+    {
+      "video_id": "WwBfofDkq_w",
+      "channel": "Hackavis",
+      "title": "3 herramientas OSINT que usan los expertos en ciberinteligencia #shorts #osint #ciberseguridad",
+      "link": "https://www.youtube.com/watch?v=WwBfofDkq_w",
+      "published_at": "2026-11-05T19:30:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/WwBfofDkq_w/hqdefault.jpg"
+    },
     {
       "video_id": "znrWiVKvVqI",
       "channel": "hack_smarter",
@@ -184,14 +192,6 @@
       "link": "https://www.youtube.com/watch?v=J0WZhBNMkSA",
       "published_at": "2026-11-04T19:50:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/J0WZhBNMkSA/hqdefault.jpg"
-    },
-    {
-      "video_id": "6BkHNbiRgLE",
-      "channel": "JohnHammond010",
-      "title": "Fighting PHP Zombies",
-      "link": "https://www.youtube.com/watch?v=6BkHNbiRgLE",
-      "published_at": "2026-11-04T19:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6BkHNbiRgLE/hqdefault.jpg"
     }
   ]
 }
