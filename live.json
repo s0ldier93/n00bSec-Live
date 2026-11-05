@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-05T22:27:49Z",
+  "updated": "2026-11-05T22:37:49Z",
   "streams": [
     {
       "platform": "twitch",
-      "name": "garr_7",
-      "title": "Getting Back to the Hacks! | Come Learn AppSec Pentesting",
-      "link": "https://twitch.tv/garr_7",
-      "viewers": 35
+      "name": "nthsec",
+      "title": "Ethical Hacking to Study and Chill to",
+      "link": "https://twitch.tv/nthsec",
+      "viewers": 26
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 26,
   "videos": [
     {
       "video_id": "eXaIT7-Z3SA",
