@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-06T01:57:48Z",
+  "updated": "2026-11-06T02:07:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "c04tl",
+      "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
+      "link": "https://twitch.tv/c04tl",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "HaxrByte",
@@ -13,10 +20,10 @@
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (03 Nov 2026)",
       "link": "https://www.youtube.com/watch?v=eugKpGt4xWM",
-      "viewers": 9
+      "viewers": 8
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 15,
   "videos": [
     {
       "video_id": "aKmpVICFx3s",
