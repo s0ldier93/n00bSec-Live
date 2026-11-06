@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-06T17:27:48Z",
+  "updated": "2026-11-06T17:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!  Possible 24 hour stream??  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 7
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 10 - Intro to Black Team",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 8
+      "viewers": 12
     }
   ],
-  "viewers_total": 15,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "gCyYXURQCNw",
