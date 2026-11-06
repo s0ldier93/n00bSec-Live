@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-06T17:17:50Z",
+  "updated": "2026-11-06T17:27:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!  Possible 24 hour stream??  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 6
+      "viewers": 7
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 8
     }
   ],
-  "viewers_total": 14,
+  "viewers_total": 15,
   "videos": [
     {
       "video_id": "gCyYXURQCNw",
