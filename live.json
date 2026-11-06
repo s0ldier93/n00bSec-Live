@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:57:50Z",
+  "updated": "2026-11-06T23:07:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "ej_sa",
       "title": "The EJ\u2019s Space Coast and Rocket revue!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 446
+      "viewers": 379
     },
     {
       "platform": "twitch",
       "name": "garr_7",
       "title": "Finishing Pentesting the Vibe Coded Application \ud83d\udc40 | Come Learn AppSec Pentesting",
       "link": "https://twitch.tv/garr_7",
-      "viewers": 35
+      "viewers": 40
     }
   ],
-  "viewers_total": 482,
+  "viewers_total": 420,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
