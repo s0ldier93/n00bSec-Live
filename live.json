@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-06T01:07:13Z",
+  "updated": "2026-11-06T01:07:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "HaxrByte",
+      "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (03 Nov 2026)",
+      "link": "https://twitch.tv/HaxrByte",
+      "viewers": 5
+    },
     {
       "platform": "youtube",
       "name": "HaxrByte",
@@ -9,7 +16,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "aKmpVICFx3s",
