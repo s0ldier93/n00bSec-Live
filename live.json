@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-06T23:47:49Z",
+  "updated": "2026-11-06T23:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with ai - why not stream?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "team_whoami",
       "title": "Buffer Overflow avanzado (ROP)",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
