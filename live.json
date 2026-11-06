@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-06T14:27:49Z",
+  "updated": "2026-11-06T14:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Tea with a Hacker - Qwen4 today?",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 40
+      "viewers": 52
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!  Possible 24 hour stream??  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 6's Top Cyber News NOW! - Ep 1282",
       "link": "https://www.youtube.com/watch?v=jXmDwIYepAo",
-      "viewers": 261
+      "viewers": 259
     },
     {
       "platform": "youtube",
@@ -30,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 305,
+  "viewers_total": 316,
   "videos": [
+    {
+      "video_id": "ErB1SRcksDc",
+      "channel": "LowLevelTV",
+      "title": "SSH situation is insane",
+      "link": "https://www.youtube.com/watch?v=ErB1SRcksDc",
+      "published_at": "2026-11-06T14:09:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ErB1SRcksDc/hqdefault.jpg"
+    },
     {
       "video_id": "xGpIgLJ9ZIM",
       "channel": "JohnHammond010",
@@ -184,14 +192,6 @@
       "link": "https://www.youtube.com/watch?v=zY0CAOjufAU",
       "published_at": "2026-11-05T14:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zY0CAOjufAU/hqdefault.jpg"
-    },
-    {
-      "video_id": "XK4KBgyLhDc",
-      "channel": "CyberWarriorStudios",
-      "title": "Finish strong and stop making excuses! #TheCyberWarrior #TheModernDrengr #Motivation",
-      "link": "https://www.youtube.com/watch?v=XK4KBgyLhDc",
-      "published_at": "2026-11-05T13:59:55+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XK4KBgyLhDc/hqdefault.jpg"
     }
   ]
 }
