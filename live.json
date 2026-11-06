@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-06T03:57:50Z",
+  "updated": "2026-11-06T04:07:49Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 6
-    },
     {
       "platform": "twitch",
       "name": "freshforensics",
@@ -16,7 +9,7 @@
       "viewers": 9
     }
   ],
-  "viewers_total": 15,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "aKmpVICFx3s",
