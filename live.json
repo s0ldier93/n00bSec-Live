@@ -1,19 +1,26 @@
 {
-  "updated": "2026-11-06T14:07:49Z",
+  "updated": "2026-11-06T14:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Tea with a Hacker - Qwen4 today?",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 8
+      "viewers": 38
+    },
+    {
+      "platform": "twitch",
+      "name": "cybertechvibes",
+      "title": "FIRST EVER PLAYTHROUGH!  Possible 24 hour stream??  LoZ OOT Remake!!",
+      "link": "https://twitch.tv/cybertechvibes",
+      "viewers": 0
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 6's Top Cyber News NOW! - Ep 1282",
       "link": "https://www.youtube.com/watch?v=jXmDwIYepAo",
-      "viewers": 313
+      "viewers": 291
     },
     {
       "platform": "youtube",
@@ -23,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 322,
+  "viewers_total": 330,
   "videos": [
+    {
+      "video_id": "xGpIgLJ9ZIM",
+      "channel": "JohnHammond010",
+      "title": "A Database of Malware (in Minecraft)",
+      "link": "https://www.youtube.com/watch?v=xGpIgLJ9ZIM",
+      "published_at": "2026-11-06T14:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xGpIgLJ9ZIM/hqdefault.jpg"
+    },
     {
       "video_id": "IsQ-OuoxlUk",
       "channel": "LiveOverflow",
@@ -177,14 +192,6 @@
       "link": "https://www.youtube.com/watch?v=XK4KBgyLhDc",
       "published_at": "2026-11-05T13:59:55+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XK4KBgyLhDc/hqdefault.jpg"
-    },
-    {
-      "video_id": "k3rmNoIQYAQ",
-      "channel": "keylogin",
-      "title": "\ud83d\udd34 2500+ MMR Priest Solo Shuffle | Holy & Shadow High Rating Push \u2694\ufe0f | !commands",
-      "link": "https://www.youtube.com/watch?v=k3rmNoIQYAQ",
-      "published_at": "2026-11-05T13:09:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/k3rmNoIQYAQ/hqdefault.jpg"
     }
   ]
 }
