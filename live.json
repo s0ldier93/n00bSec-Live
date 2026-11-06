@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-06T00:17:50Z",
+  "updated": "2026-11-06T00:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "CSE466 - Week 10 - Midterm Review!",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 9
+      "viewers": 15
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 15,
   "videos": [
     {
       "video_id": "aKmpVICFx3s",
