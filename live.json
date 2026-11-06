@@ -1,16 +1,25 @@
 {
-  "updated": "2026-11-06T15:27:49Z",
+  "updated": "2026-11-06T15:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!  Possible 24 hour stream??  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 3
+      "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "mw4-2RShkzc",
+      "channel": "CyberWarriorStudios",
+      "title": "Risk Management, Cyber Challenges & Preparing for a Shifting World w/ Mike Elkins",
+      "link": "https://www.youtube.com/watch?v=mw4-2RShkzc",
+      "published_at": "2026-11-06T15:35:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mw4-2RShkzc/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "2V3WRtJn8lA",
       "channel": "CyberWarriorStudios",
@@ -18,6 +27,14 @@
       "link": "https://www.youtube.com/watch?v=2V3WRtJn8lA",
       "published_at": "2026-11-06T15:22:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2V3WRtJn8lA/hqdefault.jpg"
+    },
+    {
+      "video_id": "puUZgCCvoLM",
+      "channel": "TheLaluka",
+      "title": "He built SkillArch\u2026 then switched to Mac? #shorts",
+      "link": "https://www.youtube.com/watch?v=puUZgCCvoLM",
+      "published_at": "2026-11-06T15:20:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/puUZgCCvoLM/hqdefault.jpg"
     },
     {
       "video_id": "xCN_BcAKx7c",
@@ -155,22 +172,6 @@
       "link": "https://www.youtube.com/watch?v=6mx6DVn0mIM",
       "published_at": "2026-11-05T17:01:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6mx6DVn0mIM/hqdefault.jpg"
-    },
-    {
-      "video_id": "As6KDSCedus",
-      "channel": "TheLaluka",
-      "title": "Imperfect AI tests\u2026 better than no tests? #shorts",
-      "link": "https://www.youtube.com/watch?v=As6KDSCedus",
-      "published_at": "2026-11-05T15:20:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/As6KDSCedus/hqdefault.jpg"
-    },
-    {
-      "video_id": "9Y8fRVTPXBk",
-      "channel": "antisyphon",
-      "title": "Cyber lore locked? Level up with John Strand\u2019s SOC Core Skills in the Age of AI. Pay what you can!",
-      "link": "https://www.youtube.com/watch?v=9Y8fRVTPXBk",
-      "published_at": "2026-11-05T15:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9Y8fRVTPXBk/hqdefault.jpg"
     }
   ]
 }
