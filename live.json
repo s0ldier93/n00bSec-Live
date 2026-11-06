@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:17:28Z",
+  "updated": "2026-11-06T15:27:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 3,
   "videos": [
+    {
+      "video_id": "2V3WRtJn8lA",
+      "channel": "CyberWarriorStudios",
+      "title": "Stay positive you got this!",
+      "link": "https://www.youtube.com/watch?v=2V3WRtJn8lA",
+      "published_at": "2026-11-06T15:22:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2V3WRtJn8lA/hqdefault.jpg"
+    },
     {
       "video_id": "xCN_BcAKx7c",
       "channel": "SecurityWeekly",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=9Y8fRVTPXBk",
       "published_at": "2026-11-05T15:00:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9Y8fRVTPXBk/hqdefault.jpg"
-    },
-    {
-      "video_id": "sE6wDeOpQUo",
-      "channel": "SecurityWeekly",
-      "title": "Patch Speed Isn't the Real Risk",
-      "link": "https://www.youtube.com/watch?v=sE6wDeOpQUo",
-      "published_at": "2026-11-05T15:00:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sE6wDeOpQUo/hqdefault.jpg"
     }
   ]
 }
