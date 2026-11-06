@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T14:47:49Z",
+  "updated": "2026-11-06T14:57:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 6's Top Cyber News NOW! - Ep 1282",
       "link": "https://www.youtube.com/watch?v=jXmDwIYepAo",
-      "viewers": 246
+      "viewers": 222
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 309,
+  "viewers_total": 285,
   "videos": [
     {
       "video_id": "ErB1SRcksDc",
