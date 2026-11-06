@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-06T14:17:50Z",
+  "updated": "2026-11-06T14:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Tea with a Hacker - Qwen4 today?",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 38
+      "viewers": 40
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!  Possible 24 hour stream??  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 0
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 6's Top Cyber News NOW! - Ep 1282",
       "link": "https://www.youtube.com/watch?v=jXmDwIYepAo",
-      "viewers": 291
+      "viewers": 261
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 330,
+  "viewers_total": 305,
   "videos": [
     {
       "video_id": "xGpIgLJ9ZIM",
