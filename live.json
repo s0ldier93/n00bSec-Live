@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:07:50Z",
+  "updated": "2026-11-06T22:17:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,18 +13,26 @@
       "name": "ej_sa",
       "title": "The EJ\u2019s Space Coast and Rocket revue!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 344
+      "viewers": 405
     },
     {
       "platform": "twitch",
       "name": "garr_7",
       "title": "Finishing Pentesting the Vibe Coded Application \ud83d\udc40 | Come Learn AppSec Pentesting",
       "link": "https://twitch.tv/garr_7",
-      "viewers": 30
+      "viewers": 36
     }
   ],
-  "viewers_total": 375,
+  "viewers_total": 442,
   "videos": [
+    {
+      "video_id": "f_rte_AeWqI",
+      "channel": "SecurityWeekly",
+      "title": "AI hates us all, Binance, OpenSSH, Apple, WordPress, DNS, Scams, Josh Marpet and More - SWN #631",
+      "link": "https://www.youtube.com/watch?v=f_rte_AeWqI",
+      "published_at": "2026-11-06T22:00:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/f_rte_AeWqI/hqdefault.jpg"
+    },
     {
       "video_id": "PSDdF_Naz_M",
       "channel": "JohnHammond010",
@@ -178,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=KdMdEwLbQ8M",
       "published_at": "2026-11-05T19:00:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/KdMdEwLbQ8M/hqdefault.jpg"
-    },
-    {
-      "video_id": "p5ow4kjZ_K4",
-      "channel": "HackerMentor",
-      "title": "Aprende a analizar una vulnerabilidad: Ejemplo pr\u00e1ctico an\u00e1lisis SMB (CVE-2017-0144) | TryHackMe",
-      "link": "https://www.youtube.com/watch?v=p5ow4kjZ_K4",
-      "published_at": "2026-11-05T17:33:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/p5ow4kjZ_K4/hqdefault.jpg"
     }
   ]
 }
