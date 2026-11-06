@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T23:07:49Z",
+  "updated": "2026-11-06T23:17:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,20 +10,13 @@
     },
     {
       "platform": "twitch",
-      "name": "ej_sa",
-      "title": "The EJ\u2019s Space Coast and Rocket revue!",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 379
-    },
-    {
-      "platform": "twitch",
-      "name": "garr_7",
-      "title": "Finishing Pentesting the Vibe Coded Application \ud83d\udc40 | Come Learn AppSec Pentesting",
-      "link": "https://twitch.tv/garr_7",
-      "viewers": 40
+      "name": "fixit42",
+      "title": "Playing with ai - why not stream?",
+      "link": "https://twitch.tv/fixit42",
+      "viewers": 2
     }
   ],
-  "viewers_total": 420,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
