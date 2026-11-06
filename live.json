@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-06T16:57:48Z",
+  "updated": "2026-11-06T17:07:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!  Possible 24 hour stream??  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 6 - Intro to Linux",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 4
+      "viewers": 11
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 17,
   "videos": [
+    {
+      "video_id": "gCyYXURQCNw",
+      "channel": "JohnHammond010",
+      "title": "ClickFix Gets Sneaky",
+      "link": "https://www.youtube.com/watch?v=gCyYXURQCNw",
+      "published_at": "2026-11-06T17:01:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gCyYXURQCNw/hqdefault.jpg"
+    },
     {
       "video_id": "mw4-2RShkzc",
       "channel": "CyberWarriorStudios",
@@ -171,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=RJwX3pb77c0",
       "published_at": "2026-11-05T17:01:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RJwX3pb77c0/hqdefault.jpg"
-    },
-    {
-      "video_id": "6mx6DVn0mIM",
-      "channel": "Cyber_Insecurity",
-      "title": "Your AI vendor will use your IP to come into your space",
-      "link": "https://www.youtube.com/watch?v=6mx6DVn0mIM",
-      "published_at": "2026-11-05T17:01:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6mx6DVn0mIM/hqdefault.jpg"
     }
   ]
 }
