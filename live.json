@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T03:17:50Z",
+  "updated": "2026-11-06T03:27:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "freshforensics",
       "title": "\ud83d\udc80Taking Control of a Jailbroken iPhone With Linux!!\ud83d\udca3",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (03 Nov 2026)",
       "link": "https://www.youtube.com/watch?v=eugKpGt4xWM",
-      "viewers": 6
+      "viewers": 5
     }
   ],
   "viewers_total": 18,
