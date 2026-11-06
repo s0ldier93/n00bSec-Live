@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-06T19:37:49Z",
+  "updated": "2026-11-06T19:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!  Possible 24 hour stream??  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 11 - Building Agentic RE Skills Workshop",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 7
+      "viewers": 6
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "PSDdF_Naz_M",
