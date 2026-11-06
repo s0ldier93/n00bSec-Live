@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-06T13:57:50Z",
+  "updated": "2026-11-06T14:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Tea with a Hacker - Qwen4 today?",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 7
+      "viewers": 8
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 6's Top Cyber News NOW! - Ep 1282",
       "link": "https://www.youtube.com/watch?v=jXmDwIYepAo",
-      "viewers": 361
+      "viewers": 313
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 369,
+  "viewers_total": 322,
   "videos": [
+    {
+      "video_id": "IsQ-OuoxlUk",
+      "channel": "LiveOverflow",
+      "title": "How an Image Causes a Heap Buffer Overflow // libheif",
+      "link": "https://www.youtube.com/watch?v=IsQ-OuoxlUk",
+      "published_at": "2026-11-06T13:51:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IsQ-OuoxlUk/hqdefault.jpg"
+    },
     {
       "video_id": "xmuytNK4PWY",
       "channel": "keylogin",
@@ -177,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=k3rmNoIQYAQ",
       "published_at": "2026-11-05T13:09:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/k3rmNoIQYAQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "jpU3B3QFS-k",
-      "channel": "hack_smarter",
-      "title": "Hacking A Bank... (404 Bank - Part 3)",
-      "link": "https://www.youtube.com/watch?v=jpU3B3QFS-k",
-      "published_at": "2026-11-05T12:00:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/jpU3B3QFS-k/hqdefault.jpg"
     }
   ]
 }
