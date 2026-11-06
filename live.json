@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T19:17:50Z",
+  "updated": "2026-11-06T19:27:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,10 +7,25 @@
       "title": "FIRST EVER PLAYTHROUGH!  Possible 24 hour stream??  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
       "viewers": 4
+    },
+    {
+      "platform": "twitch",
+      "name": "ritsec",
+      "title": "RITSEC Fall Week 11 - Building Agentic RE Skills Workshop",
+      "link": "https://twitch.tv/ritsec",
+      "viewers": 5
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 9,
   "videos": [
+    {
+      "video_id": "PSDdF_Naz_M",
+      "channel": "JohnHammond010",
+      "title": "Next Steps for PHP",
+      "link": "https://www.youtube.com/watch?v=PSDdF_Naz_M",
+      "published_at": "2026-11-06T19:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PSDdF_Naz_M/hqdefault.jpg"
+    },
     {
       "video_id": "efuRfYHAy2M",
       "channel": "gerald_auger_simplycyber",
@@ -164,15 +179,6 @@
       "link": "https://www.youtube.com/watch?v=p5ow4kjZ_K4",
       "published_at": "2026-11-05T17:33:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/p5ow4kjZ_K4/hqdefault.jpg"
-    },
-    {
-      "video_id": "whi6ZHDHddc",
-      "channel": "antisyphon",
-      "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
-      "link": "https://www.youtube.com/watch?v=whi6ZHDHddc",
-      "published_at": "2026-11-05T17:24:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/whi6ZHDHddc/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
