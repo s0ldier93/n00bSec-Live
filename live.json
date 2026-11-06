@@ -1,29 +1,22 @@
 {
-  "updated": "2026-11-06T03:37:13Z",
+  "updated": "2026-11-06T03:37:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "\ud83d\udc80Taking Control of a Jailbroken iPhone With Linux!!\ud83d\udca3",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
-    },
-    {
-      "platform": "twitch",
-      "name": "HaxrByte",
-      "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (03 Nov 2026)",
-      "link": "https://twitch.tv/HaxrByte",
       "viewers": 6
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "aKmpVICFx3s",
