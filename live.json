@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T17:57:50Z",
+  "updated": "2026-11-06T18:07:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,20 @@
       "name": "ritsec",
       "title": "RITSEC Fall Week 10 - Intro to Black Team",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 10
+      "viewers": 6
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 12,
   "videos": [
+    {
+      "video_id": "efuRfYHAy2M",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 9's Top Cyber News NOW! - Ep 1283",
+      "link": "https://www.youtube.com/watch?v=efuRfYHAy2M",
+      "published_at": "2026-11-06T17:47:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/efuRfYHAy2M/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "gCyYXURQCNw",
       "channel": "JohnHammond010",
@@ -171,14 +180,6 @@
       "published_at": "2026-11-05T17:24:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/whi6ZHDHddc/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "RJwX3pb77c0",
-      "channel": "CyberWarriorStudios",
-      "title": "Security Happy Hour returns November 6 at 7 PM EST",
-      "link": "https://www.youtube.com/watch?v=RJwX3pb77c0",
-      "published_at": "2026-11-05T17:01:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RJwX3pb77c0/hqdefault.jpg"
     }
   ]
 }
