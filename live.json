@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-06T23:17:49Z",
+  "updated": "2026-11-06T23:27:49Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "cybertechvibes",
-      "title": "FIRST EVER PLAYTHROUGH!  Possible 24 hour stream??  LoZ OOT Remake!!",
-      "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
-    },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with ai - why not stream?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 2
+      "viewers": 7
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 7,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
