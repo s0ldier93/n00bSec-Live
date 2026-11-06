@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T19:27:50Z",
+  "updated": "2026-11-06T19:37:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "ritsec",
       "title": "RITSEC Fall Week 11 - Building Agentic RE Skills Workshop",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 5
+      "viewers": 7
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 11,
   "videos": [
     {
       "video_id": "PSDdF_Naz_M",
