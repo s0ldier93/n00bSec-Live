@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T06:47:50Z",
+  "updated": "2026-11-07T06:57:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,16 +7,9 @@
       "title": "\ud83d\udcbbFriday Night Stream - Gaming  Ghost of Yotei then FFVII |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
       "viewers": 8
-    },
-    {
-      "platform": "twitch",
-      "name": "freshforensics",
-      "title": "\ud83d\udc80Inside the iPhone: Exploits, Jailbreaks & Digital Forensics LIVE",
-      "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
     }
   ],
-  "viewers_total": 10,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
