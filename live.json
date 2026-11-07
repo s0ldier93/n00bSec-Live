@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-07T18:17:49Z",
+  "updated": "2026-11-07T18:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 31
+      "viewers": 33
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 488
+      "viewers": 474
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "meowing with the boys with @ayricu",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 23
+      "viewers": 21
     },
     {
       "platform": "twitch",
@@ -34,7 +34,7 @@
       "name": "B7H30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB",
       "link": "https://www.youtube.com/watch?v=A5cu3AUqt5Y",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 551,
+  "viewers_total": 538,
   "videos": [
     {
       "video_id": "9FVcrVMnZNw",
