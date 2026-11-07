@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-07T21:37:49Z",
+  "updated": "2026-11-07T21:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 434
+      "viewers": 445
     }
   ],
-  "viewers_total": 434,
+  "viewers_total": 445,
   "videos": [
+    {
+      "video_id": "P9gQ8a27qTk",
+      "channel": "CyberWarriorStudios",
+      "title": "Have fun and live life to the fullest!",
+      "link": "https://www.youtube.com/watch?v=P9gQ8a27qTk",
+      "published_at": "2026-11-07T21:48:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/P9gQ8a27qTk/hqdefault.jpg"
+    },
     {
       "video_id": "iWeChMmnPmg",
       "channel": "CyberWarriorStudios",
@@ -163,15 +171,6 @@
       "link": "https://www.youtube.com/watch?v=PSDdF_Naz_M",
       "published_at": "2026-11-06T19:00:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PSDdF_Naz_M/hqdefault.jpg"
-    },
-    {
-      "video_id": "efuRfYHAy2M",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 9's Top Cyber News NOW! - Ep 1283",
-      "link": "https://www.youtube.com/watch?v=efuRfYHAy2M",
-      "published_at": "2026-11-06T17:47:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/efuRfYHAy2M/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
