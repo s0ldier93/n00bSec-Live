@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-07T22:17:49Z",
+  "updated": "2026-11-07T22:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 440
+      "viewers": 443
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with ai - why not stream?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 3
+      "viewers": 5
     }
   ],
-  "viewers_total": 443,
+  "viewers_total": 448,
   "videos": [
     {
       "video_id": "P9gQ8a27qTk",
