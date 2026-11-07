@@ -1,16 +1,33 @@
 {
-  "updated": "2026-11-07T06:57:48Z",
+  "updated": "2026-11-07T07:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Stream - Gaming  Ghost of Yotei then FFVII |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 8
+      "viewers": 7
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 7,
   "videos": [
+    {
+      "video_id": "vcZ0sNTUn7k",
+      "channel": "antisyphon",
+      "title": "Baselines Behaving Badly",
+      "link": "https://www.youtube.com/watch?v=vcZ0sNTUn7k",
+      "published_at": "2026-11-07T00:04:48+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vcZ0sNTUn7k/hqdefault.jpg",
+      "upcoming": true
+    },
+    {
+      "video_id": "RyTP9IlADtg",
+      "channel": "Cyber_Insecurity",
+      "title": "Most AI workloads never needed a frontier model",
+      "link": "https://www.youtube.com/watch?v=RyTP9IlADtg",
+      "published_at": "2026-11-06T23:03:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RyTP9IlADtg/hqdefault.jpg"
+    },
     {
       "video_id": "f_rte_AeWqI",
       "channel": "SecurityWeekly",
@@ -155,22 +172,6 @@
       "link": "https://www.youtube.com/watch?v=WwBfofDkq_w",
       "published_at": "2026-11-05T19:30:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/WwBfofDkq_w/hqdefault.jpg"
-    },
-    {
-      "video_id": "znrWiVKvVqI",
-      "channel": "hack_smarter",
-      "title": "[LIVE] - Hack Smarter is taking over... (AMA)",
-      "link": "https://www.youtube.com/watch?v=znrWiVKvVqI",
-      "published_at": "2026-11-05T19:01:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/znrWiVKvVqI/hqdefault.jpg"
-    },
-    {
-      "video_id": "KdMdEwLbQ8M",
-      "channel": "JohnHammond010",
-      "title": "Dissecting PHP Vulnerabilities with AI",
-      "link": "https://www.youtube.com/watch?v=KdMdEwLbQ8M",
-      "published_at": "2026-11-05T19:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/KdMdEwLbQ8M/hqdefault.jpg"
     }
   ]
 }
