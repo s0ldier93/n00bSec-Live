@@ -1,40 +1,47 @@
 {
-  "updated": "2026-11-07T16:37:49Z",
+  "updated": "2026-11-07T16:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 30
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!!  I am ADDICTED!!  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 419
+      "viewers": 428
     },
     {
       "platform": "twitch",
       "name": "ElPinguinoDeMario",
       "title": "Practicamos Hacking en Entornos Active Directory | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 56
+      "viewers": 47
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "meowing with the boys with @ayricu",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 24
+      "viewers": 22
+    },
+    {
+      "platform": "twitch",
+      "name": "ProfitzTV",
+      "title": "FOREVER! | NA | Normal",
+      "link": "https://twitch.tv/ProfitzTV",
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -48,10 +55,10 @@
       "name": "ElPinguinoDeMario",
       "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Hacking en Entornos Active Directory",
       "link": "https://www.youtube.com/watch?v=cTaz_fpI1wI",
-      "viewers": 117
+      "viewers": 109
     }
   ],
-  "viewers_total": 648,
+  "viewers_total": 641,
   "videos": [
     {
       "video_id": "hhJmpIM0-yg",
