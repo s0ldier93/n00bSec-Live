@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T04:37:49Z",
+  "updated": "2026-11-07T04:47:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Stream - Gaming  Ghost of Yotei then FFVII |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 17,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
