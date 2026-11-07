@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T01:07:50Z",
+  "updated": "2026-11-07T01:17:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "CyberWarriorStudios",
       "title": "Risk Management, Cyber Challenges & Preparing for a Shifting World w/ Mike Elkins",
       "link": "https://www.youtube.com/watch?v=mw4-2RShkzc",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
