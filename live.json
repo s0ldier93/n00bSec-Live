@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-07T14:27:49Z",
+  "updated": "2026-11-07T14:37:28Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!!  I am ADDICTED!!  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 4
+      "viewers": 2
+    },
+    {
+      "platform": "youtube",
+      "name": "keylogin",
+      "title": "\ud83d\udd34 Leaving Deathknell! Lvl 7 Undead Warlock Journey \ud83d\udc80 | WoW Forever (Chill Leveling) | !commands",
+      "link": "https://www.youtube.com/watch?v=I7RJocgveBk",
+      "viewers": 1
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "cTaz_fpI1wI",
