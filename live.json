@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-07T14:37:28Z",
+  "updated": "2026-11-07T14:47:29Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "b7h30",
+      "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
+      "link": "https://twitch.tv/b7h30",
+      "viewers": 10
+    },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
@@ -10,14 +17,37 @@
     },
     {
       "platform": "youtube",
+      "name": "B7H30",
+      "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB",
+      "link": "https://www.youtube.com/watch?v=A5cu3AUqt5Y",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
       "name": "keylogin",
       "title": "\ud83d\udd34 Leaving Deathknell! Lvl 7 Undead Warlock Journey \ud83d\udc80 | WoW Forever (Chill Leveling) | !commands",
       "link": "https://www.youtube.com/watch?v=I7RJocgveBk",
       "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 14,
   "videos": [
+    {
+      "video_id": "A5cu3AUqt5Y",
+      "channel": "B7H30",
+      "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB",
+      "link": "https://www.youtube.com/watch?v=A5cu3AUqt5Y",
+      "published_at": "2026-11-07T14:34:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/A5cu3AUqt5Y/hqdefault.jpg"
+    },
+    {
+      "video_id": "I7RJocgveBk",
+      "channel": "keylogin",
+      "title": "\ud83d\udd34 Leaving Deathknell! Lvl 7 Undead Warlock Journey \ud83d\udc80 | WoW Forever (Chill Leveling) | !commands",
+      "link": "https://www.youtube.com/watch?v=I7RJocgveBk",
+      "published_at": "2026-11-07T14:31:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/I7RJocgveBk/hqdefault.jpg"
+    },
     {
       "video_id": "cTaz_fpI1wI",
       "channel": "ElPinguinoDeMario",
@@ -164,22 +194,6 @@
       "link": "https://www.youtube.com/watch?v=xmuytNK4PWY",
       "published_at": "2026-11-06T12:29:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xmuytNK4PWY/hqdefault.jpg"
-    },
-    {
-      "video_id": "wOJaj-P_W60",
-      "channel": "antisyphon",
-      "title": "Atomic Red Team and BLUESPAWN | Free Lab Fridays [Full Lab Walkthrough]",
-      "link": "https://www.youtube.com/watch?v=wOJaj-P_W60",
-      "published_at": "2026-11-06T05:00:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wOJaj-P_W60/hqdefault.jpg"
-    },
-    {
-      "video_id": "VxviqCtTqFU",
-      "channel": "mbcrump",
-      "title": "Does Zelda: Ocarina of Time Work on a CivSwitch-Ready Switch 2?",
-      "link": "https://www.youtube.com/watch?v=VxviqCtTqFU",
-      "published_at": "2026-11-06T03:38:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VxviqCtTqFU/hqdefault.jpg"
     }
   ]
 }
