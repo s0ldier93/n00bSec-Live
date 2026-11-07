@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T14:57:48Z",
+  "updated": "2026-11-07T15:07:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,14 +20,14 @@
       "name": "ElPinguinoDeMario",
       "title": "Practicamos Hacking en Entornos Active Directory | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 26
+      "viewers": 43
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "windows paint my beloved",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 2
+      "viewers": 18
     },
     {
       "platform": "youtube",
@@ -41,7 +41,7 @@
       "name": "ElPinguinoDeMario",
       "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Hacking en Entornos Active Directory",
       "link": "https://www.youtube.com/watch?v=cTaz_fpI1wI",
-      "viewers": 46
+      "viewers": 81
     },
     {
       "platform": "youtube",
@@ -51,8 +51,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 92,
+  "viewers_total": 160,
   "videos": [
+    {
+      "video_id": "cN4Uez-PZmM",
+      "channel": "ippsec",
+      "title": "HackTheBox - Garfield",
+      "link": "https://www.youtube.com/watch?v=cN4Uez-PZmM",
+      "published_at": "2026-11-07T15:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cN4Uez-PZmM/hqdefault.jpg"
+    },
     {
       "video_id": "A5cu3AUqt5Y",
       "channel": "B7H30",
@@ -206,14 +214,6 @@
       "link": "https://www.youtube.com/watch?v=IsQ-OuoxlUk",
       "published_at": "2026-11-06T13:51:53+00:00",
       "thumbnail": "https://i.ytimg.com/vi/IsQ-OuoxlUk/hqdefault.jpg"
-    },
-    {
-      "video_id": "xmuytNK4PWY",
-      "channel": "keylogin",
-      "title": "WoW Midnight S2 | 2270 CR Shadow Priest Push To Elite \u2694\ufe0f 3.1k XP Veteran (!comands)",
-      "link": "https://www.youtube.com/watch?v=xmuytNK4PWY",
-      "published_at": "2026-11-06T12:29:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xmuytNK4PWY/hqdefault.jpg"
     }
   ]
 }
