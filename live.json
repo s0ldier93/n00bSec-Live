@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-07T15:37:50Z",
+  "updated": "2026-11-07T15:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 24
+      "viewers": 29
     },
     {
       "platform": "twitch",
@@ -20,21 +20,21 @@
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 236
+      "viewers": 303
     },
     {
       "platform": "twitch",
       "name": "ElPinguinoDeMario",
       "title": "Practicamos Hacking en Entornos Active Directory | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 56
+      "viewers": 44
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "meowing with the boys with @ayricu",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 18
+      "viewers": 21
     },
     {
       "platform": "youtube",
@@ -48,11 +48,19 @@
       "name": "ElPinguinoDeMario",
       "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Hacking en Entornos Active Directory",
       "link": "https://www.youtube.com/watch?v=cTaz_fpI1wI",
-      "viewers": 84
+      "viewers": 105
     }
   ],
-  "viewers_total": 420,
+  "viewers_total": 504,
   "videos": [
+    {
+      "video_id": "9cwTy9xG3zM",
+      "channel": "TheLaluka",
+      "title": "Can local AI still delete your files? #shorts",
+      "link": "https://www.youtube.com/watch?v=9cwTy9xG3zM",
+      "published_at": "2026-11-07T15:20:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9cwTy9xG3zM/hqdefault.jpg"
+    },
     {
       "video_id": "cN4Uez-PZmM",
       "channel": "ippsec",
@@ -206,14 +214,6 @@
       "link": "https://www.youtube.com/watch?v=xGpIgLJ9ZIM",
       "published_at": "2026-11-06T14:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xGpIgLJ9ZIM/hqdefault.jpg"
-    },
-    {
-      "video_id": "IsQ-OuoxlUk",
-      "channel": "LiveOverflow",
-      "title": "How an Image Causes a Heap Buffer Overflow // libheif",
-      "link": "https://www.youtube.com/watch?v=IsQ-OuoxlUk",
-      "published_at": "2026-11-06T13:51:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IsQ-OuoxlUk/hqdefault.jpg"
     }
   ]
 }
