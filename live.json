@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-07T10:17:28Z",
+  "updated": "2026-11-07T10:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!!  I am ADDICTED!!  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 1,
   "videos": [
+    {
+      "video_id": "NRu5Opnx0hM",
+      "channel": "keylogin",
+      "title": "\ud83d\udd34 Top 150 Shadow Priest Solo Shuffle | 2.5k MMR Lobbies & 2400 Push \u2694\ufe0f | WoW Midnight",
+      "link": "https://www.youtube.com/watch?v=NRu5Opnx0hM",
+      "published_at": "2026-11-07T10:18:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NRu5Opnx0hM/hqdefault.jpg"
+    },
     {
       "video_id": "HVntgPcavpc",
       "channel": "keylogin",
@@ -164,14 +172,6 @@
       "link": "https://www.youtube.com/watch?v=aKmpVICFx3s",
       "published_at": "2026-11-05T23:00:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/aKmpVICFx3s/hqdefault.jpg"
-    },
-    {
-      "video_id": "eXaIT7-Z3SA",
-      "channel": "SecurityWeekly",
-      "title": "\"That\u2019s Not Supposed to Happen\" - PSW #951",
-      "link": "https://www.youtube.com/watch?v=eXaIT7-Z3SA",
-      "published_at": "2026-11-05T22:00:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/eXaIT7-Z3SA/hqdefault.jpg"
     }
   ]
 }
