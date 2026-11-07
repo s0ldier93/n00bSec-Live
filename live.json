@@ -1,18 +1,25 @@
 {
-  "updated": "2026-11-07T14:47:29Z",
+  "updated": "2026-11-07T14:57:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 10
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!!  I am ADDICTED!!  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
+      "viewers": 1
+    },
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "windows paint my beloved",
+      "link": "https://twitch.tv/panekopanko",
       "viewers": 2
     },
     {
@@ -24,13 +31,20 @@
     },
     {
       "platform": "youtube",
+      "name": "ElPinguinoDeMario",
+      "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Hacking en Entornos Active Directory",
+      "link": "https://www.youtube.com/watch?v=cTaz_fpI1wI",
+      "viewers": 46
+    },
+    {
+      "platform": "youtube",
       "name": "keylogin",
       "title": "\ud83d\udd34 Leaving Deathknell! Lvl 7 Undead Warlock Journey \ud83d\udc80 | WoW Forever (Chill Leveling) | !commands",
       "link": "https://www.youtube.com/watch?v=I7RJocgveBk",
       "viewers": 1
     }
   ],
-  "viewers_total": 14,
+  "viewers_total": 66,
   "videos": [
     {
       "video_id": "A5cu3AUqt5Y",
@@ -54,8 +68,7 @@
       "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Hacking en Entornos Active Directory",
       "link": "https://www.youtube.com/watch?v=cTaz_fpI1wI",
       "published_at": "2026-11-07T14:24:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cTaz_fpI1wI/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/cTaz_fpI1wI/hqdefault.jpg"
     },
     {
       "video_id": "NRu5Opnx0hM",
