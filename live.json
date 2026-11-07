@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-07T09:47:50Z",
+  "updated": "2026-11-07T09:57:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!!  I am ADDICTED!!  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "HVntgPcavpc",
