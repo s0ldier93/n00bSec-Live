@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T08:27:49Z",
+  "updated": "2026-11-07T08:37:24Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,9 +7,16 @@
       "title": "\ud83d\udcbbFriday Night Stream - Gaming  FFVII |Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
       "viewers": 5
+    },
+    {
+      "platform": "youtube",
+      "name": "keylogin",
+      "title": "\ud83d\udd34 Reliving the Golden Era: Fresh Undead Warlock Journey (1-60) \ud83d\udc80 | WoW Forever | !commands",
+      "link": "https://www.youtube.com/watch?v=HVntgPcavpc",
+      "viewers": 1
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 6,
   "videos": [
     {
       "video_id": "vcZ0sNTUn7k",
