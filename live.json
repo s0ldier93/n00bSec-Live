@@ -1,36 +1,29 @@
 {
-  "updated": "2026-11-07T00:17:49Z",
+  "updated": "2026-11-07T00:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "CyberWarriorStudios",
       "title": "Security Happy Hour: Risk Management, Cyber Challenges & Preparing for a Shifting World w/ Mike Elkins",
       "link": "https://twitch.tv/CyberWarriorStudios",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with ai - why not stream?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 14
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Buffer Overflow avanzado (ROP)",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 2
+      "viewers": 12
     },
     {
       "platform": "youtube",
       "name": "CyberWarriorStudios",
       "title": "Risk Management, Cyber Challenges & Preparing for a Shifting World w/ Mike Elkins",
       "link": "https://www.youtube.com/watch?v=mw4-2RShkzc",
-      "viewers": 3
+      "viewers": 5
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
