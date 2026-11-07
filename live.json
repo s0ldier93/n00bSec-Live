@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-07T18:07:49Z",
+  "updated": "2026-11-07T18:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 29
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 485
+      "viewers": 488
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "meowing with the boys with @ayricu",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 18
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 8
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -44,8 +44,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 542,
+  "viewers_total": 551,
   "videos": [
+    {
+      "video_id": "9FVcrVMnZNw",
+      "channel": "JohnHammond010",
+      "title": "AI Security Boundaries",
+      "link": "https://www.youtube.com/watch?v=9FVcrVMnZNw",
+      "published_at": "2026-11-07T17:57:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9FVcrVMnZNw/hqdefault.jpg"
+    },
     {
       "video_id": "CXrJtT8w1jo",
       "channel": "Cyber_Insecurity",
@@ -199,14 +207,6 @@
       "link": "https://www.youtube.com/watch?v=2V3WRtJn8lA",
       "published_at": "2026-11-06T15:22:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2V3WRtJn8lA/hqdefault.jpg"
-    },
-    {
-      "video_id": "puUZgCCvoLM",
-      "channel": "TheLaluka",
-      "title": "He built SkillArch\u2026 then switched to Mac? #shorts",
-      "link": "https://www.youtube.com/watch?v=puUZgCCvoLM",
-      "published_at": "2026-11-06T15:20:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/puUZgCCvoLM/hqdefault.jpg"
     }
   ]
 }
