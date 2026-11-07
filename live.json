@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-07T21:07:49Z",
+  "updated": "2026-11-07T21:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 443
+      "viewers": 427
     }
   ],
-  "viewers_total": 443,
+  "viewers_total": 427,
   "videos": [
+    {
+      "video_id": "iWeChMmnPmg",
+      "channel": "CyberWarriorStudios",
+      "title": "Your EDR Won\u2019t Catch Everything. Assume You\u2019ve Been Breached. #shorts",
+      "link": "https://www.youtube.com/watch?v=iWeChMmnPmg",
+      "published_at": "2026-11-07T21:13:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/iWeChMmnPmg/hqdefault.jpg"
+    },
     {
       "video_id": "ELdsaZvJVZg",
       "channel": "mbcrump",
@@ -164,14 +172,6 @@
       "published_at": "2026-11-06T17:47:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/efuRfYHAy2M/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "gCyYXURQCNw",
-      "channel": "JohnHammond010",
-      "title": "ClickFix Gets Sneaky",
-      "link": "https://www.youtube.com/watch?v=gCyYXURQCNw",
-      "published_at": "2026-11-06T17:01:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gCyYXURQCNw/hqdefault.jpg"
     }
   ]
 }
