@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T20:07:50Z",
+  "updated": "2026-11-07T20:17:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 465
+      "viewers": 447
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 500,
+  "viewers_total": 482,
   "videos": [
     {
       "video_id": "ELdsaZvJVZg",
