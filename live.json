@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-07T16:57:48Z",
+  "updated": "2026-11-07T17:07:32Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 30
+      "viewers": 26
     },
     {
       "platform": "twitch",
@@ -24,24 +24,17 @@
     },
     {
       "platform": "twitch",
-      "name": "ElPinguinoDeMario",
-      "title": "Practicamos Hacking en Entornos Active Directory | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
-      "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 54
-    },
-    {
-      "platform": "twitch",
       "name": "panekopanko",
       "title": "meowing with the boys with @ayricu",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 19
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -52,21 +45,22 @@
     },
     {
       "platform": "youtube",
-      "name": "ElPinguinoDeMario",
-      "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Hacking en Entornos Active Directory",
-      "link": "https://www.youtube.com/watch?v=cTaz_fpI1wI",
-      "viewers": 112
-    },
-    {
-      "platform": "youtube",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://www.youtube.com/watch?v=_d0FziTacUA",
       "viewers": 1
     }
   ],
-  "viewers_total": 662,
+  "viewers_total": 496,
   "videos": [
+    {
+      "video_id": "CXrJtT8w1jo",
+      "channel": "Cyber_Insecurity",
+      "title": "The risk isn't where the model was trained. It's where your data goes",
+      "link": "https://www.youtube.com/watch?v=CXrJtT8w1jo",
+      "published_at": "2026-11-07T17:01:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CXrJtT8w1jo/hqdefault.jpg"
+    },
     {
       "video_id": "_d0FziTacUA",
       "channel": "ProfitzTV",
@@ -220,14 +214,6 @@
       "link": "https://www.youtube.com/watch?v=puUZgCCvoLM",
       "published_at": "2026-11-06T15:20:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/puUZgCCvoLM/hqdefault.jpg"
-    },
-    {
-      "video_id": "xCN_BcAKx7c",
-      "channel": "SecurityWeekly",
-      "title": "AI Finds Vulnerabilities Nobody Expected",
-      "link": "https://www.youtube.com/watch?v=xCN_BcAKx7c",
-      "published_at": "2026-11-06T15:00:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xCN_BcAKx7c/hqdefault.jpg"
     }
   ]
 }
