@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-07T15:57:49Z",
+  "updated": "2026-11-07T16:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 30
+      "viewers": 28
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "FIRST EVER PLAYTHROUGH!!  I am ADDICTED!!  LoZ OOT Remake!!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 314
+      "viewers": 361
     },
     {
       "platform": "twitch",
       "name": "ElPinguinoDeMario",
       "title": "Practicamos Hacking en Entornos Active Directory | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 58
+      "viewers": 46
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "meowing with the boys with @ayricu",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 18
+      "viewers": 17
     },
     {
       "platform": "youtube",
@@ -48,11 +48,19 @@
       "name": "ElPinguinoDeMario",
       "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Hacking en Entornos Active Directory",
       "link": "https://www.youtube.com/watch?v=cTaz_fpI1wI",
-      "viewers": 133
+      "viewers": 136
     }
   ],
-  "viewers_total": 556,
+  "viewers_total": 590,
   "videos": [
+    {
+      "video_id": "hhJmpIM0-yg",
+      "channel": "SecurityWeekly",
+      "title": "Nobody Teaches Us Digital Self Defense",
+      "link": "https://www.youtube.com/watch?v=hhJmpIM0-yg",
+      "published_at": "2026-11-07T15:45:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/hhJmpIM0-yg/hqdefault.jpg"
+    },
     {
       "video_id": "9cwTy9xG3zM",
       "channel": "TheLaluka",
@@ -206,14 +214,6 @@
       "link": "https://www.youtube.com/watch?v=ErB1SRcksDc",
       "published_at": "2026-11-06T14:09:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ErB1SRcksDc/hqdefault.jpg"
-    },
-    {
-      "video_id": "xGpIgLJ9ZIM",
-      "channel": "JohnHammond010",
-      "title": "A Database of Malware (in Minecraft)",
-      "link": "https://www.youtube.com/watch?v=xGpIgLJ9ZIM",
-      "published_at": "2026-11-06T14:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xGpIgLJ9ZIM/hqdefault.jpg"
     }
   ]
 }
