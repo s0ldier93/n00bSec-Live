@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-07T02:17:50Z",
+  "updated": "2026-11-07T02:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
