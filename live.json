@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-07T20:17:50Z",
+  "updated": "2026-11-07T20:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 34
+      "viewers": 36
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 447
+      "viewers": 452
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 482,
+  "viewers_total": 489,
   "videos": [
     {
       "video_id": "ELdsaZvJVZg",
