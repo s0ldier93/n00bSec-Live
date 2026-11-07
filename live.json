@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-06T23:57:49Z",
+  "updated": "2026-11-07T00:07:16Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "CyberWarriorStudios",
+      "title": "Security Happy Hour: Risk Management, Cyber Challenges & Preparing for a Shifting World w/ Mike Elkins",
+      "link": "https://twitch.tv/CyberWarriorStudios",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "fixit42",
@@ -14,9 +21,16 @@
       "title": "Buffer Overflow avanzado (ROP)",
       "link": "https://twitch.tv/team_whoami",
       "viewers": 3
+    },
+    {
+      "platform": "youtube",
+      "name": "CyberWarriorStudios",
+      "title": "Risk Management, Cyber Challenges & Preparing for a Shifting World w/ Mike Elkins",
+      "link": "https://www.youtube.com/watch?v=mw4-2RShkzc",
+      "viewers": 1
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
@@ -57,8 +71,7 @@
       "title": "Risk Management, Cyber Challenges & Preparing for a Shifting World w/ Mike Elkins",
       "link": "https://www.youtube.com/watch?v=mw4-2RShkzc",
       "published_at": "2026-11-06T15:35:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mw4-2RShkzc/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/mw4-2RShkzc/hqdefault.jpg"
     },
     {
       "video_id": "2V3WRtJn8lA",
