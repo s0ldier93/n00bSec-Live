@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-07T05:57:49Z",
+  "updated": "2026-11-07T06:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hacker plays Cyberpunk 2077 | First Run!",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 18
+      "viewers": 14
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "freshforensics",
       "title": "\ud83d\udc80Inside the iPhone: Exploits, Jailbreaks & Digital Forensics LIVE",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
