@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T00:27:50Z",
+  "updated": "2026-11-07T00:37:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "fixit42",
       "title": "Playing with ai - why not stream?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 12
+      "viewers": 10
     },
     {
       "platform": "youtube",
       "name": "CyberWarriorStudios",
       "title": "Risk Management, Cyber Challenges & Preparing for a Shifting World w/ Mike Elkins",
       "link": "https://www.youtube.com/watch?v=mw4-2RShkzc",
-      "viewers": 5
+      "viewers": 4
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 16,
   "videos": [
     {
       "video_id": "f_rte_AeWqI",
