@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-07T18:47:50Z",
+  "updated": "2026-11-07T18:57:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 36
+      "viewers": 49
     },
     {
       "platform": "twitch",
@@ -16,35 +16,14 @@
       "viewers": 498
     },
     {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "meowing with the boys with @ayricu",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 22
-    },
-    {
-      "platform": "twitch",
-      "name": "ProfitzTV",
-      "title": "FOREVER! | NA | Normal",
-      "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 5
-    },
-    {
       "platform": "youtube",
       "name": "B7H30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB",
       "link": "https://www.youtube.com/watch?v=A5cu3AUqt5Y",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "ProfitzTV",
-      "title": "FOREVER! | NA | Normal",
-      "link": "https://www.youtube.com/watch?v=_d0FziTacUA",
-      "viewers": 1
     }
   ],
-  "viewers_total": 563,
+  "viewers_total": 548,
   "videos": [
     {
       "video_id": "9FVcrVMnZNw",
