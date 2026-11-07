@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-07T18:57:49Z",
+  "updated": "2026-11-07T19:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 49
+      "viewers": 40
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 487
+      "viewers": 506
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 537,
+  "viewers_total": 547,
   "videos": [
+    {
+      "video_id": "F4duxQ4mMrg",
+      "channel": "JohnHammond010",
+      "title": "Taking your PHP Website Offline",
+      "link": "https://www.youtube.com/watch?v=F4duxQ4mMrg",
+      "published_at": "2026-11-07T19:00:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/F4duxQ4mMrg/hqdefault.jpg"
+    },
     {
       "video_id": "9FVcrVMnZNw",
       "channel": "JohnHammond010",
@@ -178,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=mw4-2RShkzc",
       "published_at": "2026-11-06T15:35:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mw4-2RShkzc/hqdefault.jpg"
-    },
-    {
-      "video_id": "2V3WRtJn8lA",
-      "channel": "CyberWarriorStudios",
-      "title": "Stay positive you got this!",
-      "link": "https://www.youtube.com/watch?v=2V3WRtJn8lA",
-      "published_at": "2026-11-06T15:22:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2V3WRtJn8lA/hqdefault.jpg"
     }
   ]
 }
