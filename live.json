@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-08T14:07:49Z",
+  "updated": "2026-11-08T14:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "linux, avant tout :)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 56
+      "viewers": 61
     }
   ],
-  "viewers_total": 56,
+  "viewers_total": 61,
   "videos": [
     {
       "video_id": "3ExPix3fwg0",
