@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-08T16:37:49Z",
+  "updated": "2026-11-08T16:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 305
+      "viewers": 297
     },
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "Deuxi\u00e8me round | HTB Postman #2",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 60
+      "viewers": 63
     }
   ],
-  "viewers_total": 365,
+  "viewers_total": 360,
   "videos": [
     {
       "video_id": "dICuIG_XHJk",
