@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T03:07:50Z",
+  "updated": "2026-11-08T03:17:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbSaturday Night Stream - The Legend of Zelda Ocarina of Time | Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 8
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "PULSE: One Heart. One Beat.",
+      "title": "PULSE: One Heart. One Beat. | ty: @beatsunitedradio",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 9
+      "viewers": 83
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Prompt Injecting the Colosseum by ItsBroken.ai",
       "link": "https://www.youtube.com/watch?v=BZs5irCLIUY",
-      "viewers": 7
+      "viewers": 6
     }
   ],
-  "viewers_total": 42,
+  "viewers_total": 112,
   "videos": [
     {
       "video_id": "P9gQ8a27qTk",
