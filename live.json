@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-08T02:37:49Z",
+  "updated": "2026-11-08T02:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Prompt Injecting the Colosseum by ItsBroken.ai",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 11
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Prompt Injecting the Colosseum by ItsBroken.ai",
       "link": "https://www.youtube.com/watch?v=BZs5irCLIUY",
-      "viewers": 7
+      "viewers": 8
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 25,
   "videos": [
     {
       "video_id": "P9gQ8a27qTk",
