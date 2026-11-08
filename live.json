@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-08T07:47:52Z",
+  "updated": "2026-11-08T08:06:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "BZs5irCLIUY",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! Prompt Injecting the Colosseum by ItsBroken.ai",
+      "link": "https://www.youtube.com/watch?v=BZs5irCLIUY",
+      "published_at": "2026-11-08T05:43:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/BZs5irCLIUY/hqdefault.jpg"
+    },
     {
       "video_id": "P9gQ8a27qTk",
       "channel": "CyberWarriorStudios",
@@ -155,14 +163,6 @@
       "link": "https://www.youtube.com/watch?v=f_rte_AeWqI",
       "published_at": "2026-11-06T22:00:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/f_rte_AeWqI/hqdefault.jpg"
-    },
-    {
-      "video_id": "PSDdF_Naz_M",
-      "channel": "JohnHammond010",
-      "title": "Next Steps for PHP",
-      "link": "https://www.youtube.com/watch?v=PSDdF_Naz_M",
-      "published_at": "2026-11-06T19:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PSDdF_Naz_M/hqdefault.jpg"
     }
   ]
 }
