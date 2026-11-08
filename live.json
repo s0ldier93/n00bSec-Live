@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-08T03:57:52Z",
+  "updated": "2026-11-08T04:07:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Prompt Injecting the Colosseum by ItsBroken.ai",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 20
+      "viewers": 17
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "goproflowyo",
       "title": "PULSE: One Heart. One Beat. | ty: @jackmonodj @beatsunitedradio",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 79
+      "viewers": 70
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Prompt Injecting the Colosseum by ItsBroken.ai",
       "link": "https://www.youtube.com/watch?v=BZs5irCLIUY",
-      "viewers": 6
+      "viewers": 7
     }
   ],
-  "viewers_total": 111,
+  "viewers_total": 100,
   "videos": [
     {
       "video_id": "P9gQ8a27qTk",
