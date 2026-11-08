@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-08T13:07:49Z",
+  "updated": "2026-11-08T13:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "linux, avant tout :)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 13
+      "viewers": 32
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 32,
   "videos": [
+    {
+      "video_id": "3ExPix3fwg0",
+      "channel": "team_whoami",
+      "title": "Ensamblador execve stack",
+      "link": "https://www.youtube.com/watch?v=3ExPix3fwg0",
+      "published_at": "2026-11-08T13:00:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3ExPix3fwg0/hqdefault.jpg"
+    },
     {
       "video_id": "BZs5irCLIUY",
       "channel": "BlaiseBits",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=ZvDPzP7U4cc",
       "published_at": "2026-11-06T23:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ZvDPzP7U4cc/hqdefault.jpg"
-    },
-    {
-      "video_id": "f_rte_AeWqI",
-      "channel": "SecurityWeekly",
-      "title": "AI hates us all, Binance, OpenSSH, Apple, WordPress, DNS, Scams, Josh Marpet and More - SWN #631",
-      "link": "https://www.youtube.com/watch?v=f_rte_AeWqI",
-      "published_at": "2026-11-06T22:00:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/f_rte_AeWqI/hqdefault.jpg"
     }
   ]
 }
