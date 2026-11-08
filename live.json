@@ -1,44 +1,52 @@
 {
-  "updated": "2026-11-08T19:07:49Z",
+  "updated": "2026-11-08T19:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 378
+      "viewers": 379
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "I keep forgetting: Is it Suit or Suites? | Live Hacking | Burp Suit/e Practitioner",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 12
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "I'm starting a business | Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 47
+      "viewers": 42
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 16
+      "viewers": 18
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "I'm starting a business | Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=snnjFiQhv50",
-      "viewers": 24
+      "viewers": 29
     }
   ],
-  "viewers_total": 477,
+  "viewers_total": 483,
   "videos": [
+    {
+      "video_id": "kU_xs9VAby4",
+      "channel": "Hackavis",
+      "title": "Lo que tu altavoz inteligente graba cuando no le hablas",
+      "link": "https://www.youtube.com/watch?v=kU_xs9VAby4",
+      "published_at": "2026-11-08T19:09:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/kU_xs9VAby4/hqdefault.jpg"
+    },
     {
       "video_id": "snnjFiQhv50",
       "channel": "pebl3",
@@ -191,14 +199,6 @@
       "link": "https://www.youtube.com/watch?v=NRu5Opnx0hM",
       "published_at": "2026-11-07T10:18:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NRu5Opnx0hM/hqdefault.jpg"
-    },
-    {
-      "video_id": "HVntgPcavpc",
-      "channel": "keylogin",
-      "title": "\ud83d\udd34 Reliving the Golden Era: Fresh Undead Warlock Journey (1-60) \ud83d\udc80 | WoW Forever | !commands",
-      "link": "https://www.youtube.com/watch?v=HVntgPcavpc",
-      "published_at": "2026-11-07T08:28:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/HVntgPcavpc/hqdefault.jpg"
     }
   ]
 }
