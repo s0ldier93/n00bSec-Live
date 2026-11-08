@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-08T15:17:49Z",
+  "updated": "2026-11-08T15:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "linux, avant tout :)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 66
+      "viewers": 64
     }
   ],
-  "viewers_total": 66,
+  "viewers_total": 64,
   "videos": [
+    {
+      "video_id": "dICuIG_XHJk",
+      "channel": "TheLaluka",
+      "title": "Why do these team names mean nothing? #shorts",
+      "link": "https://www.youtube.com/watch?v=dICuIG_XHJk",
+      "published_at": "2026-11-08T15:20:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dICuIG_XHJk/hqdefault.jpg"
+    },
     {
       "video_id": "3ExPix3fwg0",
       "channel": "team_whoami",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=RyTP9IlADtg",
       "published_at": "2026-11-06T23:03:53+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RyTP9IlADtg/hqdefault.jpg"
-    },
-    {
-      "video_id": "ZvDPzP7U4cc",
-      "channel": "SecurityWeekly",
-      "title": "Stop Prioritizing Vulnerabilities by CVSS Alone",
-      "link": "https://www.youtube.com/watch?v=ZvDPzP7U4cc",
-      "published_at": "2026-11-06T23:00:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ZvDPzP7U4cc/hqdefault.jpg"
     }
   ]
 }
