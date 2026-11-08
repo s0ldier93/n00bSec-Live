@@ -1,23 +1,39 @@
 {
-  "updated": "2026-11-08T16:47:49Z",
+  "updated": "2026-11-08T16:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 297
+      "viewers": 317
     },
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "Deuxi\u00e8me round | HTB Postman #2",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 63
+      "viewers": 77
+    },
+    {
+      "platform": "twitch",
+      "name": "ProfitzTV",
+      "title": "FOREVER! | NA | Normal",
+      "link": "https://twitch.tv/ProfitzTV",
+      "viewers": 5
     }
   ],
-  "viewers_total": 360,
+  "viewers_total": 399,
   "videos": [
+    {
+      "video_id": "h2hurwLQmLs",
+      "channel": "ProfitzTV",
+      "title": "FOREVER! | NA | Normal",
+      "link": "https://www.youtube.com/watch?v=h2hurwLQmLs",
+      "published_at": "2026-11-08T16:52:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/h2hurwLQmLs/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "dICuIG_XHJk",
       "channel": "TheLaluka",
@@ -170,14 +186,6 @@
       "published_at": "2026-11-07T00:04:48+00:00",
       "thumbnail": "https://i.ytimg.com/vi/vcZ0sNTUn7k/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "RyTP9IlADtg",
-      "channel": "Cyber_Insecurity",
-      "title": "Most AI workloads never needed a frontier model",
-      "link": "https://www.youtube.com/watch?v=RyTP9IlADtg",
-      "published_at": "2026-11-06T23:03:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RyTP9IlADtg/hqdefault.jpg"
     }
   ]
 }
