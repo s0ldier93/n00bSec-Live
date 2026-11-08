@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-08T15:27:49Z",
+  "updated": "2026-11-08T15:37:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "pwncollege",
+      "title": "CSE466 - Week 12.5 - Race Conditions Bonus Lecture",
+      "link": "https://twitch.tv/pwncollege",
+      "viewers": 9
+    },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "linux, avant tout :)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 64
+      "viewers": 72
     }
   ],
-  "viewers_total": 64,
+  "viewers_total": 81,
   "videos": [
     {
       "video_id": "dICuIG_XHJk",
