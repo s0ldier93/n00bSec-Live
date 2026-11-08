@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T21:07:50Z",
+  "updated": "2026-11-08T21:17:19Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,16 +7,9 @@
       "title": "NASA MAX POWER!! (DAY 2)",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 426
-    },
-    {
-      "platform": "youtube",
-      "name": "pebl3",
-      "title": "I'm starting a business | Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=snnjFiQhv50",
-      "viewers": 10
     }
   ],
-  "viewers_total": 436,
+  "viewers_total": 426,
   "videos": [
     {
       "video_id": "ew0YBfIdIXg",
