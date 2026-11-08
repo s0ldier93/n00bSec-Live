@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-08T18:57:49Z",
+  "updated": "2026-11-08T19:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 389
+      "viewers": 378
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "I keep forgetting: Is it Suit or Suites? | Live Hacking | Burp Suit/e Practitioner",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 14
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "I'm starting a business | Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 39
+      "viewers": 47
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 18
+      "viewers": 16
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 24
     }
   ],
-  "viewers_total": 484,
+  "viewers_total": 477,
   "videos": [
     {
       "video_id": "snnjFiQhv50",
