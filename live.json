@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-08T23:06:59Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-08T23:07:48Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "c04tl",
+      "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
+      "link": "https://twitch.tv/c04tl",
+      "viewers": 1
+    }
+  ],
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "7JcqimafXc4",
