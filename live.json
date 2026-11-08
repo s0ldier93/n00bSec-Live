@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-08T21:37:49Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "NASA MAX POWER!! (DAY 2)",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 387
-    }
-  ],
-  "viewers_total": 387,
+  "updated": "2026-11-08T21:47:49Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "ew0YBfIdIXg",
@@ -18,6 +10,15 @@
       "link": "https://www.youtube.com/watch?v=ew0YBfIdIXg",
       "published_at": "2026-11-08T20:15:46+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ew0YBfIdIXg/hqdefault.jpg"
+    },
+    {
+      "video_id": "SGmHISb0UDs",
+      "channel": "gerald_auger_simplycyber",
+      "title": "Layoffs Aren\u2019t Going to Stop in Cybersecurity - What\u2019s next?",
+      "link": "https://www.youtube.com/watch?v=SGmHISb0UDs",
+      "published_at": "2026-11-08T19:59:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SGmHISb0UDs/hqdefault.jpg",
+      "upcoming": true
     },
     {
       "video_id": "kU_xs9VAby4",
@@ -164,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=A5cu3AUqt5Y",
       "published_at": "2026-11-07T14:34:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/A5cu3AUqt5Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "I7RJocgveBk",
-      "channel": "keylogin",
-      "title": "\ud83d\udd34 Leaving Deathknell! Lvl 7 Undead Warlock Journey \ud83d\udc80 | WoW Forever (Chill Leveling) | !commands",
-      "link": "https://www.youtube.com/watch?v=I7RJocgveBk",
-      "published_at": "2026-11-07T14:31:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/I7RJocgveBk/hqdefault.jpg"
     }
   ]
 }
