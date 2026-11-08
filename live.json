@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-08T23:17:49Z",
+  "updated": "2026-11-08T23:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 5
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 5,
   "videos": [
+    {
+      "video_id": "Z8QbV_GWeiY",
+      "channel": "Cyber_Insecurity",
+      "title": "A worm moved through npm like it owned the place",
+      "link": "https://www.youtube.com/watch?v=Z8QbV_GWeiY",
+      "published_at": "2026-11-08T23:07:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Z8QbV_GWeiY/hqdefault.jpg"
+    },
     {
       "video_id": "7JcqimafXc4",
       "channel": "pebl3",
@@ -165,14 +173,6 @@
       "link": "https://www.youtube.com/watch?v=9cwTy9xG3zM",
       "published_at": "2026-11-07T15:20:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9cwTy9xG3zM/hqdefault.jpg"
-    },
-    {
-      "video_id": "cN4Uez-PZmM",
-      "channel": "ippsec",
-      "title": "HackTheBox - Garfield",
-      "link": "https://www.youtube.com/watch?v=cN4Uez-PZmM",
-      "published_at": "2026-11-07T15:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cN4Uez-PZmM/hqdefault.jpg"
     }
   ]
 }
