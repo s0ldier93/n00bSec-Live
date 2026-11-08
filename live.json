@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-08T16:17:49Z",
+  "updated": "2026-11-08T16:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 238
+      "viewers": 280
     },
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "Deuxi\u00e8me round | HTB Postman #2",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 67
+      "viewers": 78
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "CSE466 - Week 12.5 - Race Conditions Bonus Lecture",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 24
+      "viewers": 25
     }
   ],
-  "viewers_total": 329,
+  "viewers_total": 383,
   "videos": [
     {
       "video_id": "dICuIG_XHJk",
