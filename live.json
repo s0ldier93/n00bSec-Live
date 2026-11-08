@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-08T20:17:49Z",
+  "updated": "2026-11-08T20:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 409
+      "viewers": 418
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "I keep forgetting: Is it Suit or Suites? | Live Hacking | Burp Suit/e Practitioner",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 25
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "I'm starting a business | Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 43
+      "viewers": 49
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "I'm starting a business | Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=snnjFiQhv50",
-      "viewers": 36
+      "viewers": 34
     }
   ],
-  "viewers_total": 513,
+  "viewers_total": 522,
   "videos": [
+    {
+      "video_id": "ew0YBfIdIXg",
+      "channel": "mbcrump",
+      "title": "PS5 13.60: The Complete Jailbreak & Homebrew Guide (November 2026)",
+      "link": "https://www.youtube.com/watch?v=ew0YBfIdIXg",
+      "published_at": "2026-11-08T20:15:46+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ew0YBfIdIXg/hqdefault.jpg"
+    },
     {
       "video_id": "kU_xs9VAby4",
       "channel": "Hackavis",
@@ -185,14 +193,6 @@
       "link": "https://www.youtube.com/watch?v=I7RJocgveBk",
       "published_at": "2026-11-07T14:31:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/I7RJocgveBk/hqdefault.jpg"
-    },
-    {
-      "video_id": "cTaz_fpI1wI",
-      "channel": "ElPinguinoDeMario",
-      "title": "Taller Pr\u00e1ctico de Hacking \u00c9tico | Hacking en Entornos Active Directory",
-      "link": "https://www.youtube.com/watch?v=cTaz_fpI1wI",
-      "published_at": "2026-11-07T14:24:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cTaz_fpI1wI/hqdefault.jpg"
     }
   ]
 }
