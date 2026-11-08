@@ -1,43 +1,50 @@
 {
-  "updated": "2026-11-08T19:17:49Z",
+  "updated": "2026-11-08T19:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 379
+      "viewers": 384
     },
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "I keep forgetting: Is it Suit or Suites? | Live Hacking | Burp Suit/e Practitioner",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 15
+      "viewers": 13
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "I'm starting a business | Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 42
+      "viewers": 37
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 18
+      "viewers": 17
+    },
+    {
+      "platform": "twitch",
+      "name": "team_whoami",
+      "title": "Exploit de PS4",
+      "link": "https://twitch.tv/team_whoami",
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "I'm starting a business | Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=snnjFiQhv50",
-      "viewers": 29
+      "viewers": 31
     }
   ],
-  "viewers_total": 483,
+  "viewers_total": 484,
   "videos": [
     {
       "video_id": "kU_xs9VAby4",
@@ -46,6 +53,15 @@
       "link": "https://www.youtube.com/watch?v=kU_xs9VAby4",
       "published_at": "2026-11-08T19:09:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kU_xs9VAby4/hqdefault.jpg"
+    },
+    {
+      "video_id": "wqZ8_5VKBDw",
+      "channel": "TheShyHat",
+      "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
+      "link": "https://www.youtube.com/watch?v=wqZ8_5VKBDw",
+      "published_at": "2026-11-08T19:04:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wqZ8_5VKBDw/hqdefault.jpg",
+      "upcoming": true
     },
     {
       "video_id": "snnjFiQhv50",
@@ -191,14 +207,6 @@
       "link": "https://www.youtube.com/watch?v=cTaz_fpI1wI",
       "published_at": "2026-11-07T14:24:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cTaz_fpI1wI/hqdefault.jpg"
-    },
-    {
-      "video_id": "NRu5Opnx0hM",
-      "channel": "keylogin",
-      "title": "\ud83d\udd34 Top 150 Shadow Priest Solo Shuffle | 2.5k MMR Lobbies & 2400 Push \u2694\ufe0f | WoW Midnight",
-      "link": "https://www.youtube.com/watch?v=NRu5Opnx0hM",
-      "published_at": "2026-11-07T10:18:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NRu5Opnx0hM/hqdefault.jpg"
     }
   ]
 }
