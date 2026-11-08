@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-08T18:07:49Z",
+  "updated": "2026-11-08T18:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NASA MAX POWER!! (DAY 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 363
+      "viewers": 367
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "I'm starting a business | Hacking CTFs | !htb !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 37
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 23
+      "viewers": 22
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "I'm starting a business | Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=snnjFiQhv50",
-      "viewers": 30
+      "viewers": 26
     }
   ],
-  "viewers_total": 453,
+  "viewers_total": 446,
   "videos": [
     {
       "video_id": "snnjFiQhv50",
