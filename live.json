@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-08T01:27:48Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-08T02:17:12Z",
+  "streams": [
+    {
+      "platform": "youtube",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! Prompt Injecting the Colosseum by ItsBroken.ai",
+      "link": "https://www.youtube.com/watch?v=BZs5irCLIUY",
+      "viewers": 3
+    }
+  ],
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "P9gQ8a27qTk",
