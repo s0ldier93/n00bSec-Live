@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-08T21:47:49Z",
+  "updated": "2026-11-08T23:06:59Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "7JcqimafXc4",
+      "channel": "pebl3",
+      "title": "One phone call took down a Vegas casino",
+      "link": "https://www.youtube.com/watch?v=7JcqimafXc4",
+      "published_at": "2026-11-08T22:48:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/7JcqimafXc4/hqdefault.jpg"
+    },
     {
       "video_id": "ew0YBfIdIXg",
       "channel": "mbcrump",
@@ -157,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=cN4Uez-PZmM",
       "published_at": "2026-11-07T15:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cN4Uez-PZmM/hqdefault.jpg"
-    },
-    {
-      "video_id": "A5cu3AUqt5Y",
-      "channel": "B7H30",
-      "title": "Password policies HATE this one weird 257-character trick | OSCP Study on HTB",
-      "link": "https://www.youtube.com/watch?v=A5cu3AUqt5Y",
-      "published_at": "2026-11-07T14:34:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/A5cu3AUqt5Y/hqdefault.jpg"
     }
   ]
 }
