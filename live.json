@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-09T08:06:53Z",
+  "updated": "2026-11-09T10:06:52Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "QlAxxnK0LWs",
+      "channel": "SecurityWeekly",
+      "title": "Assessing risk at the speed of change, coordinated disclosure, and the news - ESW #484",
+      "link": "https://www.youtube.com/watch?v=QlAxxnK0LWs",
+      "published_at": "2026-11-09T10:00:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QlAxxnK0LWs/hqdefault.jpg"
+    },
     {
       "video_id": "DiFloJ2RsAc",
       "channel": "Khaos_Farbauti",
@@ -157,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=CXrJtT8w1jo",
       "published_at": "2026-11-07T17:01:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CXrJtT8w1jo/hqdefault.jpg"
-    },
-    {
-      "video_id": "_d0FziTacUA",
-      "channel": "ProfitzTV",
-      "title": "FOREVER! | NA | Normal",
-      "link": "https://www.youtube.com/watch?v=_d0FziTacUA",
-      "published_at": "2026-11-07T16:43:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/_d0FziTacUA/hqdefault.jpg"
     }
   ]
 }
