@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-09T22:07:49Z",
+  "updated": "2026-11-09T22:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-11-09",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 4)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 210
+      "viewers": 228
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "POPUP w/ @alzivar | ty: @alzivar",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 24
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hacking the government (divorced dad music)",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 37
+      "viewers": 42
     }
   ],
-  "viewers_total": 274,
+  "viewers_total": 293,
   "videos": [
+    {
+      "video_id": "CCb8NaCnQTo",
+      "channel": "pebl3",
+      "title": "Hackers didn't steal a cent. They melted the ice cream.",
+      "link": "https://www.youtube.com/watch?v=CCb8NaCnQTo",
+      "published_at": "2026-11-09T22:02:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CCb8NaCnQTo/hqdefault.jpg"
+    },
     {
       "video_id": "C40pljzfrrc",
       "channel": "gerald_auger_simplycyber",
@@ -185,14 +193,6 @@
       "link": "https://www.youtube.com/watch?v=Z8QbV_GWeiY",
       "published_at": "2026-11-08T23:07:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Z8QbV_GWeiY/hqdefault.jpg"
-    },
-    {
-      "video_id": "7JcqimafXc4",
-      "channel": "pebl3",
-      "title": "One phone call took down a Vegas casino",
-      "link": "https://www.youtube.com/watch?v=7JcqimafXc4",
-      "published_at": "2026-11-08T22:48:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/7JcqimafXc4/hqdefault.jpg"
     }
   ]
 }
