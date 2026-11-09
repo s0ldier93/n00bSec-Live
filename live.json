@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-09T00:37:49Z",
+  "updated": "2026-11-09T00:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT \ud83e\udd75\ud83e\udd75",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Leaving Wordpress Finally & Made My Own|Morrowind|Cybersecurity,Rants,Gaming on Linux&Chill|11-8-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 9
+      "viewers": 13
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "Z8QbV_GWeiY",
