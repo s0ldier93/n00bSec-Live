@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-09T14:07:49Z",
+  "updated": "2026-11-09T14:17:48Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "cyber_insecurity",
+      "title": "Qwen4 is fake news - AI, Cybersecurity & Tech Standup",
+      "link": "https://twitch.tv/cyber_insecurity",
+      "viewers": 9
+    },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 9's Top Cyber News NOW! - Ep 1283",
       "link": "https://www.youtube.com/watch?v=efuRfYHAy2M",
-      "viewers": 242
+      "viewers": 225
     }
   ],
-  "viewers_total": 242,
+  "viewers_total": 234,
   "videos": [
     {
       "video_id": "DhdJBwVZp5M",
