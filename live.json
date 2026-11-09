@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-09T10:16:53Z",
+  "updated": "2026-11-09T10:46:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "MyTxeWjgbxA",
+      "channel": "FixIt42",
+      "title": "Playing with ai - why not stream?",
+      "link": "https://www.youtube.com/watch?v=MyTxeWjgbxA",
+      "published_at": "2026-11-09T10:34:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MyTxeWjgbxA/hqdefault.jpg"
+    },
     {
       "video_id": "acL76xFY3fI",
       "channel": "jarnobaselier",
@@ -157,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=F4duxQ4mMrg",
       "published_at": "2026-11-07T19:00:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/F4duxQ4mMrg/hqdefault.jpg"
-    },
-    {
-      "video_id": "9FVcrVMnZNw",
-      "channel": "JohnHammond010",
-      "title": "AI Security Boundaries",
-      "link": "https://www.youtube.com/watch?v=9FVcrVMnZNw",
-      "published_at": "2026-11-07T17:57:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9FVcrVMnZNw/hqdefault.jpg"
     }
   ]
 }
