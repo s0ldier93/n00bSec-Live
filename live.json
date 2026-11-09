@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-09T14:57:50Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "cyber_insecurity",
-      "title": "Qwen4 is fake news - AI, Cybersecurity & Tech Standup",
-      "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 42
-    }
-  ],
-  "viewers_total": 42,
+  "updated": "2026-11-09T15:06:54Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "wMgZjj4nfUI",
+      "channel": "SecurityWeekly",
+      "title": "Security Can't Keep Up With Modern Work",
+      "link": "https://www.youtube.com/watch?v=wMgZjj4nfUI",
+      "published_at": "2026-11-09T15:00:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wMgZjj4nfUI/hqdefault.jpg"
+    },
     {
       "video_id": "yydGYEnRKzg",
       "channel": "JohnHammond010",
@@ -165,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=BZs5irCLIUY",
       "published_at": "2026-11-08T05:43:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/BZs5irCLIUY/hqdefault.jpg"
-    },
-    {
-      "video_id": "P9gQ8a27qTk",
-      "channel": "CyberWarriorStudios",
-      "title": "Have fun and live life to the fullest!",
-      "link": "https://www.youtube.com/watch?v=P9gQ8a27qTk",
-      "published_at": "2026-11-07T21:48:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/P9gQ8a27qTk/hqdefault.jpg"
     }
   ]
 }
