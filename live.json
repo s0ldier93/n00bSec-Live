@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-09T17:47:49Z",
+  "updated": "2026-11-09T17:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 275
+      "viewers": 320
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hiding in your computer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 26
+      "viewers": 24
     }
   ],
-  "viewers_total": 301,
+  "viewers_total": 344,
   "videos": [
     {
       "video_id": "M6WPewgg9-0",
