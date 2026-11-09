@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-09T15:26:52Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-09T16:27:50Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "ej_sa",
+      "title": "Driving back from NASA MAX POWER! 11/9/26",
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 42
+    }
+  ],
+  "viewers_total": 42,
   "videos": [
     {
       "video_id": "INtNIpu6hBI",
