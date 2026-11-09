@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-09T18:57:49Z",
+  "updated": "2026-11-09T19:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hacking the government (divorced dad music)",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 53
+      "viewers": 50
     },
     {
       "platform": "twitch",
       "name": "zunderrub",
       "title": "Hola algo de hackers haremos | Hacker Ciberseguridad Informatica",
       "link": "https://twitch.tv/zunderrub",
-      "viewers": 13
+      "viewers": 10
     }
   ],
-  "viewers_total": 66,
+  "viewers_total": 60,
   "videos": [
     {
       "video_id": "zZ0ZLqx5qN4",
