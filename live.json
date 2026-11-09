@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-09T14:47:49Z",
+  "updated": "2026-11-09T14:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Qwen4 is fake news - AI, Cybersecurity & Tech Standup",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 34
+      "viewers": 42
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 42,
   "videos": [
     {
       "video_id": "yydGYEnRKzg",
