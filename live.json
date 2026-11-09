@@ -1,23 +1,32 @@
 {
-  "updated": "2026-11-09T20:07:49Z",
+  "updated": "2026-11-09T20:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 249
+      "viewers": 273
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hacking the government (divorced dad music)",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 49
+      "viewers": 43
     }
   ],
-  "viewers_total": 298,
+  "viewers_total": 316,
   "videos": [
+    {
+      "video_id": "C40pljzfrrc",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 13's Top Cyber News NOW! - Ep 1287",
+      "link": "https://www.youtube.com/watch?v=C40pljzfrrc",
+      "published_at": "2026-11-09T20:06:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/C40pljzfrrc/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "tUnImI2g_rE",
       "channel": "gerald_auger_simplycyber",
@@ -26,6 +35,14 @@
       "published_at": "2026-11-09T20:01:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tUnImI2g_rE/hqdefault.jpg",
       "upcoming": true
+    },
+    {
+      "video_id": "kvbGPafjEYM",
+      "channel": "SecurityWeekly",
+      "title": "PHP2Shell Exploitation Hits Production Firewalls",
+      "link": "https://www.youtube.com/watch?v=kvbGPafjEYM",
+      "published_at": "2026-11-09T20:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/kvbGPafjEYM/hqdefault.jpg"
     },
     {
       "video_id": "3sHAp5on6rk",
@@ -162,23 +179,6 @@
       "link": "https://www.youtube.com/watch?v=7JcqimafXc4",
       "published_at": "2026-11-08T22:48:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/7JcqimafXc4/hqdefault.jpg"
-    },
-    {
-      "video_id": "ew0YBfIdIXg",
-      "channel": "mbcrump",
-      "title": "PS5 13.60: The Complete Jailbreak & Homebrew Guide (November 2026)",
-      "link": "https://www.youtube.com/watch?v=ew0YBfIdIXg",
-      "published_at": "2026-11-08T20:15:46+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ew0YBfIdIXg/hqdefault.jpg"
-    },
-    {
-      "video_id": "SGmHISb0UDs",
-      "channel": "gerald_auger_simplycyber",
-      "title": "Layoffs Aren\u2019t Going to Stop in Cybersecurity - What\u2019s next?",
-      "link": "https://www.youtube.com/watch?v=SGmHISb0UDs",
-      "published_at": "2026-11-08T19:59:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SGmHISb0UDs/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
