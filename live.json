@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-09T16:37:49Z",
+  "updated": "2026-11-09T16:46:52Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "M6WPewgg9-0",
+      "channel": "CyberWarriorStudios",
+      "title": "Why Tech Pros Fail to Get Promoted #cybersecurity #techcareer #careeradvice #thecyberwarrior #shorts",
+      "link": "https://www.youtube.com/watch?v=M6WPewgg9-0",
+      "published_at": "2026-11-09T16:37:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/M6WPewgg9-0/hqdefault.jpg"
+    },
     {
       "video_id": "INtNIpu6hBI",
       "channel": "TheLaluka",
@@ -157,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=dICuIG_XHJk",
       "published_at": "2026-11-08T15:20:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dICuIG_XHJk/hqdefault.jpg"
-    },
-    {
-      "video_id": "3ExPix3fwg0",
-      "channel": "team_whoami",
-      "title": "Ensamblador execve stack",
-      "link": "https://www.youtube.com/watch?v=3ExPix3fwg0",
-      "published_at": "2026-11-08T13:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/3ExPix3fwg0/hqdefault.jpg"
     }
   ]
 }
