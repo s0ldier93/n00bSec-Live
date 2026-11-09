@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-09T22:37:50Z",
+  "updated": "2026-11-09T22:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "POPUP w/ @alzivar | ty: @alzivar",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 26
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hacking the government (divorced dad music)",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 37
+      "viewers": 36
     }
   ],
-  "viewers_total": 63,
+  "viewers_total": 59,
   "videos": [
     {
       "video_id": "CCb8NaCnQTo",
