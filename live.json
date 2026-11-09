@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-09T11:06:52Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-09T12:17:48Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "fixit42",
+      "title": "Am I actually gonna stream when the schedule says I'm going to? ;) Yup!",
+      "link": "https://twitch.tv/fixit42",
+      "viewers": 2
+    }
+  ],
+  "viewers_total": 2,
   "videos": [
     {
       "video_id": "-wTfvYJV-PY",
