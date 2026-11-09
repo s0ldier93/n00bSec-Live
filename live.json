@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-09T10:06:52Z",
+  "updated": "2026-11-09T10:16:53Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "acL76xFY3fI",
+      "channel": "jarnobaselier",
+      "title": "DeepTeam: The Open-Source Tool for AI LLM Penetration Testing!",
+      "link": "https://www.youtube.com/watch?v=acL76xFY3fI",
+      "published_at": "2026-11-09T10:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/acL76xFY3fI/hqdefault.jpg"
+    },
     {
       "video_id": "QlAxxnK0LWs",
       "channel": "SecurityWeekly",
@@ -157,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=9FVcrVMnZNw",
       "published_at": "2026-11-07T17:57:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9FVcrVMnZNw/hqdefault.jpg"
-    },
-    {
-      "video_id": "CXrJtT8w1jo",
-      "channel": "Cyber_Insecurity",
-      "title": "The risk isn't where the model was trained. It's where your data goes",
-      "link": "https://www.youtube.com/watch?v=CXrJtT8w1jo",
-      "published_at": "2026-11-07T17:01:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CXrJtT8w1jo/hqdefault.jpg"
     }
   ]
 }
