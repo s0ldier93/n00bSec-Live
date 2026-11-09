@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-09T22:17:50Z",
+  "updated": "2026-11-09T22:27:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-11-09",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "goproflowyo",
       "title": "POPUP w/ @alzivar | ty: @alzivar",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 21
+      "viewers": 20
     },
     {
       "platform": "twitch",
