@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-09T21:37:49Z",
+  "updated": "2026-11-09T21:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-11-09",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 314
+      "viewers": 303
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "POPUP w/ @alzivar | ty: @alzivar",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 17
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hacking the government (divorced dad music)",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 53
+      "viewers": 45
     }
   ],
-  "viewers_total": 385,
+  "viewers_total": 369,
   "videos": [
     {
       "video_id": "C40pljzfrrc",
