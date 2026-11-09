@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-09T03:27:50Z",
+  "updated": "2026-11-09T03:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 17
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Leaving Wordpress Finally & Made My Own|Morrowind|Cybersecurity,Rants,Gaming on Linux&Chill|11-8-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 5
+      "viewers": 12
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 7
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 39,
   "videos": [
     {
       "video_id": "C_x7REHGW8Y",
