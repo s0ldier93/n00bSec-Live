@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-09T10:46:54Z",
+  "updated": "2026-11-09T11:06:52Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "-wTfvYJV-PY",
+      "channel": "DCCyberSec",
+      "title": "Can AI Hack Better Than You?",
+      "link": "https://www.youtube.com/watch?v=-wTfvYJV-PY",
+      "published_at": "2026-11-09T11:00:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-wTfvYJV-PY/hqdefault.jpg"
+    },
     {
       "video_id": "MyTxeWjgbxA",
       "channel": "FixIt42",
@@ -157,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=ELdsaZvJVZg",
       "published_at": "2026-11-07T19:43:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ELdsaZvJVZg/hqdefault.jpg"
-    },
-    {
-      "video_id": "F4duxQ4mMrg",
-      "channel": "JohnHammond010",
-      "title": "Taking your PHP Website Offline",
-      "link": "https://www.youtube.com/watch?v=F4duxQ4mMrg",
-      "published_at": "2026-11-07T19:00:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/F4duxQ4mMrg/hqdefault.jpg"
     }
   ]
 }
