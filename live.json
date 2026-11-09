@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-09T14:37:34Z",
+  "updated": "2026-11-09T14:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Qwen4 is fake news - AI, Cybersecurity & Tech Standup",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 30
+      "viewers": 34
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 34,
   "videos": [
+    {
+      "video_id": "yydGYEnRKzg",
+      "channel": "JohnHammond010",
+      "title": "ClickFix Cache Trick",
+      "link": "https://www.youtube.com/watch?v=yydGYEnRKzg",
+      "published_at": "2026-11-09T14:37:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yydGYEnRKzg/hqdefault.jpg"
+    },
     {
       "video_id": "DhdJBwVZp5M",
       "channel": "NahamSec",
@@ -165,14 +173,6 @@
       "link": "https://www.youtube.com/watch?v=P9gQ8a27qTk",
       "published_at": "2026-11-07T21:48:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/P9gQ8a27qTk/hqdefault.jpg"
-    },
-    {
-      "video_id": "iWeChMmnPmg",
-      "channel": "CyberWarriorStudios",
-      "title": "Your EDR Won\u2019t Catch Everything. Assume You\u2019ve Been Breached. #shorts",
-      "link": "https://www.youtube.com/watch?v=iWeChMmnPmg",
-      "published_at": "2026-11-07T21:13:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/iWeChMmnPmg/hqdefault.jpg"
     }
   ]
 }
