@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-09T13:47:48Z",
+  "updated": "2026-11-09T13:57:49Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 9's Top Cyber News NOW! - Ep 1283",
       "link": "https://www.youtube.com/watch?v=efuRfYHAy2M",
-      "viewers": 310
+      "viewers": 321
     }
   ],
-  "viewers_total": 310,
+  "viewers_total": 321,
   "videos": [
+    {
+      "video_id": "DhdJBwVZp5M",
+      "channel": "NahamSec",
+      "title": "I Almost Missed This Kubernetes Vulnerability",
+      "link": "https://www.youtube.com/watch?v=DhdJBwVZp5M",
+      "published_at": "2026-11-09T13:40:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/DhdJBwVZp5M/hqdefault.jpg"
+    },
     {
       "video_id": "-wTfvYJV-PY",
       "channel": "DCCyberSec",
@@ -165,14 +173,6 @@
       "link": "https://www.youtube.com/watch?v=iWeChMmnPmg",
       "published_at": "2026-11-07T21:13:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/iWeChMmnPmg/hqdefault.jpg"
-    },
-    {
-      "video_id": "ELdsaZvJVZg",
-      "channel": "mbcrump",
-      "title": "Removing Your PS5 Jailbreak for GTA 6? Follow This Checklist",
-      "link": "https://www.youtube.com/watch?v=ELdsaZvJVZg",
-      "published_at": "2026-11-07T19:43:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ELdsaZvJVZg/hqdefault.jpg"
     }
   ]
 }
