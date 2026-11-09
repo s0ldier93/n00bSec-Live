@@ -1,22 +1,29 @@
 {
-  "updated": "2026-11-09T20:27:49Z",
+  "updated": "2026-11-09T20:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 268
+      "viewers": 272
+    },
+    {
+      "platform": "twitch",
+      "name": "goproflowyo",
+      "title": "POPUP w/ @alzivar",
+      "link": "https://twitch.tv/goproflowyo",
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hacking the government (divorced dad music)",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 47
+      "viewers": 43
     }
   ],
-  "viewers_total": 315,
+  "viewers_total": 319,
   "videos": [
     {
       "video_id": "C40pljzfrrc",
