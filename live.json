@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-09T06:07:17Z",
+  "updated": "2026-11-09T08:06:53Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "DiFloJ2RsAc",
+      "channel": "Khaos_Farbauti",
+      "title": "LE FACTEUR SONNE TOUJOURS DEUX FOIS | HTB Postman #2",
+      "link": "https://www.youtube.com/watch?v=DiFloJ2RsAc",
+      "published_at": "2026-11-09T06:37:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/DiFloJ2RsAc/hqdefault.jpg"
+    },
     {
       "video_id": "C_x7REHGW8Y",
       "channel": "BlaiseBits",
@@ -157,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=_d0FziTacUA",
       "published_at": "2026-11-07T16:43:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/_d0FziTacUA/hqdefault.jpg"
-    },
-    {
-      "video_id": "hhJmpIM0-yg",
-      "channel": "SecurityWeekly",
-      "title": "Nobody Teaches Us Digital Self Defense",
-      "link": "https://www.youtube.com/watch?v=hhJmpIM0-yg",
-      "published_at": "2026-11-07T15:45:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hhJmpIM0-yg/hqdefault.jpg"
     }
   ]
 }
