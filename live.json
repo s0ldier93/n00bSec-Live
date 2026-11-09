@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-09T04:47:50Z",
+  "updated": "2026-11-09T04:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 32
+      "viewers": 30
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 7
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "C_x7REHGW8Y",
