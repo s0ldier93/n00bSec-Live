@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-09T18:37:50Z",
+  "updated": "2026-11-09T18:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 325
+      "viewers": 330
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hiding in your computer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 62
+      "viewers": 53
     },
     {
       "platform": "twitch",
       "name": "zunderrub",
       "title": "Hola algo de hackers haremos | Hacker Ciberseguridad Informatica",
       "link": "https://twitch.tv/zunderrub",
-      "viewers": 7
+      "viewers": 8
     }
   ],
-  "viewers_total": 394,
+  "viewers_total": 391,
   "videos": [
     {
       "video_id": "zZ0ZLqx5qN4",
