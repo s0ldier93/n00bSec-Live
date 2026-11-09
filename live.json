@@ -1,30 +1,38 @@
 {
-  "updated": "2026-11-09T18:27:51Z",
+  "updated": "2026-11-09T18:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 331
+      "viewers": 325
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hiding in your computer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 67
+      "viewers": 62
     },
     {
       "platform": "twitch",
       "name": "zunderrub",
       "title": "Hola algo de hackers haremos | Hacker Ciberseguridad Informatica",
       "link": "https://twitch.tv/zunderrub",
-      "viewers": 8
+      "viewers": 7
     }
   ],
-  "viewers_total": 406,
+  "viewers_total": 394,
   "videos": [
+    {
+      "video_id": "zZ0ZLqx5qN4",
+      "channel": "CyberWarriorStudios",
+      "title": "It's Monday. Quit Making Excuses and Go Make It Happen",
+      "link": "https://www.youtube.com/watch?v=zZ0ZLqx5qN4",
+      "published_at": "2026-11-09T18:22:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zZ0ZLqx5qN4/hqdefault.jpg"
+    },
     {
       "video_id": "6AwT4_H1ugY",
       "channel": "Hackavis",
@@ -178,14 +186,6 @@
       "published_at": "2026-11-08T19:04:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wqZ8_5VKBDw/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "snnjFiQhv50",
-      "channel": "pebl3",
-      "title": "I'm starting a business | Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=snnjFiQhv50",
-      "published_at": "2026-11-08T16:55:55+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/snnjFiQhv50/hqdefault.jpg"
     }
   ]
 }
