@@ -1,23 +1,46 @@
 {
-  "updated": "2026-11-09T18:07:50Z",
+  "updated": "2026-11-09T18:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 310
+      "viewers": 318
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hiding in your computer",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 26
+      "viewers": 73
+    },
+    {
+      "platform": "twitch",
+      "name": "zunderrub",
+      "title": "Hola algo de hackers haremos | Hacker Ciberseguridad Informatica",
+      "link": "https://twitch.tv/zunderrub",
+      "viewers": 6
     }
   ],
-  "viewers_total": 336,
+  "viewers_total": 397,
   "videos": [
+    {
+      "video_id": "6AwT4_H1ugY",
+      "channel": "Hackavis",
+      "title": "Un solo usuario y saben todas tus cuentas",
+      "link": "https://www.youtube.com/watch?v=6AwT4_H1ugY",
+      "published_at": "2026-11-09T18:06:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6AwT4_H1ugY/hqdefault.jpg"
+    },
+    {
+      "video_id": "7zpMlDuXTI4",
+      "channel": "TheLaluka",
+      "title": "Warranty-Safe Unboxing :)",
+      "link": "https://www.youtube.com/watch?v=7zpMlDuXTI4",
+      "published_at": "2026-11-09T17:49:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/7zpMlDuXTI4/hqdefault.jpg"
+    },
     {
       "video_id": "M6WPewgg9-0",
       "channel": "CyberWarriorStudios",
@@ -163,23 +186,6 @@
       "link": "https://www.youtube.com/watch?v=snnjFiQhv50",
       "published_at": "2026-11-08T16:55:55+00:00",
       "thumbnail": "https://i.ytimg.com/vi/snnjFiQhv50/hqdefault.jpg"
-    },
-    {
-      "video_id": "h2hurwLQmLs",
-      "channel": "ProfitzTV",
-      "title": "FOREVER! | NA | Normal",
-      "link": "https://www.youtube.com/watch?v=h2hurwLQmLs",
-      "published_at": "2026-11-08T16:52:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/h2hurwLQmLs/hqdefault.jpg",
-      "upcoming": true
-    },
-    {
-      "video_id": "dICuIG_XHJk",
-      "channel": "TheLaluka",
-      "title": "Why do these team names mean nothing? #shorts",
-      "link": "https://www.youtube.com/watch?v=dICuIG_XHJk",
-      "published_at": "2026-11-08T15:20:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dICuIG_XHJk/hqdefault.jpg"
     }
   ]
 }
