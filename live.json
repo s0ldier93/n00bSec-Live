@@ -1,23 +1,32 @@
 {
-  "updated": "2026-11-09T19:57:49Z",
+  "updated": "2026-11-09T20:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 226
+      "viewers": 249
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hacking the government (divorced dad music)",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 51
+      "viewers": 49
     }
   ],
-  "viewers_total": 277,
+  "viewers_total": 298,
   "videos": [
+    {
+      "video_id": "tUnImI2g_rE",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 12's Top Cyber News NOW! - Ep 1286",
+      "link": "https://www.youtube.com/watch?v=tUnImI2g_rE",
+      "published_at": "2026-11-09T20:01:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tUnImI2g_rE/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "3sHAp5on6rk",
       "channel": "FixIt42",
@@ -170,14 +179,6 @@
       "published_at": "2026-11-08T19:59:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SGmHISb0UDs/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "kU_xs9VAby4",
-      "channel": "Hackavis",
-      "title": "Lo que tu altavoz inteligente graba cuando no le hablas",
-      "link": "https://www.youtube.com/watch?v=kU_xs9VAby4",
-      "published_at": "2026-11-08T19:09:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/kU_xs9VAby4/hqdefault.jpg"
     }
   ]
 }
