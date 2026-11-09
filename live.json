@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-09T19:37:50Z",
+  "updated": "2026-11-09T19:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 272
+      "viewers": 200
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "hacking the government (divorced dad music)",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 39
+      "viewers": 51
     }
   ],
-  "viewers_total": 311,
+  "viewers_total": 251,
   "videos": [
+    {
+      "video_id": "3sHAp5on6rk",
+      "channel": "FixIt42",
+      "title": "Playing with ai - why not stream?",
+      "link": "https://www.youtube.com/watch?v=3sHAp5on6rk",
+      "published_at": "2026-11-09T19:38:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3sHAp5on6rk/hqdefault.jpg"
+    },
     {
       "video_id": "zZ0ZLqx5qN4",
       "channel": "CyberWarriorStudios",
@@ -170,15 +178,6 @@
       "link": "https://www.youtube.com/watch?v=kU_xs9VAby4",
       "published_at": "2026-11-08T19:09:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kU_xs9VAby4/hqdefault.jpg"
-    },
-    {
-      "video_id": "wqZ8_5VKBDw",
-      "channel": "TheShyHat",
-      "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
-      "link": "https://www.youtube.com/watch?v=wqZ8_5VKBDw",
-      "published_at": "2026-11-08T19:04:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wqZ8_5VKBDw/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
