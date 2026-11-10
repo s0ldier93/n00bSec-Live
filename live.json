@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-10T15:07:50Z",
+  "updated": "2026-11-10T15:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/10/26 (part 7)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 110
+      "viewers": 159
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "viewers": 29
+      "viewers": 33
     }
   ],
-  "viewers_total": 139,
+  "viewers_total": 192,
   "videos": [
     {
       "video_id": "rdgXs2KHeqc",
