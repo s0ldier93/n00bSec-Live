@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-10T15:57:50Z",
+  "updated": "2026-11-10T16:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/10/26 (part 7)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 136
+      "viewers": 181
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "viewers": 50
+      "viewers": 37
     }
   ],
-  "viewers_total": 186,
+  "viewers_total": 218,
   "videos": [
+    {
+      "video_id": "O-YpYSHK34Q",
+      "channel": "thecybermentor",
+      "title": "Why Your Company Needs an AI Policy (Ask a CISO)",
+      "link": "https://www.youtube.com/watch?v=O-YpYSHK34Q",
+      "published_at": "2026-11-10T16:00:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/O-YpYSHK34Q/hqdefault.jpg"
+    },
     {
       "video_id": "zMrPNVH0tvM",
       "channel": "TheLaluka",
@@ -172,14 +180,6 @@
       "link": "https://www.youtube.com/watch?v=zZ0ZLqx5qN4",
       "published_at": "2026-11-09T18:22:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zZ0ZLqx5qN4/hqdefault.jpg"
-    },
-    {
-      "video_id": "6AwT4_H1ugY",
-      "channel": "Hackavis",
-      "title": "Un solo usuario y saben todas tus cuentas",
-      "link": "https://www.youtube.com/watch?v=6AwT4_H1ugY",
-      "published_at": "2026-11-09T18:06:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6AwT4_H1ugY/hqdefault.jpg"
     }
   ]
 }
