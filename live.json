@@ -1,23 +1,55 @@
 {
-  "updated": "2026-11-10T14:57:49Z",
+  "updated": "2026-11-10T15:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/10/26 (part 7)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 95
+      "viewers": 110
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "viewers": 17
+      "viewers": 29
     }
   ],
-  "viewers_total": 112,
+  "viewers_total": 139,
   "videos": [
+    {
+      "video_id": "rdgXs2KHeqc",
+      "channel": "gerald_auger_simplycyber",
+      "title": "Claude Mythos 5 Is Now a Red Team Tool #claude #cisco #cybersecurity",
+      "link": "https://www.youtube.com/watch?v=rdgXs2KHeqc",
+      "published_at": "2026-11-10T15:01:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/rdgXs2KHeqc/hqdefault.jpg"
+    },
+    {
+      "video_id": "0Fr_RKv0s8c",
+      "channel": "SecurityWeekly",
+      "title": "AI Won't Replace Traditional Security Tools",
+      "link": "https://www.youtube.com/watch?v=0Fr_RKv0s8c",
+      "published_at": "2026-11-10T15:00:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0Fr_RKv0s8c/hqdefault.jpg"
+    },
+    {
+      "video_id": "_mFaBrLWC3o",
+      "channel": "LuNiZz",
+      "title": "CLAUDE\u2019U BUG\u00dcN \u00d6\u011eRENSEM B\u00d6YLE BA\u015eLARDIM..",
+      "link": "https://www.youtube.com/watch?v=_mFaBrLWC3o",
+      "published_at": "2026-11-10T15:00:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_mFaBrLWC3o/hqdefault.jpg"
+    },
+    {
+      "video_id": "koLEJ3VS8bM",
+      "channel": "antisyphon",
+      "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
+      "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
+      "published_at": "2026-11-10T14:46:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/koLEJ3VS8bM/hqdefault.jpg"
+    },
     {
       "video_id": "Q-e9L6ECpgM",
       "channel": "JohnHammond010",
@@ -148,38 +180,6 @@
       "link": "https://www.youtube.com/watch?v=7zpMlDuXTI4",
       "published_at": "2026-11-09T17:49:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/7zpMlDuXTI4/hqdefault.jpg"
-    },
-    {
-      "video_id": "M6WPewgg9-0",
-      "channel": "CyberWarriorStudios",
-      "title": "Why Tech Pros Fail to Get Promoted #cybersecurity #techcareer #careeradvice #thecyberwarrior #shorts",
-      "link": "https://www.youtube.com/watch?v=M6WPewgg9-0",
-      "published_at": "2026-11-09T16:37:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/M6WPewgg9-0/hqdefault.jpg"
-    },
-    {
-      "video_id": "INtNIpu6hBI",
-      "channel": "TheLaluka",
-      "title": "Audit your own OS\u2026 never sleep again? #shorts",
-      "link": "https://www.youtube.com/watch?v=INtNIpu6hBI",
-      "published_at": "2026-11-09T15:20:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/INtNIpu6hBI/hqdefault.jpg"
-    },
-    {
-      "video_id": "wMgZjj4nfUI",
-      "channel": "SecurityWeekly",
-      "title": "Security Can't Keep Up With Modern Work",
-      "link": "https://www.youtube.com/watch?v=wMgZjj4nfUI",
-      "published_at": "2026-11-09T15:00:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wMgZjj4nfUI/hqdefault.jpg"
-    },
-    {
-      "video_id": "yydGYEnRKzg",
-      "channel": "JohnHammond010",
-      "title": "ClickFix Cache Trick",
-      "link": "https://www.youtube.com/watch?v=yydGYEnRKzg",
-      "published_at": "2026-11-09T14:37:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yydGYEnRKzg/hqdefault.jpg"
     }
   ]
 }
