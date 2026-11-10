@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:27:50Z",
+  "updated": "2026-11-10T19:37:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "ej_sa",
       "title": "Are we there yet? Driving back from NASA MAX POWER! 11/10/26 (part 9)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 251
+      "viewers": 252
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #13",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 28
+      "viewers": 30
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "viewers": 32
+      "viewers": 28
     }
   ],
-  "viewers_total": 505,
+  "viewers_total": 504,
   "videos": [
     {
       "video_id": "ViYUp3oTblc",
