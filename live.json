@@ -1,44 +1,52 @@
 {
-  "updated": "2026-11-10T19:57:49Z",
+  "updated": "2026-11-10T20:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Are we there yet? Driving back from NASA MAX POWER! 11/10/26 (part 9)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 277
+      "viewers": 269
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #13",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 34
+      "viewers": 37
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 0
+      "viewers": 22
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "viewers": 31
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
       "link": "https://www.youtube.com/watch?v=tL7qrCvZwGw",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 343,
+  "viewers_total": 359,
   "videos": [
+    {
+      "video_id": "tL7qrCvZwGw",
+      "channel": "TheLaluka",
+      "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
+      "link": "https://www.youtube.com/watch?v=tL7qrCvZwGw",
+      "published_at": "2026-11-10T19:56:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tL7qrCvZwGw/hqdefault.jpg"
+    },
     {
       "video_id": "ViYUp3oTblc",
       "channel": "Hackavis",
@@ -193,14 +201,6 @@
       "link": "https://www.youtube.com/watch?v=kvbGPafjEYM",
       "published_at": "2026-11-09T20:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kvbGPafjEYM/hqdefault.jpg"
-    },
-    {
-      "video_id": "5VY7yLbEu7U",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 10's Top Cyber News NOW! - Ep 1284",
-      "link": "https://www.youtube.com/watch?v=5VY7yLbEu7U",
-      "published_at": "2026-11-09T19:54:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5VY7yLbEu7U/hqdefault.jpg"
     }
   ]
 }
