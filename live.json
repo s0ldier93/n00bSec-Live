@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-10T22:47:49Z",
+  "updated": "2026-11-10T23:16:53Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "SAV3jvCffjU",
+      "channel": "SecurityWeekly",
+      "title": "French Fridge Fiasco",
+      "link": "https://www.youtube.com/watch?v=SAV3jvCffjU",
+      "published_at": "2026-11-10T23:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SAV3jvCffjU/hqdefault.jpg"
+    },
     {
       "video_id": "qYS8vMom5xE",
       "channel": "pebl3",
@@ -155,14 +163,6 @@
       "link": "https://www.youtube.com/watch?v=LwE8e0Kl5qc",
       "published_at": "2026-11-10T10:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LwE8e0Kl5qc/hqdefault.jpg"
-    },
-    {
-      "video_id": "S7drbhnlXOo",
-      "channel": "FixIt42",
-      "title": "Playing with ai - why not stream?",
-      "link": "https://www.youtube.com/watch?v=S7drbhnlXOo",
-      "published_at": "2026-11-10T01:16:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/S7drbhnlXOo/hqdefault.jpg"
     }
   ]
 }
