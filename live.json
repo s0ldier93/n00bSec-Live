@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T03:07:49Z",
+  "updated": "2026-11-10T03:17:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "het_tanis",
       "title": "Co-working in the home lab. We'll talk some AI with attacking and defending Linux in the enterprise.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 16
+      "viewers": 14
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 28,
   "videos": [
+    {
+      "video_id": "S7drbhnlXOo",
+      "channel": "FixIt42",
+      "title": "Playing with ai - why not stream?",
+      "link": "https://www.youtube.com/watch?v=S7drbhnlXOo",
+      "published_at": "2026-11-10T01:16:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/S7drbhnlXOo/hqdefault.jpg"
+    },
     {
       "video_id": "CCb8NaCnQTo",
       "channel": "pebl3",
@@ -171,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=C_x7REHGW8Y",
       "published_at": "2026-11-09T02:06:46+00:00",
       "thumbnail": "https://i.ytimg.com/vi/C_x7REHGW8Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "Z8QbV_GWeiY",
-      "channel": "Cyber_Insecurity",
-      "title": "A worm moved through npm like it owned the place",
-      "link": "https://www.youtube.com/watch?v=Z8QbV_GWeiY",
-      "published_at": "2026-11-08T23:07:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Z8QbV_GWeiY/hqdefault.jpg"
     }
   ]
 }
