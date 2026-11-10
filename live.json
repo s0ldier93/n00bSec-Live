@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-10T20:47:49Z",
+  "updated": "2026-11-10T20:57:52Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #13",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 36
+      "viewers": 33
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "antisyphon",
       "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "viewers": 27
+      "viewers": 26
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 91,
+  "viewers_total": 87,
   "videos": [
     {
       "video_id": "DcOfINGuaQw",
