@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T02:47:49Z",
+  "updated": "2026-11-10T02:57:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "het_tanis",
       "title": "Co-working in the home lab. We'll talk some AI with attacking and defending Linux in the enterprise.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 6
+      "viewers": 11
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "CCb8NaCnQTo",
