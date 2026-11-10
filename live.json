@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-10T10:16:53Z",
+  "updated": "2026-11-10T11:56:52Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "KfiJv0zcw4w",
+      "channel": "FixIt42",
+      "title": "Playing with ai - why not stream?",
+      "link": "https://www.youtube.com/watch?v=KfiJv0zcw4w",
+      "published_at": "2026-11-10T11:43:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/KfiJv0zcw4w/hqdefault.jpg"
+    },
     {
       "video_id": "LwE8e0Kl5qc",
       "channel": "SecurityWeekly",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=QlAxxnK0LWs",
       "published_at": "2026-11-09T10:00:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QlAxxnK0LWs/hqdefault.jpg"
-    },
-    {
-      "video_id": "DiFloJ2RsAc",
-      "channel": "Khaos_Farbauti",
-      "title": "LE FACTEUR SONNE TOUJOURS DEUX FOIS | HTB Postman #2",
-      "link": "https://www.youtube.com/watch?v=DiFloJ2RsAc",
-      "published_at": "2026-11-09T06:37:52+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DiFloJ2RsAc/hqdefault.jpg"
     }
   ]
 }
