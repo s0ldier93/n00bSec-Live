@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-10T20:17:50Z",
+  "updated": "2026-11-10T20:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #13",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 37
+      "viewers": 34
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 26
+      "viewers": 27
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "viewers": 31
+      "viewers": 28
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 98,
+  "viewers_total": 93,
   "videos": [
     {
       "video_id": "DcOfINGuaQw",
