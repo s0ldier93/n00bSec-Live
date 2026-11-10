@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-10T21:57:20Z",
+  "updated": "2026-11-10T21:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 25
+      "viewers": 24
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 25,
   "videos": [
     {
       "video_id": "DcOfINGuaQw",
