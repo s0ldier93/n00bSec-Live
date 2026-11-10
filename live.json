@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-10T02:37:49Z",
+  "updated": "2026-11-10T02:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "I Forgot How Annoying Web Design Was|Cybersecurity,Rants,&Chill|11-9-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 17
+      "viewers": 18
+    },
+    {
+      "platform": "twitch",
+      "name": "het_tanis",
+      "title": "Co-working in the home lab. We'll talk some AI with attacking and defending Linux in the enterprise.",
+      "link": "https://twitch.tv/het_tanis",
+      "viewers": 6
     }
   ],
-  "viewers_total": 17,
+  "viewers_total": 24,
   "videos": [
     {
       "video_id": "CCb8NaCnQTo",
