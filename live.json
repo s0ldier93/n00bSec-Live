@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-10T04:27:51Z",
+  "updated": "2026-11-10T10:16:53Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "LwE8e0Kl5qc",
+      "channel": "SecurityWeekly",
+      "title": "Human Expertise Will Always Be The Core Of AI Cybersecurity - Andrew Wesie - ASW #408",
+      "link": "https://www.youtube.com/watch?v=LwE8e0Kl5qc",
+      "published_at": "2026-11-10T10:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LwE8e0Kl5qc/hqdefault.jpg"
+    },
     {
       "video_id": "S7drbhnlXOo",
       "channel": "FixIt42",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=DiFloJ2RsAc",
       "published_at": "2026-11-09T06:37:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/DiFloJ2RsAc/hqdefault.jpg"
-    },
-    {
-      "video_id": "C_x7REHGW8Y",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
-      "link": "https://www.youtube.com/watch?v=C_x7REHGW8Y",
-      "published_at": "2026-11-09T02:06:46+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/C_x7REHGW8Y/hqdefault.jpg"
     }
   ]
 }
