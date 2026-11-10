@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-10T12:26:51Z",
+  "updated": "2026-11-10T13:06:53Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "ub6Q5xzbFhY",
+      "channel": "IC_null",
+      "title": "How does a blind person build a house in Paralives?",
+      "link": "https://www.youtube.com/watch?v=ub6Q5xzbFhY",
+      "published_at": "2026-11-10T12:49:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ub6Q5xzbFhY/hqdefault.jpg"
+    },
     {
       "video_id": "3ZTox3-FiW0",
       "channel": "hack_smarter",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=MyTxeWjgbxA",
       "published_at": "2026-11-09T10:34:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/MyTxeWjgbxA/hqdefault.jpg"
-    },
-    {
-      "video_id": "acL76xFY3fI",
-      "channel": "jarnobaselier",
-      "title": "DeepTeam: The Open-Source Tool for AI LLM Penetration Testing!",
-      "link": "https://www.youtube.com/watch?v=acL76xFY3fI",
-      "published_at": "2026-11-09T10:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/acL76xFY3fI/hqdefault.jpg"
     }
   ]
 }
