@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-10T18:57:50Z",
+  "updated": "2026-11-10T19:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 LinUtil Returns...",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 221
+      "viewers": 205
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Are we there yet? Driving back from NASA MAX POWER! 11/10/26 (part 9)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 272
+      "viewers": 212
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #13",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 22
+      "viewers": 24
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "viewers": 33
+      "viewers": 28
     }
   ],
-  "viewers_total": 548,
+  "viewers_total": 469,
   "videos": [
     {
       "video_id": "ViYUp3oTblc",
