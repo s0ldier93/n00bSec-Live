@@ -1,23 +1,32 @@
 {
-  "updated": "2026-11-10T14:07:50Z",
+  "updated": "2026-11-10T14:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 6)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 161
+      "viewers": 175
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 10's Top Cyber News NOW! - Ep 1284",
       "link": "https://www.youtube.com/watch?v=5VY7yLbEu7U",
-      "viewers": 341
+      "viewers": 298
     }
   ],
-  "viewers_total": 502,
+  "viewers_total": 473,
   "videos": [
+    {
+      "video_id": "Q-e9L6ECpgM",
+      "channel": "JohnHammond010",
+      "title": "Payload Podcast 013 - Catchup",
+      "link": "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
+      "published_at": "2026-11-10T13:54:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Q-e9L6ECpgM/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "cAjLzqkvfcI",
       "channel": "TheGoodHackerTV",
@@ -171,14 +180,6 @@
       "link": "https://www.youtube.com/watch?v=yydGYEnRKzg",
       "published_at": "2026-11-09T14:37:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yydGYEnRKzg/hqdefault.jpg"
-    },
-    {
-      "video_id": "DhdJBwVZp5M",
-      "channel": "NahamSec",
-      "title": "I Almost Missed This Kubernetes Vulnerability",
-      "link": "https://www.youtube.com/watch?v=DhdJBwVZp5M",
-      "published_at": "2026-11-09T13:40:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DhdJBwVZp5M/hqdefault.jpg"
     }
   ]
 }
