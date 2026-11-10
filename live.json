@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:27:49Z",
+  "updated": "2026-11-10T20:37:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "TheLaluka",
       "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 27
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "viewers": 28
+      "viewers": 23
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
       "link": "https://www.youtube.com/watch?v=tL7qrCvZwGw",
-      "viewers": 4
+      "viewers": 2
     }
   ],
-  "viewers_total": 93,
+  "viewers_total": 87,
   "videos": [
     {
       "video_id": "DcOfINGuaQw",
