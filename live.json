@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-10T11:56:52Z",
+  "updated": "2026-11-10T12:26:51Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "3ZTox3-FiW0",
+      "channel": "hack_smarter",
+      "title": "Hacking A Bank... (404 Bank - Part 4)",
+      "link": "https://www.youtube.com/watch?v=3ZTox3-FiW0",
+      "published_at": "2026-11-10T12:00:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3ZTox3-FiW0/hqdefault.jpg"
+    },
     {
       "video_id": "KfiJv0zcw4w",
       "channel": "FixIt42",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=acL76xFY3fI",
       "published_at": "2026-11-09T10:00:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/acL76xFY3fI/hqdefault.jpg"
-    },
-    {
-      "video_id": "QlAxxnK0LWs",
-      "channel": "SecurityWeekly",
-      "title": "Assessing risk at the speed of change, coordinated disclosure, and the news - ESW #484",
-      "link": "https://www.youtube.com/watch?v=QlAxxnK0LWs",
-      "published_at": "2026-11-09T10:00:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/QlAxxnK0LWs/hqdefault.jpg"
     }
   ]
 }
