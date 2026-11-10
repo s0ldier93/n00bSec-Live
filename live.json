@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-10T21:57:49Z",
+  "updated": "2026-11-10T22:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 24
+      "viewers": 21
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 25,
+  "viewers_total": 22,
   "videos": [
+    {
+      "video_id": "qYS8vMom5xE",
+      "channel": "pebl3",
+      "title": "The biggest crypto heist ever started with a job interview",
+      "link": "https://www.youtube.com/watch?v=qYS8vMom5xE",
+      "published_at": "2026-11-10T22:03:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qYS8vMom5xE/hqdefault.jpg"
+    },
     {
       "video_id": "DcOfINGuaQw",
       "channel": "HaxrByte",
@@ -170,15 +178,6 @@
       "link": "https://www.youtube.com/watch?v=CCb8NaCnQTo",
       "published_at": "2026-11-09T22:02:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CCb8NaCnQTo/hqdefault.jpg"
-    },
-    {
-      "video_id": "C40pljzfrrc",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 13's Top Cyber News NOW! - Ep 1287",
-      "link": "https://www.youtube.com/watch?v=C40pljzfrrc",
-      "published_at": "2026-11-09T20:06:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/C40pljzfrrc/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
