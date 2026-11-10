@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-10T18:37:51Z",
+  "updated": "2026-11-10T18:47:55Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 LinUtil Returns...",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 199
+      "viewers": 205
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Are we there yet? Driving back from NASA MAX POWER! 11/10/26 (part 9)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 233
+      "viewers": 258
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #13",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 18
+      "viewers": 21
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 32
     }
   ],
-  "viewers_total": 482,
+  "viewers_total": 516,
   "videos": [
     {
       "video_id": "ViYUp3oTblc",
