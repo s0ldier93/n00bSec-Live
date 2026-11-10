@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-09T23:17:50Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-10T00:37:50Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "chiefgyk3d",
+      "title": "I Forgot How Annoying Web Design Was|Cybersecurity,Rants,&Chill|11-9-26",
+      "link": "https://twitch.tv/chiefgyk3d",
+      "viewers": 8
+    }
+  ],
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "CCb8NaCnQTo",
