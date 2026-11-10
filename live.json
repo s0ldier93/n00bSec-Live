@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-10T13:07:49Z",
+  "updated": "2026-11-10T13:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 4)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 109
+      "viewers": 125
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 10's Top Cyber News NOW! - Ep 1284",
       "link": "https://www.youtube.com/watch?v=5VY7yLbEu7U",
-      "viewers": 174
+      "viewers": 269
     }
   ],
-  "viewers_total": 283,
+  "viewers_total": 394,
   "videos": [
     {
       "video_id": "ub6Q5xzbFhY",
@@ -91,6 +91,14 @@
       "link": "https://www.youtube.com/watch?v=kvbGPafjEYM",
       "published_at": "2026-11-09T20:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kvbGPafjEYM/hqdefault.jpg"
+    },
+    {
+      "video_id": "5VY7yLbEu7U",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 10's Top Cyber News NOW! - Ep 1284",
+      "link": "https://www.youtube.com/watch?v=5VY7yLbEu7U",
+      "published_at": "2026-11-09T19:54:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5VY7yLbEu7U/hqdefault.jpg"
     },
     {
       "video_id": "3sHAp5on6rk",
@@ -171,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=-wTfvYJV-PY",
       "published_at": "2026-11-09T11:00:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-wTfvYJV-PY/hqdefault.jpg"
-    },
-    {
-      "video_id": "MyTxeWjgbxA",
-      "channel": "FixIt42",
-      "title": "Playing with ai - why not stream?",
-      "link": "https://www.youtube.com/watch?v=MyTxeWjgbxA",
-      "published_at": "2026-11-09T10:34:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MyTxeWjgbxA/hqdefault.jpg"
     }
   ]
 }
