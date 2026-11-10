@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-10T13:17:50Z",
+  "updated": "2026-11-10T13:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 4)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 125
+      "viewers": 135
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 10's Top Cyber News NOW! - Ep 1284",
       "link": "https://www.youtube.com/watch?v=5VY7yLbEu7U",
-      "viewers": 269
+      "viewers": 328
     }
   ],
-  "viewers_total": 394,
+  "viewers_total": 463,
   "videos": [
     {
       "video_id": "ub6Q5xzbFhY",
