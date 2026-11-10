@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-10T15:17:49Z",
+  "updated": "2026-11-10T15:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Driving back from NASA MAX POWER! 11/10/26 (part 7)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 159
+      "viewers": 180
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "viewers": 33
+      "viewers": 37
     }
   ],
-  "viewers_total": 192,
+  "viewers_total": 217,
   "videos": [
+    {
+      "video_id": "zMrPNVH0tvM",
+      "channel": "TheLaluka",
+      "title": "What if you\u2019re pentesting YOUR own PC? #shorts",
+      "link": "https://www.youtube.com/watch?v=zMrPNVH0tvM",
+      "published_at": "2026-11-10T15:20:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zMrPNVH0tvM/hqdefault.jpg"
+    },
     {
       "video_id": "rdgXs2KHeqc",
       "channel": "gerald_auger_simplycyber",
@@ -172,14 +180,6 @@
       "link": "https://www.youtube.com/watch?v=6AwT4_H1ugY",
       "published_at": "2026-11-09T18:06:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6AwT4_H1ugY/hqdefault.jpg"
-    },
-    {
-      "video_id": "7zpMlDuXTI4",
-      "channel": "TheLaluka",
-      "title": "Warranty-Safe Unboxing :)",
-      "link": "https://www.youtube.com/watch?v=7zpMlDuXTI4",
-      "published_at": "2026-11-09T17:49:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/7zpMlDuXTI4/hqdefault.jpg"
     }
   ]
 }
