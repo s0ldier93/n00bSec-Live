@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-10T22:07:50Z",
+  "updated": "2026-11-10T22:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 21
+      "viewers": 19
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
       "link": "https://www.youtube.com/watch?v=tL7qrCvZwGw",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 22,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "qYS8vMom5xE",
@@ -25,6 +25,14 @@
       "link": "https://www.youtube.com/watch?v=qYS8vMom5xE",
       "published_at": "2026-11-10T22:03:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qYS8vMom5xE/hqdefault.jpg"
+    },
+    {
+      "video_id": "wrrA3BzMQL0",
+      "channel": "SecurityWeekly",
+      "title": "Bad Claude, French Fridge Fiasco Fries Fromage, Teenage AI, SonicWALL, Aaran Leyland - SWN #632",
+      "link": "https://www.youtube.com/watch?v=wrrA3BzMQL0",
+      "published_at": "2026-11-10T22:00:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wrrA3BzMQL0/hqdefault.jpg"
     },
     {
       "video_id": "DcOfINGuaQw",
@@ -170,14 +178,6 @@
       "link": "https://www.youtube.com/watch?v=S7drbhnlXOo",
       "published_at": "2026-11-10T01:16:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/S7drbhnlXOo/hqdefault.jpg"
-    },
-    {
-      "video_id": "CCb8NaCnQTo",
-      "channel": "pebl3",
-      "title": "Hackers didn't steal a cent. They melted the ice cream.",
-      "link": "https://www.youtube.com/watch?v=CCb8NaCnQTo",
-      "published_at": "2026-11-09T22:02:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CCb8NaCnQTo/hqdefault.jpg"
     }
   ]
 }
