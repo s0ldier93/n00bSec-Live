@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-10T17:57:51Z",
+  "updated": "2026-11-10T18:07:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 LinUtil Returns...",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 216
+      "viewers": 200
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #13",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 1
+      "viewers": 8
     },
     {
       "platform": "youtube",
@@ -30,8 +30,16 @@
       "viewers": 34
     }
   ],
-  "viewers_total": 461,
+  "viewers_total": 452,
   "videos": [
+    {
+      "video_id": "ViYUp3oTblc",
+      "channel": "Hackavis",
+      "title": "Tus posts borrados no se borran",
+      "link": "https://www.youtube.com/watch?v=ViYUp3oTblc",
+      "published_at": "2026-11-10T18:05:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ViYUp3oTblc/hqdefault.jpg"
+    },
     {
       "video_id": "S0ZuMK-nlsE",
       "channel": "Cyber_Insecurity",
@@ -186,14 +194,6 @@
       "link": "https://www.youtube.com/watch?v=5VY7yLbEu7U",
       "published_at": "2026-11-09T19:54:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/5VY7yLbEu7U/hqdefault.jpg"
-    },
-    {
-      "video_id": "3sHAp5on6rk",
-      "channel": "FixIt42",
-      "title": "Playing with ai - why not stream?",
-      "link": "https://www.youtube.com/watch?v=3sHAp5on6rk",
-      "published_at": "2026-11-09T19:38:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/3sHAp5on6rk/hqdefault.jpg"
     }
   ]
 }
