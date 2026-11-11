@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:07:32Z",
+  "updated": "2026-11-11T17:07:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting My Machine!",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 7
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 18
     }
   ],
-  "viewers_total": 63,
+  "viewers_total": 61,
   "videos": [
     {
       "video_id": "My5eJeLwCeY",
