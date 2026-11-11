@@ -1,43 +1,43 @@
 {
-  "updated": "2026-11-11T17:17:48Z",
+  "updated": "2026-11-11T17:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting My Machine!",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 6
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "thecybermentor",
       "title": "Veterans Day Cybersecurity Livestream - Carlo Anez Mazurco",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 19
+      "viewers": 14
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
       "link": "https://www.youtube.com/watch?v=whi6ZHDHddc",
-      "viewers": 27
+      "viewers": 35
     },
     {
       "platform": "youtube",
       "name": "thecybermentor",
       "title": "Veterans Day Cybersecurity Livestream - Carlo Anez Mazurco",
       "link": "https://www.youtube.com/watch?v=_MSFGF0XI6Q",
-      "viewers": 30
+      "viewers": 25
     }
   ],
-  "viewers_total": 86,
+  "viewers_total": 81,
   "videos": [
     {
       "video_id": "My5eJeLwCeY",
