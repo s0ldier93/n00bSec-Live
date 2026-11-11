@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-11T15:47:49Z",
+  "updated": "2026-11-11T16:07:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "nthsec",
+      "title": "LIVE Ethical Hacking -- Pentesting My Machine!",
+      "link": "https://twitch.tv/nthsec",
+      "viewers": 2
+    },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
-      "viewers": 23
+      "viewers": 17
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "FzrPUmJrhUM",
