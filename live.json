@@ -1,23 +1,45 @@
 {
-  "updated": "2026-11-11T20:07:49Z",
+  "updated": "2026-11-11T20:17:29Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "fixit42",
+      "title": "Kali on Windows 10 WSL2...",
+      "link": "https://twitch.tv/fixit42",
+      "viewers": 2
+    },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "(Part 2) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 27
+      "viewers": 25
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
-      "viewers": 27
+      "viewers": 28
+    },
+    {
+      "platform": "youtube",
+      "name": "FixIt42",
+      "title": "Kali on Windows 10 WSL2...",
+      "link": "https://www.youtube.com/watch?v=gvuNrImsaXg",
+      "viewers": 1
     }
   ],
-  "viewers_total": 54,
+  "viewers_total": 56,
   "videos": [
+    {
+      "video_id": "gvuNrImsaXg",
+      "channel": "FixIt42",
+      "title": "Kali on Windows 10 WSL2...",
+      "link": "https://www.youtube.com/watch?v=gvuNrImsaXg",
+      "published_at": "2026-11-11T20:11:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gvuNrImsaXg/hqdefault.jpg"
+    },
     {
       "video_id": "0XRv3uJOZiM",
       "channel": "Hackavis",
@@ -169,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=ViYUp3oTblc",
       "published_at": "2026-11-10T18:05:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ViYUp3oTblc/hqdefault.jpg"
-    },
-    {
-      "video_id": "S0ZuMK-nlsE",
-      "channel": "Cyber_Insecurity",
-      "title": "It's a wrapper. ARTEX runs Nuclei and sqlmap, same as always",
-      "link": "https://www.youtube.com/watch?v=S0ZuMK-nlsE",
-      "published_at": "2026-11-10T17:05:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/S0ZuMK-nlsE/hqdefault.jpg"
     }
   ]
 }
