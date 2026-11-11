@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-11T14:57:31Z",
+  "updated": "2026-11-11T15:07:49Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
-      "viewers": 5
+      "viewers": 17
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 17,
   "videos": [
+    {
+      "video_id": "Vq278eiUg-o",
+      "channel": "SecurityWeekly",
+      "title": "A Crisis Can Be Your Biggest Opportunity",
+      "link": "https://www.youtube.com/watch?v=Vq278eiUg-o",
+      "published_at": "2026-11-11T15:00:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Vq278eiUg-o/hqdefault.jpg"
+    },
     {
       "video_id": "GyF0o6txFRs",
       "channel": "ElPinguinoDeMario",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=cAjLzqkvfcI",
       "published_at": "2026-11-10T13:41:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cAjLzqkvfcI/hqdefault.jpg"
-    },
-    {
-      "video_id": "ub6Q5xzbFhY",
-      "channel": "IC_null",
-      "title": "How does a blind person build a house in Paralives?",
-      "link": "https://www.youtube.com/watch?v=ub6Q5xzbFhY",
-      "published_at": "2026-11-10T12:49:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ub6Q5xzbFhY/hqdefault.jpg"
     }
   ]
 }
