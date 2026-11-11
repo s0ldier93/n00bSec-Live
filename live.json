@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-11T20:27:49Z",
+  "updated": "2026-11-11T20:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Kali on Windows 10 WSL2...",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "(Part 2) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 23
+      "viewers": 24
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
-      "viewers": 30
+      "viewers": 29
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 57,
+  "viewers_total": 60,
   "videos": [
     {
       "video_id": "gvuNrImsaXg",
