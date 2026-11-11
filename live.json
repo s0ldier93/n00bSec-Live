@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-11T22:07:19Z",
+  "updated": "2026-11-11T22:07:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ej_sa",
+      "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 66
+    },
     {
       "platform": "twitch",
       "name": "fixit42",
@@ -17,20 +24,13 @@
     },
     {
       "platform": "youtube",
-      "name": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
-      "link": "https://www.youtube.com/watch?v=_T7fGC22onA",
-      "viewers": 34
-    },
-    {
-      "platform": "youtube",
       "name": "FixIt42",
       "title": "Kali on Windows 10 WSL2...",
       "link": "https://www.youtube.com/watch?v=gvuNrImsaXg",
       "viewers": 1
     }
   ],
-  "viewers_total": 73,
+  "viewers_total": 105,
   "videos": [
     {
       "video_id": "CefQUiZKsFE",
