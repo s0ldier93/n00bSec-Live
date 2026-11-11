@@ -1,30 +1,39 @@
 {
-  "updated": "2026-11-11T17:57:48Z",
+  "updated": "2026-11-11T18:07:50Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "antisyphon",
-      "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
-      "link": "https://twitch.tv/antisyphon",
-      "viewers": 1
-    },
     {
       "platform": "twitch",
       "name": "team_whoami",
       "title": "Exploiting, Buffer Overflow",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 0
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
-      "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
-      "link": "https://www.youtube.com/watch?v=whi6ZHDHddc",
-      "viewers": 25
+      "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
+      "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
+      "viewers": 20
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 23,
   "videos": [
+    {
+      "video_id": "Tf6rA0gzpJk",
+      "channel": "Cyber_Insecurity",
+      "title": "The pros use AI to hack. They just won't admit it",
+      "link": "https://www.youtube.com/watch?v=Tf6rA0gzpJk",
+      "published_at": "2026-11-11T18:01:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Tf6rA0gzpJk/hqdefault.jpg"
+    },
+    {
+      "video_id": "xhX0Eh7XVbY",
+      "channel": "HaxrByte",
+      "title": "Hackers Don't Need Your Password To Get In #as-reproasting #shorts",
+      "link": "https://www.youtube.com/watch?v=xhX0Eh7XVbY",
+      "published_at": "2026-11-11T18:00:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xhX0Eh7XVbY/hqdefault.jpg"
+    },
     {
       "video_id": "My5eJeLwCeY",
       "channel": "MDISEC",
@@ -168,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=zMrPNVH0tvM",
       "published_at": "2026-11-10T15:20:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zMrPNVH0tvM/hqdefault.jpg"
-    },
-    {
-      "video_id": "rdgXs2KHeqc",
-      "channel": "gerald_auger_simplycyber",
-      "title": "Claude Mythos 5 Is Now a Red Team Tool #claude #cisco #cybersecurity",
-      "link": "https://www.youtube.com/watch?v=rdgXs2KHeqc",
-      "published_at": "2026-11-10T15:01:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/rdgXs2KHeqc/hqdefault.jpg"
-    },
-    {
-      "video_id": "0Fr_RKv0s8c",
-      "channel": "SecurityWeekly",
-      "title": "AI Won't Replace Traditional Security Tools",
-      "link": "https://www.youtube.com/watch?v=0Fr_RKv0s8c",
-      "published_at": "2026-11-10T15:00:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0Fr_RKv0s8c/hqdefault.jpg"
     }
   ]
 }
