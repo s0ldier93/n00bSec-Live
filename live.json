@@ -1,23 +1,38 @@
 {
-  "updated": "2026-11-11T16:27:49Z",
+  "updated": "2026-11-11T16:37:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting My Machine!",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 8
+      "viewers": 9
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
-      "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
-      "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
-      "viewers": 27
+      "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
+      "link": "https://www.youtube.com/watch?v=whi6ZHDHddc",
+      "viewers": 13
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 23,
   "videos": [
+    {
+      "video_id": "L1VL8Zdmz8k",
+      "channel": "InvokeReversing",
+      "title": "x64 Binary Analysis in Binary Ninja (AMBT Course Preview)",
+      "link": "https://www.youtube.com/watch?v=L1VL8Zdmz8k",
+      "published_at": "2026-11-11T16:11:41+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/L1VL8Zdmz8k/hqdefault.jpg"
+    },
     {
       "video_id": "FzrPUmJrhUM",
       "channel": "TheLaluka",
@@ -169,15 +184,6 @@
       "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
       "published_at": "2026-11-10T14:46:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/koLEJ3VS8bM/hqdefault.jpg"
-    },
-    {
-      "video_id": "Q-e9L6ECpgM",
-      "channel": "JohnHammond010",
-      "title": "Payload Podcast 013 - Catchup",
-      "link": "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
-      "published_at": "2026-11-10T13:54:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Q-e9L6ECpgM/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
