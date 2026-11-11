@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-11T16:47:48Z",
+  "updated": "2026-11-11T16:57:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting My Machine!",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 8
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
       "link": "https://www.youtube.com/watch?v=whi6ZHDHddc",
-      "viewers": 18
+      "viewers": 22
     }
   ],
-  "viewers_total": 31,
+  "viewers_total": 33,
   "videos": [
     {
       "video_id": "L1VL8Zdmz8k",
