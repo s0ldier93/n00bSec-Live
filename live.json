@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-11T03:27:50Z",
+  "updated": "2026-11-11T10:16:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "9-2EmKFyvCk",
+      "channel": "SecurityWeekly",
+      "title": "Cyber Resilience as AI Tops CISO Priorities and Security Strategy for 2027 and Beyond - BSW #473",
+      "link": "https://www.youtube.com/watch?v=9-2EmKFyvCk",
+      "published_at": "2026-11-11T10:00:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9-2EmKFyvCk/hqdefault.jpg"
+    },
     {
       "video_id": "SAV3jvCffjU",
       "channel": "SecurityWeekly",
@@ -155,14 +163,6 @@
       "link": "https://www.youtube.com/watch?v=KfiJv0zcw4w",
       "published_at": "2026-11-10T11:43:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/KfiJv0zcw4w/hqdefault.jpg"
-    },
-    {
-      "video_id": "LwE8e0Kl5qc",
-      "channel": "SecurityWeekly",
-      "title": "Human Expertise Will Always Be The Core Of AI Cybersecurity - Andrew Wesie - ASW #408",
-      "link": "https://www.youtube.com/watch?v=LwE8e0Kl5qc",
-      "published_at": "2026-11-10T10:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LwE8e0Kl5qc/hqdefault.jpg"
     }
   ]
 }
