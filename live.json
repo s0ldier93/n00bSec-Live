@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-11T14:27:49Z",
-  "streams": [
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 11's Top Cyber News NOW! - Ep 1285",
-      "link": "https://www.youtube.com/watch?v=zXc6Wg_gPEE",
-      "viewers": 225
-    }
-  ],
-  "viewers_total": 225,
+  "updated": "2026-11-11T14:37:26Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "SP9piLXPdYA",
+      "channel": "CyberWarriorStudios",
+      "title": "Happy Birthday Marines and Happy Veterans Day to all my brothers and sisters in arms!",
+      "link": "https://www.youtube.com/watch?v=SP9piLXPdYA",
+      "published_at": "2026-11-11T14:27:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SP9piLXPdYA/hqdefault.jpg"
+    },
     {
       "video_id": "9-2EmKFyvCk",
       "channel": "SecurityWeekly",
@@ -163,14 +163,6 @@
       "link": "https://www.youtube.com/watch?v=3ZTox3-FiW0",
       "published_at": "2026-11-10T12:00:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/3ZTox3-FiW0/hqdefault.jpg"
-    },
-    {
-      "video_id": "KfiJv0zcw4w",
-      "channel": "FixIt42",
-      "title": "Playing with ai - why not stream?",
-      "link": "https://www.youtube.com/watch?v=KfiJv0zcw4w",
-      "published_at": "2026-11-10T11:43:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/KfiJv0zcw4w/hqdefault.jpg"
     }
   ]
 }
