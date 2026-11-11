@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T21:37:49Z",
+  "updated": "2026-11-11T21:57:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "het_tanis",
       "title": "(Part 2) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 27
+      "viewers": 32
     },
     {
       "platform": "youtube",
       "name": "FixIt42",
       "title": "Kali on Windows 10 WSL2...",
       "link": "https://www.youtube.com/watch?v=gvuNrImsaXg",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 40,
   "videos": [
     {
       "video_id": "5zjHV5sxR-c",
