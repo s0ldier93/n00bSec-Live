@@ -1,23 +1,24 @@
 {
-  "updated": "2026-11-11T23:17:48Z",
+  "updated": "2026-11-11T23:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 438
-    },
-    {
-      "platform": "twitch",
-      "name": "het_tanis",
-      "title": "(Part 2) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
-      "link": "https://twitch.tv/het_tanis",
-      "viewers": 30
+      "viewers": 470
     }
   ],
-  "viewers_total": 468,
+  "viewers_total": 470,
   "videos": [
+    {
+      "video_id": "o1aK86xFPuU",
+      "channel": "HackerMentor",
+      "title": "\u00bfTu empresa est\u00e1 expuesta en la Dark Web? An\u00e1lisis de un dominio con SOC Radar",
+      "link": "https://www.youtube.com/watch?v=o1aK86xFPuU",
+      "published_at": "2026-11-11T23:12:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/o1aK86xFPuU/hqdefault.jpg"
+    },
     {
       "video_id": "CefQUiZKsFE",
       "channel": "pebl3",
@@ -169,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=wrrA3BzMQL0",
       "published_at": "2026-11-10T22:00:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wrrA3BzMQL0/hqdefault.jpg"
-    },
-    {
-      "video_id": "DcOfINGuaQw",
-      "channel": "HaxrByte",
-      "title": "AS-REP Roasting really is easier than you think",
-      "link": "https://www.youtube.com/watch?v=DcOfINGuaQw",
-      "published_at": "2026-11-10T20:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DcOfINGuaQw/hqdefault.jpg"
     }
   ]
 }
