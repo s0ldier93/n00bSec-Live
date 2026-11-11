@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-11T02:27:49Z",
+  "updated": "2026-11-11T02:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "(Part 1) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 20
+      "viewers": 16
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 16,
   "videos": [
     {
       "video_id": "SAV3jvCffjU",
