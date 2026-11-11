@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:07:50Z",
+  "updated": "2026-11-11T18:17:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "antisyphon",
       "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
-      "viewers": 20
+      "viewers": 17
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 20,
   "videos": [
+    {
+      "video_id": "0XRv3uJOZiM",
+      "channel": "Hackavis",
+      "title": "Lo que Reddit borra no desaparece",
+      "link": "https://www.youtube.com/watch?v=0XRv3uJOZiM",
+      "published_at": "2026-11-11T18:04:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0XRv3uJOZiM/hqdefault.jpg"
+    },
     {
       "video_id": "Tf6rA0gzpJk",
       "channel": "Cyber_Insecurity",
@@ -33,6 +41,14 @@
       "link": "https://www.youtube.com/watch?v=xhX0Eh7XVbY",
       "published_at": "2026-11-11T18:00:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xhX0Eh7XVbY/hqdefault.jpg"
+    },
+    {
+      "video_id": "sQRQ3kLo0PI",
+      "channel": "SecurityWeekly",
+      "title": "The Code Is Real. The Caller Isn't.",
+      "link": "https://www.youtube.com/watch?v=sQRQ3kLo0PI",
+      "published_at": "2026-11-11T18:00:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/sQRQ3kLo0PI/hqdefault.jpg"
     },
     {
       "video_id": "My5eJeLwCeY",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=S0ZuMK-nlsE",
       "published_at": "2026-11-10T17:05:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/S0ZuMK-nlsE/hqdefault.jpg"
-    },
-    {
-      "video_id": "O-YpYSHK34Q",
-      "channel": "thecybermentor",
-      "title": "Why Your Company Needs an AI Policy (Ask a CISO)",
-      "link": "https://www.youtube.com/watch?v=O-YpYSHK34Q",
-      "published_at": "2026-11-10T16:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/O-YpYSHK34Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "zMrPNVH0tvM",
-      "channel": "TheLaluka",
-      "title": "What if you\u2019re pentesting YOUR own PC? #shorts",
-      "link": "https://www.youtube.com/watch?v=zMrPNVH0tvM",
-      "published_at": "2026-11-10T15:20:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/zMrPNVH0tvM/hqdefault.jpg"
     }
   ]
 }
