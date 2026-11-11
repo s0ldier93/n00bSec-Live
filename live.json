@@ -1,29 +1,22 @@
 {
-  "updated": "2026-11-11T18:57:49Z",
+  "updated": "2026-11-11T19:07:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "(Part 2) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 14
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Exploiting, Buffer Overflow",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 3
+      "viewers": 19
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
-      "viewers": 27
+      "viewers": 24
     }
   ],
-  "viewers_total": 44,
+  "viewers_total": 43,
   "videos": [
     {
       "video_id": "0XRv3uJOZiM",
