@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T16:57:48Z",
+  "updated": "2026-11-11T17:07:32Z",
   "streams": [
     {
       "platform": "twitch",
@@ -16,15 +16,45 @@
       "viewers": 7
     },
     {
+      "platform": "twitch",
+      "name": "thecybermentor",
+      "title": "Veterans Day Cybersecurity Livestream - Carlo Anez Mazurco",
+      "link": "https://twitch.tv/thecybermentor",
+      "viewers": 6
+    },
+    {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
       "link": "https://www.youtube.com/watch?v=whi6ZHDHddc",
-      "viewers": 22
+      "viewers": 28
+    },
+    {
+      "platform": "youtube",
+      "name": "thecybermentor",
+      "title": "Veterans Day Cybersecurity Livestream - Carlo Anez Mazurco",
+      "link": "https://www.youtube.com/watch?v=_MSFGF0XI6Q",
+      "viewers": 18
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 63,
   "videos": [
+    {
+      "video_id": "My5eJeLwCeY",
+      "channel": "MDISEC",
+      "title": "Stock PostgreSQL 18.6 native system call Remote Code Execution  0-day @mdisec CVE-2026-6460",
+      "link": "https://www.youtube.com/watch?v=My5eJeLwCeY",
+      "published_at": "2026-11-11T17:04:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/My5eJeLwCeY/hqdefault.jpg"
+    },
+    {
+      "video_id": "_MSFGF0XI6Q",
+      "channel": "thecybermentor",
+      "title": "Veterans Day Cybersecurity Livestream - Carlo Anez Mazurco",
+      "link": "https://www.youtube.com/watch?v=_MSFGF0XI6Q",
+      "published_at": "2026-11-11T16:58:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_MSFGF0XI6Q/hqdefault.jpg"
+    },
     {
       "video_id": "L1VL8Zdmz8k",
       "channel": "InvokeReversing",
@@ -168,22 +198,6 @@
       "link": "https://www.youtube.com/watch?v=0Fr_RKv0s8c",
       "published_at": "2026-11-10T15:00:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0Fr_RKv0s8c/hqdefault.jpg"
-    },
-    {
-      "video_id": "_mFaBrLWC3o",
-      "channel": "LuNiZz",
-      "title": "CLAUDE\u2019U BUG\u00dcN \u00d6\u011eRENSEM B\u00d6YLE BA\u015eLARDIM..",
-      "link": "https://www.youtube.com/watch?v=_mFaBrLWC3o",
-      "published_at": "2026-11-10T15:00:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/_mFaBrLWC3o/hqdefault.jpg"
-    },
-    {
-      "video_id": "koLEJ3VS8bM",
-      "channel": "antisyphon",
-      "title": "DAY 1 - Information Security Core Skills\u2122 w/ John Strand",
-      "link": "https://www.youtube.com/watch?v=koLEJ3VS8bM",
-      "published_at": "2026-11-10T14:46:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/koLEJ3VS8bM/hqdefault.jpg"
     }
   ]
 }
