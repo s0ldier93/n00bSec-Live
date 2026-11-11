@@ -1,30 +1,45 @@
 {
-  "updated": "2026-11-11T21:57:49Z",
+  "updated": "2026-11-11T22:07:19Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Kali on Windows 10 WSL2...",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "(Part 2) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 32
+      "viewers": 29
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
+      "link": "https://www.youtube.com/watch?v=_T7fGC22onA",
+      "viewers": 34
     },
     {
       "platform": "youtube",
       "name": "FixIt42",
       "title": "Kali on Windows 10 WSL2...",
       "link": "https://www.youtube.com/watch?v=gvuNrImsaXg",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 40,
+  "viewers_total": 73,
   "videos": [
+    {
+      "video_id": "CefQUiZKsFE",
+      "channel": "pebl3",
+      "title": "The Nvidia CEO, the affair, and the alleged Chinese spy",
+      "link": "https://www.youtube.com/watch?v=CefQUiZKsFE",
+      "published_at": "2026-11-11T22:02:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/CefQUiZKsFE/hqdefault.jpg"
+    },
     {
       "video_id": "5zjHV5sxR-c",
       "channel": "CyberWarriorStudios",
@@ -176,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=n9th4PxS4jg",
       "published_at": "2026-11-10T20:00:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/n9th4PxS4jg/hqdefault.jpg"
-    },
-    {
-      "video_id": "tL7qrCvZwGw",
-      "channel": "TheLaluka",
-      "title": "Abusing CPUs For Leaks And Profit \ud83d\ude0f Ft.  @r3glisse / Wotena",
-      "link": "https://www.youtube.com/watch?v=tL7qrCvZwGw",
-      "published_at": "2026-11-10T19:56:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tL7qrCvZwGw/hqdefault.jpg"
     }
   ]
 }
