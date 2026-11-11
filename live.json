@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-11T22:07:49Z",
+  "updated": "2026-11-11T22:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 66
+      "viewers": 276
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Kali on Windows 10 WSL2...",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 9
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "(Part 2) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 29
+      "viewers": 26
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 105,
+  "viewers_total": 308,
   "videos": [
     {
       "video_id": "CefQUiZKsFE",
@@ -39,6 +39,14 @@
       "link": "https://www.youtube.com/watch?v=CefQUiZKsFE",
       "published_at": "2026-11-11T22:02:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CefQUiZKsFE/hqdefault.jpg"
+    },
+    {
+      "video_id": "bIIcCtdSEU8",
+      "channel": "SecurityWeekly",
+      "title": "How to Get Your Board's Attention",
+      "link": "https://www.youtube.com/watch?v=bIIcCtdSEU8",
+      "published_at": "2026-11-11T22:00:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bIIcCtdSEU8/hqdefault.jpg"
     },
     {
       "video_id": "5zjHV5sxR-c",
@@ -183,14 +191,6 @@
       "link": "https://www.youtube.com/watch?v=DcOfINGuaQw",
       "published_at": "2026-11-10T20:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/DcOfINGuaQw/hqdefault.jpg"
-    },
-    {
-      "video_id": "n9th4PxS4jg",
-      "channel": "SecurityWeekly",
-      "title": "Your AI Agents Shouldn't All Have Equal Access",
-      "link": "https://www.youtube.com/watch?v=n9th4PxS4jg",
-      "published_at": "2026-11-10T20:00:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/n9th4PxS4jg/hqdefault.jpg"
     }
   ]
 }
