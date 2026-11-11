@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-11T15:17:49Z",
+  "updated": "2026-11-11T15:27:50Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
-      "viewers": 26
+      "viewers": 30
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 30,
   "videos": [
+    {
+      "video_id": "FzrPUmJrhUM",
+      "channel": "TheLaluka",
+      "title": "\u20ac800 a month\u2026 just to test some infra? #shorts",
+      "link": "https://www.youtube.com/watch?v=FzrPUmJrhUM",
+      "published_at": "2026-11-11T15:20:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FzrPUmJrhUM/hqdefault.jpg"
+    },
     {
       "video_id": "Vq278eiUg-o",
       "channel": "SecurityWeekly",
@@ -163,14 +171,6 @@
       "published_at": "2026-11-10T13:54:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Q-e9L6ECpgM/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "cAjLzqkvfcI",
-      "channel": "TheGoodHackerTV",
-      "title": "As\u00ed funciona una inyecci\u00f3n SQL",
-      "link": "https://www.youtube.com/watch?v=cAjLzqkvfcI",
-      "published_at": "2026-11-10T13:41:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cAjLzqkvfcI/hqdefault.jpg"
     }
   ]
 }
