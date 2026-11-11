@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T16:17:49Z",
+  "updated": "2026-11-11T16:27:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "antisyphon",
       "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
-      "viewers": 20
+      "viewers": 27
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 35,
   "videos": [
     {
       "video_id": "FzrPUmJrhUM",
