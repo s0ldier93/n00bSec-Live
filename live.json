@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-11T22:47:49Z",
+  "updated": "2026-11-11T22:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 413
+      "viewers": 409
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "(Part 2) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 28
+      "viewers": 20
     }
   ],
-  "viewers_total": 441,
+  "viewers_total": 429,
   "videos": [
     {
       "video_id": "CefQUiZKsFE",
