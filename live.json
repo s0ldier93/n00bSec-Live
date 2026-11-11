@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-11T00:27:51Z",
+  "updated": "2026-11-11T00:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Ditch the Frontier - Getting Started with Local AI",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 56
+      "viewers": 54
     }
   ],
-  "viewers_total": 56,
+  "viewers_total": 54,
   "videos": [
     {
       "video_id": "SAV3jvCffjU",
