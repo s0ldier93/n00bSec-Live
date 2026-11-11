@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-11T18:17:49Z",
+  "updated": "2026-11-11T18:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "team_whoami",
       "title": "Exploiting, Buffer Overflow",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "DAY 2 - Information Security Core Skills\u2122 w/ John Strand",
       "link": "https://www.youtube.com/watch?v=-mOSDV_hm3Y",
-      "viewers": 17
+      "viewers": 20
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 24,
   "videos": [
     {
       "video_id": "0XRv3uJOZiM",
