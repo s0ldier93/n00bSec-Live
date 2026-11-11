@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-11T00:37:50Z",
+  "updated": "2026-11-11T00:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Ditch the Frontier - Getting Started with Local AI",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 54
+      "viewers": 63
+    },
+    {
+      "platform": "twitch",
+      "name": "het_tanis",
+      "title": "(Part 1) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
+      "link": "https://twitch.tv/het_tanis",
+      "viewers": 7
     }
   ],
-  "viewers_total": 54,
+  "viewers_total": 70,
   "videos": [
     {
       "video_id": "SAV3jvCffjU",
