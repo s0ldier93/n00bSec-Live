@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:47:48Z",
+  "updated": "2026-11-11T17:57:29Z",
   "streams": [
     {
       "platform": "twitch",
@@ -17,27 +17,20 @@
     },
     {
       "platform": "twitch",
-      "name": "thecybermentor",
-      "title": "Veterans Day Cybersecurity Livestream - Carlo Anez Mazurco",
-      "link": "https://twitch.tv/thecybermentor",
-      "viewers": 13
+      "name": "team_whoami",
+      "title": "Exploiting, Buffer Overflow",
+      "link": "https://twitch.tv/team_whoami",
+      "viewers": 0
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Find Active Directory Security Risks w/ David Hor\u00e1k",
       "link": "https://www.youtube.com/watch?v=whi6ZHDHddc",
-      "viewers": 23
-    },
-    {
-      "platform": "youtube",
-      "name": "thecybermentor",
-      "title": "Veterans Day Cybersecurity Livestream - Carlo Anez Mazurco",
-      "link": "https://www.youtube.com/watch?v=_MSFGF0XI6Q",
-      "viewers": 19
+      "viewers": 25
     }
   ],
-  "viewers_total": 62,
+  "viewers_total": 32,
   "videos": [
     {
       "video_id": "My5eJeLwCeY",
