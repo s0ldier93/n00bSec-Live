@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T05:17:48Z",
+  "updated": "2026-11-12T05:27:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "TheShyHat",
       "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
       "link": "https://www.youtube.com/watch?v=wqZ8_5VKBDw",
-      "viewers": 7
+      "viewers": 10
     }
   ],
-  "viewers_total": 38,
+  "viewers_total": 41,
   "videos": [
     {
       "video_id": "CoQ0CE3wVDs",
