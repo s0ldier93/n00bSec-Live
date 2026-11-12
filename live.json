@@ -1,30 +1,60 @@
 {
-  "updated": "2026-11-12T17:07:50Z",
+  "updated": "2026-11-12T17:17:29Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 7
+      "viewers": 9
+    },
+    {
+      "platform": "twitch",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
+      "link": "https://twitch.tv/hack_smarter",
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "un peu de sup avec zabbix",
       "link": "https://twitch.tv/topklean",
-      "viewers": 47
+      "viewers": 43
     },
     {
       "platform": "youtube",
       "name": "FixIt42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://www.youtube.com/watch?v=nQqH5kAbsro",
-      "viewers": 2
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
+      "link": "https://www.youtube.com/watch?v=mGFqq2W3mjk",
+      "viewers": 35
     }
   ],
-  "viewers_total": 56,
+  "viewers_total": 100,
   "videos": [
+    {
+      "video_id": "mGFqq2W3mjk",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
+      "link": "https://www.youtube.com/watch?v=mGFqq2W3mjk",
+      "published_at": "2026-11-12T17:08:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mGFqq2W3mjk/hqdefault.jpg"
+    },
+    {
+      "video_id": "nYSTPnJPTqY",
+      "channel": "Cyber_Insecurity",
+      "title": "They're replacing Tenable with something they vibe coded",
+      "link": "https://www.youtube.com/watch?v=nYSTPnJPTqY",
+      "published_at": "2026-11-12T17:07:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nYSTPnJPTqY/hqdefault.jpg"
+    },
     {
       "video_id": "GFW055L4-RU",
       "channel": "shenetworks",
@@ -169,22 +199,6 @@
       "link": "https://www.youtube.com/watch?v=xhX0Eh7XVbY",
       "published_at": "2026-11-11T18:00:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xhX0Eh7XVbY/hqdefault.jpg"
-    },
-    {
-      "video_id": "sQRQ3kLo0PI",
-      "channel": "SecurityWeekly",
-      "title": "The Code Is Real. The Caller Isn't.",
-      "link": "https://www.youtube.com/watch?v=sQRQ3kLo0PI",
-      "published_at": "2026-11-11T18:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sQRQ3kLo0PI/hqdefault.jpg"
-    },
-    {
-      "video_id": "My5eJeLwCeY",
-      "channel": "MDISEC",
-      "title": "Stock PostgreSQL 18.6 native system call Remote Code Execution  0-day @mdisec CVE-2026-6460",
-      "link": "https://www.youtube.com/watch?v=My5eJeLwCeY",
-      "published_at": "2026-11-11T17:04:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/My5eJeLwCeY/hqdefault.jpg"
     }
   ]
 }
