@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-12T03:37:48Z",
+  "updated": "2026-11-12T03:47:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber News + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 39
+      "viewers": 38
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 411
+      "viewers": 406
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Zelda Ocarina Of Time Remake",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -44,7 +44,7 @@
       "viewers": 12
     }
   ],
-  "viewers_total": 481,
+  "viewers_total": 476,
   "videos": [
     {
       "video_id": "CoQ0CE3wVDs",
