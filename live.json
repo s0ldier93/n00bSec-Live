@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T06:57:48Z",
+  "updated": "2026-11-12T07:07:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -20,24 +20,24 @@
       "name": "TheShyHat",
       "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 25
+      "viewers": 24
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://www.youtube.com/watch?v=s-OS25VjRSs",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
       "link": "https://www.youtube.com/watch?v=wqZ8_5VKBDw",
-      "viewers": 10
+      "viewers": 9
     }
   ],
-  "viewers_total": 42,
+  "viewers_total": 45,
   "videos": [
     {
       "video_id": "CoQ0CE3wVDs",
