@@ -1,43 +1,43 @@
 {
-  "updated": "2026-11-12T02:27:49Z",
+  "updated": "2026-11-12T02:37:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber News + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 9
+      "viewers": 14
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "PHP2Shell Made me kill my wordpress... BUT ITS PRETTY!|Cybersecurity,Rants,&Chill|11-11-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 18
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 442
+      "viewers": 428
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Zelda Ocarina Of Time Remake",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=CoQ0CE3wVDs",
-      "viewers": 5
+      "viewers": 6
     }
   ],
-  "viewers_total": 476,
+  "viewers_total": 468,
   "videos": [
     {
       "video_id": "CoQ0CE3wVDs",
