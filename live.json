@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T23:07:49Z",
+  "updated": "2026-11-12T23:17:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,18 +13,26 @@
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 321
+      "viewers": 317
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)!",
       "link": "https://www.youtube.com/watch?v=sjyzEBTTGmQ",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 329,
+  "viewers_total": 326,
   "videos": [
+    {
+      "video_id": "IayIyyE4Tfw",
+      "channel": "SecurityWeekly",
+      "title": "AI Can Cheat Its Own Tests",
+      "link": "https://www.youtube.com/watch?v=IayIyyE4Tfw",
+      "published_at": "2026-11-12T23:00:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IayIyyE4Tfw/hqdefault.jpg"
+    },
     {
       "video_id": "i2RfVnsiNy8",
       "channel": "pebl3",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=o1aK86xFPuU",
       "published_at": "2026-11-11T23:12:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/o1aK86xFPuU/hqdefault.jpg"
-    },
-    {
-      "video_id": "CefQUiZKsFE",
-      "channel": "pebl3",
-      "title": "The Nvidia CEO, the affair, and the alleged Chinese spy",
-      "link": "https://www.youtube.com/watch?v=CefQUiZKsFE",
-      "published_at": "2026-11-11T22:02:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CefQUiZKsFE/hqdefault.jpg"
     }
   ]
 }
