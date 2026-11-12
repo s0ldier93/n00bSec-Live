@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-12T23:47:48Z",
+  "updated": "2026-11-12T23:57:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 5
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 317
+      "viewers": 311
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "CSE466 - Week 13 - Sandboxing",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 11
+      "viewers": 16
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 334,
+  "viewers_total": 335,
   "videos": [
     {
       "video_id": "IayIyyE4Tfw",
