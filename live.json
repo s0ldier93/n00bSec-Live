@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T22:37:48Z",
+  "updated": "2026-11-12T22:47:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
@@ -16,13 +16,6 @@
       "viewers": 307
     },
     {
-      "platform": "twitch",
-      "name": "nthsec",
-      "title": "LIVE Ethical Hacking -- Pentesting and AMA",
-      "link": "https://twitch.tv/nthsec",
-      "viewers": 16
-    },
-    {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)!",
@@ -30,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 327,
+  "viewers_total": 312,
   "videos": [
     {
       "video_id": "i2RfVnsiNy8",
