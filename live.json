@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-12T21:37:49Z",
+  "updated": "2026-11-12T21:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 Switching to T3 Code",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 205
+      "viewers": 192
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 292
+      "viewers": 294
     },
     {
       "platform": "twitch",
       "name": "mchow01",
       "title": "Really, Really Bad Code and Static Analysis (Episode 9, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 16
+      "viewers": 22
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting and AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 15
+      "viewers": 17
     }
   ],
-  "viewers_total": 528,
+  "viewers_total": 525,
   "videos": [
     {
       "video_id": "YU3qsqfJzEE",
