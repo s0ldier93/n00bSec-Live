@@ -1,30 +1,38 @@
 {
-  "updated": "2026-11-12T16:37:51Z",
+  "updated": "2026-11-12T16:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 8
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "un peu de sup avec zabbix",
       "link": "https://twitch.tv/topklean",
-      "viewers": 51
+      "viewers": 47
     },
     {
       "platform": "youtube",
       "name": "FixIt42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://www.youtube.com/watch?v=nQqH5kAbsro",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 61,
+  "viewers_total": 57,
   "videos": [
+    {
+      "video_id": "GFW055L4-RU",
+      "channel": "shenetworks",
+      "title": "From header to... shell?",
+      "link": "https://www.youtube.com/watch?v=GFW055L4-RU",
+      "published_at": "2026-11-12T16:41:45+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GFW055L4-RU/hqdefault.jpg"
+    },
     {
       "video_id": "nQqH5kAbsro",
       "channel": "FixIt42",
@@ -177,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=My5eJeLwCeY",
       "published_at": "2026-11-11T17:04:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/My5eJeLwCeY/hqdefault.jpg"
-    },
-    {
-      "video_id": "_MSFGF0XI6Q",
-      "channel": "thecybermentor",
-      "title": "Veterans Day Cybersecurity Livestream - Carlo Anez Mazurco",
-      "link": "https://www.youtube.com/watch?v=_MSFGF0XI6Q",
-      "published_at": "2026-11-11T16:58:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/_MSFGF0XI6Q/hqdefault.jpg"
     }
   ]
 }
