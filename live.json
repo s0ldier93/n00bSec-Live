@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-12T18:17:49Z",
+  "updated": "2026-11-12T18:27:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Follow the Sign-in: Entra ID (Azure AD) investigations in the SIEM",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 166
+      "viewers": 170
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 23
+      "viewers": 24
     },
     {
       "platform": "twitch",
@@ -48,10 +48,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=mGFqq2W3mjk",
-      "viewers": 69
+      "viewers": 70
     }
   ],
-  "viewers_total": 264,
+  "viewers_total": 268,
   "videos": [
     {
       "video_id": "ahHsKO6teJQ",
