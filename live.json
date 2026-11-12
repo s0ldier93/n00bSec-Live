@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-12T00:27:48Z",
+  "updated": "2026-11-12T00:37:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "chiefgyk3d",
+      "title": "PHP2Shell Made me kill my wordpress... BUT ITS PRETTY!|Cybersecurity,Rants,&Chill|11-11-26",
+      "link": "https://twitch.tv/chiefgyk3d",
+      "viewers": 13
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 493
+      "viewers": 478
     }
   ],
-  "viewers_total": 493,
+  "viewers_total": 491,
   "videos": [
     {
       "video_id": "-zzwyVODlcA",
