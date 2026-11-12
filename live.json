@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T15:37:30Z",
+  "updated": "2026-11-12T15:47:52Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 1
+      "viewers": 8
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 51,
+  "viewers_total": 58,
   "videos": [
     {
       "video_id": "nQqH5kAbsro",
