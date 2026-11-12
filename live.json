@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-12T16:47:50Z",
+  "updated": "2026-11-12T16:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 9
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "un peu de sup avec zabbix",
       "link": "https://twitch.tv/topklean",
-      "viewers": 47
+      "viewers": 41
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 57,
+  "viewers_total": 52,
   "videos": [
     {
       "video_id": "GFW055L4-RU",
