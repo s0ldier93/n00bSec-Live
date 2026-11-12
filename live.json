@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T01:07:49Z",
+  "updated": "2026-11-12T01:17:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 486
+      "viewers": 469
     }
   ],
-  "viewers_total": 507,
+  "viewers_total": 490,
   "videos": [
     {
       "video_id": "puxHnMcGaX4",
