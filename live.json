@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T19:37:48Z",
+  "updated": "2026-11-12T19:47:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 212
+      "viewers": 223
     },
     {
       "platform": "twitch",
@@ -20,14 +20,14 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 25
+      "viewers": 22
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Wir bauen das Internet nach!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -41,10 +41,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=mGFqq2W3mjk",
-      "viewers": 48
+      "viewers": 51
     }
   ],
-  "viewers_total": 291,
+  "viewers_total": 300,
   "videos": [
     {
       "video_id": "ahHsKO6teJQ",
