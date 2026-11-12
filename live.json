@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-12T09:07:21Z",
+  "updated": "2026-11-12T09:07:49Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "AMA",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 9
-    },
     {
       "platform": "twitch",
       "name": "irasakai",
@@ -16,7 +9,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "s-OS25VjRSs",
