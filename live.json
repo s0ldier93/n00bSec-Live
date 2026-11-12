@@ -1,33 +1,40 @@
 {
-  "updated": "2026-11-12T19:57:49Z",
+  "updated": "2026-11-12T20:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 Switching to T3 Code",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 43
+      "viewers": 78
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 236
+      "viewers": 218
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Wir bauen das Internet nach!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 4
+      "viewers": 2
+    },
+    {
+      "platform": "twitch",
+      "name": "nthsec",
+      "title": "LIVE Ethical Hacking -- Pentesting and AMA",
+      "link": "https://twitch.tv/nthsec",
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -37,8 +44,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 285,
+  "viewers_total": 303,
   "videos": [
+    {
+      "video_id": "UDreWlQ_Fjk",
+      "channel": "FixIt42",
+      "title": "Am I actually gonna stream when the schedule says I'm going to? ;) Yup!",
+      "link": "https://www.youtube.com/watch?v=UDreWlQ_Fjk",
+      "published_at": "2026-11-12T20:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UDreWlQ_Fjk/hqdefault.jpg"
+    },
     {
       "video_id": "ahHsKO6teJQ",
       "channel": "Hackavis",
@@ -190,14 +205,6 @@
       "link": "https://www.youtube.com/watch?v=0XRv3uJOZiM",
       "published_at": "2026-11-11T18:04:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0XRv3uJOZiM/hqdefault.jpg"
-    },
-    {
-      "video_id": "Tf6rA0gzpJk",
-      "channel": "Cyber_Insecurity",
-      "title": "The pros use AI to hack. They just won't admit it",
-      "link": "https://www.youtube.com/watch?v=Tf6rA0gzpJk",
-      "published_at": "2026-11-11T18:01:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Tf6rA0gzpJk/hqdefault.jpg"
     }
   ]
 }
