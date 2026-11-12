@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T21:57:49Z",
+  "updated": "2026-11-12T22:07:20Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 Switching to T3 Code",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 176
+      "viewers": 169
     },
     {
       "platform": "twitch",
@@ -28,10 +28,25 @@
       "title": "LIVE Ethical Hacking -- Pentesting and AMA",
       "link": "https://twitch.tv/nthsec",
       "viewers": 15
+    },
+    {
+      "platform": "youtube",
+      "name": "BySepa",
+      "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)!",
+      "link": "https://www.youtube.com/watch?v=sjyzEBTTGmQ",
+      "viewers": 1
     }
   ],
-  "viewers_total": 499,
+  "viewers_total": 493,
   "videos": [
+    {
+      "video_id": "i2RfVnsiNy8",
+      "channel": "pebl3",
+      "title": "An AI hacked a real company to cheat on a hacking test",
+      "link": "https://www.youtube.com/watch?v=i2RfVnsiNy8",
+      "published_at": "2026-11-12T22:03:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/i2RfVnsiNy8/hqdefault.jpg"
+    },
     {
       "video_id": "YU3qsqfJzEE",
       "channel": "CyberWarriorStudios",
@@ -46,8 +61,7 @@
       "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
       "link": "https://www.youtube.com/watch?v=sjyzEBTTGmQ",
       "published_at": "2026-11-12T20:44:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sjyzEBTTGmQ/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/sjyzEBTTGmQ/hqdefault.jpg"
     },
     {
       "video_id": "UDreWlQ_Fjk",
@@ -184,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=bIIcCtdSEU8",
       "published_at": "2026-11-11T22:00:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bIIcCtdSEU8/hqdefault.jpg"
-    },
-    {
-      "video_id": "5zjHV5sxR-c",
-      "channel": "CyberWarriorStudios",
-      "title": "Quit Letting Other People Judge You \ud83d\uded1 | I Believe In You #shorts",
-      "link": "https://www.youtube.com/watch?v=5zjHV5sxR-c",
-      "published_at": "2026-11-11T21:23:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5zjHV5sxR-c/hqdefault.jpg"
     }
   ]
 }
