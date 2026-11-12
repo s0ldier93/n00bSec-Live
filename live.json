@@ -1,16 +1,25 @@
 {
-  "updated": "2026-11-12T15:17:48Z",
+  "updated": "2026-11-12T15:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "un peu de sup avec zabbix",
       "link": "https://twitch.tv/topklean",
-      "viewers": 44
+      "viewers": 49
     }
   ],
-  "viewers_total": 44,
+  "viewers_total": 49,
   "videos": [
+    {
+      "video_id": "TpIsrKvoU-4",
+      "channel": "EJSA",
+      "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
+      "link": "https://www.youtube.com/watch?v=TpIsrKvoU-4",
+      "published_at": "2026-11-12T15:14:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/TpIsrKvoU-4/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "qFUat9f5Bsg",
       "channel": "antisyphon",
@@ -162,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=FzrPUmJrhUM",
       "published_at": "2026-11-11T15:20:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FzrPUmJrhUM/hqdefault.jpg"
-    },
-    {
-      "video_id": "Vq278eiUg-o",
-      "channel": "SecurityWeekly",
-      "title": "A Crisis Can Be Your Biggest Opportunity",
-      "link": "https://www.youtube.com/watch?v=Vq278eiUg-o",
-      "published_at": "2026-11-11T15:00:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Vq278eiUg-o/hqdefault.jpg"
     }
   ]
 }
