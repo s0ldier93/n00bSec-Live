@@ -1,33 +1,26 @@
 {
-  "updated": "2026-11-12T22:27:49Z",
+  "updated": "2026-11-12T22:37:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 303
-    },
-    {
-      "platform": "twitch",
-      "name": "mchow01",
-      "title": "Really, Really Bad Code and Static Analysis (Episode 9, Season 13)",
-      "link": "https://twitch.tv/mchow01",
-      "viewers": 23
+      "viewers": 307
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting and AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 17
+      "viewers": 16
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 346,
+  "viewers_total": 327,
   "videos": [
     {
       "video_id": "i2RfVnsiNy8",
