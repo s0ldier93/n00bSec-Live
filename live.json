@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-12T14:17:49Z",
+  "updated": "2026-11-12T14:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "un peu de sup avec zabbix",
       "link": "https://twitch.tv/topklean",
-      "viewers": 24
+      "viewers": 29
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 12's Top Cyber News NOW! - Ep 1286",
       "link": "https://www.youtube.com/watch?v=tUnImI2g_rE",
-      "viewers": 240
+      "viewers": 222
     }
   ],
-  "viewers_total": 264,
+  "viewers_total": 251,
   "videos": [
+    {
+      "video_id": "Z3xvjzlDWd8",
+      "channel": "LowLevelTV",
+      "title": "they found 1000 vulnerabilities in the linux kernel..",
+      "link": "https://www.youtube.com/watch?v=Z3xvjzlDWd8",
+      "published_at": "2026-11-12T14:08:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Z3xvjzlDWd8/hqdefault.jpg"
+    },
     {
       "video_id": "s-OS25VjRSs",
       "channel": "censoredHacker",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=GyF0o6txFRs",
       "published_at": "2026-11-11T14:35:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GyF0o6txFRs/hqdefault.jpg"
-    },
-    {
-      "video_id": "SP9piLXPdYA",
-      "channel": "CyberWarriorStudios",
-      "title": "Happy Birthday Marines and Happy Veterans Day to all my brothers and sisters in arms!",
-      "link": "https://www.youtube.com/watch?v=SP9piLXPdYA",
-      "published_at": "2026-11-11T14:27:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SP9piLXPdYA/hqdefault.jpg"
     }
   ]
 }
