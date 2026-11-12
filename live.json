@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-12T20:07:49Z",
+  "updated": "2026-11-12T20:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 Switching to T3 Code",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 78
+      "viewers": 122
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 218
+      "viewers": 225
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Wir bauen das Internet nach!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting and AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 303,
+  "viewers_total": 359,
   "videos": [
     {
       "video_id": "UDreWlQ_Fjk",
