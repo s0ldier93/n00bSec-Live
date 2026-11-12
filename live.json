@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T18:07:49Z",
+  "updated": "2026-11-12T18:17:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 123
+      "viewers": 166
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 4
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 22
+      "viewers": 23
     },
     {
       "platform": "twitch",
@@ -37,29 +37,30 @@
       "viewers": 1
     },
     {
-      "platform": "twitch",
-      "name": "topklean",
-      "title": "un peu de sup avec zabbix",
-      "link": "https://twitch.tv/topklean",
-      "viewers": 40
-    },
-    {
       "platform": "youtube",
       "name": "FixIt42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://www.youtube.com/watch?v=nQqH5kAbsro",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=mGFqq2W3mjk",
-      "viewers": 82
+      "viewers": 69
     }
   ],
-  "viewers_total": 277,
+  "viewers_total": 264,
   "videos": [
+    {
+      "video_id": "ahHsKO6teJQ",
+      "channel": "Hackavis",
+      "title": "Una foto tuya y saben d\u00f3nde apareces",
+      "link": "https://www.youtube.com/watch?v=ahHsKO6teJQ",
+      "published_at": "2026-11-12T18:03:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ahHsKO6teJQ/hqdefault.jpg"
+    },
     {
       "video_id": "mGFqq2W3mjk",
       "channel": "hack_smarter",
@@ -211,14 +212,6 @@
       "link": "https://www.youtube.com/watch?v=Tf6rA0gzpJk",
       "published_at": "2026-11-11T18:01:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Tf6rA0gzpJk/hqdefault.jpg"
-    },
-    {
-      "video_id": "xhX0Eh7XVbY",
-      "channel": "HaxrByte",
-      "title": "Hackers Don't Need Your Password To Get In #as-reproasting #shorts",
-      "link": "https://www.youtube.com/watch?v=xhX0Eh7XVbY",
-      "published_at": "2026-11-11T18:00:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xhX0Eh7XVbY/hqdefault.jpg"
     }
   ]
 }
