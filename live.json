@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-12T19:47:48Z",
+  "updated": "2026-11-12T19:57:24Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ChrisTitusTech",
+      "title": "\ud83d\udd34 Switching to T3 Code",
+      "link": "https://twitch.tv/ChrisTitusTech",
+      "viewers": 43
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
@@ -17,13 +24,6 @@
     },
     {
       "platform": "twitch",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
-      "link": "https://twitch.tv/hack_smarter",
-      "viewers": 22
-    },
-    {
-      "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Wir bauen das Internet nach!",
       "link": "https://twitch.tv/Leetcore",
@@ -35,16 +35,9 @@
       "title": "Let's do something fun, but what? :)",
       "link": "https://www.youtube.com/watch?v=nQqH5kAbsro",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "hack_smarter",
-      "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
-      "link": "https://www.youtube.com/watch?v=mGFqq2W3mjk",
-      "viewers": 51
     }
   ],
-  "viewers_total": 300,
+  "viewers_total": 270,
   "videos": [
     {
       "video_id": "ahHsKO6teJQ",
