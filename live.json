@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T04:57:16Z",
+  "updated": "2026-11-12T04:57:47Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,13 +7,6 @@
       "title": "Hack the planet! Cyber News + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
       "viewers": 39
-    },
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 393
     },
     {
       "platform": "twitch",
@@ -27,7 +20,7 @@
       "name": "TheShyHat",
       "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 14
+      "viewers": 18
     },
     {
       "platform": "youtube",
@@ -44,7 +37,7 @@
       "viewers": 9
     }
   ],
-  "viewers_total": 463,
+  "viewers_total": 74,
   "videos": [
     {
       "video_id": "CoQ0CE3wVDs",
