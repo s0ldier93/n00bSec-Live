@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T07:07:48Z",
+  "updated": "2026-11-12T07:17:18Z",
   "streams": [
     {
       "platform": "twitch",
@@ -27,17 +27,10 @@
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://www.youtube.com/watch?v=s-OS25VjRSs",
-      "viewers": 6
-    },
-    {
-      "platform": "youtube",
-      "name": "TheShyHat",
-      "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
-      "link": "https://www.youtube.com/watch?v=wqZ8_5VKBDw",
-      "viewers": 9
+      "viewers": 4
     }
   ],
-  "viewers_total": 45,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "CoQ0CE3wVDs",
