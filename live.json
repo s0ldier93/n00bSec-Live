@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-12T00:47:48Z",
+  "updated": "2026-11-12T00:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "PHP2Shell Made me kill my wordpress... BUT ITS PRETTY!|Cybersecurity,Rants,&Chill|11-11-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 13
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 482
+      "viewers": 477
     }
   ],
   "viewers_total": 495,
   "videos": [
+    {
+      "video_id": "puxHnMcGaX4",
+      "channel": "mbcrump",
+      "title": "GTA 6 PS5 Unboxing: What's Actually in the Box?",
+      "link": "https://www.youtube.com/watch?v=puxHnMcGaX4",
+      "published_at": "2026-11-12T00:40:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/puxHnMcGaX4/hqdefault.jpg"
+    },
     {
       "video_id": "-zzwyVODlcA",
       "channel": "FixIt42",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=SAV3jvCffjU",
       "published_at": "2026-11-10T23:00:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SAV3jvCffjU/hqdefault.jpg"
-    },
-    {
-      "video_id": "qYS8vMom5xE",
-      "channel": "pebl3",
-      "title": "The biggest crypto heist ever started with a job interview",
-      "link": "https://www.youtube.com/watch?v=qYS8vMom5xE",
-      "published_at": "2026-11-10T22:03:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qYS8vMom5xE/hqdefault.jpg"
     }
   ]
 }
