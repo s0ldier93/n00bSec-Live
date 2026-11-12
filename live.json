@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-12T22:57:49Z",
+  "updated": "2026-11-12T23:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 6
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 330
+      "viewers": 321
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 337,
+  "viewers_total": 329,
   "videos": [
     {
       "video_id": "i2RfVnsiNy8",
