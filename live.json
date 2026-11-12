@@ -1,16 +1,46 @@
 {
-  "updated": "2026-11-12T15:27:49Z",
+  "updated": "2026-11-12T15:37:30Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "fixit42",
+      "title": "Let's do something fun, but what? :)",
+      "link": "https://twitch.tv/fixit42",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "un peu de sup avec zabbix",
       "link": "https://twitch.tv/topklean",
       "viewers": 49
+    },
+    {
+      "platform": "youtube",
+      "name": "FixIt42",
+      "title": "Let's do something fun, but what? :)",
+      "link": "https://www.youtube.com/watch?v=nQqH5kAbsro",
+      "viewers": 1
     }
   ],
-  "viewers_total": 49,
+  "viewers_total": 51,
   "videos": [
+    {
+      "video_id": "nQqH5kAbsro",
+      "channel": "FixIt42",
+      "title": "Let's do something fun, but what? :)",
+      "link": "https://www.youtube.com/watch?v=nQqH5kAbsro",
+      "published_at": "2026-11-12T15:29:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nQqH5kAbsro/hqdefault.jpg"
+    },
+    {
+      "video_id": "QsMliK7Iry0",
+      "channel": "TheLaluka",
+      "title": "AI code review\u2026 just \u201cout of politeness\u201d? #shorts",
+      "link": "https://www.youtube.com/watch?v=QsMliK7Iry0",
+      "published_at": "2026-11-12T15:20:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QsMliK7Iry0/hqdefault.jpg"
+    },
     {
       "video_id": "TpIsrKvoU-4",
       "channel": "EJSA",
@@ -155,22 +185,6 @@
       "link": "https://www.youtube.com/watch?v=_MSFGF0XI6Q",
       "published_at": "2026-11-11T16:58:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/_MSFGF0XI6Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "L1VL8Zdmz8k",
-      "channel": "InvokeReversing",
-      "title": "x64 Binary Analysis in Binary Ninja (AMBT Course Preview)",
-      "link": "https://www.youtube.com/watch?v=L1VL8Zdmz8k",
-      "published_at": "2026-11-11T16:11:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/L1VL8Zdmz8k/hqdefault.jpg"
-    },
-    {
-      "video_id": "FzrPUmJrhUM",
-      "channel": "TheLaluka",
-      "title": "\u20ac800 a month\u2026 just to test some infra? #shorts",
-      "link": "https://www.youtube.com/watch?v=FzrPUmJrhUM",
-      "published_at": "2026-11-11T15:20:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FzrPUmJrhUM/hqdefault.jpg"
     }
   ]
 }
