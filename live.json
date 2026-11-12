@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-12T17:17:29Z",
+  "updated": "2026-11-12T17:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Let's do something fun, but what? :)",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 9
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 12
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "un peu de sup avec zabbix",
       "link": "https://twitch.tv/topklean",
-      "viewers": 43
+      "viewers": 47
     },
     {
       "platform": "youtube",
@@ -34,10 +34,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=mGFqq2W3mjk",
-      "viewers": 35
+      "viewers": 59
     }
   ],
-  "viewers_total": 100,
+  "viewers_total": 132,
   "videos": [
     {
       "video_id": "mGFqq2W3mjk",
