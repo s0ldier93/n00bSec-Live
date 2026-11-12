@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-12T03:27:49Z",
+  "updated": "2026-11-12T03:37:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber News + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 44
+      "viewers": 39
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 426
+      "viewers": 411
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Zelda Ocarina Of Time Remake",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 7
+      "viewers": 12
     },
     {
       "platform": "youtube",
@@ -41,10 +41,10 @@
       "name": "TheShyHat",
       "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
       "link": "https://www.youtube.com/watch?v=wqZ8_5VKBDw",
-      "viewers": 8
+      "viewers": 12
     }
   ],
-  "viewers_total": 493,
+  "viewers_total": 481,
   "videos": [
     {
       "video_id": "CoQ0CE3wVDs",
