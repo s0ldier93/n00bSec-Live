@@ -1,30 +1,39 @@
 {
-  "updated": "2026-11-12T20:37:49Z",
+  "updated": "2026-11-12T20:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 Switching to T3 Code",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 165
+      "viewers": 164
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 227
+      "viewers": 235
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting and AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 9
+      "viewers": 8
     }
   ],
-  "viewers_total": 401,
+  "viewers_total": 407,
   "videos": [
+    {
+      "video_id": "sjyzEBTTGmQ",
+      "channel": "BySepa",
+      "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
+      "link": "https://www.youtube.com/watch?v=sjyzEBTTGmQ",
+      "published_at": "2026-11-12T20:44:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/sjyzEBTTGmQ/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "UDreWlQ_Fjk",
       "channel": "FixIt42",
@@ -176,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=gvuNrImsaXg",
       "published_at": "2026-11-11T20:11:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gvuNrImsaXg/hqdefault.jpg"
-    },
-    {
-      "video_id": "0XRv3uJOZiM",
-      "channel": "Hackavis",
-      "title": "Lo que Reddit borra no desaparece",
-      "link": "https://www.youtube.com/watch?v=0XRv3uJOZiM",
-      "published_at": "2026-11-11T18:04:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0XRv3uJOZiM/hqdefault.jpg"
     }
   ]
 }
