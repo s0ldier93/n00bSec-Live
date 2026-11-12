@@ -1,40 +1,33 @@
 {
-  "updated": "2026-11-12T22:07:48Z",
+  "updated": "2026-11-12T22:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 4
-    },
-    {
-      "platform": "twitch",
-      "name": "ChrisTitusTech",
-      "title": "\ud83d\udd34 Switching to T3 Code",
-      "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 169
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 293
+      "viewers": 303
     },
     {
       "platform": "twitch",
       "name": "mchow01",
       "title": "Really, Really Bad Code and Static Analysis (Episode 9, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 22
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting and AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 14
+      "viewers": 17
     },
     {
       "platform": "youtube",
@@ -44,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 503,
+  "viewers_total": 346,
   "videos": [
     {
       "video_id": "i2RfVnsiNy8",
@@ -53,6 +46,14 @@
       "link": "https://www.youtube.com/watch?v=i2RfVnsiNy8",
       "published_at": "2026-11-12T22:03:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/i2RfVnsiNy8/hqdefault.jpg"
+    },
+    {
+      "video_id": "bCUFHLM6F0A",
+      "channel": "SecurityWeekly",
+      "title": "Holes In Everything, Even SSH - PSW #952",
+      "link": "https://www.youtube.com/watch?v=bCUFHLM6F0A",
+      "published_at": "2026-11-12T22:00:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bCUFHLM6F0A/hqdefault.jpg"
     },
     {
       "video_id": "YU3qsqfJzEE",
@@ -197,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=CefQUiZKsFE",
       "published_at": "2026-11-11T22:02:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CefQUiZKsFE/hqdefault.jpg"
-    },
-    {
-      "video_id": "bIIcCtdSEU8",
-      "channel": "SecurityWeekly",
-      "title": "How to Get Your Board's Attention",
-      "link": "https://www.youtube.com/watch?v=bIIcCtdSEU8",
-      "published_at": "2026-11-11T22:00:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bIIcCtdSEU8/hqdefault.jpg"
     }
   ]
 }
