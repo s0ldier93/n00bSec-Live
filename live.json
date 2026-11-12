@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-12T00:07:49Z",
+  "updated": "2026-11-12T00:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 526
+      "viewers": 489
     }
   ],
-  "viewers_total": 526,
+  "viewers_total": 489,
   "videos": [
+    {
+      "video_id": "-zzwyVODlcA",
+      "channel": "FixIt42",
+      "title": "Playing with ai - why not stream?",
+      "link": "https://www.youtube.com/watch?v=-zzwyVODlcA",
+      "published_at": "2026-11-12T00:05:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-zzwyVODlcA/hqdefault.jpg"
+    },
     {
       "video_id": "o1aK86xFPuU",
       "channel": "HackerMentor",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=qYS8vMom5xE",
       "published_at": "2026-11-10T22:03:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qYS8vMom5xE/hqdefault.jpg"
-    },
-    {
-      "video_id": "wrrA3BzMQL0",
-      "channel": "SecurityWeekly",
-      "title": "Bad Claude, French Fridge Fiasco Fries Fromage, Teenage AI, SonicWALL, Aaran Leyland - SWN #632",
-      "link": "https://www.youtube.com/watch?v=wrrA3BzMQL0",
-      "published_at": "2026-11-10T22:00:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wrrA3BzMQL0/hqdefault.jpg"
     }
   ]
 }
