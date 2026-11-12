@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-12T21:17:50Z",
+  "updated": "2026-11-12T21:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 Switching to T3 Code",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 187
+      "viewers": 188
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 254
+      "viewers": 261
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting and AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 12
+      "viewers": 13
     }
   ],
-  "viewers_total": 453,
+  "viewers_total": 462,
   "videos": [
     {
       "video_id": "YU3qsqfJzEE",
