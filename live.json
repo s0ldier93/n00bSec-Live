@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T19:07:49Z",
+  "updated": "2026-11-12T19:17:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 212
+      "viewers": 222
     },
     {
       "platform": "twitch",
@@ -20,21 +20,14 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 29
+      "viewers": 26
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Wir bauen das Internet nach!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 3
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Construir exploit en ensamblador",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 1
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -48,10 +41,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=mGFqq2W3mjk",
-      "viewers": 46
+      "viewers": 49
     }
   ],
-  "viewers_total": 293,
+  "viewers_total": 303,
   "videos": [
     {
       "video_id": "ahHsKO6teJQ",
