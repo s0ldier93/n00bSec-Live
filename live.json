@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T19:57:24Z",
+  "updated": "2026-11-12T19:57:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 223
+      "viewers": 236
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d Wir bauen das Internet nach!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 2
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 270,
+  "viewers_total": 285,
   "videos": [
     {
       "video_id": "ahHsKO6teJQ",
