@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-12T14:07:49Z",
+  "updated": "2026-11-12T14:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "un peu de sup avec zabbix",
       "link": "https://twitch.tv/topklean",
-      "viewers": 29
+      "viewers": 24
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 12's Top Cyber News NOW! - Ep 1286",
       "link": "https://www.youtube.com/watch?v=tUnImI2g_rE",
-      "viewers": 298
+      "viewers": 240
     }
   ],
-  "viewers_total": 327,
+  "viewers_total": 264,
   "videos": [
     {
       "video_id": "s-OS25VjRSs",
