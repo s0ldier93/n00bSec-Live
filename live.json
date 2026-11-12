@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-12T14:37:27Z",
+  "updated": "2026-11-12T14:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "un peu de sup avec zabbix",
       "link": "https://twitch.tv/topklean",
-      "viewers": 33
+      "viewers": 38
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "Z3xvjzlDWd8",
