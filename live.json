@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-12T14:57:49Z",
+  "updated": "2026-11-12T15:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "un peu de sup avec zabbix",
       "link": "https://twitch.tv/topklean",
-      "viewers": 42
+      "viewers": 38
     }
   ],
-  "viewers_total": 42,
+  "viewers_total": 38,
   "videos": [
+    {
+      "video_id": "qFUat9f5Bsg",
+      "channel": "antisyphon",
+      "title": "Build a Deepfake",
+      "link": "https://www.youtube.com/watch?v=qFUat9f5Bsg",
+      "published_at": "2026-11-12T15:00:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qFUat9f5Bsg/hqdefault.jpg"
+    },
     {
       "video_id": "Z3xvjzlDWd8",
       "channel": "LowLevelTV",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Vq278eiUg-o",
       "published_at": "2026-11-11T15:00:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Vq278eiUg-o/hqdefault.jpg"
-    },
-    {
-      "video_id": "GyF0o6txFRs",
-      "channel": "ElPinguinoDeMario",
-      "title": "En qu\u00e9 Consiste la Vulnerabilidad COMMAND INJECTION y su Importancia",
-      "link": "https://www.youtube.com/watch?v=GyF0o6txFRs",
-      "published_at": "2026-11-11T14:35:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GyF0o6txFRs/hqdefault.jpg"
     }
   ]
 }
