@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-12T22:07:20Z",
+  "updated": "2026-11-12T22:07:48Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BySepa",
+      "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
+      "link": "https://twitch.tv/BySepa",
+      "viewers": 4
+    },
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
@@ -13,7 +20,7 @@
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 286
+      "viewers": 293
     },
     {
       "platform": "twitch",
@@ -27,7 +34,7 @@
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- Pentesting and AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 15
+      "viewers": 14
     },
     {
       "platform": "youtube",
@@ -37,7 +44,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 493,
+  "viewers_total": 503,
   "videos": [
     {
       "video_id": "i2RfVnsiNy8",
