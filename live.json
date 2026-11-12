@@ -1,30 +1,38 @@
 {
-  "updated": "2026-11-12T07:57:49Z",
+  "updated": "2026-11-12T08:07:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 7
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Zelda Ocarina Of Time Remake",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://www.youtube.com/watch?v=s-OS25VjRSs",
-      "viewers": 5
+      "viewers": 3
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 14,
   "videos": [
+    {
+      "video_id": "s-OS25VjRSs",
+      "channel": "censoredHacker",
+      "title": "AMA",
+      "link": "https://www.youtube.com/watch?v=s-OS25VjRSs",
+      "published_at": "2026-11-12T06:41:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/s-OS25VjRSs/hqdefault.jpg"
+    },
     {
       "video_id": "CoQ0CE3wVDs",
       "channel": "BlaiseBits",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=SP9piLXPdYA",
       "published_at": "2026-11-11T14:27:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SP9piLXPdYA/hqdefault.jpg"
-    },
-    {
-      "video_id": "9-2EmKFyvCk",
-      "channel": "SecurityWeekly",
-      "title": "Cyber Resilience as AI Tops CISO Priorities and Security Strategy for 2027 and Beyond - BSW #473",
-      "link": "https://www.youtube.com/watch?v=9-2EmKFyvCk",
-      "published_at": "2026-11-11T10:00:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9-2EmKFyvCk/hqdefault.jpg"
     }
   ]
 }
