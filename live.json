@@ -1,26 +1,19 @@
 {
-  "updated": "2026-11-12T03:17:48Z",
+  "updated": "2026-11-12T03:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber News + Q/A",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 30
-    },
-    {
-      "platform": "twitch",
-      "name": "chiefgyk3d",
-      "title": "PHP2Shell Made me kill my wordpress... BUT ITS PRETTY!|Cybersecurity,Rants,&Chill|11-11-26",
-      "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 21
+      "viewers": 44
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 440
+      "viewers": 426
     },
     {
       "platform": "twitch",
@@ -34,24 +27,24 @@
       "name": "TheShyHat",
       "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 10
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=CoQ0CE3wVDs",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
       "link": "https://www.youtube.com/watch?v=wqZ8_5VKBDw",
-      "viewers": 9
+      "viewers": 8
     }
   ],
-  "viewers_total": 517,
+  "viewers_total": 493,
   "videos": [
     {
       "video_id": "CoQ0CE3wVDs",
