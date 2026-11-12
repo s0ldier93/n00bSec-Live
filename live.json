@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T07:27:48Z",
+  "updated": "2026-11-12T07:47:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 11
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "censoredHacker",
       "title": "AMA",
       "link": "https://www.youtube.com/watch?v=s-OS25VjRSs",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 18,
+  "viewers_total": 15,
   "videos": [
     {
       "video_id": "CoQ0CE3wVDs",
