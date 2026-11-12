@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T02:47:48Z",
+  "updated": "2026-11-12T02:57:14Z",
   "streams": [
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Zelda Ocarina Of Time Remake",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -35,9 +35,16 @@
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=CoQ0CE3wVDs",
       "viewers": 5
+    },
+    {
+      "platform": "youtube",
+      "name": "TheShyHat",
+      "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
+      "link": "https://www.youtube.com/watch?v=wqZ8_5VKBDw",
+      "viewers": 6
     }
   ],
-  "viewers_total": 472,
+  "viewers_total": 479,
   "videos": [
     {
       "video_id": "CoQ0CE3wVDs",
