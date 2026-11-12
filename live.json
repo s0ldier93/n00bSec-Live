@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-12T06:47:17Z",
+  "updated": "2026-11-12T06:47:48Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "censoredHacker",
+      "title": "AMA",
+      "link": "https://twitch.tv/censoredHacker",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "irasakai",
@@ -13,7 +20,7 @@
       "name": "TheShyHat",
       "title": "HackerFrogs 2.0! New Look, New Features, Same Hacking Content!",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 27
+      "viewers": 26
     },
     {
       "platform": "youtube",
