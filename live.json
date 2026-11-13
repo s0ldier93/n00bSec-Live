@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T19:37:50Z",
+  "updated": "2026-11-13T19:47:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 21
+      "viewers": 19
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 24
+      "viewers": 27
     },
     {
       "platform": "twitch",
@@ -41,10 +41,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=rb6tT8V4AC0",
-      "viewers": 62
+      "viewers": 55
     }
   ],
-  "viewers_total": 266,
+  "viewers_total": 260,
   "videos": [
     {
       "video_id": "NuEQfuKGXQk",
