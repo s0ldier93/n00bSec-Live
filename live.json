@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-13T19:07:50Z",
+  "updated": "2026-11-13T19:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW T3 Coding while leveling",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 129
+      "viewers": 132
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 23
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Star Fox",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 20
+      "viewers": 23
     },
     {
       "platform": "twitch",
@@ -41,10 +41,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=rb6tT8V4AC0",
-      "viewers": 66
+      "viewers": 58
     }
   ],
-  "viewers_total": 242,
+  "viewers_total": 238,
   "videos": [
     {
       "video_id": "schJbl2Q7mg",
