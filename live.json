@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T00:07:49Z",
+  "updated": "2026-11-13T00:17:14Z",
   "streams": [
     {
       "platform": "twitch",
@@ -27,17 +27,10 @@
       "name": "pwncollege",
       "title": "CSE466 - Week 13 - Sandboxing",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 13
-    },
-    {
-      "platform": "youtube",
-      "name": "BySepa",
-      "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)!",
-      "link": "https://www.youtube.com/watch?v=sjyzEBTTGmQ",
-      "viewers": 1
+      "viewers": 18
     }
   ],
-  "viewers_total": 330,
+  "viewers_total": 334,
   "videos": [
     {
       "video_id": "IayIyyE4Tfw",
