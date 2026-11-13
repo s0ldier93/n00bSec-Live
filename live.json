@@ -1,16 +1,32 @@
 {
-  "updated": "2026-11-13T02:27:49Z",
+  "updated": "2026-11-13T02:37:48Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "The Angry Alchemist Plays:  Zelda Ocarina Of Time Remake",
+      "link": "https://twitch.tv/irasakai",
+      "viewers": 2
+    },
     {
       "platform": "twitch",
       "name": "unhackerencapital",
       "title": "Hacking - Ciberseguridad de la Semana",
       "link": "https://twitch.tv/unhackerencapital",
-      "viewers": 28
+      "viewers": 17
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 19,
   "videos": [
+    {
+      "video_id": "ksenjytkuMI",
+      "channel": "EJSA",
+      "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
+      "link": "https://www.youtube.com/watch?v=ksenjytkuMI",
+      "published_at": "2026-11-13T02:06:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ksenjytkuMI/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "r3tXPXALc18",
       "channel": "mbcrump",
@@ -162,14 +178,6 @@
       "link": "https://www.youtube.com/watch?v=puxHnMcGaX4",
       "published_at": "2026-11-12T00:40:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/puxHnMcGaX4/hqdefault.jpg"
-    },
-    {
-      "video_id": "-zzwyVODlcA",
-      "channel": "FixIt42",
-      "title": "Playing with ai - why not stream?",
-      "link": "https://www.youtube.com/watch?v=-zzwyVODlcA",
-      "published_at": "2026-11-12T00:05:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-zzwyVODlcA/hqdefault.jpg"
     }
   ]
 }
