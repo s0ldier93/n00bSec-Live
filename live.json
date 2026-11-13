@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T20:17:51Z",
+  "updated": "2026-11-13T20:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW T3 Coding while leveling",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 123
+      "viewers": 125
     },
     {
       "platform": "twitch",
@@ -20,10 +20,17 @@
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 27
+    },
+    {
+      "platform": "twitch",
+      "name": "team_whoami",
+      "title": "Exploit en Python tecnica ROP",
+      "link": "https://twitch.tv/team_whoami",
+      "viewers": 1
     }
   ],
-  "viewers_total": 152,
+  "viewers_total": 154,
   "videos": [
     {
       "video_id": "NuvLa3mEL4A",
