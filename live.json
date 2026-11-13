@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-13T01:27:48Z",
+  "updated": "2026-11-13T01:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 282
+      "viewers": 279
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "(Part 3) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 18
+      "viewers": 17
     }
   ],
-  "viewers_total": 300,
+  "viewers_total": 296,
   "videos": [
     {
       "video_id": "r3tXPXALc18",
