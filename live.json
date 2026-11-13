@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-13T03:07:49Z",
+  "updated": "2026-11-13T03:17:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Zelda Ocarina Of Time Remake",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 5
-    },
-    {
-      "platform": "twitch",
-      "name": "unhackerencapital",
-      "title": "Hacking - Ciberseguridad de la Semana",
-      "link": "https://twitch.tv/unhackerencapital",
-      "viewers": 23
+      "viewers": 3
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "ksenjytkuMI",
