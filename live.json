@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-13T18:17:49Z",
+  "updated": "2026-11-13T18:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 New Release today and WoW Dev work",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 141
+      "viewers": 151
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 24
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 26
+      "viewers": 22
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=rb6tT8V4AC0",
-      "viewers": 62
+      "viewers": 58
     }
   ],
-  "viewers_total": 254,
+  "viewers_total": 255,
   "videos": [
     {
       "video_id": "schJbl2Q7mg",
