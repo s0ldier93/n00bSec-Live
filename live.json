@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T22:57:50Z",
+  "updated": "2026-11-13T23:07:16Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,9 +7,16 @@
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 2077
+    },
+    {
+      "platform": "youtube",
+      "name": "ProfitzTV",
+      "title": "FOREVER! | NA | Normal",
+      "link": "https://www.youtube.com/watch?v=h2hurwLQmLs",
+      "viewers": 1
     }
   ],
-  "viewers_total": 2077,
+  "viewers_total": 2078,
   "videos": [
     {
       "video_id": "w45jX6-sxhg",
