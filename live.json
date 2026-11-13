@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T21:07:50Z",
+  "updated": "2026-11-13T21:17:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,16 +7,9 @@
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
       "viewers": 26
-    },
-    {
-      "platform": "twitch",
-      "name": "team_whoami",
-      "title": "Exploit en Python tecnica ROP",
-      "link": "https://twitch.tv/team_whoami",
-      "viewers": 1
     }
   ],
-  "viewers_total": 27,
+  "viewers_total": 26,
   "videos": [
     {
       "video_id": "T-O5RSnE-6Q",
