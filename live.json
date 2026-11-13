@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-13T08:07:22Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "Lets watch some videos and review them",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 6
-    }
-  ],
-  "viewers_total": 6,
+  "updated": "2026-11-13T08:07:49Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "ha1W71NvTFw",
