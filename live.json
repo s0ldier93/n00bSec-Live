@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-13T16:47:53Z",
+  "updated": "2026-11-13T16:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "WE GOIN TO TWITCH CON",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 12
+      "viewers": 21
+    },
+    {
+      "platform": "twitch",
+      "name": "ritsec",
+      "title": "RITSEC Fall Week 12 - Intro to Cloud Security",
+      "link": "https://twitch.tv/ritsec",
+      "viewers": 1
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 22,
   "videos": [
     {
       "video_id": "Z_jX--0vslo",
