@@ -1,29 +1,22 @@
 {
-  "updated": "2026-11-13T00:27:49Z",
+  "updated": "2026-11-13T00:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 325
+      "viewers": 303
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "(Part 3) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 18
-    },
-    {
-      "platform": "twitch",
-      "name": "pwncollege",
-      "title": "CSE466 - Week 13 - Sandboxing",
-      "link": "https://twitch.tv/pwncollege",
-      "viewers": 28
+      "viewers": 22
     }
   ],
-  "viewers_total": 371,
+  "viewers_total": 325,
   "videos": [
     {
       "video_id": "IayIyyE4Tfw",
