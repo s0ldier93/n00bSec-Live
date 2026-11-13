@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-13T03:37:48Z",
+  "updated": "2026-11-13T05:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Zelda Ocarina Of Time Remake",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "ksenjytkuMI",
