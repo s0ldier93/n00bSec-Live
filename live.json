@@ -1,51 +1,59 @@
 {
-  "updated": "2026-11-13T19:17:50Z",
+  "updated": "2026-11-13T19:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW T3 Coding while leveling",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 132
+      "viewers": 159
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 20
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Star Fox",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 23
+      "viewers": 27
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 12 - Intro to Cloud Security",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=rb6tT8V4AC0",
-      "viewers": 58
+      "viewers": 60
     }
   ],
-  "viewers_total": 238,
+  "viewers_total": 272,
   "videos": [
+    {
+      "video_id": "NuEQfuKGXQk",
+      "channel": "mbcrump",
+      "title": "Stop Your Switch 2 From Phoning Home | Pico 2 W + CivSwitch",
+      "link": "https://www.youtube.com/watch?v=NuEQfuKGXQk",
+      "published_at": "2026-11-13T19:23:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NuEQfuKGXQk/hqdefault.jpg"
+    },
     {
       "video_id": "schJbl2Q7mg",
       "channel": "Hackavis",
@@ -199,14 +207,6 @@
       "link": "https://www.youtube.com/watch?v=UDreWlQ_Fjk",
       "published_at": "2026-11-12T20:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/UDreWlQ_Fjk/hqdefault.jpg"
-    },
-    {
-      "video_id": "ahHsKO6teJQ",
-      "channel": "Hackavis",
-      "title": "Una foto tuya y saben d\u00f3nde apareces",
-      "link": "https://www.youtube.com/watch?v=ahHsKO6teJQ",
-      "published_at": "2026-11-12T18:03:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ahHsKO6teJQ/hqdefault.jpg"
     }
   ]
 }
