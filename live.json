@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-13T07:37:48Z",
+  "updated": "2026-11-13T07:47:52Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lets watch some videos and review them",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lets watch some videos and review them",
       "link": "https://www.youtube.com/watch?v=ha1W71NvTFw",
-      "viewers": 4
+      "viewers": 2
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 7,
   "videos": [
     {
       "video_id": "ksenjytkuMI",
