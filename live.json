@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T02:47:49Z",
+  "updated": "2026-11-13T02:57:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "unhackerencapital",
       "title": "Hacking - Ciberseguridad de la Semana",
       "link": "https://twitch.tv/unhackerencapital",
-      "viewers": 21
+      "viewers": 22
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 25,
   "videos": [
     {
       "video_id": "ksenjytkuMI",
