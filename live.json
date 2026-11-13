@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-13T21:37:50Z",
+  "updated": "2026-11-13T21:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 19
+      "viewers": 24
     }
   ],
-  "viewers_total": 19,
+  "viewers_total": 24,
   "videos": [
+    {
+      "video_id": "L03xkRLqhxE",
+      "channel": "IC_null",
+      "title": "Building a house in #paralives when you're blind \ud83d\ude48 \ud83e\uddd1\u200d\ud83e\uddaf  #accessibility #gaming",
+      "link": "https://www.youtube.com/watch?v=L03xkRLqhxE",
+      "published_at": "2026-11-13T21:37:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/L03xkRLqhxE/hqdefault.jpg"
+    },
     {
       "video_id": "T-O5RSnE-6Q",
       "channel": "hack_smarter",
@@ -165,14 +173,6 @@
       "link": "https://www.youtube.com/watch?v=i2RfVnsiNy8",
       "published_at": "2026-11-12T22:03:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/i2RfVnsiNy8/hqdefault.jpg"
-    },
-    {
-      "video_id": "bCUFHLM6F0A",
-      "channel": "SecurityWeekly",
-      "title": "Holes In Everything, Even SSH - PSW #952",
-      "link": "https://www.youtube.com/watch?v=bCUFHLM6F0A",
-      "published_at": "2026-11-12T22:00:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bCUFHLM6F0A/hqdefault.jpg"
     }
   ]
 }
