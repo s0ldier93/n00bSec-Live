@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-13T08:07:49Z",
+  "updated": "2026-11-13T12:16:55Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "Xl_cPtyoGDg",
+      "channel": "hack_smarter",
+      "title": "Hacking A Bank... (404 Bank - Part 5)",
+      "link": "https://www.youtube.com/watch?v=Xl_cPtyoGDg",
+      "published_at": "2026-11-13T12:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Xl_cPtyoGDg/hqdefault.jpg"
+    },
     {
       "video_id": "ha1W71NvTFw",
       "channel": "censoredHacker",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=Z3xvjzlDWd8",
       "published_at": "2026-11-12T14:08:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Z3xvjzlDWd8/hqdefault.jpg"
-    },
-    {
-      "video_id": "s-OS25VjRSs",
-      "channel": "censoredHacker",
-      "title": "AMA",
-      "link": "https://www.youtube.com/watch?v=s-OS25VjRSs",
-      "published_at": "2026-11-12T06:41:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/s-OS25VjRSs/hqdefault.jpg"
     }
   ]
 }
