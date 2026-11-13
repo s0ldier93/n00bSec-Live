@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T21:57:50Z",
+  "updated": "2026-11-13T22:07:19Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,9 +7,16 @@
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
       "viewers": 23
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
+      "link": "https://www.youtube.com/watch?v=ksenjytkuMI",
+      "viewers": 129
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 152,
   "videos": [
     {
       "video_id": "L03xkRLqhxE",
@@ -147,8 +154,7 @@
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://www.youtube.com/watch?v=ksenjytkuMI",
       "published_at": "2026-11-13T02:06:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ksenjytkuMI/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/ksenjytkuMI/hqdefault.jpg"
     },
     {
       "video_id": "r3tXPXALc18",
