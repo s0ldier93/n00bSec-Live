@@ -1,26 +1,12 @@
 {
-  "updated": "2026-11-13T20:27:50Z",
+  "updated": "2026-11-13T20:37:50Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "ChrisTitusTech",
-      "title": "\ud83d\udd34 WoW T3 Coding while leveling",
-      "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 125
-    },
-    {
-      "platform": "twitch",
-      "name": "irasakai",
-      "title": "The Angry Alchemist Plays:  Star Fox",
-      "link": "https://twitch.tv/irasakai",
-      "viewers": 1
-    },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 24
     },
     {
       "platform": "twitch",
@@ -30,8 +16,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 154,
+  "viewers_total": 25,
   "videos": [
+    {
+      "video_id": "5xD9YOeB8z4",
+      "channel": "antisyphon",
+      "title": "Firewall Log Review | Free Lab Fridays [Full Lab Walkthrough]",
+      "link": "https://www.youtube.com/watch?v=5xD9YOeB8z4",
+      "published_at": "2026-11-13T20:19:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5xD9YOeB8z4/hqdefault.jpg"
+    },
     {
       "video_id": "NuvLa3mEL4A",
       "channel": "gerald_auger_simplycyber",
@@ -186,14 +180,6 @@
       "link": "https://www.youtube.com/watch?v=YU3qsqfJzEE",
       "published_at": "2026-11-12T20:50:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/YU3qsqfJzEE/hqdefault.jpg"
-    },
-    {
-      "video_id": "sjyzEBTTGmQ",
-      "channel": "BySepa",
-      "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
-      "link": "https://www.youtube.com/watch?v=sjyzEBTTGmQ",
-      "published_at": "2026-11-12T20:44:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sjyzEBTTGmQ/hqdefault.jpg"
     }
   ]
 }
