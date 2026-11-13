@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-13T16:37:49Z",
+  "updated": "2026-11-13T16:47:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "WE GOIN TO TWITCH CON",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 10
+      "viewers": 12
     }
   ],
-  "viewers_total": 10,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "Z_jX--0vslo",
