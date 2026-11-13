@@ -1,37 +1,39 @@
 {
-  "updated": "2026-11-13T20:07:25Z",
+  "updated": "2026-11-13T20:17:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW T3 Coding while leveling",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 164
+      "viewers": 123
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Star Fox",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 24
-    },
-    {
-      "platform": "twitch",
-      "name": "ritsec",
-      "title": "RITSEC Fall Week 12 - Intro to Cloud Security",
-      "link": "https://twitch.tv/ritsec",
-      "viewers": 1
+      "viewers": 28
     }
   ],
-  "viewers_total": 191,
+  "viewers_total": 152,
   "videos": [
+    {
+      "video_id": "NuvLa3mEL4A",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 16's Top Cyber News NOW! - Ep 1288",
+      "link": "https://www.youtube.com/watch?v=NuvLa3mEL4A",
+      "published_at": "2026-11-13T20:04:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NuvLa3mEL4A/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "NuEQfuKGXQk",
       "channel": "mbcrump",
@@ -185,14 +187,6 @@
       "link": "https://www.youtube.com/watch?v=sjyzEBTTGmQ",
       "published_at": "2026-11-12T20:44:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/sjyzEBTTGmQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "UDreWlQ_Fjk",
-      "channel": "FixIt42",
-      "title": "Am I actually gonna stream when the schedule says I'm going to? ;) Yup!",
-      "link": "https://www.youtube.com/watch?v=UDreWlQ_Fjk",
-      "published_at": "2026-11-12T20:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UDreWlQ_Fjk/hqdefault.jpg"
     }
   ]
 }
