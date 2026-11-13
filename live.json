@@ -1,26 +1,19 @@
 {
-  "updated": "2026-11-13T00:17:14Z",
+  "updated": "2026-11-13T00:17:48Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BySepa",
-      "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
-      "link": "https://twitch.tv/BySepa",
-      "viewers": 5
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 310
+      "viewers": 314
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "(Part 3) ISC2 Certified in Cyber Security Workshop Prep, with a focus on Linux.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 1
+      "viewers": 7
     },
     {
       "platform": "twitch",
@@ -30,7 +23,7 @@
       "viewers": 18
     }
   ],
-  "viewers_total": 334,
+  "viewers_total": 339,
   "videos": [
     {
       "video_id": "IayIyyE4Tfw",
