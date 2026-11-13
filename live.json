@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-13T07:47:52Z",
+  "updated": "2026-11-13T07:57:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lets watch some videos and review them",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lets watch some videos and review them",
       "link": "https://www.youtube.com/watch?v=ha1W71NvTFw",
-      "viewers": 2
+      "viewers": 1
     }
   ],
   "viewers_total": 7,
