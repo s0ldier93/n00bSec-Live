@@ -1,16 +1,33 @@
 {
-  "updated": "2026-11-13T22:37:49Z",
+  "updated": "2026-11-13T22:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 1330
+      "viewers": 1818
     }
   ],
-  "viewers_total": 1330,
+  "viewers_total": 1818,
   "videos": [
+    {
+      "video_id": "w45jX6-sxhg",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 20's Top Cyber News NOW! - Ep 1292",
+      "link": "https://www.youtube.com/watch?v=w45jX6-sxhg",
+      "published_at": "2026-11-13T22:36:45+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/w45jX6-sxhg/hqdefault.jpg",
+      "upcoming": true
+    },
+    {
+      "video_id": "L30U7Nik59w",
+      "channel": "mbcrump",
+      "title": "PS4 14.02 WebKit Jailbreak Released! Full Walkthrough!",
+      "link": "https://www.youtube.com/watch?v=L30U7Nik59w",
+      "published_at": "2026-11-13T22:36:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/L30U7Nik59w/hqdefault.jpg"
+    },
     {
       "video_id": "S0X3wagwpDc",
       "channel": "pebl3",
@@ -156,22 +173,6 @@
       "published_at": "2026-11-13T06:12:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/KlpNBqCjIAE/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "ksenjytkuMI",
-      "channel": "EJSA",
-      "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
-      "link": "https://www.youtube.com/watch?v=ksenjytkuMI",
-      "published_at": "2026-11-13T02:06:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ksenjytkuMI/hqdefault.jpg"
-    },
-    {
-      "video_id": "r3tXPXALc18",
-      "channel": "mbcrump",
-      "title": "PS5 Games on PS4? What EmuFive Actually Does",
-      "link": "https://www.youtube.com/watch?v=r3tXPXALc18",
-      "published_at": "2026-11-13T01:11:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/r3tXPXALc18/hqdefault.jpg"
     }
   ]
 }
