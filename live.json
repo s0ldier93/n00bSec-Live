@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-13T15:47:50Z",
+  "updated": "2026-11-13T15:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Tea with a Hacker",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 79
+      "viewers": 73
     }
   ],
-  "viewers_total": 79,
+  "viewers_total": 73,
   "videos": [
+    {
+      "video_id": "Z_jX--0vslo",
+      "channel": "CyberWarriorStudios",
+      "title": "Finish Strong or Lose Your Weekend #Shorts",
+      "link": "https://www.youtube.com/watch?v=Z_jX--0vslo",
+      "published_at": "2026-11-13T15:54:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Z_jX--0vslo/hqdefault.jpg"
+    },
     {
       "video_id": "gysQGMl_rn0",
       "channel": "SecurityWeekly",
@@ -164,14 +172,6 @@
       "link": "https://www.youtube.com/watch?v=QsMliK7Iry0",
       "published_at": "2026-11-12T15:20:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QsMliK7Iry0/hqdefault.jpg"
-    },
-    {
-      "video_id": "TpIsrKvoU-4",
-      "channel": "EJSA",
-      "title": "EJ's Space and Rocket Revue! 11/11/26 HAPPY VETERANS DAY!",
-      "link": "https://www.youtube.com/watch?v=TpIsrKvoU-4",
-      "published_at": "2026-11-12T15:14:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TpIsrKvoU-4/hqdefault.jpg"
     }
   ]
 }
