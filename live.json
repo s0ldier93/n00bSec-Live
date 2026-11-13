@@ -1,23 +1,24 @@
 {
-  "updated": "2026-11-13T14:57:49Z",
+  "updated": "2026-11-13T15:07:29Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Tea with a Hacker",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 6
-    },
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 13's Top Cyber News NOW! - Ep 1287",
-      "link": "https://www.youtube.com/watch?v=C40pljzfrrc",
-      "viewers": 258
+      "viewers": 30
     }
   ],
-  "viewers_total": 264,
+  "viewers_total": 30,
   "videos": [
+    {
+      "video_id": "gysQGMl_rn0",
+      "channel": "SecurityWeekly",
+      "title": "Star Wars in Pure ASCII Art",
+      "link": "https://www.youtube.com/watch?v=gysQGMl_rn0",
+      "published_at": "2026-11-13T15:00:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gysQGMl_rn0/hqdefault.jpg"
+    },
     {
       "video_id": "Fe_iJHdq-Uo",
       "channel": "team_whoami",
@@ -171,14 +172,6 @@
       "link": "https://www.youtube.com/watch?v=TpIsrKvoU-4",
       "published_at": "2026-11-12T15:14:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TpIsrKvoU-4/hqdefault.jpg"
-    },
-    {
-      "video_id": "qFUat9f5Bsg",
-      "channel": "antisyphon",
-      "title": "Build a Deepfake",
-      "link": "https://www.youtube.com/watch?v=qFUat9f5Bsg",
-      "published_at": "2026-11-12T15:00:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qFUat9f5Bsg/hqdefault.jpg"
     }
   ]
 }
