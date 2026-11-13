@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-13T17:57:49Z",
+  "updated": "2026-11-13T18:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 New Release today and WoW Dev work",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 138
+      "viewers": 146
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 17
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=rb6tT8V4AC0",
-      "viewers": 67
+      "viewers": 66
     }
   ],
-  "viewers_total": 249,
+  "viewers_total": 260,
   "videos": [
+    {
+      "video_id": "schJbl2Q7mg",
+      "channel": "Hackavis",
+      "title": "Miles de archivos privados abiertos en internet",
+      "link": "https://www.youtube.com/watch?v=schJbl2Q7mg",
+      "published_at": "2026-11-13T18:04:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/schJbl2Q7mg/hqdefault.jpg"
+    },
     {
       "video_id": "rb6tT8V4AC0",
       "channel": "hack_smarter",
@@ -185,14 +193,6 @@
       "link": "https://www.youtube.com/watch?v=ahHsKO6teJQ",
       "published_at": "2026-11-12T18:03:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ahHsKO6teJQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "mGFqq2W3mjk",
-      "channel": "hack_smarter",
-      "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
-      "link": "https://www.youtube.com/watch?v=mGFqq2W3mjk",
-      "published_at": "2026-11-12T17:08:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mGFqq2W3mjk/hqdefault.jpg"
     }
   ]
 }
