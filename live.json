@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-13T21:47:49Z",
+  "updated": "2026-11-13T21:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 24
+      "viewers": 23
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 23,
   "videos": [
     {
       "video_id": "L03xkRLqhxE",
