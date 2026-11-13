@@ -1,36 +1,43 @@
 {
-  "updated": "2026-11-13T18:07:50Z",
+  "updated": "2026-11-13T18:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 New Release today and WoW Dev work",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 146
+      "viewers": 141
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 20
+      "viewers": 24
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 26
+    },
+    {
+      "platform": "twitch",
+      "name": "ritsec",
+      "title": "RITSEC Fall Week 12 - Intro to Cloud Security",
+      "link": "https://twitch.tv/ritsec",
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Live Hacking & Ask Me Anything (AMA)",
       "link": "https://www.youtube.com/watch?v=rb6tT8V4AC0",
-      "viewers": 66
+      "viewers": 62
     }
   ],
-  "viewers_total": 260,
+  "viewers_total": 254,
   "videos": [
     {
       "video_id": "schJbl2Q7mg",
