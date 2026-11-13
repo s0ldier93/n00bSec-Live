@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T07:57:48Z",
+  "updated": "2026-11-13T08:07:22Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,17 +7,27 @@
       "title": "Lets watch some videos and review them",
       "link": "https://twitch.tv/censoredHacker",
       "viewers": 6
-    },
-    {
-      "platform": "youtube",
-      "name": "censoredHacker",
-      "title": "Lets watch some videos and review them",
-      "link": "https://www.youtube.com/watch?v=ha1W71NvTFw",
-      "viewers": 1
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 6,
   "videos": [
+    {
+      "video_id": "ha1W71NvTFw",
+      "channel": "censoredHacker",
+      "title": "Lets watch some videos and review them",
+      "link": "https://www.youtube.com/watch?v=ha1W71NvTFw",
+      "published_at": "2026-11-13T06:34:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ha1W71NvTFw/hqdefault.jpg"
+    },
+    {
+      "video_id": "KlpNBqCjIAE",
+      "channel": "TheShyHat",
+      "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
+      "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
+      "published_at": "2026-11-13T06:12:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/KlpNBqCjIAE/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "ksenjytkuMI",
       "channel": "EJSA",
@@ -162,22 +172,6 @@
       "link": "https://www.youtube.com/watch?v=s-OS25VjRSs",
       "published_at": "2026-11-12T06:41:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/s-OS25VjRSs/hqdefault.jpg"
-    },
-    {
-      "video_id": "CoQ0CE3wVDs",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Cyber Security News & QA",
-      "link": "https://www.youtube.com/watch?v=CoQ0CE3wVDs",
-      "published_at": "2026-11-12T01:59:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/CoQ0CE3wVDs/hqdefault.jpg"
-    },
-    {
-      "video_id": "puxHnMcGaX4",
-      "channel": "mbcrump",
-      "title": "GTA 6 PS5 Unboxing: What's Actually in the Box?",
-      "link": "https://www.youtube.com/watch?v=puxHnMcGaX4",
-      "published_at": "2026-11-12T00:40:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/puxHnMcGaX4/hqdefault.jpg"
     }
   ]
 }
