@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T01:17:50Z",
+  "updated": "2026-11-13T01:27:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 291
+      "viewers": 282
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 18
     }
   ],
-  "viewers_total": 309,
+  "viewers_total": 300,
   "videos": [
     {
       "video_id": "r3tXPXALc18",
