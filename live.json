@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-13T22:07:19Z",
+  "updated": "2026-11-13T22:07:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ej_sa",
+      "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 592
+    },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "making vtubers",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 23
-    },
-    {
-      "platform": "youtube",
-      "name": "EJSA",
-      "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
-      "link": "https://www.youtube.com/watch?v=ksenjytkuMI",
-      "viewers": 129
+      "viewers": 26
     }
   ],
-  "viewers_total": 152,
+  "viewers_total": 618,
   "videos": [
     {
       "video_id": "L03xkRLqhxE",
