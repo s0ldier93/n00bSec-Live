@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-13T07:07:48Z",
+  "updated": "2026-11-13T07:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Lets watch some videos and review them",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays:  Zelda Ocarina Of Time Remake",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Lets watch some videos and review them",
       "link": "https://www.youtube.com/watch?v=ha1W71NvTFw",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "ksenjytkuMI",
