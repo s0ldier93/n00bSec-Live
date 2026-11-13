@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:57:48Z",
+  "updated": "2026-11-13T07:07:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "censoredHacker",
       "title": "Lets watch some videos and review them",
       "link": "https://www.youtube.com/watch?v=ha1W71NvTFw",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "ksenjytkuMI",
