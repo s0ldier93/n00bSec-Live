@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-14T19:57:53Z",
+  "updated": "2026-11-14T20:07:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 2018
+      "viewers": 2093
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "i went to twitch con!! hi hello!!",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 30
     }
   ],
-  "viewers_total": 2047,
+  "viewers_total": 2123,
   "videos": [
+    {
+      "video_id": "h-3WgP4Dz_w",
+      "channel": "Cyber_Insecurity",
+      "title": "OpenAI Called It a Sandbox. It Escaped.",
+      "link": "https://www.youtube.com/watch?v=h-3WgP4Dz_w",
+      "published_at": "2026-11-14T20:02:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/h-3WgP4Dz_w/hqdefault.jpg"
+    },
     {
       "video_id": "LxduMxW6cBY",
       "channel": "EJSA",
@@ -171,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=rb6tT8V4AC0",
       "published_at": "2026-11-13T17:06:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/rb6tT8V4AC0/hqdefault.jpg"
-    },
-    {
-      "video_id": "OaIQzBT260Y",
-      "channel": "Cyber_Insecurity",
-      "title": "Shannon proved itself on JuiceBox, a target the models were trained on",
-      "link": "https://www.youtube.com/watch?v=OaIQzBT260Y",
-      "published_at": "2026-11-13T17:05:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OaIQzBT260Y/hqdefault.jpg"
     }
   ]
 }
