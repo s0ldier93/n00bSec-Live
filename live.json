@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-14T03:27:53Z",
+  "updated": "2026-11-14T03:37:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Hacking real en vivo \ud83d\ude0d\ud83d\ude0d",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 985
+      "viewers": 952
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 992,
+  "viewers_total": 962,
   "videos": [
     {
       "video_id": "w45jX6-sxhg",
