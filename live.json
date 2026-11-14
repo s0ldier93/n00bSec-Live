@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T05:17:53Z",
+  "updated": "2026-11-14T05:27:16Z",
   "streams": [
     {
       "platform": "twitch",
@@ -21,16 +21,9 @@
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
       "viewers": 2
-    },
-    {
-      "platform": "youtube",
-      "name": "ProfitzTV",
-      "title": "FOREVER! | NA | Normal",
-      "link": "https://www.youtube.com/watch?v=h2hurwLQmLs",
-      "viewers": 1
     }
   ],
-  "viewers_total": 908,
+  "viewers_total": 907,
   "videos": [
     {
       "video_id": "1g98jxBwlU4",
