@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-14T20:47:53Z",
+  "updated": "2026-11-14T20:57:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 2496
+      "viewers": 2699
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 29
     }
   ],
-  "viewers_total": 2525,
+  "viewers_total": 2728,
   "videos": [
     {
       "video_id": "h-3WgP4Dz_w",
