@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-14T21:37:53Z",
+  "updated": "2026-11-14T21:47:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 2448
+      "viewers": 2145
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "i went to twitch con!! hi hello!!",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 26
     }
   ],
-  "viewers_total": 2476,
+  "viewers_total": 2171,
   "videos": [
     {
       "video_id": "h-3WgP4Dz_w",
