@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-14T22:57:53Z",
+  "updated": "2026-11-14T23:07:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Hackeando y editando mi p\u00e1gina web\ud83d\ude0d\ud83d\ude0d",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 9
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 1436
+      "viewers": 1428
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "onkey watchparty",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 22
     }
   ],
-  "viewers_total": 1474,
+  "viewers_total": 1458,
   "videos": [
     {
       "video_id": "qMQNQjwWZqk",
