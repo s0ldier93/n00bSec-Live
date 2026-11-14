@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-14T14:57:53Z",
+  "updated": "2026-11-14T15:07:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "POV: Microsoft IT Admins HATE This One Weird Capacity Upgrade trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 22
+      "viewers": 20
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 1152
+      "viewers": 1200
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 1175,
+  "viewers_total": 1221,
   "videos": [
+    {
+      "video_id": "Wv1S_hLjTic",
+      "channel": "HaxrByte",
+      "title": "The Hack That Only Needs One Request #as-reproasting #shorts",
+      "link": "https://www.youtube.com/watch?v=Wv1S_hLjTic",
+      "published_at": "2026-11-14T15:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Wv1S_hLjTic/hqdefault.jpg"
+    },
     {
       "video_id": "wI2kJf00cpw",
       "channel": "B7H30",
@@ -178,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=gysQGMl_rn0",
       "published_at": "2026-11-13T15:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gysQGMl_rn0/hqdefault.jpg"
-    },
-    {
-      "video_id": "Fe_iJHdq-Uo",
-      "channel": "team_whoami",
-      "title": "Buffer Overflow ROP parte 3",
-      "link": "https://www.youtube.com/watch?v=Fe_iJHdq-Uo",
-      "published_at": "2026-11-13T13:00:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Fe_iJHdq-Uo/hqdefault.jpg"
     }
   ]
 }
