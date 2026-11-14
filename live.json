@@ -1,30 +1,38 @@
 {
-  "updated": "2026-11-14T15:17:53Z",
+  "updated": "2026-11-14T15:27:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "POV: Microsoft IT Admins HATE This One Weird Capacity Upgrade trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 31
+      "viewers": 33
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 1213
+      "viewers": 1287
     },
     {
       "platform": "youtube",
       "name": "B7H30",
       "title": "POV: Microsoft IT Admins HATE This One Weird Capacity Upgrade trick | OSCP Study on HTB",
       "link": "https://www.youtube.com/watch?v=wI2kJf00cpw",
-      "viewers": 3
+      "viewers": 1
     }
   ],
-  "viewers_total": 1247,
+  "viewers_total": 1321,
   "videos": [
+    {
+      "video_id": "smdOz8LQNC0",
+      "channel": "ippsec",
+      "title": "HackTheBox - Nimbus",
+      "link": "https://www.youtube.com/watch?v=smdOz8LQNC0",
+      "published_at": "2026-11-14T15:01:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/smdOz8LQNC0/hqdefault.jpg"
+    },
     {
       "video_id": "Wv1S_hLjTic",
       "channel": "HaxrByte",
@@ -178,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=Z_jX--0vslo",
       "published_at": "2026-11-13T15:54:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Z_jX--0vslo/hqdefault.jpg"
-    },
-    {
-      "video_id": "gysQGMl_rn0",
-      "channel": "SecurityWeekly",
-      "title": "Star Wars in Pure ASCII Art",
-      "link": "https://www.youtube.com/watch?v=gysQGMl_rn0",
-      "published_at": "2026-11-13T15:00:17+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gysQGMl_rn0/hqdefault.jpg"
     }
   ]
 }
