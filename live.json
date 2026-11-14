@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-14T12:17:52Z",
+  "updated": "2026-11-14T12:27:52Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 703
+      "viewers": 712
     },
     {
       "platform": "twitch",
       "name": "miloslavpalik",
       "title": "\ud83d\uded1PIRATE TOKEN HUNT",
       "link": "https://twitch.tv/miloslavpalik",
-      "viewers": 0
+      "viewers": 2
     }
   ],
-  "viewers_total": 703,
+  "viewers_total": 714,
   "videos": [
     {
       "video_id": "5aYVurogRWM",
