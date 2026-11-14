@@ -1,26 +1,19 @@
 {
-  "updated": "2026-11-14T03:57:52Z",
+  "updated": "2026-11-14T04:07:52Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Hacking real en vivo \ud83d\ude0d\ud83d\ude0d",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 6
-    },
     {
       "platform": "twitch",
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Stream - The Legend of Zelda Ocarina of Time | Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 4
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 924
+      "viewers": 923
     },
     {
       "platform": "twitch",
@@ -37,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 937,
+  "viewers_total": 927,
   "videos": [
+    {
+      "video_id": "1g98jxBwlU4",
+      "channel": "FixIt42",
+      "title": "Testing wsh2 kali with THM Volatility3",
+      "link": "https://www.youtube.com/watch?v=1g98jxBwlU4",
+      "published_at": "2026-11-14T00:21:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1g98jxBwlU4/hqdefault.jpg"
+    },
     {
       "video_id": "w45jX6-sxhg",
       "channel": "gerald_auger_simplycyber",
@@ -192,15 +193,6 @@
       "link": "https://www.youtube.com/watch?v=ha1W71NvTFw",
       "published_at": "2026-11-13T06:34:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ha1W71NvTFw/hqdefault.jpg"
-    },
-    {
-      "video_id": "KlpNBqCjIAE",
-      "channel": "TheShyHat",
-      "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
-      "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
-      "published_at": "2026-11-13T06:12:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/KlpNBqCjIAE/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
