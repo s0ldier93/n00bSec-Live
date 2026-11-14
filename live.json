@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:37:53Z",
+  "updated": "2026-11-14T12:47:53Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "miloslavpalik",
       "title": "\ud83d\uded1PIRATE TOKEN HUNT",
       "link": "https://twitch.tv/miloslavpalik",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 722,
+  "viewers_total": 723,
   "videos": [
     {
       "video_id": "5aYVurogRWM",
