@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-14T16:27:53Z",
+  "updated": "2026-11-14T16:37:53Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "POV: Microsoft IT Admins HATE This One Weird Capacity Upgrade trick | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 33
+      "viewers": 30
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 1409
+      "viewers": 1462
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 1443,
+  "viewers_total": 1493,
   "videos": [
     {
       "video_id": "smdOz8LQNC0",
