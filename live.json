@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T03:47:52Z",
+  "updated": "2026-11-14T03:57:52Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "dal3ksec",
       "title": "\ud83d\udcbbFriday Night Stream - The Legend of Zelda Ocarina of Time | Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 2
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 937
+      "viewers": 924
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 950,
+  "viewers_total": 937,
   "videos": [
     {
       "video_id": "w45jX6-sxhg",
