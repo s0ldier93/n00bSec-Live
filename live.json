@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T07:57:52Z",
+  "updated": "2026-11-14T08:07:52Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "ej_sa",
       "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 1047
+      "viewers": 898
     }
   ],
-  "viewers_total": 1051,
+  "viewers_total": 902,
   "videos": [
+    {
+      "video_id": "5aYVurogRWM",
+      "channel": "EJSA",
+      "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26 (PART 2 - COAST PHASE)",
+      "link": "https://www.youtube.com/watch?v=5aYVurogRWM",
+      "published_at": "2026-11-14T07:58:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5aYVurogRWM/hqdefault.jpg"
+    },
     {
       "video_id": "1g98jxBwlU4",
       "channel": "FixIt42",
@@ -171,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=Xl_cPtyoGDg",
       "published_at": "2026-11-13T12:00:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Xl_cPtyoGDg/hqdefault.jpg"
-    },
-    {
-      "video_id": "ha1W71NvTFw",
-      "channel": "censoredHacker",
-      "title": "Lets watch some videos and review them",
-      "link": "https://www.youtube.com/watch?v=ha1W71NvTFw",
-      "published_at": "2026-11-13T06:34:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ha1W71NvTFw/hqdefault.jpg"
     }
   ]
 }
