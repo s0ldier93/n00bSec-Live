@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-15T00:07:53Z",
+  "updated": "2026-11-15T00:17:54Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Hackeando y editando mi p\u00e1gina web\ud83d\ude0d\ud83d\ude0d",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 7
-    },
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW T3 Coding while leveling - Weekend Game Night",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 46
+      "viewers": 64
     }
   ],
-  "viewers_total": 53,
+  "viewers_total": 64,
   "videos": [
     {
       "video_id": "qMQNQjwWZqk",
