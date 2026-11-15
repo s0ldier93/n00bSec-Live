@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-15T20:17:49Z",
+  "updated": "2026-11-15T20:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "!shake the snowglobe",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 26
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 49
+      "viewers": 45
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=IsUvnmgJImI",
-      "viewers": 33
+      "viewers": 27
     }
   ],
-  "viewers_total": 110,
+  "viewers_total": 98,
   "videos": [
     {
       "video_id": "WWAZxwvu5pY",
