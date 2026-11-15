@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-15T16:27:49Z",
+  "updated": "2026-11-15T16:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "On visite le Doomsday | State of Mind #4",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 16
+      "viewers": 10
     }
   ],
-  "viewers_total": 16,
+  "viewers_total": 10,
   "videos": [
+    {
+      "video_id": "VN2UGmxZWDA",
+      "channel": "EJSA",
+      "title": "STARSHIP FLIGHT 15 STARSHIP CATCH!!! #spacex #starship #rocketlaunch",
+      "link": "https://www.youtube.com/watch?v=VN2UGmxZWDA",
+      "published_at": "2026-11-15T16:30:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VN2UGmxZWDA/hqdefault.jpg"
+    },
     {
       "video_id": "s6WgpZDWpQ4",
       "channel": "EJSA",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=bzNDdWS33U8",
       "published_at": "2026-11-13T22:00:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bzNDdWS33U8/hqdefault.jpg"
-    },
-    {
-      "video_id": "L03xkRLqhxE",
-      "channel": "IC_null",
-      "title": "Building a house in #paralives when you're blind \ud83d\ude48 \ud83e\uddd1\u200d\ud83e\uddaf  #accessibility #gaming",
-      "link": "https://www.youtube.com/watch?v=L03xkRLqhxE",
-      "published_at": "2026-11-13T21:37:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/L03xkRLqhxE/hqdefault.jpg"
     }
   ]
 }
