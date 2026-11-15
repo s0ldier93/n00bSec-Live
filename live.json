@@ -1,30 +1,38 @@
 {
-  "updated": "2026-11-15T17:07:30Z",
+  "updated": "2026-11-15T17:17:50Z",
   "streams": [
     {
       "platform": "twitch",
-      "name": "Khaos_Farbauti",
-      "title": "On visite le Doomsday | State of Mind #4",
-      "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 11
+      "name": "ahp_nils",
+      "title": "[FR][Linux][Network] Vais-je couper mon r\u00e9seau de stream ? Linux + Cisco + LAG",
+      "link": "https://twitch.tv/ahp_nils",
+      "viewers": 14
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 6
+      "viewers": 25
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=IsUvnmgJImI",
-      "viewers": 15
+      "viewers": 23
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 62,
   "videos": [
+    {
+      "video_id": "fP2_Y1dwOvQ",
+      "channel": "Cyber_Insecurity",
+      "title": "Build it first. Then decide whether you even need to buy it",
+      "link": "https://www.youtube.com/watch?v=fP2_Y1dwOvQ",
+      "published_at": "2026-11-15T17:01:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fP2_Y1dwOvQ/hqdefault.jpg"
+    },
     {
       "video_id": "IsUvnmgJImI",
       "channel": "pebl3",
@@ -177,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=L30U7Nik59w",
       "published_at": "2026-11-13T22:36:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/L30U7Nik59w/hqdefault.jpg"
-    },
-    {
-      "video_id": "S0X3wagwpDc",
-      "channel": "pebl3",
-      "title": "Two years hiding a back door in Linux, caught by half a second",
-      "link": "https://www.youtube.com/watch?v=S0X3wagwpDc",
-      "published_at": "2026-11-13T22:03:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/S0X3wagwpDc/hqdefault.jpg"
     }
   ]
 }
