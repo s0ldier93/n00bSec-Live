@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-15T15:37:49Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "topklean",
-      "title": "ben alors nvidia ? on regarde l'actu ensemble",
-      "link": "https://twitch.tv/topklean",
-      "viewers": 84
-    }
-  ],
-  "viewers_total": 84,
+  "updated": "2026-11-15T15:47:49Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "hbQ2iajnKjA",
