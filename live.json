@@ -1,15 +1,29 @@
 {
-  "updated": "2026-11-15T16:57:49Z",
+  "updated": "2026-11-15T17:07:30Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "On visite le Doomsday | State of Mind #4",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 14
+      "viewers": 11
+    },
+    {
+      "platform": "twitch",
+      "name": "pebl3",
+      "title": "Hacking CTFs | !discord !youtube",
+      "link": "https://twitch.tv/pebl3",
+      "viewers": 6
+    },
+    {
+      "platform": "youtube",
+      "name": "pebl3",
+      "title": "Hacking CTFs",
+      "link": "https://www.youtube.com/watch?v=IsUvnmgJImI",
+      "viewers": 15
     }
   ],
-  "viewers_total": 14,
+  "viewers_total": 32,
   "videos": [
     {
       "video_id": "IsUvnmgJImI",
@@ -17,8 +31,7 @@
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=IsUvnmgJImI",
       "published_at": "2026-11-15T16:39:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IsUvnmgJImI/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/IsUvnmgJImI/hqdefault.jpg"
     },
     {
       "video_id": "VN2UGmxZWDA",
