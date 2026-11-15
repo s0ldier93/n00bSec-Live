@@ -1,30 +1,38 @@
 {
-  "updated": "2026-11-15T19:47:49Z",
+  "updated": "2026-11-15T19:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "!shake the snowglobe",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 28
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 46
+      "viewers": 44
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=IsUvnmgJImI",
-      "viewers": 30
+      "viewers": 37
     }
   ],
-  "viewers_total": 105,
+  "viewers_total": 109,
   "videos": [
+    {
+      "video_id": "WWAZxwvu5pY",
+      "channel": "CyberWarriorStudios",
+      "title": "What's Really Holding You Back? Fear + No Purpose \ud83c\udfc8 #shorts",
+      "link": "https://www.youtube.com/watch?v=WWAZxwvu5pY",
+      "published_at": "2026-11-15T19:47:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/WWAZxwvu5pY/hqdefault.jpg"
+    },
     {
       "video_id": "uYHm_Y4FwTw",
       "channel": "TheLaluka",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=5aYVurogRWM",
       "published_at": "2026-11-14T07:58:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/5aYVurogRWM/hqdefault.jpg"
-    },
-    {
-      "video_id": "1g98jxBwlU4",
-      "channel": "FixIt42",
-      "title": "Testing wsh2 kali with THM Volatility3",
-      "link": "https://www.youtube.com/watch?v=1g98jxBwlU4",
-      "published_at": "2026-11-14T00:21:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1g98jxBwlU4/hqdefault.jpg"
     }
   ]
 }
