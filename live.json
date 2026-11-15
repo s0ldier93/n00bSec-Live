@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-15T21:57:48Z",
+  "updated": "2026-11-15T22:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW T3 Coding while leveling - Weekend Game Night",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 48
+      "viewers": 41
     }
   ],
-  "viewers_total": 48,
+  "viewers_total": 41,
   "videos": [
+    {
+      "video_id": "Z4tmUoG40Do",
+      "channel": "pebl3",
+      "title": "They had 951 million dollars halfway out of a bank. A typo stopped it.",
+      "link": "https://www.youtube.com/watch?v=Z4tmUoG40Do",
+      "published_at": "2026-11-15T22:01:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Z4tmUoG40Do/hqdefault.jpg"
+    },
     {
       "video_id": "1kw33IzBAps",
       "channel": "mbcrump",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Wv1S_hLjTic",
       "published_at": "2026-11-14T15:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Wv1S_hLjTic/hqdefault.jpg"
-    },
-    {
-      "video_id": "wI2kJf00cpw",
-      "channel": "B7H30",
-      "title": "POV: Microsoft IT Admins HATE This One Weird Capacity Upgrade trick | OSCP Study on HTB",
-      "link": "https://www.youtube.com/watch?v=wI2kJf00cpw",
-      "published_at": "2026-11-14T14:08:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wI2kJf00cpw/hqdefault.jpg"
     }
   ]
 }
