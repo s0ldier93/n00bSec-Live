@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-15T20:37:48Z",
+  "updated": "2026-11-15T20:47:21Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "!shake the snowglobe",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 26
-    },
-    {
-      "platform": "youtube",
-      "name": "pebl3",
-      "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=IsUvnmgJImI",
-      "viewers": 31
+      "viewers": 29
     }
   ],
-  "viewers_total": 57,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "WWAZxwvu5pY",
