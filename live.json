@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-15T21:27:48Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "!shake the snowglobe",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
-    }
-  ],
-  "viewers_total": 30,
+  "updated": "2026-11-15T21:37:48Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "1kw33IzBAps",
