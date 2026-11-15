@@ -1,30 +1,45 @@
 {
-  "updated": "2026-11-15T17:47:49Z",
+  "updated": "2026-11-15T17:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux][Network] Vais-je couper mon r\u00e9seau de stream ? Linux + Cisco + LAG",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 37
+      "viewers": 28
+    },
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "silly jail",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 37
+      "viewers": 27
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=IsUvnmgJImI",
-      "viewers": 29
+      "viewers": 24
     }
   ],
-  "viewers_total": 103,
+  "viewers_total": 85,
   "videos": [
+    {
+      "video_id": "QY6M_v1nJzM",
+      "channel": "TheGoodHackerTV",
+      "title": "As\u00ed funciona un Ataque WIFI man in the middle #ciberseguridad #hacking",
+      "link": "https://www.youtube.com/watch?v=QY6M_v1nJzM",
+      "published_at": "2026-11-15T17:41:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QY6M_v1nJzM/hqdefault.jpg"
+    },
     {
       "video_id": "fP2_Y1dwOvQ",
       "channel": "Cyber_Insecurity",
@@ -177,14 +192,6 @@
       "published_at": "2026-11-13T22:36:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/w45jX6-sxhg/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "L30U7Nik59w",
-      "channel": "mbcrump",
-      "title": "PS4 14.02 WebKit Jailbreak Released! Full Walkthrough!",
-      "link": "https://www.youtube.com/watch?v=L30U7Nik59w",
-      "published_at": "2026-11-13T22:36:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/L30U7Nik59w/hqdefault.jpg"
     }
   ]
 }
