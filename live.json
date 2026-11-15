@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-15T19:07:48Z",
+  "updated": "2026-11-15T19:17:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux][Network] Vais-je couper mon r\u00e9seau de stream ? Linux + Cisco + LAG",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 38
+      "viewers": 37
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "!shake the snowglobe",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 35
+      "viewers": 33
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 51
+      "viewers": 48
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=IsUvnmgJImI",
-      "viewers": 31
+      "viewers": 28
     }
   ],
-  "viewers_total": 155,
+  "viewers_total": 146,
   "videos": [
     {
       "video_id": "uYHm_Y4FwTw",
