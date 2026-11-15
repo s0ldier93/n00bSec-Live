@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-15T21:47:49Z",
+  "updated": "2026-11-15T21:57:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW T3 Coding while leveling - Weekend Game Night",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 24
+      "viewers": 48
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 48,
   "videos": [
     {
       "video_id": "1kw33IzBAps",
