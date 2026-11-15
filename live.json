@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-15T17:57:49Z",
+  "updated": "2026-11-15T18:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ahp_nils",
       "title": "[FR][Linux][Network] Vais-je couper mon r\u00e9seau de stream ? Linux + Cisco + LAG",
       "link": "https://twitch.tv/ahp_nils",
-      "viewers": 28
+      "viewers": 25
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "silly jail",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 6
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 27
+      "viewers": 39
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=IsUvnmgJImI",
-      "viewers": 24
+      "viewers": 19
     }
   ],
-  "viewers_total": 85,
+  "viewers_total": 102,
   "videos": [
+    {
+      "video_id": "uYHm_Y4FwTw",
+      "channel": "TheLaluka",
+      "title": "Why I Owe My Career to My Old Lab Instructor #shorts",
+      "link": "https://www.youtube.com/watch?v=uYHm_Y4FwTw",
+      "published_at": "2026-11-15T18:00:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/uYHm_Y4FwTw/hqdefault.jpg"
+    },
     {
       "video_id": "QY6M_v1nJzM",
       "channel": "TheGoodHackerTV",
@@ -183,15 +191,6 @@
       "link": "https://www.youtube.com/watch?v=1g98jxBwlU4",
       "published_at": "2026-11-14T00:21:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1g98jxBwlU4/hqdefault.jpg"
-    },
-    {
-      "video_id": "w45jX6-sxhg",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 20's Top Cyber News NOW! - Ep 1292",
-      "link": "https://www.youtube.com/watch?v=w45jX6-sxhg",
-      "published_at": "2026-11-13T22:36:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/w45jX6-sxhg/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
