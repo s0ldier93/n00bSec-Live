@@ -1,29 +1,22 @@
 {
-  "updated": "2026-11-16T04:07:48Z",
+  "updated": "2026-11-16T04:17:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 28
-    },
-    {
-      "platform": "twitch",
-      "name": "chiefgyk3d",
-      "title": "Back From Queen City Con|FAA and Nvidia Crisis|Morrowind|Cybersecurity,Gaming,Rants,&Chill|11-15-26",
-      "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 15
+      "viewers": 40
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://www.youtube.com/watch?v=hARpaLYNvlk",
-      "viewers": 10
+      "viewers": 9
     }
   ],
-  "viewers_total": 53,
+  "viewers_total": 49,
   "videos": [
     {
       "video_id": "hARpaLYNvlk",
