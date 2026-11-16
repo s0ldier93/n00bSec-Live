@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-16T17:47:49Z",
+  "updated": "2026-11-16T17:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW Twitch Addon coding",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 47
+      "viewers": 76
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ask Me Anything (Cybersecurity / Hacking)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 9
+      "viewers": 16
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ask Me Anything (Cybersecurity / Hacking)",
       "link": "https://www.youtube.com/watch?v=DFIcn394WfA",
-      "viewers": 66
+      "viewers": 69
     }
   ],
-  "viewers_total": 122,
+  "viewers_total": 161,
   "videos": [
     {
       "video_id": "DFIcn394WfA",
