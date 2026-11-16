@@ -1,23 +1,38 @@
 {
-  "updated": "2026-11-16T17:37:34Z",
+  "updated": "2026-11-16T17:47:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ChrisTitusTech",
+      "title": "\ud83d\udd34 WoW Twitch Addon coding",
+      "link": "https://twitch.tv/ChrisTitusTech",
+      "viewers": 47
+    },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ask Me Anything (Cybersecurity / Hacking)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 4
+      "viewers": 9
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ask Me Anything (Cybersecurity / Hacking)",
       "link": "https://www.youtube.com/watch?v=DFIcn394WfA",
-      "viewers": 24
+      "viewers": 66
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 122,
   "videos": [
+    {
+      "video_id": "DFIcn394WfA",
+      "channel": "hack_smarter",
+      "title": "[LIVE] - Ask Me Anything (Cybersecurity / Hacking)",
+      "link": "https://www.youtube.com/watch?v=DFIcn394WfA",
+      "published_at": "2026-11-16T17:31:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/DFIcn394WfA/hqdefault.jpg"
+    },
     {
       "video_id": "zOUJWGBM1yw",
       "channel": "SecurityWeekly",
@@ -170,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=fP2_Y1dwOvQ",
       "published_at": "2026-11-15T17:01:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fP2_Y1dwOvQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "IsUvnmgJImI",
-      "channel": "pebl3",
-      "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=IsUvnmgJImI",
-      "published_at": "2026-11-15T16:39:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IsUvnmgJImI/hqdefault.jpg"
     }
   ]
 }
