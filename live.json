@@ -1,30 +1,38 @@
 {
-  "updated": "2026-11-16T18:27:50Z",
+  "updated": "2026-11-16T18:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW Twitch Addon coding",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 111
+      "viewers": 114
     },
     {
       "platform": "twitch",
       "name": "hack_smarter",
       "title": "[LIVE] - Ask Me Anything (Cybersecurity / Hacking)",
       "link": "https://twitch.tv/hack_smarter",
-      "viewers": 22
+      "viewers": 25
     },
     {
       "platform": "youtube",
       "name": "hack_smarter",
       "title": "[LIVE] - Ask Me Anything (Cybersecurity / Hacking)",
       "link": "https://www.youtube.com/watch?v=DFIcn394WfA",
-      "viewers": 82
+      "viewers": 74
     }
   ],
-  "viewers_total": 215,
+  "viewers_total": 213,
   "videos": [
+    {
+      "video_id": "-m7pPKq-f2o",
+      "channel": "JohnHammond010",
+      "title": "Minecraft Malware Research",
+      "link": "https://www.youtube.com/watch?v=-m7pPKq-f2o",
+      "published_at": "2026-11-16T18:22:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-m7pPKq-f2o/hqdefault.jpg"
+    },
     {
       "video_id": "DFIcn394WfA",
       "channel": "hack_smarter",
@@ -177,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=QY6M_v1nJzM",
       "published_at": "2026-11-15T17:41:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QY6M_v1nJzM/hqdefault.jpg"
-    },
-    {
-      "video_id": "fP2_Y1dwOvQ",
-      "channel": "Cyber_Insecurity",
-      "title": "Build it first. Then decide whether you even need to buy it",
-      "link": "https://www.youtube.com/watch?v=fP2_Y1dwOvQ",
-      "published_at": "2026-11-15T17:01:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fP2_Y1dwOvQ/hqdefault.jpg"
     }
   ]
 }
