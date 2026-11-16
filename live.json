@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-16T20:27:50Z",
+  "updated": "2026-11-16T20:37:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW Twitch Addon coding",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 115
+      "viewers": 107
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Flight 15 and Rocket Revue! 11/16/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 589
+      "viewers": 634
     }
   ],
-  "viewers_total": 704,
+  "viewers_total": 741,
   "videos": [
     {
       "video_id": "2dGoUCQ6w9s",
