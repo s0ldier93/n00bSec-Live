@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-16T10:06:54Z",
+  "updated": "2026-11-16T10:16:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "FPOhF2ZXoIo",
+      "channel": "SecurityWeekly",
+      "title": "AI is not killing bug bounty, can an AI ever have an \"Identity\", and the news - Michie... - ESW #485",
+      "link": "https://www.youtube.com/watch?v=FPOhF2ZXoIo",
+      "published_at": "2026-11-16T10:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FPOhF2ZXoIo/hqdefault.jpg"
+    },
     {
       "video_id": "hHOkxVgHZ_8",
       "channel": "jarnobaselier",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=kQ1aAb2-nzQ",
       "published_at": "2026-11-14T17:03:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kQ1aAb2-nzQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "ELnmZh4lXMc",
-      "channel": "Cyber_Insecurity",
-      "title": "People are LARPing building harnesses for no reason at all",
-      "link": "https://www.youtube.com/watch?v=ELnmZh4lXMc",
-      "published_at": "2026-11-14T17:01:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ELnmZh4lXMc/hqdefault.jpg"
     }
   ]
 }
