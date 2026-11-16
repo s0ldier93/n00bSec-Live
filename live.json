@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-16T13:37:49Z",
+  "updated": "2026-11-16T13:47:48Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 16's Top Cyber News NOW! - Ep 1288",
       "link": "https://www.youtube.com/watch?v=NuvLa3mEL4A",
-      "viewers": 422
+      "viewers": 437
     }
   ],
-  "viewers_total": 422,
+  "viewers_total": 437,
   "videos": [
+    {
+      "video_id": "cbJs1GPIU50",
+      "channel": "NahamSec",
+      "title": "Is Cybersecurity Still Worth It in the AI Era?",
+      "link": "https://www.youtube.com/watch?v=cbJs1GPIU50",
+      "published_at": "2026-11-16T13:40:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cbJs1GPIU50/hqdefault.jpg"
+    },
     {
       "video_id": "WMrE5Ay1G2Q",
       "channel": "team_whoami",
@@ -163,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=bR9bXE4QhZY",
       "published_at": "2026-11-15T13:00:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bR9bXE4QhZY/hqdefault.jpg"
-    },
-    {
-      "video_id": "qMQNQjwWZqk",
-      "channel": "pebl3",
-      "title": "Hackers robbed a casino through its fish tank",
-      "link": "https://www.youtube.com/watch?v=qMQNQjwWZqk",
-      "published_at": "2026-11-14T22:02:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qMQNQjwWZqk/hqdefault.jpg"
     }
   ]
 }
