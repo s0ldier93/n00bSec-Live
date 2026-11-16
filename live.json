@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-16T00:37:49Z",
+  "updated": "2026-11-16T00:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeando en VALORANT \ud83d\ude0e",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Back From Queen City Con|FAA and Nvidia Crisis|Morrowind|Cybersecurity,Gaming,Rants,&Chill|11-15-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 22
+      "viewers": 21
     }
   ],
   "viewers_total": 26,
