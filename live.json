@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-16T23:37:49Z",
+  "updated": "2026-11-16T23:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Flight 15 and Rocket Revue! 11/16/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 726
+      "viewers": 734
     }
   ],
-  "viewers_total": 726,
+  "viewers_total": 734,
   "videos": [
+    {
+      "video_id": "XN_4OxMZS1o",
+      "channel": "CyberWarriorStudios",
+      "title": "Sun's Down by 5? Do This Before Seasonal Depression Hits \u2600\ufe0f #shorts",
+      "link": "https://www.youtube.com/watch?v=XN_4OxMZS1o",
+      "published_at": "2026-11-16T23:34:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XN_4OxMZS1o/hqdefault.jpg"
+    },
     {
       "video_id": "UcFAYDXFhEI",
       "channel": "pebl3",
@@ -164,14 +172,6 @@
       "link": "https://www.youtube.com/watch?v=1kw33IzBAps",
       "published_at": "2026-11-15T20:55:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1kw33IzBAps/hqdefault.jpg"
-    },
-    {
-      "video_id": "WWAZxwvu5pY",
-      "channel": "CyberWarriorStudios",
-      "title": "What's Really Holding You Back? Fear + No Purpose \ud83c\udfc8 #shorts",
-      "link": "https://www.youtube.com/watch?v=WWAZxwvu5pY",
-      "published_at": "2026-11-15T19:47:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WWAZxwvu5pY/hqdefault.jpg"
     }
   ]
 }
