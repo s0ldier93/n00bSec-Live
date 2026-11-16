@@ -1,23 +1,32 @@
 {
-  "updated": "2026-11-16T20:17:49Z",
+  "updated": "2026-11-16T20:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WoW Twitch Addon coding",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 126
+      "viewers": 115
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Flight 15 and Rocket Revue! 11/16/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 595
+      "viewers": 589
     }
   ],
-  "viewers_total": 721,
+  "viewers_total": 704,
   "videos": [
+    {
+      "video_id": "2dGoUCQ6w9s",
+      "channel": "HaxrByte",
+      "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
+      "link": "https://www.youtube.com/watch?v=2dGoUCQ6w9s",
+      "published_at": "2026-11-16T19:58:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2dGoUCQ6w9s/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "-m7pPKq-f2o",
       "channel": "JohnHammond010",
@@ -170,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=uYHm_Y4FwTw",
       "published_at": "2026-11-15T18:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/uYHm_Y4FwTw/hqdefault.jpg"
-    },
-    {
-      "video_id": "QY6M_v1nJzM",
-      "channel": "TheGoodHackerTV",
-      "title": "As\u00ed funciona un Ataque WIFI man in the middle #ciberseguridad #hacking",
-      "link": "https://www.youtube.com/watch?v=QY6M_v1nJzM",
-      "published_at": "2026-11-15T17:41:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/QY6M_v1nJzM/hqdefault.jpg"
     }
   ]
 }
