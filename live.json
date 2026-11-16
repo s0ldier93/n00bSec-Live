@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-16T10:16:54Z",
+  "updated": "2026-11-16T11:16:53Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "fLS92giCjfk",
+      "channel": "DCCyberSec",
+      "title": "The Truth About Starting an AI Consulting Business (Don't Start Without This)",
+      "link": "https://www.youtube.com/watch?v=fLS92giCjfk",
+      "published_at": "2026-11-16T11:00:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fLS92giCjfk/hqdefault.jpg"
+    },
     {
       "video_id": "FPOhF2ZXoIo",
       "channel": "SecurityWeekly",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=LxduMxW6cBY",
       "published_at": "2026-11-14T19:09:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LxduMxW6cBY/hqdefault.jpg"
-    },
-    {
-      "video_id": "kQ1aAb2-nzQ",
-      "channel": "ElPinguinoDeMario",
-      "title": "La Vulnerabilidad que convierte 1\u20ac en 1.000\u20ac en Tiendas Online",
-      "link": "https://www.youtube.com/watch?v=kQ1aAb2-nzQ",
-      "published_at": "2026-11-14T17:03:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/kQ1aAb2-nzQ/hqdefault.jpg"
     }
   ]
 }
