@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-16T21:47:50Z",
+  "updated": "2026-11-16T21:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-11-16",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 707
     }
   ],
-  "viewers_total": 711,
+  "viewers_total": 710,
   "videos": [
     {
       "video_id": "2dGoUCQ6w9s",
