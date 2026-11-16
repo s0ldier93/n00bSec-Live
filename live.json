@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-16T23:17:49Z",
+  "updated": "2026-11-16T23:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Flight 15 and Rocket Revue! 11/16/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 751
+      "viewers": 735
     }
   ],
-  "viewers_total": 751,
+  "viewers_total": 735,
   "videos": [
     {
       "video_id": "UcFAYDXFhEI",
