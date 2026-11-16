@@ -1,29 +1,15 @@
 {
-  "updated": "2026-11-16T05:27:48Z",
+  "updated": "2026-11-16T05:37:15Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 33
-    },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "House Is a Feeling Raid Train \u2116 30",
       "link": "https://twitch.tv/goproflowyo",
       "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
-      "link": "https://www.youtube.com/watch?v=hARpaLYNvlk",
-      "viewers": 9
     }
   ],
-  "viewers_total": 43,
+  "viewers_total": 1,
   "videos": [
     {
       "video_id": "hARpaLYNvlk",
