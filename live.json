@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-16T07:17:49Z",
+  "updated": "2026-11-16T10:06:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "hHOkxVgHZ_8",
+      "channel": "jarnobaselier",
+      "title": "I Tested PentAGI: An Autonomous AI Hacker You Can Self-Host",
+      "link": "https://www.youtube.com/watch?v=hHOkxVgHZ_8",
+      "published_at": "2026-11-16T10:00:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/hHOkxVgHZ_8/hqdefault.jpg"
+    },
     {
       "video_id": "hARpaLYNvlk",
       "channel": "BlaiseBits",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=ELnmZh4lXMc",
       "published_at": "2026-11-14T17:01:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ELnmZh4lXMc/hqdefault.jpg"
-    },
-    {
-      "video_id": "smdOz8LQNC0",
-      "channel": "ippsec",
-      "title": "HackTheBox - Nimbus",
-      "link": "https://www.youtube.com/watch?v=smdOz8LQNC0",
-      "published_at": "2026-11-14T15:01:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/smdOz8LQNC0/hqdefault.jpg"
     }
   ]
 }
