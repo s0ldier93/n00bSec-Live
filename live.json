@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-16T21:57:49Z",
+  "updated": "2026-11-16T22:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-11-16",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Flight 15 and Rocket Revue! 11/16/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 707
+      "viewers": 710
     }
   ],
-  "viewers_total": 710,
+  "viewers_total": 715,
   "videos": [
+    {
+      "video_id": "UcFAYDXFhEI",
+      "channel": "pebl3",
+      "title": "Three students built Mirai to win a fight about Minecraft servers",
+      "link": "https://www.youtube.com/watch?v=UcFAYDXFhEI",
+      "published_at": "2026-11-16T22:03:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UcFAYDXFhEI/hqdefault.jpg"
+    },
     {
       "video_id": "2dGoUCQ6w9s",
       "channel": "HaxrByte",
@@ -171,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=WWAZxwvu5pY",
       "published_at": "2026-11-15T19:47:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/WWAZxwvu5pY/hqdefault.jpg"
-    },
-    {
-      "video_id": "uYHm_Y4FwTw",
-      "channel": "TheLaluka",
-      "title": "Why I Owe My Career to My Old Lab Instructor #shorts",
-      "link": "https://www.youtube.com/watch?v=uYHm_Y4FwTw",
-      "published_at": "2026-11-15T18:00:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/uYHm_Y4FwTw/hqdefault.jpg"
     }
   ]
 }
