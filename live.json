@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:06:55Z",
+  "updated": "2026-11-16T17:16:55Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
@@ -10,6 +10,14 @@
       "link": "https://www.youtube.com/watch?v=0XuPKiOaKls",
       "published_at": "2026-11-16T17:00:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0XuPKiOaKls/hqdefault.jpg"
+    },
+    {
+      "video_id": "uWFLS7edouc",
+      "channel": "gerald_auger_simplycyber",
+      "title": "Day in the Life of an IT Admin Who Does Security Alone",
+      "link": "https://www.youtube.com/watch?v=uWFLS7edouc",
+      "published_at": "2026-11-16T17:00:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/uWFLS7edouc/hqdefault.jpg"
     },
     {
       "video_id": "QycP3EBGEwo",
@@ -155,14 +163,6 @@
       "link": "https://www.youtube.com/watch?v=VN2UGmxZWDA",
       "published_at": "2026-11-15T16:30:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VN2UGmxZWDA/hqdefault.jpg"
-    },
-    {
-      "video_id": "s6WgpZDWpQ4",
-      "channel": "EJSA",
-      "title": "Starship Flight 15 Booster Landing #spacex #starship #rocketlaunch",
-      "link": "https://www.youtube.com/watch?v=s6WgpZDWpQ4",
-      "published_at": "2026-11-15T16:00:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/s6WgpZDWpQ4/hqdefault.jpg"
     }
   ]
 }
