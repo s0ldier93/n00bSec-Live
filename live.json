@@ -1,7 +1,22 @@
 {
-  "updated": "2026-11-16T17:26:55Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-16T17:37:34Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Ask Me Anything (Cybersecurity / Hacking)",
+      "link": "https://twitch.tv/hack_smarter",
+      "viewers": 4
+    },
+    {
+      "platform": "youtube",
+      "name": "hack_smarter",
+      "title": "[LIVE] - Ask Me Anything (Cybersecurity / Hacking)",
+      "link": "https://www.youtube.com/watch?v=DFIcn394WfA",
+      "viewers": 24
+    }
+  ],
+  "viewers_total": 28,
   "videos": [
     {
       "video_id": "zOUJWGBM1yw",
