@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-17T22:37:49Z",
+  "updated": "2026-11-17T22:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 377
+      "viewers": 389
     },
     {
       "platform": "twitch",
@@ -23,8 +23,17 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 384,
+  "viewers_total": 396,
   "videos": [
+    {
+      "video_id": "6lWeE3cGUwU",
+      "channel": "HackerMentor",
+      "title": "Workshop - Purple Team",
+      "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
+      "published_at": "2026-11-17T22:27:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6lWeE3cGUwU/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "nlmPhUYwBPw",
       "channel": "EJSA",
@@ -179,14 +188,6 @@
       "link": "https://www.youtube.com/watch?v=yquQhzAkEcQ",
       "published_at": "2026-11-17T10:00:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yquQhzAkEcQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "AtWxUUwPGq8",
-      "channel": "IC_null",
-      "title": "Hardest game I've modded so far: a teaser",
-      "link": "https://www.youtube.com/watch?v=AtWxUUwPGq8",
-      "published_at": "2026-11-17T01:56:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/AtWxUUwPGq8/hqdefault.jpg"
     }
   ]
 }
