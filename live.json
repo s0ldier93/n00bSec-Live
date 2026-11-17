@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-17T22:17:49Z",
+  "updated": "2026-11-17T22:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 353
+      "viewers": 354
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "MSec",
       "title": "Ocarina of Time (2026) First Playthrough.",
       "link": "https://www.youtube.com/watch?v=1-FVYnw6Grc",
-      "viewers": 3
+      "viewers": 2
     }
   ],
   "viewers_total": 362,
