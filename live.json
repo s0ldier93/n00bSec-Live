@@ -1,30 +1,38 @@
 {
-  "updated": "2026-11-17T23:07:49Z",
+  "updated": "2026-11-17T23:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 431
+      "viewers": 473
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Ocarina of Time (2026) First Playthrough! #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 6
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "MSec",
       "title": "Ocarina of Time (2026) First Playthrough.",
       "link": "https://www.youtube.com/watch?v=1-FVYnw6Grc",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 438,
+  "viewers_total": 482,
   "videos": [
+    {
+      "video_id": "VipzspasxCc",
+      "channel": "SecurityWeekly",
+      "title": "The Lethal Trifecta Behind AI Agents",
+      "link": "https://www.youtube.com/watch?v=VipzspasxCc",
+      "published_at": "2026-11-17T23:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VipzspasxCc/hqdefault.jpg"
+    },
     {
       "video_id": "6lWeE3cGUwU",
       "channel": "HackerMentor",
@@ -179,14 +187,6 @@
       "link": "https://www.youtube.com/watch?v=TXs5_pMBQJI",
       "published_at": "2026-11-17T11:25:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TXs5_pMBQJI/hqdefault.jpg"
-    },
-    {
-      "video_id": "yquQhzAkEcQ",
-      "channel": "SecurityWeekly",
-      "title": "Zero Trust Basics for Complex Modern Systems - Rob Allen - ASW #409",
-      "link": "https://www.youtube.com/watch?v=yquQhzAkEcQ",
-      "published_at": "2026-11-17T10:00:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yquQhzAkEcQ/hqdefault.jpg"
     }
   ]
 }
