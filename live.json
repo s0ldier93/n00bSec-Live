@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-17T19:57:49Z",
+  "updated": "2026-11-17T20:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Removing a junk drivers side rocker. The Crew Cab Coronet (Part 61) 11/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 289
+      "viewers": 274
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "msec",
       "title": "Ocarina of Time (2026) First Playthrough! #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -37,8 +37,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 375,
+  "viewers_total": 359,
   "videos": [
+    {
+      "video_id": "OcX_DXpgpX0",
+      "channel": "SecurityWeekly",
+      "title": "AI Is Accelerating the Vulnerability Disclosure Clock",
+      "link": "https://www.youtube.com/watch?v=OcX_DXpgpX0",
+      "published_at": "2026-11-17T20:00:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/OcX_DXpgpX0/hqdefault.jpg"
+    },
     {
       "video_id": "EfohWqrb3cA",
       "channel": "TheGoodHackerTV",
@@ -193,14 +201,6 @@
       "published_at": "2026-11-16T19:58:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2dGoUCQ6w9s/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "-m7pPKq-f2o",
-      "channel": "JohnHammond010",
-      "title": "Minecraft Malware Research",
-      "link": "https://www.youtube.com/watch?v=-m7pPKq-f2o",
-      "published_at": "2026-11-16T18:22:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-m7pPKq-f2o/hqdefault.jpg"
     }
   ]
 }
