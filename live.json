@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-17T21:57:22Z",
+  "updated": "2026-11-17T21:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "Removing a junk drivers side rocker. The Crew Cab Coronet (Part 61) 11/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 330
+      "viewers": 319
     },
     {
       "platform": "twitch",
@@ -44,7 +44,7 @@
       "viewers": 16
     }
   ],
-  "viewers_total": 381,
+  "viewers_total": 370,
   "videos": [
     {
       "video_id": "OcX_DXpgpX0",
