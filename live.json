@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T21:57:49Z",
+  "updated": "2026-11-17T22:07:21Z",
   "streams": [
     {
       "platform": "twitch",
@@ -16,36 +16,39 @@
       "viewers": 6
     },
     {
-      "platform": "twitch",
-      "name": "nahamsec",
-      "title": "Live November 17",
-      "link": "https://twitch.tv/nahamsec",
-      "viewers": 0
-    },
-    {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "!shake the snowglobe",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
-    },
-    {
       "platform": "youtube",
       "name": "MSec",
       "title": "Ocarina of Time (2026) First Playthrough.",
       "link": "https://www.youtube.com/watch?v=1-FVYnw6Grc",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "NahamSec",
-      "title": "Live November 17",
-      "link": "https://www.youtube.com/watch?v=qOUOgMwHZiw",
-      "viewers": 16
+      "viewers": 2
     }
   ],
-  "viewers_total": 370,
+  "viewers_total": 327,
   "videos": [
+    {
+      "video_id": "Aau8Fl685pQ",
+      "channel": "pebl3",
+      "title": "Hackers broke into a hosting company and ignored the money. They took the AI keys.",
+      "link": "https://www.youtube.com/watch?v=Aau8Fl685pQ",
+      "published_at": "2026-11-17T22:02:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Aau8Fl685pQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "9BLLKwEyLAU",
+      "channel": "SecurityWeekly",
+      "title": "Cascading Chaos, Banks, Microsoft, Airports, Optimizely, Comcast, and Aaran Leyland - SWN #634",
+      "link": "https://www.youtube.com/watch?v=9BLLKwEyLAU",
+      "published_at": "2026-11-17T22:00:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9BLLKwEyLAU/hqdefault.jpg"
+    },
+    {
+      "video_id": "qOUOgMwHZiw",
+      "channel": "NahamSec",
+      "title": "Live November 17",
+      "link": "https://www.youtube.com/watch?v=qOUOgMwHZiw",
+      "published_at": "2026-11-17T21:59:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qOUOgMwHZiw/hqdefault.jpg"
+    },
     {
       "video_id": "OcX_DXpgpX0",
       "channel": "SecurityWeekly",
@@ -183,31 +186,6 @@
       "link": "https://www.youtube.com/watch?v=r7yfjyLiZs0",
       "published_at": "2026-11-17T00:25:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/r7yfjyLiZs0/hqdefault.jpg"
-    },
-    {
-      "video_id": "XN_4OxMZS1o",
-      "channel": "CyberWarriorStudios",
-      "title": "Sun's Down by 5? Do This Before Seasonal Depression Hits \u2600\ufe0f #shorts",
-      "link": "https://www.youtube.com/watch?v=XN_4OxMZS1o",
-      "published_at": "2026-11-16T23:34:52+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XN_4OxMZS1o/hqdefault.jpg"
-    },
-    {
-      "video_id": "UcFAYDXFhEI",
-      "channel": "pebl3",
-      "title": "Three students built Mirai to win a fight about Minecraft servers",
-      "link": "https://www.youtube.com/watch?v=UcFAYDXFhEI",
-      "published_at": "2026-11-16T22:03:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UcFAYDXFhEI/hqdefault.jpg"
-    },
-    {
-      "video_id": "2dGoUCQ6w9s",
-      "channel": "HaxrByte",
-      "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
-      "link": "https://www.youtube.com/watch?v=2dGoUCQ6w9s",
-      "published_at": "2026-11-16T19:58:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2dGoUCQ6w9s/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
