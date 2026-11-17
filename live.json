@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-17T16:37:50Z",
+  "updated": "2026-11-17T16:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- AMA & CTFs",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 11
+      "viewers": 10
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "zyBSeXoBH_w",
