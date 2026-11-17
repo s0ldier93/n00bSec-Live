@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-17T14:37:48Z",
-  "streams": [
-    {
-      "platform": "youtube",
-      "name": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 17's Top Cyber News NOW! - Ep 1289",
-      "link": "https://www.youtube.com/watch?v=wZauf5SZU5c",
-      "viewers": 251
-    }
-  ],
-  "viewers_total": 251,
+  "updated": "2026-11-17T14:47:30Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "L1wDoS3QXqY",
+      "channel": "LowLevelTV",
+      "title": "OpenAI Found 1,000 Linux kernel bugs",
+      "link": "https://www.youtube.com/watch?v=L1wDoS3QXqY",
+      "published_at": "2026-11-17T14:23:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/L1wDoS3QXqY/hqdefault.jpg"
+    },
     {
       "video_id": "mwVZvHN7yYM",
       "channel": "hack_smarter",
@@ -164,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=fLS92giCjfk",
       "published_at": "2026-11-16T11:00:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fLS92giCjfk/hqdefault.jpg"
-    },
-    {
-      "video_id": "FPOhF2ZXoIo",
-      "channel": "SecurityWeekly",
-      "title": "AI is not killing bug bounty, can an AI ever have an \"Identity\", and the news - Michie... - ESW #485",
-      "link": "https://www.youtube.com/watch?v=FPOhF2ZXoIo",
-      "published_at": "2026-11-16T10:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FPOhF2ZXoIo/hqdefault.jpg"
     }
   ]
 }
