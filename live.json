@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-17T10:06:56Z",
+  "updated": "2026-11-17T11:26:55Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "TXs5_pMBQJI",
+      "channel": "Khaos_Farbauti",
+      "title": "SESSION D'INFODUMPING | State of Mind #4",
+      "link": "https://www.youtube.com/watch?v=TXs5_pMBQJI",
+      "published_at": "2026-11-17T11:25:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/TXs5_pMBQJI/hqdefault.jpg"
+    },
     {
       "video_id": "yquQhzAkEcQ",
       "channel": "SecurityWeekly",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=hHOkxVgHZ_8",
       "published_at": "2026-11-16T10:00:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/hHOkxVgHZ_8/hqdefault.jpg"
-    },
-    {
-      "video_id": "hARpaLYNvlk",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
-      "link": "https://www.youtube.com/watch?v=hARpaLYNvlk",
-      "published_at": "2026-11-16T02:04:55+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hARpaLYNvlk/hqdefault.jpg"
     }
   ]
 }
