@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-17T11:26:55Z",
+  "updated": "2026-11-17T12:16:54Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "mwVZvHN7yYM",
+      "channel": "hack_smarter",
+      "title": "Hacking A Bank... (404 Bank - Part 6)",
+      "link": "https://www.youtube.com/watch?v=mwVZvHN7yYM",
+      "published_at": "2026-11-17T12:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mwVZvHN7yYM/hqdefault.jpg"
+    },
     {
       "video_id": "TXs5_pMBQJI",
       "channel": "Khaos_Farbauti",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=FPOhF2ZXoIo",
       "published_at": "2026-11-16T10:00:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FPOhF2ZXoIo/hqdefault.jpg"
-    },
-    {
-      "video_id": "hHOkxVgHZ_8",
-      "channel": "jarnobaselier",
-      "title": "I Tested PentAGI: An Autonomous AI Hacker You Can Self-Host",
-      "link": "https://www.youtube.com/watch?v=hHOkxVgHZ_8",
-      "published_at": "2026-11-16T10:00:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hHOkxVgHZ_8/hqdefault.jpg"
     }
   ]
 }
