@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:17:49Z",
+  "updated": "2026-11-17T18:27:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,13 +13,20 @@
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #14",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 22
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d An die Cyberdecks!",
       "link": "https://twitch.tv/Leetcore",
+      "viewers": 2
+    },
+    {
+      "platform": "twitch",
+      "name": "msec",
+      "title": "Ocarina of Time (2026) First Playthrough! #charity",
+      "link": "https://twitch.tv/msec",
       "viewers": 1
     },
     {
@@ -35,9 +42,16 @@
       "title": "!shake the snowglobe",
       "link": "https://twitch.tv/panekopanko",
       "viewers": 28
+    },
+    {
+      "platform": "youtube",
+      "name": "MSec",
+      "title": "Ocarina of Time (2026) First Playthrough.",
+      "link": "https://www.youtube.com/watch?v=1-FVYnw6Grc",
+      "viewers": 1
     }
   ],
-  "viewers_total": 295,
+  "viewers_total": 297,
   "videos": [
     {
       "video_id": "tF19YcTx9nU",
