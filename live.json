@@ -1,30 +1,45 @@
 {
-  "updated": "2026-11-17T23:27:50Z",
+  "updated": "2026-11-17T23:37:49Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BrakeSec",
+      "title": "everything is broken, US gov issues bulletins for fridges, OSS tools breaking in in 3 hours, & more!",
+      "link": "https://twitch.tv/BrakeSec",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 492
+      "viewers": 538
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Ocarina of Time (2026) First Playthrough! #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 7
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "MSec",
       "title": "Ocarina of Time (2026) First Playthrough.",
       "link": "https://www.youtube.com/watch?v=1-FVYnw6Grc",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 501,
+  "viewers_total": 545,
   "videos": [
+    {
+      "video_id": "1VZ24bKM7jQ",
+      "channel": "mbcrump",
+      "title": "Run a Local LLM (Qwen 3.5) on a Jailbroken PS4!",
+      "link": "https://www.youtube.com/watch?v=1VZ24bKM7jQ",
+      "published_at": "2026-11-17T23:34:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1VZ24bKM7jQ/hqdefault.jpg"
+    },
     {
       "video_id": "VipzspasxCc",
       "channel": "SecurityWeekly",
@@ -179,14 +194,6 @@
       "link": "https://www.youtube.com/watch?v=mwVZvHN7yYM",
       "published_at": "2026-11-17T12:00:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mwVZvHN7yYM/hqdefault.jpg"
-    },
-    {
-      "video_id": "TXs5_pMBQJI",
-      "channel": "Khaos_Farbauti",
-      "title": "SESSION D'INFODUMPING | State of Mind #4",
-      "link": "https://www.youtube.com/watch?v=TXs5_pMBQJI",
-      "published_at": "2026-11-17T11:25:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TXs5_pMBQJI/hqdefault.jpg"
     }
   ]
 }
