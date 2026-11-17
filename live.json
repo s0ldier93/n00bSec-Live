@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-17T23:37:49Z",
+  "updated": "2026-11-17T23:47:15Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BrakeSec",
       "title": "everything is broken, US gov issues bulletins for fridges, OSS tools breaking in in 3 hours, & more!",
       "link": "https://twitch.tv/BrakeSec",
-      "viewers": 0
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -24,13 +24,20 @@
     },
     {
       "platform": "youtube",
+      "name": "BrakeSec",
+      "title": "everything is broken, US gov issues bulletins for fridges, OSS tools breaking in in 3 hours, & more!",
+      "link": "https://www.youtube.com/watch?v=Wq4dVkq02KM",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
       "name": "MSec",
       "title": "Ocarina of Time (2026) First Playthrough.",
       "link": "https://www.youtube.com/watch?v=1-FVYnw6Grc",
       "viewers": 1
     }
   ],
-  "viewers_total": 545,
+  "viewers_total": 548,
   "videos": [
     {
       "video_id": "1VZ24bKM7jQ",
