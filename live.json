@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-17T14:47:30Z",
+  "updated": "2026-11-17T15:06:55Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "fV3D2LlGhZg",
+      "channel": "LuNiZz",
+      "title": "AI \u0130LE BUG\u00dcN \u0130\u015e KURSAM B\u00d6YLE BA\u015eLARDIM..",
+      "link": "https://www.youtube.com/watch?v=fV3D2LlGhZg",
+      "published_at": "2026-11-17T15:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fV3D2LlGhZg/hqdefault.jpg"
+    },
+    {
+      "video_id": "VDCmZKPcxSY",
+      "channel": "CyberWarriorStudios",
+      "title": "Stop Letting Social Media Run Your Life \ud83c\udf32 #shorts",
+      "link": "https://www.youtube.com/watch?v=VDCmZKPcxSY",
+      "published_at": "2026-11-17T14:57:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VDCmZKPcxSY/hqdefault.jpg"
+    },
     {
       "video_id": "L1wDoS3QXqY",
       "channel": "LowLevelTV",
@@ -147,23 +163,6 @@
       "link": "https://www.youtube.com/watch?v=WMrE5Ay1G2Q",
       "published_at": "2026-11-16T13:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/WMrE5Ay1G2Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "OWo6DsxDmSY",
-      "channel": "FixIt42",
-      "title": "Does this still work?",
-      "link": "https://www.youtube.com/watch?v=OWo6DsxDmSY",
-      "published_at": "2026-11-16T11:32:48+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OWo6DsxDmSY/hqdefault.jpg",
-      "upcoming": true
-    },
-    {
-      "video_id": "fLS92giCjfk",
-      "channel": "DCCyberSec",
-      "title": "The Truth About Starting an AI Consulting Business (Don't Start Without This)",
-      "link": "https://www.youtube.com/watch?v=fLS92giCjfk",
-      "published_at": "2026-11-16T11:00:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fLS92giCjfk/hqdefault.jpg"
     }
   ]
 }
