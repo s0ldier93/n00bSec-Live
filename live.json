@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-17T15:06:55Z",
+  "updated": "2026-11-17T15:26:55Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "rC_aT_rK51M",
+      "channel": "TheLaluka",
+      "title": "Why Can ONE Chip Bug Cost a Billion Dollars? #shorts",
+      "link": "https://www.youtube.com/watch?v=rC_aT_rK51M",
+      "published_at": "2026-11-17T15:25:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/rC_aT_rK51M/hqdefault.jpg"
+    },
     {
       "video_id": "fV3D2LlGhZg",
       "channel": "LuNiZz",
@@ -155,14 +163,6 @@
       "link": "https://www.youtube.com/watch?v=cbJs1GPIU50",
       "published_at": "2026-11-16T13:40:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cbJs1GPIU50/hqdefault.jpg"
-    },
-    {
-      "video_id": "WMrE5Ay1G2Q",
-      "channel": "team_whoami",
-      "title": "Buffer Overflow ROP parte 5",
-      "link": "https://www.youtube.com/watch?v=WMrE5Ay1G2Q",
-      "published_at": "2026-11-16T13:00:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WMrE5Ay1G2Q/hqdefault.jpg"
     }
   ]
 }
