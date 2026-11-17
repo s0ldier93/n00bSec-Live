@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T17:07:51Z",
+  "updated": "2026-11-17T17:17:32Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,10 +7,40 @@
       "title": "LIVE Ethical Hacking -- AMA & CTFs",
       "link": "https://twitch.tv/nthsec",
       "viewers": 14
+    },
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "!shake the snowglobe",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 17
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "Removing a junk drivers side rocker. The Crew Cab Coronet (Part 61) 11/17/26",
+      "link": "https://www.youtube.com/watch?v=r7yfjyLiZs0",
+      "viewers": 14
     }
   ],
-  "viewers_total": 14,
+  "viewers_total": 45,
   "videos": [
+    {
+      "video_id": "tF19YcTx9nU",
+      "channel": "Cyber_Insecurity",
+      "title": "Frontier AI is a vulnerability scanner with a billion-dollar price tag",
+      "link": "https://www.youtube.com/watch?v=tF19YcTx9nU",
+      "published_at": "2026-11-17T17:04:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tF19YcTx9nU/hqdefault.jpg"
+    },
+    {
+      "video_id": "cYX4KntqKOM",
+      "channel": "thecybermentor",
+      "title": "8 Resume Red Flags to Fix!",
+      "link": "https://www.youtube.com/watch?v=cYX4KntqKOM",
+      "published_at": "2026-11-17T17:00:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cYX4KntqKOM/hqdefault.jpg"
+    },
     {
       "video_id": "zyBSeXoBH_w",
       "channel": "antisyphon",
@@ -110,6 +140,14 @@
       "thumbnail": "https://i.ytimg.com/vi/AtWxUUwPGq8/hqdefault.jpg"
     },
     {
+      "video_id": "r7yfjyLiZs0",
+      "channel": "EJSA",
+      "title": "Removing a junk drivers side rocker. The Crew Cab Coronet (Part 61) 11/17/26",
+      "link": "https://www.youtube.com/watch?v=r7yfjyLiZs0",
+      "published_at": "2026-11-17T00:25:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/r7yfjyLiZs0/hqdefault.jpg"
+    },
+    {
       "video_id": "XN_4OxMZS1o",
       "channel": "CyberWarriorStudios",
       "title": "Sun's Down by 5? Do This Before Seasonal Depression Hits \u2600\ufe0f #shorts",
@@ -149,30 +187,6 @@
       "link": "https://www.youtube.com/watch?v=DFIcn394WfA",
       "published_at": "2026-11-16T17:31:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/DFIcn394WfA/hqdefault.jpg"
-    },
-    {
-      "video_id": "zOUJWGBM1yw",
-      "channel": "SecurityWeekly",
-      "title": "riverside identifying red flags in bug bounty programs enterprise security",
-      "link": "https://www.youtube.com/watch?v=zOUJWGBM1yw",
-      "published_at": "2026-11-16T17:09:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/zOUJWGBM1yw/hqdefault.jpg"
-    },
-    {
-      "video_id": "0XuPKiOaKls",
-      "channel": "Cyber_Insecurity",
-      "title": "Download the models now. Hugging Face might not be there tomorrow.",
-      "link": "https://www.youtube.com/watch?v=0XuPKiOaKls",
-      "published_at": "2026-11-16T17:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0XuPKiOaKls/hqdefault.jpg"
-    },
-    {
-      "video_id": "uWFLS7edouc",
-      "channel": "gerald_auger_simplycyber",
-      "title": "Day in the Life of an IT Admin Who Does Security Alone",
-      "link": "https://www.youtube.com/watch?v=uWFLS7edouc",
-      "published_at": "2026-11-16T17:00:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/uWFLS7edouc/hqdefault.jpg"
     }
   ]
 }
