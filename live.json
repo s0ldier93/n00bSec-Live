@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-17T16:07:48Z",
+  "updated": "2026-11-17T16:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- AMA & CTFs",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 4
+      "viewers": 10
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 10,
   "videos": [
+    {
+      "video_id": "FcEfbAfslzQ",
+      "channel": "SecurityWeekly",
+      "title": "Prevent Attacks or Detect Them? Both.",
+      "link": "https://www.youtube.com/watch?v=FcEfbAfslzQ",
+      "published_at": "2026-11-17T16:07:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FcEfbAfslzQ/hqdefault.jpg"
+    },
     {
       "video_id": "IErxDfkyUi0",
       "channel": "CyberWarriorStudios",
@@ -19,6 +27,14 @@
       "published_at": "2026-11-17T15:51:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/IErxDfkyUi0/hqdefault.jpg",
       "upcoming": true
+    },
+    {
+      "video_id": "SRX0LlBqtsg",
+      "channel": "CosmodiumCS",
+      "title": "Where I\u2019ve been and my thoughts on AI | CCS Podcast",
+      "link": "https://www.youtube.com/watch?v=SRX0LlBqtsg",
+      "published_at": "2026-11-17T15:46:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SRX0LlBqtsg/hqdefault.jpg"
     },
     {
       "video_id": "rC_aT_rK51M",
@@ -156,22 +172,6 @@
       "link": "https://www.youtube.com/watch?v=QycP3EBGEwo",
       "published_at": "2026-11-16T16:12:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QycP3EBGEwo/hqdefault.jpg"
-    },
-    {
-      "video_id": "eoxd2k0mLrc",
-      "channel": "soyelmago",
-      "title": "Burp Suite hizo lo que TODOS ped\u00edamos hace A\u00d1OS",
-      "link": "https://www.youtube.com/watch?v=eoxd2k0mLrc",
-      "published_at": "2026-11-16T15:36:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/eoxd2k0mLrc/hqdefault.jpg"
-    },
-    {
-      "video_id": "04X5YQcqcZU",
-      "channel": "TheLaluka",
-      "title": "How Did a Debugger Crash an Entire Cloud Server? #shorts",
-      "link": "https://www.youtube.com/watch?v=04X5YQcqcZU",
-      "published_at": "2026-11-16T15:25:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/04X5YQcqcZU/hqdefault.jpg"
     }
   ]
 }
