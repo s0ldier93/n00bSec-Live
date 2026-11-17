@@ -1,8 +1,17 @@
 {
-  "updated": "2026-11-17T15:26:55Z",
+  "updated": "2026-11-17T16:06:55Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "IErxDfkyUi0",
+      "channel": "CyberWarriorStudios",
+      "title": "Can You Still Tell What\u2019s Real? Dr. Gregory Carpenter on Machine-Speed Deception",
+      "link": "https://www.youtube.com/watch?v=IErxDfkyUi0",
+      "published_at": "2026-11-17T15:51:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IErxDfkyUi0/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "rC_aT_rK51M",
       "channel": "TheLaluka",
@@ -155,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=04X5YQcqcZU",
       "published_at": "2026-11-16T15:25:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/04X5YQcqcZU/hqdefault.jpg"
-    },
-    {
-      "video_id": "cbJs1GPIU50",
-      "channel": "NahamSec",
-      "title": "Is Cybersecurity Still Worth It in the AI Era?",
-      "link": "https://www.youtube.com/watch?v=cbJs1GPIU50",
-      "published_at": "2026-11-16T13:40:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cbJs1GPIU50/hqdefault.jpg"
     }
   ]
 }
