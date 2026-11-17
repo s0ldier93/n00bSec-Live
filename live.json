@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:27:47Z",
+  "updated": "2026-11-17T18:37:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,37 +11,37 @@
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "Regularly Scheduled Shenanigans #14",
+      "title": "Regularly Scheduled Shenanigans #14 | ty: @skittlejello",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 21
+      "viewers": 50
     },
     {
       "platform": "twitch",
       "name": "Leetcore",
       "title": "\ud83c\udfc4\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udf0d An die Cyberdecks!",
       "link": "https://twitch.tv/Leetcore",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Ocarina of Time (2026) First Playthrough! #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- AMA & CTFs",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 22
+      "viewers": 18
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "!shake the snowglobe",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 25
     },
     {
       "platform": "youtube",
@@ -51,8 +51,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 310,
+  "viewers_total": 333,
   "videos": [
+    {
+      "video_id": "EfohWqrb3cA",
+      "channel": "TheGoodHackerTV",
+      "title": "No necesitas un t\u00edtulo para ser Hacker",
+      "link": "https://www.youtube.com/watch?v=EfohWqrb3cA",
+      "published_at": "2026-11-17T18:22:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/EfohWqrb3cA/hqdefault.jpg"
+    },
     {
       "video_id": "tF19YcTx9nU",
       "channel": "Cyber_Insecurity",
@@ -207,14 +215,6 @@
       "link": "https://www.youtube.com/watch?v=-m7pPKq-f2o",
       "published_at": "2026-11-16T18:22:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-m7pPKq-f2o/hqdefault.jpg"
-    },
-    {
-      "video_id": "DFIcn394WfA",
-      "channel": "hack_smarter",
-      "title": "[LIVE] - Ask Me Anything (Cybersecurity / Hacking)",
-      "link": "https://www.youtube.com/watch?v=DFIcn394WfA",
-      "published_at": "2026-11-16T17:31:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DFIcn394WfA/hqdefault.jpg"
     }
   ]
 }
