@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T21:47:49Z",
+  "updated": "2026-11-17T21:57:22Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,21 @@
       "name": "msec",
       "title": "Ocarina of Time (2026) First Playthrough! #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 7
+      "viewers": 6
+    },
+    {
+      "platform": "twitch",
+      "name": "nahamsec",
+      "title": "Live November 17",
+      "link": "https://twitch.tv/nahamsec",
+      "viewers": 0
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "!shake the snowglobe",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 28
     },
     {
       "platform": "youtube",
@@ -28,9 +35,16 @@
       "title": "Ocarina of Time (2026) First Playthrough.",
       "link": "https://www.youtube.com/watch?v=1-FVYnw6Grc",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "NahamSec",
+      "title": "Live November 17",
+      "link": "https://www.youtube.com/watch?v=qOUOgMwHZiw",
+      "viewers": 16
     }
   ],
-  "viewers_total": 367,
+  "viewers_total": 381,
   "videos": [
     {
       "video_id": "OcX_DXpgpX0",
