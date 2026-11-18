@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-18T23:47:50Z",
+  "updated": "2026-11-18T23:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "testing new setup.",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 380
+      "viewers": 414
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 5
+      "viewers": 6
     }
   ],
-  "viewers_total": 385,
+  "viewers_total": 420,
   "videos": [
     {
       "video_id": "iDowSRFqiBo",
