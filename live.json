@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-18T01:47:49Z",
+  "updated": "2026-11-18T01:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Ataques de fuerza bruta con hydra \ud83d\udc09",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 8
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "EJ's Space and Rocket Revue! 11/17/26",
+      "title": "TUESDAY CONFLICT CANINES! 11/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 504
+      "viewers": 413
     }
   ],
-  "viewers_total": 512,
+  "viewers_total": 420,
   "videos": [
     {
       "video_id": "1VZ24bKM7jQ",
