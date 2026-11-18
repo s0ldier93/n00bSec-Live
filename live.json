@@ -1,30 +1,39 @@
 {
-  "updated": "2026-11-18T22:47:49Z",
+  "updated": "2026-11-18T22:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 36
+      "viewers": 29
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
       "link": "https://www.youtube.com/watch?v=JTTy3rvKLVQ",
-      "viewers": 4
+      "viewers": 2
     }
   ],
-  "viewers_total": 43,
+  "viewers_total": 35,
   "videos": [
+    {
+      "video_id": "dHzn6ti7pQw",
+      "channel": "EJSA",
+      "title": "TUESDAY CONFLICT CANINES! 11/17/26",
+      "link": "https://www.youtube.com/watch?v=dHzn6ti7pQw",
+      "published_at": "2026-11-18T22:51:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dHzn6ti7pQw/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "T-ST4QsXJiI",
       "channel": "SecurityWeekly",
@@ -177,15 +186,6 @@
       "link": "https://www.youtube.com/watch?v=VipzspasxCc",
       "published_at": "2026-11-17T23:00:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VipzspasxCc/hqdefault.jpg"
-    },
-    {
-      "video_id": "6lWeE3cGUwU",
-      "channel": "HackerMentor",
-      "title": "Workshop - Purple Team",
-      "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
-      "published_at": "2026-11-17T22:27:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6lWeE3cGUwU/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
