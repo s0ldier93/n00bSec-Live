@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T17:17:50Z",
+  "updated": "2026-11-18T17:27:51Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,28 @@
       "name": "fixit42",
       "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- CTFs & AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 15
+      "viewers": 13
+    },
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "pov: making bone cracking noises at you",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 12
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Boring Binaries Behaving Badly",
       "link": "https://www.youtube.com/watch?v=vcZ0sNTUn7k",
-      "viewers": 25
+      "viewers": 29
     },
     {
       "platform": "youtube",
@@ -37,8 +44,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 48,
+  "viewers_total": 61,
   "videos": [
+    {
+      "video_id": "TFMfJbmOrb0",
+      "channel": "Cyber_Insecurity",
+      "title": "Your incident data is in their logs. Legal knows, right?",
+      "link": "https://www.youtube.com/watch?v=TFMfJbmOrb0",
+      "published_at": "2026-11-18T17:12:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/TFMfJbmOrb0/hqdefault.jpg"
+    },
     {
       "video_id": "J9PVAxAVC7Q",
       "channel": "LowLevelTV",
@@ -192,14 +207,6 @@
       "link": "https://www.youtube.com/watch?v=qOUOgMwHZiw",
       "published_at": "2026-11-17T21:59:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qOUOgMwHZiw/hqdefault.jpg"
-    },
-    {
-      "video_id": "OcX_DXpgpX0",
-      "channel": "SecurityWeekly",
-      "title": "AI Is Accelerating the Vulnerability Disclosure Clock",
-      "link": "https://www.youtube.com/watch?v=OcX_DXpgpX0",
-      "published_at": "2026-11-17T20:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OcX_DXpgpX0/hqdefault.jpg"
     }
   ]
 }
