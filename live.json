@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-18T14:07:49Z",
+  "updated": "2026-11-18T14:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Cyber Apocalypse Is UPON US - The end is here!",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 16
+      "viewers": 40
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "A walk through the woods 1\u00b0C - Have to get back in shape ;D - Touching grass",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "Cyber_Insecurity",
       "title": "Cyber Apocalypse Is UPON US - The end is here!",
       "link": "https://www.youtube.com/watch?v=T1L13x0Odp8",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -34,10 +34,10 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 18's Top Cyber News NOW! - Ep 1290",
       "link": "https://www.youtube.com/watch?v=_KnmzATDejc",
-      "viewers": 436
+      "viewers": 377
     }
   ],
-  "viewers_total": 458,
+  "viewers_total": 423,
   "videos": [
     {
       "video_id": "T1L13x0Odp8",
