@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T22:07:50Z",
+  "updated": "2026-11-18T22:17:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,11 +20,19 @@
       "name": "TheLaluka",
       "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
       "link": "https://www.youtube.com/watch?v=JTTy3rvKLVQ",
-      "viewers": 4
+      "viewers": 2
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 31,
   "videos": [
+    {
+      "video_id": "T-ST4QsXJiI",
+      "channel": "SecurityWeekly",
+      "title": "Restrictive AI Policies Create Shadow IT",
+      "link": "https://www.youtube.com/watch?v=T-ST4QsXJiI",
+      "published_at": "2026-11-18T22:00:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/T-ST4QsXJiI/hqdefault.jpg"
+    },
     {
       "video_id": "JTTy3rvKLVQ",
       "channel": "TheLaluka",
@@ -178,14 +186,6 @@
       "published_at": "2026-11-17T22:27:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6lWeE3cGUwU/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "nlmPhUYwBPw",
-      "channel": "EJSA",
-      "title": "Removing a junk drivers side rocker. The Crew Cab Coronet (Part 61) 11/17/26",
-      "link": "https://www.youtube.com/watch?v=nlmPhUYwBPw",
-      "published_at": "2026-11-17T22:13:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nlmPhUYwBPw/hqdefault.jpg"
     }
   ]
 }
