@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-18T16:27:50Z",
+  "updated": "2026-11-18T16:37:33Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "Boring Binaries Behaving Badly",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -17,13 +24,20 @@
     },
     {
       "platform": "youtube",
+      "name": "antisyphon",
+      "title": "Boring Binaries Behaving Badly",
+      "link": "https://www.youtube.com/watch?v=vcZ0sNTUn7k",
+      "viewers": 10
+    },
+    {
+      "platform": "youtube",
       "name": "FixIt42",
       "title": "Playing with AI?",
       "link": "https://www.youtube.com/watch?v=6Inw1I42Xrw",
       "viewers": 2
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 19,
   "videos": [
     {
       "video_id": "J9PVAxAVC7Q",
