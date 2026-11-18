@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-18T19:07:36Z",
+  "updated": "2026-11-18T19:17:50Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "msec",
+      "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
+      "link": "https://twitch.tv/msec",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "ANNOYING IRRITATING AND UNSATISFYING asmr any% speedrun",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 43
+      "viewers": 42
     }
   ],
   "viewers_total": 43,
