@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-18T00:27:48Z",
+  "updated": "2026-11-18T00:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BrakeSec",
       "title": "everything is broken, US gov issues bulletins for fridges, OSS tools breaking in in 3 hours, & more!",
       "link": "https://twitch.tv/BrakeSec",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "EJ's Space and Rocket Revue! 11/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 541
+      "viewers": 523
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 548,
+  "viewers_total": 529,
   "videos": [
     {
       "video_id": "1VZ24bKM7jQ",
