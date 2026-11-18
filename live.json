@@ -1,26 +1,19 @@
 {
-  "updated": "2026-11-18T18:17:51Z",
+  "updated": "2026-11-18T18:27:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 10
-    },
-    {
-      "platform": "twitch",
-      "name": "nthsec",
-      "title": "LIVE Ethical Hacking -- CTFs & AMA",
-      "link": "https://twitch.tv/nthsec",
-      "viewers": 12
+      "viewers": 9
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "ANNOYING IRRITATING AND UNSATISFYING asmr any% speedrun",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 36
+      "viewers": 41
     },
     {
       "platform": "youtube",
@@ -30,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 59,
+  "viewers_total": 51,
   "videos": [
+    {
+      "video_id": "zRgI0LdFHhM",
+      "channel": "ElPinguinoDeMario",
+      "title": "C\u00f3mo CIFRAR nuestro DISCO DURO para Proteger Nuestros DATOS",
+      "link": "https://www.youtube.com/watch?v=zRgI0LdFHhM",
+      "published_at": "2026-11-18T18:14:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zRgI0LdFHhM/hqdefault.jpg"
+    },
     {
       "video_id": "MRnYo3hE6_U",
       "channel": "SecurityWeekly",
@@ -185,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=Aau8Fl685pQ",
       "published_at": "2026-11-17T22:02:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Aau8Fl685pQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "9BLLKwEyLAU",
-      "channel": "SecurityWeekly",
-      "title": "Cascading Chaos, Banks, Microsoft, Airports, Optimizely, Comcast, and Aaran Leyland - SWN #634",
-      "link": "https://www.youtube.com/watch?v=9BLLKwEyLAU",
-      "published_at": "2026-11-17T22:00:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9BLLKwEyLAU/hqdefault.jpg"
     }
   ]
 }
