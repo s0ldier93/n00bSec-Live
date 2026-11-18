@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-18T01:57:49Z",
+  "updated": "2026-11-18T02:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Ataques de fuerza bruta con hydra \ud83d\udc09",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 7
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "TUESDAY CONFLICT CANINES! 11/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 413
+      "viewers": 395
     }
   ],
-  "viewers_total": 420,
+  "viewers_total": 401,
   "videos": [
+    {
+      "video_id": "-wXaOOtmjB0",
+      "channel": "EJSA",
+      "title": "TUESDAY CONFLICT CANINES! 11/17/26",
+      "link": "https://www.youtube.com/watch?v=-wXaOOtmjB0",
+      "published_at": "2026-11-18T01:48:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-wXaOOtmjB0/hqdefault.jpg"
+    },
     {
       "video_id": "1VZ24bKM7jQ",
       "channel": "mbcrump",
@@ -172,14 +180,6 @@
       "link": "https://www.youtube.com/watch?v=L1wDoS3QXqY",
       "published_at": "2026-11-17T14:23:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/L1wDoS3QXqY/hqdefault.jpg"
-    },
-    {
-      "video_id": "mwVZvHN7yYM",
-      "channel": "hack_smarter",
-      "title": "Hacking A Bank... (404 Bank - Part 6)",
-      "link": "https://www.youtube.com/watch?v=mwVZvHN7yYM",
-      "published_at": "2026-11-17T12:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mwVZvHN7yYM/hqdefault.jpg"
     }
   ]
 }
