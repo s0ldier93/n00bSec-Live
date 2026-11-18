@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-18T15:27:50Z",
+  "updated": "2026-11-18T15:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "FixIt42",
       "title": "Playing with AI?",
       "link": "https://www.youtube.com/watch?v=6Inw1I42Xrw",
-      "viewers": 1
+      "viewers": 2
     }
   ],
   "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "DML9iN6iS1U",
+      "channel": "TheLaluka",
+      "title": "The CPU Bugs He Can't Reveal Yet #shorts",
+      "link": "https://www.youtube.com/watch?v=DML9iN6iS1U",
+      "published_at": "2026-11-18T15:25:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/DML9iN6iS1U/hqdefault.jpg"
+    },
     {
       "video_id": "qGWtml6siWs",
       "channel": "TheLaluka",
@@ -25,6 +33,14 @@
       "link": "https://www.youtube.com/watch?v=qGWtml6siWs",
       "published_at": "2026-11-18T15:20:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qGWtml6siWs/hqdefault.jpg"
+    },
+    {
+      "video_id": "6Inw1I42Xrw",
+      "channel": "FixIt42",
+      "title": "Playing with AI?",
+      "link": "https://www.youtube.com/watch?v=6Inw1I42Xrw",
+      "published_at": "2026-11-18T15:18:57+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6Inw1I42Xrw/hqdefault.jpg"
     },
     {
       "video_id": "IkIqW6hmJqU",
@@ -163,22 +179,6 @@
       "link": "https://www.youtube.com/watch?v=EfohWqrb3cA",
       "published_at": "2026-11-17T18:22:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/EfohWqrb3cA/hqdefault.jpg"
-    },
-    {
-      "video_id": "tF19YcTx9nU",
-      "channel": "Cyber_Insecurity",
-      "title": "Frontier AI is a vulnerability scanner with a billion-dollar price tag",
-      "link": "https://www.youtube.com/watch?v=tF19YcTx9nU",
-      "published_at": "2026-11-17T17:04:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tF19YcTx9nU/hqdefault.jpg"
-    },
-    {
-      "video_id": "cYX4KntqKOM",
-      "channel": "thecybermentor",
-      "title": "8 Resume Red Flags to Fix!",
-      "link": "https://www.youtube.com/watch?v=cYX4KntqKOM",
-      "published_at": "2026-11-17T17:00:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cYX4KntqKOM/hqdefault.jpg"
     }
   ]
 }
