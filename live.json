@@ -1,29 +1,22 @@
 {
-  "updated": "2026-11-18T23:37:49Z",
+  "updated": "2026-11-18T23:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "testing new setup.",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 363
-    },
-    {
-      "platform": "twitch",
-      "name": "miloslavpalik",
-      "title": "GTA 6 CHAT\ud83d\uddef\ufe0f",
-      "link": "https://twitch.tv/miloslavpalik",
-      "viewers": 2
+      "viewers": 380
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 5
     }
   ],
-  "viewers_total": 369,
+  "viewers_total": 385,
   "videos": [
     {
       "video_id": "iDowSRFqiBo",
