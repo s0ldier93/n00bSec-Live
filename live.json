@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-18T14:27:49Z",
+  "updated": "2026-11-18T14:37:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Cyber Apocalypse Is UPON US - The end is here!",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 55
+      "viewers": 66
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "Cyber_Insecurity",
       "title": "Cyber Apocalypse Is UPON US - The end is here!",
       "link": "https://www.youtube.com/watch?v=T1L13x0Odp8",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -34,11 +34,19 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 18's Top Cyber News NOW! - Ep 1290",
       "link": "https://www.youtube.com/watch?v=_KnmzATDejc",
-      "viewers": 353
+      "viewers": 320
     }
   ],
-  "viewers_total": 416,
+  "viewers_total": 395,
   "videos": [
+    {
+      "video_id": "IPVuvuff5TA",
+      "channel": "CybersecurityGrowth",
+      "title": "The 5 phases of a CISO's first 100 days",
+      "link": "https://www.youtube.com/watch?v=IPVuvuff5TA",
+      "published_at": "2026-11-18T14:30:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IPVuvuff5TA/hqdefault.jpg"
+    },
     {
       "video_id": "T1L13x0Odp8",
       "channel": "Cyber_Insecurity",
@@ -193,15 +201,6 @@
       "link": "https://www.youtube.com/watch?v=FcEfbAfslzQ",
       "published_at": "2026-11-17T16:07:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FcEfbAfslzQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "IErxDfkyUi0",
-      "channel": "CyberWarriorStudios",
-      "title": "Can You Still Tell What\u2019s Real? Dr. Gregory Carpenter on Machine-Speed Deception",
-      "link": "https://www.youtube.com/watch?v=IErxDfkyUi0",
-      "published_at": "2026-11-17T15:51:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IErxDfkyUi0/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
