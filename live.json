@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T20:37:50Z",
+  "updated": "2026-11-18T20:47:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "TheLaluka",
       "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
       "link": "https://www.youtube.com/watch?v=JTTy3rvKLVQ",
-      "viewers": 3
+      "viewers": 1
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "JTTy3rvKLVQ",
