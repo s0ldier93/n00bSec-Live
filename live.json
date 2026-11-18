@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-18T23:07:18Z",
+  "updated": "2026-11-18T23:07:50Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "miloslavpalik",
+      "title": "GTA 6 CHAT\ud83d\uddef\ufe0f",
+      "link": "https://twitch.tv/miloslavpalik",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
       "viewers": 4
-    },
-    {
-      "platform": "twitch",
-      "name": "TheLaluka",
-      "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
-      "link": "https://twitch.tv/TheLaluka",
-      "viewers": 29
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "iDowSRFqiBo",
