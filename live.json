@@ -1,23 +1,39 @@
 {
-  "updated": "2026-11-18T15:07:50Z",
+  "updated": "2026-11-18T15:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
-      "title": "A walk through the woods 1\u00b0C - Have to get back in shape ;D - Touching grass",
+      "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "FixIt42",
-      "title": "A walk through the woods 1\u00b0C - Have to get back in shape ;D - Touching grass",
-      "link": "https://www.youtube.com/watch?v=RHpn_UhMU9s",
+      "title": "Playing with AI?",
+      "link": "https://www.youtube.com/watch?v=6Inw1I42Xrw",
       "viewers": 1
     }
   ],
-  "viewers_total": 6,
+  "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "qGWtml6siWs",
+      "channel": "TheLaluka",
+      "title": "Who Actually Made This Short? #shorts",
+      "link": "https://www.youtube.com/watch?v=qGWtml6siWs",
+      "published_at": "2026-11-18T15:20:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qGWtml6siWs/hqdefault.jpg"
+    },
+    {
+      "video_id": "IkIqW6hmJqU",
+      "channel": "SecurityWeekly",
+      "title": "Which Vulnerabilities Actually Matter?",
+      "link": "https://www.youtube.com/watch?v=IkIqW6hmJqU",
+      "published_at": "2026-11-18T15:00:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/IkIqW6hmJqU/hqdefault.jpg"
+    },
     {
       "video_id": "IPVuvuff5TA",
       "channel": "CybersecurityGrowth",
@@ -163,23 +179,6 @@
       "link": "https://www.youtube.com/watch?v=cYX4KntqKOM",
       "published_at": "2026-11-17T17:00:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cYX4KntqKOM/hqdefault.jpg"
-    },
-    {
-      "video_id": "zyBSeXoBH_w",
-      "channel": "antisyphon",
-      "title": "CMMC Level 1: Show Me the Evidence",
-      "link": "https://www.youtube.com/watch?v=zyBSeXoBH_w",
-      "published_at": "2026-11-17T16:21:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/zyBSeXoBH_w/hqdefault.jpg",
-      "upcoming": true
-    },
-    {
-      "video_id": "FcEfbAfslzQ",
-      "channel": "SecurityWeekly",
-      "title": "Prevent Attacks or Detect Them? Both.",
-      "link": "https://www.youtube.com/watch?v=FcEfbAfslzQ",
-      "published_at": "2026-11-17T16:07:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FcEfbAfslzQ/hqdefault.jpg"
     }
   ]
 }
