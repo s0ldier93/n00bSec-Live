@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T13:27:50Z",
+  "updated": "2026-11-18T13:37:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,11 +20,19 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 18's Top Cyber News NOW! - Ep 1290",
       "link": "https://www.youtube.com/watch?v=_KnmzATDejc",
-      "viewers": 381
+      "viewers": 427
     }
   ],
-  "viewers_total": 387,
+  "viewers_total": 433,
   "videos": [
+    {
+      "video_id": "d0Gbgucbzb0",
+      "channel": "LowLevelTV",
+      "title": "What Even Is Reverse Engineering?",
+      "link": "https://www.youtube.com/watch?v=d0Gbgucbzb0",
+      "published_at": "2026-11-18T13:22:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/d0Gbgucbzb0/hqdefault.jpg"
+    },
     {
       "video_id": "RHpn_UhMU9s",
       "channel": "FixIt42",
@@ -180,14 +188,6 @@
       "link": "https://www.youtube.com/watch?v=SRX0LlBqtsg",
       "published_at": "2026-11-17T15:46:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SRX0LlBqtsg/hqdefault.jpg"
-    },
-    {
-      "video_id": "rC_aT_rK51M",
-      "channel": "TheLaluka",
-      "title": "Why Can ONE Chip Bug Cost a Billion Dollars? #shorts",
-      "link": "https://www.youtube.com/watch?v=rC_aT_rK51M",
-      "published_at": "2026-11-17T15:25:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/rC_aT_rK51M/hqdefault.jpg"
     }
   ]
 }
