@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-18T16:47:50Z",
+  "updated": "2026-11-18T16:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Boring Binaries Behaving Badly",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- CTFs & AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 10
+      "viewers": 8
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Boring Binaries Behaving Badly",
       "link": "https://www.youtube.com/watch?v=vcZ0sNTUn7k",
-      "viewers": 10
+      "viewers": 17
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 27,
+  "viewers_total": 33,
   "videos": [
     {
       "video_id": "J9PVAxAVC7Q",
