@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T22:57:49Z",
+  "updated": "2026-11-18T23:07:18Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,17 +14,18 @@
       "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
       "link": "https://twitch.tv/TheLaluka",
       "viewers": 29
-    },
-    {
-      "platform": "youtube",
-      "name": "TheLaluka",
-      "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
-      "link": "https://www.youtube.com/watch?v=JTTy3rvKLVQ",
-      "viewers": 2
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 33,
   "videos": [
+    {
+      "video_id": "iDowSRFqiBo",
+      "channel": "CyberWarriorStudios",
+      "title": "Keep Going: Turn a Tough Week Into Big Things \ud83d\udcaa #Shorts",
+      "link": "https://www.youtube.com/watch?v=iDowSRFqiBo",
+      "published_at": "2026-11-18T23:06:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/iDowSRFqiBo/hqdefault.jpg"
+    },
     {
       "video_id": "dHzn6ti7pQw",
       "channel": "EJSA",
@@ -178,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=1VZ24bKM7jQ",
       "published_at": "2026-11-17T23:34:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1VZ24bKM7jQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "VipzspasxCc",
-      "channel": "SecurityWeekly",
-      "title": "The Lethal Trifecta Behind AI Agents",
-      "link": "https://www.youtube.com/watch?v=VipzspasxCc",
-      "published_at": "2026-11-17T23:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VipzspasxCc/hqdefault.jpg"
     }
   ]
 }
