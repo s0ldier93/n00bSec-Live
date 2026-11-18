@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-18T18:07:50Z",
+  "updated": "2026-11-18T18:17:51Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 6
+      "viewers": 10
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- CTFs & AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 10
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "ANNOYING IRRITATING AND UNSATISFYING asmr any% speedrun",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 31
+      "viewers": 36
     },
     {
       "platform": "youtube",
       "name": "FixIt42",
       "title": "Playing with AI?",
       "link": "https://www.youtube.com/watch?v=6Inw1I42Xrw",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 49,
+  "viewers_total": 59,
   "videos": [
+    {
+      "video_id": "MRnYo3hE6_U",
+      "channel": "SecurityWeekly",
+      "title": "Microsoft's Outage Exposed a Bigger Risk",
+      "link": "https://www.youtube.com/watch?v=MRnYo3hE6_U",
+      "published_at": "2026-11-18T18:00:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MRnYo3hE6_U/hqdefault.jpg"
+    },
     {
       "video_id": "TFMfJbmOrb0",
       "channel": "Cyber_Insecurity",
@@ -185,14 +193,6 @@
       "link": "https://www.youtube.com/watch?v=9BLLKwEyLAU",
       "published_at": "2026-11-17T22:00:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9BLLKwEyLAU/hqdefault.jpg"
-    },
-    {
-      "video_id": "qOUOgMwHZiw",
-      "channel": "NahamSec",
-      "title": "Live November 17",
-      "link": "https://www.youtube.com/watch?v=qOUOgMwHZiw",
-      "published_at": "2026-11-17T21:59:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qOUOgMwHZiw/hqdefault.jpg"
     }
   ]
 }
