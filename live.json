@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:17:49Z",
+  "updated": "2026-11-18T23:27:17Z",
   "streams": [
     {
       "platform": "twitch",
@@ -39,8 +39,7 @@
       "title": "TUESDAY CONFLICT CANINES! 11/17/26",
       "link": "https://www.youtube.com/watch?v=dHzn6ti7pQw",
       "published_at": "2026-11-18T22:51:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dHzn6ti7pQw/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/dHzn6ti7pQw/hqdefault.jpg"
     },
     {
       "video_id": "T-ST4QsXJiI",
