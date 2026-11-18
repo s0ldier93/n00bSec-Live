@@ -1,36 +1,29 @@
 {
-  "updated": "2026-11-18T20:07:50Z",
+  "updated": "2026-11-18T20:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "yapping",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 15
+      "viewers": 29
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
       "link": "https://www.youtube.com/watch?v=JTTy3rvKLVQ",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 47,
+  "viewers_total": 35,
   "videos": [
     {
       "video_id": "JTTy3rvKLVQ",
