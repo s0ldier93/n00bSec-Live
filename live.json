@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-18T15:57:50Z",
+  "updated": "2026-11-18T16:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "FixIt42",
       "title": "Playing with AI?",
       "link": "https://www.youtube.com/watch?v=6Inw1I42Xrw",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 6,
   "videos": [
+    {
+      "video_id": "J9PVAxAVC7Q",
+      "channel": "LowLevelTV",
+      "title": "Is This Bug Pattern Even Possible Anymore?",
+      "link": "https://www.youtube.com/watch?v=J9PVAxAVC7Q",
+      "published_at": "2026-11-18T16:00:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/J9PVAxAVC7Q/hqdefault.jpg"
+    },
     {
       "video_id": "DML9iN6iS1U",
       "channel": "TheLaluka",
@@ -171,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=OcX_DXpgpX0",
       "published_at": "2026-11-17T20:00:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/OcX_DXpgpX0/hqdefault.jpg"
-    },
-    {
-      "video_id": "EfohWqrb3cA",
-      "channel": "TheGoodHackerTV",
-      "title": "No necesitas un t\u00edtulo para ser Hacker",
-      "link": "https://www.youtube.com/watch?v=EfohWqrb3cA",
-      "published_at": "2026-11-17T18:22:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/EfohWqrb3cA/hqdefault.jpg"
     }
   ]
 }
