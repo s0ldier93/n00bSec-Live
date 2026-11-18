@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:37:49Z",
+  "updated": "2026-11-18T16:47:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "fixit42",
       "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- CTFs & AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 6
+      "viewers": 10
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 22,
+  "viewers_total": 27,
   "videos": [
     {
       "video_id": "J9PVAxAVC7Q",
