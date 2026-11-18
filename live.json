@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-18T18:47:50Z",
+  "updated": "2026-11-18T18:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 10
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "ANNOYING IRRITATING AND UNSATISFYING asmr any% speedrun",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 41
+      "viewers": 39
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 52,
+  "viewers_total": 48,
   "videos": [
     {
       "video_id": "zRgI0LdFHhM",
