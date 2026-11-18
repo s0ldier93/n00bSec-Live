@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-18T15:37:50Z",
+  "updated": "2026-11-18T15:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "Playing with AI?",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 2
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "FixIt42",
       "title": "Playing with AI?",
       "link": "https://www.youtube.com/watch?v=6Inw1I42Xrw",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 7,
   "videos": [
     {
       "video_id": "DML9iN6iS1U",
