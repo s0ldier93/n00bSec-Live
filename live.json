@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-18T12:37:30Z",
+  "updated": "2026-11-18T12:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "A walk through the woods 1\u00b0C - Have to get back in shape ;D - Touching grass",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 6,
   "videos": [
     {
       "video_id": "RHpn_UhMU9s",
