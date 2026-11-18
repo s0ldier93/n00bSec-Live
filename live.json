@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-18T02:17:50Z",
+  "updated": "2026-11-18T02:27:49Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Ataques de fuerza bruta con hydra \ud83d\udc09",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 6
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "TUESDAY CONFLICT CANINES! 11/17/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 365
+      "viewers": 368
     }
   ],
-  "viewers_total": 371,
+  "viewers_total": 368,
   "videos": [
     {
       "video_id": "-wXaOOtmjB0",
