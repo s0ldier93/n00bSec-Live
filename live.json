@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-18T12:47:50Z",
+  "updated": "2026-11-18T13:07:33Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "A walk through the woods 1\u00b0C - Have to get back in shape ;D - Touching grass",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -14,9 +14,16 @@
       "title": "A walk through the woods 1\u00b0C - Have to get back in shape ;D - Touching grass",
       "link": "https://www.youtube.com/watch?v=RHpn_UhMU9s",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 18's Top Cyber News NOW! - Ep 1290",
+      "link": "https://www.youtube.com/watch?v=_KnmzATDejc",
+      "viewers": 194
     }
   ],
-  "viewers_total": 6,
+  "viewers_total": 198,
   "videos": [
     {
       "video_id": "RHpn_UhMU9s",
