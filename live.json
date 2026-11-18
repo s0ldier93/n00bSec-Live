@@ -1,12 +1,26 @@
 {
-  "updated": "2026-11-18T13:47:49Z",
+  "updated": "2026-11-18T13:57:32Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "cyber_insecurity",
+      "title": "Cyber Apocalypse Is UPON US - The end is here!",
+      "link": "https://twitch.tv/cyber_insecurity",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "fixit42",
       "title": "A walk through the woods 1\u00b0C - Have to get back in shape ;D - Touching grass",
       "link": "https://twitch.tv/fixit42",
-      "viewers": 5
+      "viewers": 6
+    },
+    {
+      "platform": "youtube",
+      "name": "Cyber_Insecurity",
+      "title": "Cyber Apocalypse Is UPON US - The end is here!",
+      "link": "https://www.youtube.com/watch?v=T1L13x0Odp8",
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -20,11 +34,19 @@
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 18's Top Cyber News NOW! - Ep 1290",
       "link": "https://www.youtube.com/watch?v=_KnmzATDejc",
-      "viewers": 442
+      "viewers": 453
     }
   ],
-  "viewers_total": 448,
+  "viewers_total": 461,
   "videos": [
+    {
+      "video_id": "T1L13x0Odp8",
+      "channel": "Cyber_Insecurity",
+      "title": "Cyber Apocalypse Is UPON US - The end is here!",
+      "link": "https://www.youtube.com/watch?v=T1L13x0Odp8",
+      "published_at": "2026-11-18T13:56:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/T1L13x0Odp8/hqdefault.jpg"
+    },
     {
       "video_id": "d0Gbgucbzb0",
       "channel": "LowLevelTV",
@@ -180,14 +202,6 @@
       "published_at": "2026-11-17T15:51:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/IErxDfkyUi0/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "SRX0LlBqtsg",
-      "channel": "CosmodiumCS",
-      "title": "Where I\u2019ve been and my thoughts on AI | CCS Podcast",
-      "link": "https://www.youtube.com/watch?v=SRX0LlBqtsg",
-      "published_at": "2026-11-17T15:46:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SRX0LlBqtsg/hqdefault.jpg"
     }
   ]
 }
