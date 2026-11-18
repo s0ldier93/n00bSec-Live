@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-18T19:57:49Z",
+  "updated": "2026-11-18T20:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
-      "title": "ANNOYING IRRITATING AND UNSATISFYING asmr any% speedrun",
+      "title": "yapping",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 26
+      "viewers": 27
     },
     {
       "platform": "twitch",
       "name": "TheLaluka",
       "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
       "link": "https://twitch.tv/TheLaluka",
-      "viewers": 2
+      "viewers": 15
     },
     {
       "platform": "youtube",
       "name": "TheLaluka",
       "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
       "link": "https://www.youtube.com/watch?v=JTTy3rvKLVQ",
-      "viewers": 1
+      "viewers": 4
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 47,
   "videos": [
+    {
+      "video_id": "JTTy3rvKLVQ",
+      "channel": "TheLaluka",
+      "title": "Token Maxing makes us Depresso ? \ud83e\udd72 Ft. @jvoisin, @pentest_swissky, @swapgs",
+      "link": "https://www.youtube.com/watch?v=JTTy3rvKLVQ",
+      "published_at": "2026-11-18T19:55:48+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/JTTy3rvKLVQ/hqdefault.jpg"
+    },
     {
       "video_id": "zRgI0LdFHhM",
       "channel": "ElPinguinoDeMario",
@@ -185,14 +193,6 @@
       "link": "https://www.youtube.com/watch?v=nlmPhUYwBPw",
       "published_at": "2026-11-17T22:13:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nlmPhUYwBPw/hqdefault.jpg"
-    },
-    {
-      "video_id": "Aau8Fl685pQ",
-      "channel": "pebl3",
-      "title": "Hackers broke into a hosting company and ignored the money. They took the AI keys.",
-      "link": "https://www.youtube.com/watch?v=Aau8Fl685pQ",
-      "published_at": "2026-11-17T22:02:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Aau8Fl685pQ/hqdefault.jpg"
     }
   ]
 }
