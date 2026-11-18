@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T17:47:50Z",
+  "updated": "2026-11-18T17:57:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,21 +20,21 @@
       "name": "nthsec",
       "title": "LIVE Ethical Hacking -- CTFs & AMA",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 13
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "ANNOYING IRRITATING AND UNSATISFYING asmr any% speedrun",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 22
+      "viewers": 27
     },
     {
       "platform": "youtube",
       "name": "antisyphon",
       "title": "Boring Binaries Behaving Badly",
       "link": "https://www.youtube.com/watch?v=vcZ0sNTUn7k",
-      "viewers": 30
+      "viewers": 23
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 73,
+  "viewers_total": 70,
   "videos": [
     {
       "video_id": "TFMfJbmOrb0",
