@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-18T04:57:48Z",
+  "updated": "2026-11-18T10:06:56Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "VUFcA7xU2JA",
+      "channel": "SecurityWeekly",
+      "title": "AI Gets Hired, But Security Fundamentals Don't Retire and CIOs Need To Work w/ CISOs - BSW #474",
+      "link": "https://www.youtube.com/watch?v=VUFcA7xU2JA",
+      "published_at": "2026-11-18T10:00:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VUFcA7xU2JA/hqdefault.jpg"
+    },
     {
       "video_id": "RVrBXty_9pI",
       "channel": "NahamSec",
@@ -158,14 +166,6 @@
       "link": "https://www.youtube.com/watch?v=fV3D2LlGhZg",
       "published_at": "2026-11-17T15:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fV3D2LlGhZg/hqdefault.jpg"
-    },
-    {
-      "video_id": "VDCmZKPcxSY",
-      "channel": "CyberWarriorStudios",
-      "title": "Stop Letting Social Media Run Your Life \ud83c\udf32 #shorts",
-      "link": "https://www.youtube.com/watch?v=VDCmZKPcxSY",
-      "published_at": "2026-11-17T14:57:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VDCmZKPcxSY/hqdefault.jpg"
     }
   ]
 }
