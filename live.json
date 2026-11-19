@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T05:57:50Z",
+  "updated": "2026-11-19T06:07:19Z",
   "streams": [
     {
       "platform": "twitch",
@@ -17,13 +17,20 @@
     },
     {
       "platform": "youtube",
+      "name": "censoredHacker",
+      "title": "Hacking & AMA",
+      "link": "https://www.youtube.com/watch?v=0XFcJysFAXE",
+      "viewers": 2
+    },
+    {
+      "platform": "youtube",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://www.youtube.com/watch?v=m4F8lQPRRD0",
-      "viewers": 5
+      "viewers": 7
     }
   ],
-  "viewers_total": 400,
+  "viewers_total": 404,
   "videos": [
     {
       "video_id": "0XFcJysFAXE",
@@ -31,8 +38,7 @@
       "title": "Lets watch some videos and review them",
       "link": "https://www.youtube.com/watch?v=0XFcJysFAXE",
       "published_at": "2026-11-19T05:52:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0XFcJysFAXE/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/0XFcJysFAXE/hqdefault.jpg"
     },
     {
       "video_id": "2D7Du4mnxRk",
