@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T04:57:17Z",
+  "updated": "2026-11-19T04:57:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,9 +11,9 @@
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "One Last Ride. 11/18/26",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 325
+      "viewers": 308
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 9
     }
   ],
-  "viewers_total": 390,
+  "viewers_total": 373,
   "videos": [
     {
       "video_id": "uCWnQzlzqLw",
