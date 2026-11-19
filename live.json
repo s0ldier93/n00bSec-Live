@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T22:47:51Z",
+  "updated": "2026-11-19T22:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 2
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 510,
+  "viewers_total": 512,
   "videos": [
     {
       "video_id": "l-cxo56I62o",
