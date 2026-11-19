@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-19T17:17:50Z",
+  "updated": "2026-11-19T17:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 475
+      "viewers": 467
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "What Are You Thankful For? -- LIVE Ethical Hacking & CTFs",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 10
+      "viewers": 8
     }
   ],
-  "viewers_total": 485,
+  "viewers_total": 475,
   "videos": [
     {
       "video_id": "eoE8WQALJrc",
