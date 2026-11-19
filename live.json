@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T21:37:50Z",
+  "updated": "2026-11-19T21:47:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,17 @@
       "name": "mchow01",
       "title": "Malware (Episode10, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 13
+      "viewers": 14
+    },
+    {
+      "platform": "twitch",
+      "name": "miloslavpalik",
+      "title": "GTA 6 CHAT\ud83d\uddef\ufe0f",
+      "link": "https://twitch.tv/miloslavpalik",
+      "viewers": 0
     }
   ],
-  "viewers_total": 491,
+  "viewers_total": 492,
   "videos": [
     {
       "video_id": "6VU_NrwSrOE",
