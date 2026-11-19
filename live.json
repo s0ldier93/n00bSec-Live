@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-19T23:07:49Z",
+  "updated": "2026-11-19T23:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 497
+      "viewers": 518
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana!",
       "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
-      "viewers": 6
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -37,8 +37,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 510,
+  "viewers_total": 529,
   "videos": [
+    {
+      "video_id": "a4CgqdMIs_w",
+      "channel": "SecurityWeekly",
+      "title": "Your GPU Monitoring Is Lying",
+      "link": "https://www.youtube.com/watch?v=a4CgqdMIs_w",
+      "published_at": "2026-11-19T23:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/a4CgqdMIs_w/hqdefault.jpg"
+    },
     {
       "video_id": "l-cxo56I62o",
       "channel": "CyberWarriorStudios",
@@ -190,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=tyHR1yVjfUo",
       "published_at": "2026-11-19T00:36:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tyHR1yVjfUo/hqdefault.jpg"
-    },
-    {
-      "video_id": "RngeN77YGzo",
-      "channel": "mbcrump",
-      "title": "PS5 13.60 Jailbreak Just Got a LOT Faster with Wobkot!",
-      "link": "https://www.youtube.com/watch?v=RngeN77YGzo",
-      "published_at": "2026-11-19T00:32:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RngeN77YGzo/hqdefault.jpg"
     }
   ]
 }
