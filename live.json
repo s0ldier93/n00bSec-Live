@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T02:47:49Z",
+  "updated": "2026-11-19T02:57:19Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 29
+      "viewers": 36
     },
     {
       "platform": "twitch",
@@ -35,9 +35,16 @@
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=uCWnQzlzqLw",
       "viewers": 7
+    },
+    {
+      "platform": "youtube",
+      "name": "TheShyHat",
+      "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
+      "link": "https://www.youtube.com/watch?v=m4F8lQPRRD0",
+      "viewers": 2
     }
   ],
-  "viewers_total": 364,
+  "viewers_total": 373,
   "videos": [
     {
       "video_id": "uCWnQzlzqLw",
