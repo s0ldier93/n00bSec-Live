@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T22:37:50Z",
+  "updated": "2026-11-19T22:47:51Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,13 +14,6 @@
       "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 497
-    },
-    {
-      "platform": "twitch",
-      "name": "mchow01",
-      "title": "Malware (Episode10, Season 13)",
-      "link": "https://twitch.tv/mchow01",
-      "viewers": 11
     },
     {
       "platform": "twitch",
@@ -41,7 +34,7 @@
       "name": "BySepa",
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana!",
       "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
-      "viewers": 6
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -51,8 +44,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 523,
+  "viewers_total": 510,
   "videos": [
+    {
+      "video_id": "l-cxo56I62o",
+      "channel": "CyberWarriorStudios",
+      "title": "Finish Strong Before the Holidays #shorts",
+      "link": "https://www.youtube.com/watch?v=l-cxo56I62o",
+      "published_at": "2026-11-19T22:32:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/l-cxo56I62o/hqdefault.jpg"
+    },
     {
       "video_id": "lHeLld2Xl8Y",
       "channel": "pebl3",
@@ -204,14 +205,6 @@
       "link": "https://www.youtube.com/watch?v=RngeN77YGzo",
       "published_at": "2026-11-19T00:32:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RngeN77YGzo/hqdefault.jpg"
-    },
-    {
-      "video_id": "iDowSRFqiBo",
-      "channel": "CyberWarriorStudios",
-      "title": "Keep Going: Turn a Tough Week Into Big Things \ud83d\udcaa #Shorts",
-      "link": "https://www.youtube.com/watch?v=iDowSRFqiBo",
-      "published_at": "2026-11-18T23:06:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/iDowSRFqiBo/hqdefault.jpg"
     }
   ]
 }
