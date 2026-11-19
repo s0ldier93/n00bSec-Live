@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T22:07:49Z",
+  "updated": "2026-11-19T22:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
-      "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
+      "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 0
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "mchow01",
       "title": "Malware (Episode10, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 13
+      "viewers": 17
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "BySepa",
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana!",
       "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 512,
+  "viewers_total": 522,
   "videos": [
     {
       "video_id": "lHeLld2Xl8Y",
@@ -46,6 +46,14 @@
       "link": "https://www.youtube.com/watch?v=lHeLld2Xl8Y",
       "published_at": "2026-11-19T22:02:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lHeLld2Xl8Y/hqdefault.jpg"
+    },
+    {
+      "video_id": "zHdUElnyGgg",
+      "channel": "SecurityWeekly",
+      "title": "MiTM Emulated Android Apps, Keep Calm And Carry On - PSW #953",
+      "link": "https://www.youtube.com/watch?v=zHdUElnyGgg",
+      "published_at": "2026-11-19T22:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zHdUElnyGgg/hqdefault.jpg"
     },
     {
       "video_id": "ek_yhpsR_eI",
@@ -190,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=iDowSRFqiBo",
       "published_at": "2026-11-18T23:06:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/iDowSRFqiBo/hqdefault.jpg"
-    },
-    {
-      "video_id": "dHzn6ti7pQw",
-      "channel": "EJSA",
-      "title": "TUESDAY CONFLICT CANINES! 11/17/26",
-      "link": "https://www.youtube.com/watch?v=dHzn6ti7pQw",
-      "published_at": "2026-11-18T22:51:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dHzn6ti7pQw/hqdefault.jpg"
     }
   ]
 }
