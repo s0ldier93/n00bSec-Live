@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T02:37:49Z",
+  "updated": "2026-11-19T02:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 25
+      "viewers": 29
     },
     {
       "platform": "twitch",
@@ -27,24 +27,17 @@
       "name": "ej_sa",
       "title": "One Last Ride. 11/18/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 285
-    },
-    {
-      "platform": "twitch",
-      "name": "msec",
-      "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
-      "link": "https://twitch.tv/msec",
-      "viewers": 6
+      "viewers": 299
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=uCWnQzlzqLw",
-      "viewers": 8
+      "viewers": 7
     }
   ],
-  "viewers_total": 353,
+  "viewers_total": 364,
   "videos": [
     {
       "video_id": "uCWnQzlzqLw",
