@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T23:17:50Z",
+  "updated": "2026-11-19T23:27:18Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,6 +7,13 @@
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
       "viewers": 3
+    },
+    {
+      "platform": "twitch",
+      "name": "cyber_insecurity",
+      "title": "Pentesting on a GPU from 2019",
+      "link": "https://twitch.tv/cyber_insecurity",
+      "viewers": 19
     },
     {
       "platform": "twitch",
@@ -27,6 +34,13 @@
       "name": "BySepa",
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana!",
       "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
+      "viewers": 5
+    },
+    {
+      "platform": "youtube",
+      "name": "Cyber_Insecurity",
+      "title": "Pentesting on a GPU from 2019",
+      "link": "https://www.youtube.com/watch?v=oR8fdB9ADeE",
       "viewers": 4
     },
     {
@@ -37,8 +51,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 529,
+  "viewers_total": 553,
   "videos": [
+    {
+      "video_id": "oR8fdB9ADeE",
+      "channel": "Cyber_Insecurity",
+      "title": "Pentesting on a GPU from 2019",
+      "link": "https://www.youtube.com/watch?v=oR8fdB9ADeE",
+      "published_at": "2026-11-19T23:20:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oR8fdB9ADeE/hqdefault.jpg"
+    },
     {
       "video_id": "a4CgqdMIs_w",
       "channel": "SecurityWeekly",
@@ -190,14 +212,6 @@
       "link": "https://www.youtube.com/watch?v=uCWnQzlzqLw",
       "published_at": "2026-11-19T02:02:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/uCWnQzlzqLw/hqdefault.jpg"
-    },
-    {
-      "video_id": "tyHR1yVjfUo",
-      "channel": "EJSA",
-      "title": "One Last Ride. 11/18/26",
-      "link": "https://www.youtube.com/watch?v=tyHR1yVjfUo",
-      "published_at": "2026-11-19T00:36:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tyHR1yVjfUo/hqdefault.jpg"
     }
   ]
 }
