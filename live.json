@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-19T19:37:49Z",
+  "updated": "2026-11-19T19:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 814
+      "viewers": 781
     },
     {
       "platform": "twitch",
       "name": "Hackavis",
       "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad | We Are Back",
       "link": "https://twitch.tv/Hackavis",
-      "viewers": 33
+      "viewers": 30
     },
     {
       "platform": "youtube",
       "name": "Hackavis",
       "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad",
       "link": "https://www.youtube.com/watch?v=aCSKMxLKk48",
-      "viewers": 24
+      "viewers": 25
     }
   ],
-  "viewers_total": 871,
+  "viewers_total": 836,
   "videos": [
     {
       "video_id": "aCSKMxLKk48",
