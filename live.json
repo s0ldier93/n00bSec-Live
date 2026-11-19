@@ -1,36 +1,29 @@
 {
-  "updated": "2026-11-19T00:47:50Z",
+  "updated": "2026-11-19T00:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "My Homelab Crashed Not a Cyber Attack... DNS!!! |Lessons Learned|Cybersecurity,Rants,&Chill|11-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 14
-    },
-    {
-      "platform": "twitch",
-      "name": "djax_1",
-      "title": "TEAM WOLFPACK ESPORTS: ROCKET LEAGUE",
-      "link": "https://twitch.tv/djax_1",
-      "viewers": 1
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 13
+      "viewers": 10
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Workshop - Purple Team",
       "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
-      "viewers": 1022
+      "viewers": 1230
     }
   ],
-  "viewers_total": 1050,
+  "viewers_total": 1261,
   "videos": [
     {
       "video_id": "RngeN77YGzo",
