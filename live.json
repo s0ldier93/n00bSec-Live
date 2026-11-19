@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-19T17:37:50Z",
+  "updated": "2026-11-19T17:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Do it, Do it NOW! \u2013 IR Preparedness Checklist - 2027 Technical Version",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 0
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 491
+      "viewers": 509
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "What Are You Thankful For? -- LIVE Ethical Hacking & CTFs",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 5
+      "viewers": 7
     }
   ],
-  "viewers_total": 496,
+  "viewers_total": 517,
   "videos": [
     {
       "video_id": "Oe_cPSNEEJQ",
