@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:27:19Z",
+  "updated": "2026-11-19T00:27:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ej_sa",
       "title": "testing new setup.",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 407
+      "viewers": 409
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 288
     }
   ],
-  "viewers_total": 712,
+  "viewers_total": 714,
   "videos": [
     {
       "video_id": "iDowSRFqiBo",
