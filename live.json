@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-19T23:47:49Z",
+  "updated": "2026-11-19T23:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana! #teaminvierno #hacktheplanet",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Pentesting on a GPU from 2019",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 27
+      "viewers": 35
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 541
+      "viewers": 515
     },
     {
       "platform": "twitch",
@@ -34,31 +34,31 @@
       "name": "pwncollege",
       "title": "CSE466 - Week 13 - Sandboxing",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 8
+      "viewers": 9
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana!",
       "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "Cyber_Insecurity",
       "title": "Pentesting on a GPU from 2019",
       "link": "https://www.youtube.com/watch?v=oR8fdB9ADeE",
-      "viewers": 8
+      "viewers": 10
     },
     {
       "platform": "youtube",
       "name": "MSec",
       "title": "Building a dynamic OBS browser source!",
       "link": "https://www.youtube.com/watch?v=pn8y-8GpDoA",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 595,
+  "viewers_total": 579,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
