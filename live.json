@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-19T06:47:49Z",
+  "updated": "2026-11-19T06:57:48Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Hacking & AMA",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 1)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 365
+      "viewers": 369
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 28
+      "viewers": 25
     },
     {
       "platform": "youtube",
@@ -34,10 +34,10 @@
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://www.youtube.com/watch?v=m4F8lQPRRD0",
-      "viewers": 8
+      "viewers": 7
     }
   ],
-  "viewers_total": 407,
+  "viewers_total": 408,
   "videos": [
     {
       "video_id": "0XFcJysFAXE",
