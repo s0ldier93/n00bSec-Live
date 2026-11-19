@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-19T02:37:15Z",
+  "updated": "2026-11-19T02:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 22
+      "viewers": 25
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "My Homelab Crashed Not a Cyber Attack... DNS!!! |Lessons Learned|Cybersecurity,Rants,&Chill|11-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 23
+      "viewers": 27
     },
     {
       "platform": "twitch",
       "name": "djax_1",
       "title": "GTA5 LAST RIDE",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "One Last Ride. 11/18/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 281
+      "viewers": 285
     },
     {
       "platform": "twitch",
@@ -44,7 +44,7 @@
       "viewers": 8
     }
   ],
-  "viewers_total": 341,
+  "viewers_total": 353,
   "videos": [
     {
       "video_id": "uCWnQzlzqLw",
