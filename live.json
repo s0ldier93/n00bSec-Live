@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-19T13:47:49Z",
+  "updated": "2026-11-19T13:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "overgrowncarrot1",
       "title": "Hack Smarter Not Harder",
       "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 20
+      "viewers": 17
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 19's Top Cyber News NOW! - Ep 1291",
       "link": "https://www.youtube.com/watch?v=mKJEA0GNH5k",
-      "viewers": 422
+      "viewers": 409
     }
   ],
-  "viewers_total": 442,
+  "viewers_total": 426,
   "videos": [
     {
       "video_id": "neUure5j8Ls",
