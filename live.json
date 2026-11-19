@@ -1,30 +1,38 @@
 {
-  "updated": "2026-11-19T20:17:53Z",
+  "updated": "2026-11-19T20:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 2)",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 702
+      "viewers": 288
     },
     {
       "platform": "twitch",
       "name": "Hackavis",
       "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad | We Are Back",
       "link": "https://twitch.tv/Hackavis",
-      "viewers": 30
+      "viewers": 26
     },
     {
       "platform": "youtube",
       "name": "Hackavis",
       "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad",
       "link": "https://www.youtube.com/watch?v=aCSKMxLKk48",
-      "viewers": 19
+      "viewers": 18
     }
   ],
-  "viewers_total": 751,
+  "viewers_total": 332,
   "videos": [
+    {
+      "video_id": "TbAj8qQmrVg",
+      "channel": "CyberWarriorStudios",
+      "title": "Change Your Circle, Change Your Life #shorts",
+      "link": "https://www.youtube.com/watch?v=TbAj8qQmrVg",
+      "published_at": "2026-11-19T20:23:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/TbAj8qQmrVg/hqdefault.jpg"
+    },
     {
       "video_id": "BX7B8JAIudo",
       "channel": "BySepa",
@@ -177,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=MRnYo3hE6_U",
       "published_at": "2026-11-18T18:00:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/MRnYo3hE6_U/hqdefault.jpg"
-    },
-    {
-      "video_id": "TFMfJbmOrb0",
-      "channel": "Cyber_Insecurity",
-      "title": "Your incident data is in their logs. Legal knows, right?",
-      "link": "https://www.youtube.com/watch?v=TFMfJbmOrb0",
-      "published_at": "2026-11-18T17:12:51+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TFMfJbmOrb0/hqdefault.jpg"
     }
   ]
 }
