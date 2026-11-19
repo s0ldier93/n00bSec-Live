@@ -1,23 +1,24 @@
 {
-  "updated": "2026-11-19T15:27:49Z",
+  "updated": "2026-11-19T15:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 280
-    },
-    {
-      "platform": "twitch",
-      "name": "overgrowncarrot1",
-      "title": "Hack Smarter Not Harder",
-      "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 12
+      "viewers": 323
     }
   ],
-  "viewers_total": 292,
+  "viewers_total": 323,
   "videos": [
+    {
+      "video_id": "l8mzI_fn19o",
+      "channel": "TheLaluka",
+      "title": "Why Can't Anyone Audit the Chip in Your Laptop? #shorts",
+      "link": "https://www.youtube.com/watch?v=l8mzI_fn19o",
+      "published_at": "2026-11-19T15:25:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/l8mzI_fn19o/hqdefault.jpg"
+    },
     {
       "video_id": "i6St3ZgPUp0",
       "channel": "EJSA",
@@ -169,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=IkIqW6hmJqU",
       "published_at": "2026-11-18T15:00:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/IkIqW6hmJqU/hqdefault.jpg"
-    },
-    {
-      "video_id": "IPVuvuff5TA",
-      "channel": "CybersecurityGrowth",
-      "title": "The 5 phases of a CISO's first 100 days",
-      "link": "https://www.youtube.com/watch?v=IPVuvuff5TA",
-      "published_at": "2026-11-18T14:30:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IPVuvuff5TA/hqdefault.jpg"
     }
   ]
 }
