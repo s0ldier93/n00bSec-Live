@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:57:32Z",
+  "updated": "2026-11-19T20:57:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,16 +7,9 @@
       "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 453
-    },
-    {
-      "platform": "twitch",
-      "name": "Hackavis",
-      "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad | We Are Back",
-      "link": "https://twitch.tv/Hackavis",
-      "viewers": 27
     }
   ],
-  "viewers_total": 480,
+  "viewers_total": 453,
   "videos": [
     {
       "video_id": "TbAj8qQmrVg",
