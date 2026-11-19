@@ -1,43 +1,43 @@
 {
-  "updated": "2026-11-19T04:17:48Z",
+  "updated": "2026-11-19T04:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 26
+      "viewers": 33
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "One Last Ride. 11/18/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 299
+      "viewers": 302
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 15
+      "viewers": 13
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=uCWnQzlzqLw",
-      "viewers": 10
+      "viewers": 9
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://www.youtube.com/watch?v=m4F8lQPRRD0",
-      "viewers": 13
+      "viewers": 10
     }
   ],
-  "viewers_total": 363,
+  "viewers_total": 367,
   "videos": [
     {
       "video_id": "uCWnQzlzqLw",
