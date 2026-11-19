@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-19T20:27:50Z",
+  "updated": "2026-11-19T20:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 288
+      "viewers": 365
     },
     {
       "platform": "twitch",
       "name": "Hackavis",
       "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad | We Are Back",
       "link": "https://twitch.tv/Hackavis",
-      "viewers": 26
+      "viewers": 23
     },
     {
       "platform": "youtube",
       "name": "Hackavis",
       "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad",
       "link": "https://www.youtube.com/watch?v=aCSKMxLKk48",
-      "viewers": 18
+      "viewers": 19
     }
   ],
-  "viewers_total": 332,
+  "viewers_total": 407,
   "videos": [
     {
       "video_id": "TbAj8qQmrVg",
@@ -32,6 +32,14 @@
       "link": "https://www.youtube.com/watch?v=TbAj8qQmrVg",
       "published_at": "2026-11-19T20:23:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TbAj8qQmrVg/hqdefault.jpg"
+    },
+    {
+      "video_id": "2yd0V3jE4Dw",
+      "channel": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
+      "link": "https://www.youtube.com/watch?v=2yd0V3jE4Dw",
+      "published_at": "2026-11-19T20:21:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2yd0V3jE4Dw/hqdefault.jpg"
     },
     {
       "video_id": "BX7B8JAIudo",
@@ -177,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=zRgI0LdFHhM",
       "published_at": "2026-11-18T18:14:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zRgI0LdFHhM/hqdefault.jpg"
-    },
-    {
-      "video_id": "MRnYo3hE6_U",
-      "channel": "SecurityWeekly",
-      "title": "Microsoft's Outage Exposed a Bigger Risk",
-      "link": "https://www.youtube.com/watch?v=MRnYo3hE6_U",
-      "published_at": "2026-11-18T18:00:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MRnYo3hE6_U/hqdefault.jpg"
     }
   ]
 }
