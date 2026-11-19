@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-19T15:47:49Z",
+  "updated": "2026-11-19T15:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 342
+      "viewers": 388
     }
   ],
-  "viewers_total": 342,
+  "viewers_total": 388,
   "videos": [
+    {
+      "video_id": "ZjcyRr-f5Pc",
+      "channel": "LowLevelTV",
+      "title": "java",
+      "link": "https://www.youtube.com/watch?v=ZjcyRr-f5Pc",
+      "published_at": "2026-11-19T15:46:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ZjcyRr-f5Pc/hqdefault.jpg"
+    },
     {
       "video_id": "l8mzI_fn19o",
       "channel": "TheLaluka",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=6Inw1I42Xrw",
       "published_at": "2026-11-18T15:18:57+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6Inw1I42Xrw/hqdefault.jpg"
-    },
-    {
-      "video_id": "IkIqW6hmJqU",
-      "channel": "SecurityWeekly",
-      "title": "Which Vulnerabilities Actually Matter?",
-      "link": "https://www.youtube.com/watch?v=IkIqW6hmJqU",
-      "published_at": "2026-11-18T15:00:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/IkIqW6hmJqU/hqdefault.jpg"
     }
   ]
 }
