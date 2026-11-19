@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T00:37:49Z",
+  "updated": "2026-11-19T00:47:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "My Homelab Crashed Not a Cyber Attack... DNS!!! |Lessons Learned|Cybersecurity,Rants,&Chill|11-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 10
+      "viewers": 14
     },
     {
       "platform": "twitch",
@@ -14,13 +14,6 @@
       "title": "TEAM WOLFPACK ESPORTS: ROCKET LEAGUE",
       "link": "https://twitch.tv/djax_1",
       "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "ej_sa",
-      "title": "testing new setup.",
-      "link": "https://twitch.tv/ej_sa",
-      "viewers": 409
     },
     {
       "platform": "twitch",
@@ -34,11 +27,19 @@
       "name": "HackerMentor",
       "title": "Workshop - Purple Team",
       "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
-      "viewers": 783
+      "viewers": 1022
     }
   ],
-  "viewers_total": 1216,
+  "viewers_total": 1050,
   "videos": [
+    {
+      "video_id": "RngeN77YGzo",
+      "channel": "mbcrump",
+      "title": "PS5 13.60 Jailbreak Just Got a LOT Faster with Wobkot!",
+      "link": "https://www.youtube.com/watch?v=RngeN77YGzo",
+      "published_at": "2026-11-19T00:32:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RngeN77YGzo/hqdefault.jpg"
+    },
     {
       "video_id": "iDowSRFqiBo",
       "channel": "CyberWarriorStudios",
@@ -191,14 +192,6 @@
       "link": "https://www.youtube.com/watch?v=-wXaOOtmjB0",
       "published_at": "2026-11-18T01:48:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-wXaOOtmjB0/hqdefault.jpg"
-    },
-    {
-      "video_id": "1VZ24bKM7jQ",
-      "channel": "mbcrump",
-      "title": "Run a Local LLM (Qwen 3.5) on a Jailbroken PS4!",
-      "link": "https://www.youtube.com/watch?v=1VZ24bKM7jQ",
-      "published_at": "2026-11-17T23:34:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1VZ24bKM7jQ/hqdefault.jpg"
     }
   ]
 }
