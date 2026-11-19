@@ -1,19 +1,26 @@
 {
-  "updated": "2026-11-19T01:17:49Z",
+  "updated": "2026-11-19T01:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "My Homelab Crashed Not a Cyber Attack... DNS!!! |Lessons Learned|Cybersecurity,Rants,&Chill|11-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 27
+      "viewers": 26
+    },
+    {
+      "platform": "twitch",
+      "name": "djax_1",
+      "title": "GTA5 LAST RIDE",
+      "link": "https://twitch.tv/djax_1",
+      "viewers": 0
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "One Last Ride. 11/18/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 93
+      "viewers": 189
     },
     {
       "platform": "twitch",
@@ -27,11 +34,19 @@
       "name": "HackerMentor",
       "title": "Workshop - Purple Team",
       "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
-      "viewers": 1155
+      "viewers": 1104
     }
   ],
-  "viewers_total": 1284,
+  "viewers_total": 1328,
   "videos": [
+    {
+      "video_id": "tyHR1yVjfUo",
+      "channel": "EJSA",
+      "title": "One Last Ride. 11/18/26",
+      "link": "https://www.youtube.com/watch?v=tyHR1yVjfUo",
+      "published_at": "2026-11-19T00:36:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tyHR1yVjfUo/hqdefault.jpg"
+    },
     {
       "video_id": "RngeN77YGzo",
       "channel": "mbcrump",
@@ -184,14 +199,6 @@
       "published_at": "2026-11-18T02:29:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RVrBXty_9pI/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "-wXaOOtmjB0",
-      "channel": "EJSA",
-      "title": "TUESDAY CONFLICT CANINES! 11/17/26",
-      "link": "https://www.youtube.com/watch?v=-wXaOOtmjB0",
-      "published_at": "2026-11-18T01:48:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-wXaOOtmjB0/hqdefault.jpg"
     }
   ]
 }
