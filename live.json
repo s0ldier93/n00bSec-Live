@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T16:17:49Z",
+  "updated": "2026-11-19T16:27:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "nthsec",
       "title": "What Are You Thankful For? -- LIVE Ethical Hacking & CTFs",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 4
+      "viewers": 7
     }
   ],
-  "viewers_total": 416,
+  "viewers_total": 419,
   "videos": [
     {
       "video_id": "ZjcyRr-f5Pc",
