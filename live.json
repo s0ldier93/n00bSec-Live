@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T13:37:49Z",
+  "updated": "2026-11-19T13:47:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "overgrowncarrot1",
       "title": "Hack Smarter Not Harder",
       "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 11
+      "viewers": 20
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 422
     }
   ],
-  "viewers_total": 433,
+  "viewers_total": 442,
   "videos": [
     {
       "video_id": "neUure5j8Ls",
