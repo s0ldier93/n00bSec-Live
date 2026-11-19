@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T01:47:49Z",
+  "updated": "2026-11-19T01:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "My Homelab Crashed Not a Cyber Attack... DNS!!! |Lessons Learned|Cybersecurity,Rants,&Chill|11-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 29
+      "viewers": 24
     },
     {
       "platform": "twitch",
@@ -27,24 +27,24 @@
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 8
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "overgrowncarrot1",
       "title": "Hack Smarter Not Harder",
       "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Workshop - Purple Team",
       "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
-      "viewers": 1010
+      "viewers": 1021
     }
   ],
-  "viewers_total": 1310,
+  "viewers_total": 1314,
   "videos": [
     {
       "video_id": "tyHR1yVjfUo",
