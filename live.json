@@ -1,50 +1,43 @@
 {
-  "updated": "2026-11-19T03:47:49Z",
+  "updated": "2026-11-19T03:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 23
-    },
-    {
-      "platform": "twitch",
-      "name": "djax_1",
-      "title": "GTA5 LAST RIDE",
-      "link": "https://twitch.tv/djax_1",
-      "viewers": 1
+      "viewers": 26
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "One Last Ride. 11/18/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 291
+      "viewers": 306
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 12
+      "viewers": 16
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=uCWnQzlzqLw",
-      "viewers": 9
+      "viewers": 8
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://www.youtube.com/watch?v=m4F8lQPRRD0",
-      "viewers": 14
+      "viewers": 10
     }
   ],
-  "viewers_total": 350,
+  "viewers_total": 366,
   "videos": [
     {
       "video_id": "uCWnQzlzqLw",
