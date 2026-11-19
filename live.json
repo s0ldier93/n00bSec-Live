@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-19T04:57:48Z",
+  "updated": "2026-11-19T05:07:17Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Cyber Security News & QA",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 30
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
@@ -24,21 +17,22 @@
     },
     {
       "platform": "youtube",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Cyber Security News & QA",
-      "link": "https://www.youtube.com/watch?v=uCWnQzlzqLw",
-      "viewers": 9
-    },
-    {
-      "platform": "youtube",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://www.youtube.com/watch?v=m4F8lQPRRD0",
-      "viewers": 9
+      "viewers": 10
     }
   ],
-  "viewers_total": 373,
+  "viewers_total": 335,
   "videos": [
+    {
+      "video_id": "2D7Du4mnxRk",
+      "channel": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 1)",
+      "link": "https://www.youtube.com/watch?v=2D7Du4mnxRk",
+      "published_at": "2026-11-19T04:54:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2D7Du4mnxRk/hqdefault.jpg"
+    },
     {
       "video_id": "uCWnQzlzqLw",
       "channel": "BlaiseBits",
@@ -190,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=RHpn_UhMU9s",
       "published_at": "2026-11-18T11:27:48+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RHpn_UhMU9s/hqdefault.jpg"
-    },
-    {
-      "video_id": "VUFcA7xU2JA",
-      "channel": "SecurityWeekly",
-      "title": "AI Gets Hired, But Security Fundamentals Don't Retire and CIOs Need To Work w/ CISOs - BSW #474",
-      "link": "https://www.youtube.com/watch?v=VUFcA7xU2JA",
-      "published_at": "2026-11-18T10:00:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VUFcA7xU2JA/hqdefault.jpg"
     }
   ]
 }
