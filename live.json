@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T22:17:49Z",
+  "updated": "2026-11-19T22:27:18Z",
   "streams": [
     {
       "platform": "twitch",
@@ -30,14 +30,28 @@
       "viewers": 1
     },
     {
+      "platform": "twitch",
+      "name": "msec",
+      "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
+      "link": "https://twitch.tv/msec",
+      "viewers": 2
+    },
+    {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana!",
       "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
-      "viewers": 2
+      "viewers": 3
+    },
+    {
+      "platform": "youtube",
+      "name": "MSec",
+      "title": "Building a dynamic OBS browser source!",
+      "link": "https://www.youtube.com/watch?v=pn8y-8GpDoA",
+      "viewers": 1
     }
   ],
-  "viewers_total": 522,
+  "viewers_total": 526,
   "videos": [
     {
       "video_id": "lHeLld2Xl8Y",
