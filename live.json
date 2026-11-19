@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T22:27:49Z",
+  "updated": "2026-11-19T22:37:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -41,7 +41,7 @@
       "name": "BySepa",
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana!",
       "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -51,7 +51,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 520,
+  "viewers_total": 523,
   "videos": [
     {
       "video_id": "lHeLld2Xl8Y",
