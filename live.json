@@ -1,30 +1,39 @@
 {
-  "updated": "2026-11-19T19:47:49Z",
+  "updated": "2026-11-19T19:57:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 781
+      "viewers": 746
     },
     {
       "platform": "twitch",
       "name": "Hackavis",
       "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad | We Are Back",
       "link": "https://twitch.tv/Hackavis",
-      "viewers": 30
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "Hackavis",
       "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad",
       "link": "https://www.youtube.com/watch?v=aCSKMxLKk48",
-      "viewers": 25
+      "viewers": 21
     }
   ],
-  "viewers_total": 836,
+  "viewers_total": 795,
   "videos": [
+    {
+      "video_id": "BX7B8JAIudo",
+      "channel": "BySepa",
+      "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana! #teaminvierno #hacktheplanet",
+      "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
+      "published_at": "2026-11-19T19:56:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/BX7B8JAIudo/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "aCSKMxLKk48",
       "channel": "Hackavis",
@@ -176,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=TFMfJbmOrb0",
       "published_at": "2026-11-18T17:12:51+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TFMfJbmOrb0/hqdefault.jpg"
-    },
-    {
-      "video_id": "J9PVAxAVC7Q",
-      "channel": "LowLevelTV",
-      "title": "Is This Bug Pattern Even Possible Anymore?",
-      "link": "https://www.youtube.com/watch?v=J9PVAxAVC7Q",
-      "published_at": "2026-11-18T16:00:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/J9PVAxAVC7Q/hqdefault.jpg"
     }
   ]
 }
