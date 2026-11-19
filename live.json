@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-19T16:57:49Z",
+  "updated": "2026-11-19T17:07:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 477
+      "viewers": 476
     },
     {
       "platform": "twitch",
       "name": "nthsec",
       "title": "What Are You Thankful For? -- LIVE Ethical Hacking & CTFs",
       "link": "https://twitch.tv/nthsec",
-      "viewers": 7
+      "viewers": 10
     }
   ],
-  "viewers_total": 484,
+  "viewers_total": 486,
   "videos": [
+    {
+      "video_id": "eoE8WQALJrc",
+      "channel": "JohnHammond010",
+      "title": "Minecraft Malware Lab",
+      "link": "https://www.youtube.com/watch?v=eoE8WQALJrc",
+      "published_at": "2026-11-19T16:50:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/eoE8WQALJrc/hqdefault.jpg"
+    },
     {
       "video_id": "ZjcyRr-f5Pc",
       "channel": "LowLevelTV",
@@ -169,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=qGWtml6siWs",
       "published_at": "2026-11-18T15:20:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qGWtml6siWs/hqdefault.jpg"
-    },
-    {
-      "video_id": "6Inw1I42Xrw",
-      "channel": "FixIt42",
-      "title": "Playing with AI?",
-      "link": "https://www.youtube.com/watch?v=6Inw1I42Xrw",
-      "published_at": "2026-11-18T15:18:57+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/6Inw1I42Xrw/hqdefault.jpg"
     }
   ]
 }
