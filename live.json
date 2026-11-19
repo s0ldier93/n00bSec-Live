@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-19T01:17:16Z",
+  "updated": "2026-11-19T01:17:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "My Homelab Crashed Not a Cyber Attack... DNS!!! |Lessons Learned|Cybersecurity,Rants,&Chill|11-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 28
+      "viewers": 27
+    },
+    {
+      "platform": "twitch",
+      "name": "ej_sa",
+      "title": "One Last Ride. 11/18/26",
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 93
     },
     {
       "platform": "twitch",
@@ -17,20 +24,13 @@
     },
     {
       "platform": "youtube",
-      "name": "EJSA",
-      "title": "One Last Ride. 11/18/26",
-      "link": "https://www.youtube.com/watch?v=tyHR1yVjfUo",
-      "viewers": 25
-    },
-    {
-      "platform": "youtube",
       "name": "HackerMentor",
       "title": "Workshop - Purple Team",
       "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
       "viewers": 1155
     }
   ],
-  "viewers_total": 1217,
+  "viewers_total": 1284,
   "videos": [
     {
       "video_id": "RngeN77YGzo",
