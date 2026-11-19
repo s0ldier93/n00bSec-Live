@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T22:27:18Z",
+  "updated": "2026-11-19T22:27:49Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "mchow01",
       "title": "Malware (Episode10, Season 13)",
       "link": "https://twitch.tv/mchow01",
-      "viewers": 17
+      "viewers": 11
     },
     {
       "platform": "twitch",
@@ -51,7 +51,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 526,
+  "viewers_total": 520,
   "videos": [
     {
       "video_id": "lHeLld2Xl8Y",
