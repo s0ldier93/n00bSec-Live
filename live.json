@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-19T07:37:20Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "Hacking & AMA",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 18
-    }
-  ],
-  "viewers_total": 18,
+  "updated": "2026-11-19T07:37:49Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "0XFcJysFAXE",
