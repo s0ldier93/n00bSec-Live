@@ -1,57 +1,57 @@
 {
-  "updated": "2026-11-19T02:17:49Z",
+  "updated": "2026-11-19T02:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 13
+      "viewers": 22
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "My Homelab Crashed Not a Cyber Attack... DNS!!! |Lessons Learned|Cybersecurity,Rants,&Chill|11-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 26
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "djax_1",
       "title": "GTA5 LAST RIDE",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "One Last Ride. 11/18/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 279
+      "viewers": 281
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 5
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=uCWnQzlzqLw",
-      "viewers": 6
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Workshop - Purple Team",
       "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
-      "viewers": 708
+      "viewers": 507
     }
   ],
-  "viewers_total": 1039,
+  "viewers_total": 848,
   "videos": [
     {
       "video_id": "uCWnQzlzqLw",
