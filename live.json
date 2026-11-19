@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:17:50Z",
+  "updated": "2026-11-19T00:27:19Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,10 +20,17 @@
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 16
+    },
+    {
+      "platform": "youtube",
+      "name": "HackerMentor",
+      "title": "Workshop - Purple Team",
+      "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
+      "viewers": 288
     }
   ],
-  "viewers_total": 412,
+  "viewers_total": 712,
   "videos": [
     {
       "video_id": "iDowSRFqiBo",
