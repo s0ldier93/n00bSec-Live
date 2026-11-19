@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-19T00:07:50Z",
+  "updated": "2026-11-19T00:17:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "djax_1",
       "title": "TEAM WOLFPACK ESPORTS: ROCKET LEAGUE",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 0
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "testing new setup.",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 399
+      "viewers": 407
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 5
+      "viewers": 4
     }
   ],
-  "viewers_total": 404,
+  "viewers_total": 412,
   "videos": [
     {
       "video_id": "iDowSRFqiBo",
