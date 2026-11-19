@@ -1,16 +1,31 @@
 {
-  "updated": "2026-11-19T20:57:49Z",
+  "updated": "2026-11-19T21:37:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 453
+      "viewers": 478
+    },
+    {
+      "platform": "twitch",
+      "name": "mchow01",
+      "title": "Malware (Episode10, Season 13)",
+      "link": "https://twitch.tv/mchow01",
+      "viewers": 13
     }
   ],
-  "viewers_total": 453,
+  "viewers_total": 491,
   "videos": [
+    {
+      "video_id": "6VU_NrwSrOE",
+      "channel": "Cyber_Insecurity",
+      "title": "OpenAI built a copy of the Internet for its sandbox",
+      "link": "https://www.youtube.com/watch?v=6VU_NrwSrOE",
+      "published_at": "2026-11-19T21:31:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6VU_NrwSrOE/hqdefault.jpg"
+    },
     {
       "video_id": "TbAj8qQmrVg",
       "channel": "CyberWarriorStudios",
@@ -163,14 +178,6 @@
       "link": "https://www.youtube.com/watch?v=JTTy3rvKLVQ",
       "published_at": "2026-11-18T19:55:48+00:00",
       "thumbnail": "https://i.ytimg.com/vi/JTTy3rvKLVQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "zRgI0LdFHhM",
-      "channel": "ElPinguinoDeMario",
-      "title": "C\u00f3mo CIFRAR nuestro DISCO DURO para Proteger Nuestros DATOS",
-      "link": "https://www.youtube.com/watch?v=zRgI0LdFHhM",
-      "published_at": "2026-11-18T18:14:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/zRgI0LdFHhM/hqdefault.jpg"
     }
   ]
 }
