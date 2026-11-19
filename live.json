@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T01:07:50Z",
+  "updated": "2026-11-19T01:17:16Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,24 @@
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 10
+      "viewers": 9
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "One Last Ride. 11/18/26",
+      "link": "https://www.youtube.com/watch?v=tyHR1yVjfUo",
+      "viewers": 25
     },
     {
       "platform": "youtube",
       "name": "HackerMentor",
       "title": "Workshop - Purple Team",
       "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
-      "viewers": 1198
+      "viewers": 1155
     }
   ],
-  "viewers_total": 1236,
+  "viewers_total": 1217,
   "videos": [
     {
       "video_id": "RngeN77YGzo",
