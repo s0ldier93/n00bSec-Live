@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-19T02:57:49Z",
+  "updated": "2026-11-19T03:07:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 36
+      "viewers": 31
     },
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "My Homelab Crashed Not a Cyber Attack... DNS!!! |Lessons Learned|Cybersecurity,Rants,&Chill|11-18-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 29
+      "viewers": 33
     },
     {
       "platform": "twitch",
@@ -27,14 +27,14 @@
       "name": "ej_sa",
       "title": "One Last Ride. 11/18/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 285
+      "viewers": 299
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 6
+      "viewers": 8
     },
     {
       "platform": "youtube",
@@ -48,10 +48,10 @@
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://www.youtube.com/watch?v=m4F8lQPRRD0",
-      "viewers": 2
+      "viewers": 5
     }
   ],
-  "viewers_total": 367,
+  "viewers_total": 385,
   "videos": [
     {
       "video_id": "uCWnQzlzqLw",
