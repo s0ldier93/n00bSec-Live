@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-19T18:17:52Z",
+  "updated": "2026-11-19T18:27:50Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "Do it, Do it NOW! \u2013 IR Preparedness Checklist - 2027 Technical Version",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 544
+      "viewers": 1026
     }
   ],
-  "viewers_total": 545,
+  "viewers_total": 1028,
   "videos": [
     {
       "video_id": "Oe_cPSNEEJQ",
