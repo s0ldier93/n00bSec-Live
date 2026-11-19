@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-19T21:57:50Z",
+  "updated": "2026-11-19T22:07:23Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BySepa",
+      "title": "Charla, viaje a Madrid, Osintomaticops y Osintomatico (hay fotos!)! #teaminvierno #hacktheplanet",
+      "link": "https://twitch.tv/BySepa",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
@@ -21,10 +28,25 @@
       "title": "GTA 6 CHAT\ud83d\uddef\ufe0f",
       "link": "https://twitch.tv/miloslavpalik",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "BySepa",
+      "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana!",
+      "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
+      "viewers": 1
     }
   ],
-  "viewers_total": 509,
+  "viewers_total": 510,
   "videos": [
+    {
+      "video_id": "lHeLld2Xl8Y",
+      "channel": "pebl3",
+      "title": "A toy whistle from a cereal box made free phone calls anywhere in the world",
+      "link": "https://www.youtube.com/watch?v=lHeLld2Xl8Y",
+      "published_at": "2026-11-19T22:02:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lHeLld2Xl8Y/hqdefault.jpg"
+    },
     {
       "video_id": "ek_yhpsR_eI",
       "channel": "overgrowncarrot1",
@@ -63,8 +85,7 @@
       "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana! #teaminvierno #hacktheplanet",
       "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
       "published_at": "2026-11-19T19:56:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/BX7B8JAIudo/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/BX7B8JAIudo/hqdefault.jpg"
     },
     {
       "video_id": "aCSKMxLKk48",
@@ -177,14 +198,6 @@
       "link": "https://www.youtube.com/watch?v=dHzn6ti7pQw",
       "published_at": "2026-11-18T22:51:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dHzn6ti7pQw/hqdefault.jpg"
-    },
-    {
-      "video_id": "T-ST4QsXJiI",
-      "channel": "SecurityWeekly",
-      "title": "Restrictive AI Policies Create Shadow IT",
-      "link": "https://www.youtube.com/watch?v=T-ST4QsXJiI",
-      "published_at": "2026-11-18T22:00:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/T-ST4QsXJiI/hqdefault.jpg"
     }
   ]
 }
