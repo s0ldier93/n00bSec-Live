@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T02:27:49Z",
+  "updated": "2026-11-19T02:37:15Z",
   "streams": [
     {
       "platform": "twitch",
@@ -34,24 +34,17 @@
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 7
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Cyber Security News & QA",
       "link": "https://www.youtube.com/watch?v=uCWnQzlzqLw",
-      "viewers": 7
-    },
-    {
-      "platform": "youtube",
-      "name": "HackerMentor",
-      "title": "Workshop - Purple Team",
-      "link": "https://www.youtube.com/watch?v=6lWeE3cGUwU",
-      "viewers": 507
+      "viewers": 8
     }
   ],
-  "viewers_total": 848,
+  "viewers_total": 341,
   "videos": [
     {
       "video_id": "uCWnQzlzqLw",
