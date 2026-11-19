@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T05:47:49Z",
+  "updated": "2026-11-19T05:57:50Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,18 +13,27 @@
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 29
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! OverTheWire Bandit & Demos",
       "link": "https://www.youtube.com/watch?v=m4F8lQPRRD0",
-      "viewers": 7
+      "viewers": 5
     }
   ],
-  "viewers_total": 403,
+  "viewers_total": 400,
   "videos": [
+    {
+      "video_id": "0XFcJysFAXE",
+      "channel": "censoredHacker",
+      "title": "Lets watch some videos and review them",
+      "link": "https://www.youtube.com/watch?v=0XFcJysFAXE",
+      "published_at": "2026-11-19T05:52:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0XFcJysFAXE/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "2D7Du4mnxRk",
       "channel": "EJSA",
@@ -176,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=d0Gbgucbzb0",
       "published_at": "2026-11-18T13:22:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/d0Gbgucbzb0/hqdefault.jpg"
-    },
-    {
-      "video_id": "RHpn_UhMU9s",
-      "channel": "FixIt42",
-      "title": "A walk through the woods 1\u00b0C - Have to get back in shape ;D - Touching grass",
-      "link": "https://www.youtube.com/watch?v=RHpn_UhMU9s",
-      "published_at": "2026-11-18T11:27:48+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RHpn_UhMU9s/hqdefault.jpg"
     }
   ]
 }
