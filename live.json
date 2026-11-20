@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T00:57:48Z",
+  "updated": "2026-11-20T01:07:18Z",
   "streams": [
     {
       "platform": "twitch",
@@ -31,13 +31,20 @@
     },
     {
       "platform": "youtube",
+      "name": "HaxrByte",
+      "title": "\ud83d\udcf1 [LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
+      "link": "https://www.youtube.com/watch?v=mKTHVmxGbzE",
+      "viewers": 4
+    },
+    {
+      "platform": "youtube",
       "name": "MSec",
       "title": "Building a dynamic OBS browser source!",
       "link": "https://www.youtube.com/watch?v=pn8y-8GpDoA",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 555,
+  "viewers_total": 558,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
