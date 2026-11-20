@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:59:38Z",
+  "updated": "2026-11-20T20:09:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,31 +13,31 @@
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 48
+      "viewers": 38
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
-      "title": "dying from the cold simulator",
+      "title": "dying from the cold simulator (americans discussing thanksgiving plans)",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 27
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 13 - Penetration Testing",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 146
+      "viewers": 132
     }
   ],
-  "viewers_total": 730,
+  "viewers_total": 703,
   "videos": [
     {
       "video_id": "8gAZuA67QA8",
