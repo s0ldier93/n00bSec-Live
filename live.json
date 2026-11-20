@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-20T02:29:36Z",
+  "updated": "2026-11-20T02:39:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "djax_1",
       "title": "GTA6 FIRST RIDE",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 519,
+  "viewers_total": 521,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
