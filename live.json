@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T01:07:49Z",
+  "updated": "2026-11-20T01:17:48Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "djax_1",
       "title": "GTA6 FIRST RIDE",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 4
+      "viewers": 6
     },
     {
       "platform": "twitch",
@@ -41,17 +41,17 @@
       "name": "HaxrByte",
       "title": "\ud83d\udcf1 [LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
       "link": "https://www.youtube.com/watch?v=mKTHVmxGbzE",
-      "viewers": 4
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "MSec",
       "title": "Building a dynamic OBS browser source!",
       "link": "https://www.youtube.com/watch?v=pn8y-8GpDoA",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 525,
+  "viewers_total": 532,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
