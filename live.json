@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-20T18:19:37Z",
+  "updated": "2026-11-20T18:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 430
+      "viewers": 440
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 44
+      "viewers": 47
     },
     {
       "platform": "twitch",
@@ -27,11 +27,19 @@
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 170
+      "viewers": 166
     }
   ],
-  "viewers_total": 652,
+  "viewers_total": 661,
   "videos": [
+    {
+      "video_id": "nQqu3TmnKvI",
+      "channel": "LowLevelTV",
+      "title": "How Are We Supposed to Secure AI Generated Code? Check out Evo by Snyk @Snyksec #ad #aisecurity",
+      "link": "https://www.youtube.com/watch?v=nQqu3TmnKvI",
+      "published_at": "2026-11-20T18:03:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nQqu3TmnKvI/hqdefault.jpg"
+    },
     {
       "video_id": "sFuzabpwL7o",
       "channel": "LowLevelTV",
@@ -184,14 +192,6 @@
       "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
       "published_at": "2026-11-19T19:56:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/BX7B8JAIudo/hqdefault.jpg"
-    },
-    {
-      "video_id": "aCSKMxLKk48",
-      "channel": "Hackavis",
-      "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad",
-      "link": "https://www.youtube.com/watch?v=aCSKMxLKk48",
-      "published_at": "2026-11-19T18:37:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/aCSKMxLKk48/hqdefault.jpg"
     }
   ]
 }
