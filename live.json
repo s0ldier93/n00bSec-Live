@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:09:38Z",
+  "updated": "2026-11-20T19:19:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 45
+      "viewers": 43
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "dying from the cold simulator",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 26
+      "viewers": 29
     },
     {
       "platform": "twitch",
@@ -34,11 +34,19 @@
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 212
+      "viewers": 206
     }
   ],
-  "viewers_total": 754,
+  "viewers_total": 749,
   "videos": [
+    {
+      "video_id": "8gAZuA67QA8",
+      "channel": "pwncollege",
+      "title": "CSE466 Week 13 - Kernel Security",
+      "link": "https://www.youtube.com/watch?v=8gAZuA67QA8",
+      "published_at": "2026-11-20T19:05:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8gAZuA67QA8/hqdefault.jpg"
+    },
     {
       "video_id": "65XXqXmfSI4",
       "channel": "TheShyHat",
@@ -192,14 +200,6 @@
       "link": "https://www.youtube.com/watch?v=TbAj8qQmrVg",
       "published_at": "2026-11-19T20:23:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TbAj8qQmrVg/hqdefault.jpg"
-    },
-    {
-      "video_id": "2yd0V3jE4Dw",
-      "channel": "EJSA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
-      "link": "https://www.youtube.com/watch?v=2yd0V3jE4Dw",
-      "published_at": "2026-11-19T20:21:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2yd0V3jE4Dw/hqdefault.jpg"
     }
   ]
 }
