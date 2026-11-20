@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-20T00:47:49Z",
+  "updated": "2026-11-20T00:57:48Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "c04tl",
+      "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
+      "link": "https://twitch.tv/c04tl",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "djax_1",
@@ -20,7 +27,7 @@
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -30,7 +37,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 553,
+  "viewers_total": 555,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
