@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-20T04:49:36Z",
+  "updated": "2026-11-20T04:59:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 434
+      "viewers": 430
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Super Mario Odyssey",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 435,
+  "viewers_total": 433,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
