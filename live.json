@@ -1,37 +1,53 @@
 {
-  "updated": "2026-11-20T17:29:38Z",
+  "updated": "2026-11-20T17:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 383
+      "viewers": 382
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 71
+      "viewers": 67
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 13 - Penetration Testing",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 7
+      "viewers": 9
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 221
+      "viewers": 220
     }
   ],
-  "viewers_total": 682,
+  "viewers_total": 678,
   "videos": [
+    {
+      "video_id": "sFuzabpwL7o",
+      "channel": "LowLevelTV",
+      "title": "nginx",
+      "link": "https://www.youtube.com/watch?v=sFuzabpwL7o",
+      "published_at": "2026-11-20T17:19:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/sFuzabpwL7o/hqdefault.jpg"
+    },
+    {
+      "video_id": "XME5QOfiw7A",
+      "channel": "antisyphon",
+      "title": "Wireshark | Free Lab Fridays [Full Lab Walkthrough]",
+      "link": "https://www.youtube.com/watch?v=XME5QOfiw7A",
+      "published_at": "2026-11-20T17:13:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XME5QOfiw7A/hqdefault.jpg"
+    },
     {
       "video_id": "QDVzmoZJNWE",
       "channel": "Cyber_Insecurity",
@@ -176,22 +192,6 @@
       "link": "https://www.youtube.com/watch?v=aCSKMxLKk48",
       "published_at": "2026-11-19T18:37:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/aCSKMxLKk48/hqdefault.jpg"
-    },
-    {
-      "video_id": "Oe_cPSNEEJQ",
-      "channel": "ElPinguinoDeMario",
-      "title": "As\u00ed es esta Vulnerabilidad tan Cr\u00edtica en SSH",
-      "link": "https://www.youtube.com/watch?v=Oe_cPSNEEJQ",
-      "published_at": "2026-11-19T17:23:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Oe_cPSNEEJQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "eoE8WQALJrc",
-      "channel": "JohnHammond010",
-      "title": "Minecraft Malware Lab",
-      "link": "https://www.youtube.com/watch?v=eoE8WQALJrc",
-      "published_at": "2026-11-19T16:50:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/eoE8WQALJrc/hqdefault.jpg"
     }
   ]
 }
