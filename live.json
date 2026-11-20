@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-20T22:39:04Z",
+  "updated": "2026-11-20T22:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 3)",
+      "title": "NSF - THE FLAME TRENCH! 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 547
+      "viewers": 459
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "panekopanko",
       "title": "dying from the cold simulator",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 29
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 169
     }
   ],
-  "viewers_total": 782,
+  "viewers_total": 696,
   "videos": [
     {
       "video_id": "VCPuq4qr_78",
