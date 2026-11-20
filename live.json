@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:49:38Z",
+  "updated": "2026-11-20T16:59:18Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,13 +10,27 @@
     },
     {
       "platform": "twitch",
+      "name": "nahamsec",
+      "title": "Live November 17",
+      "link": "https://twitch.tv/nahamsec",
+      "viewers": 34
+    },
+    {
+      "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 13 - Penetration Testing",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 1
+      "viewers": 4
+    },
+    {
+      "platform": "youtube",
+      "name": "NahamSec",
+      "title": "#NahamCon2026",
+      "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
+      "viewers": 99
     }
   ],
-  "viewers_total": 271,
+  "viewers_total": 407,
   "videos": [
     {
       "video_id": "i6cUL8QiQ3g",
