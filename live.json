@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-20T02:49:36Z",
+  "updated": "2026-11-20T02:59:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "djax_1",
       "title": "GTA6 FIRST RIDE",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -20,14 +20,14 @@
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 5
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "HaxrByte",
       "title": "\ud83d\udcf1 [LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
       "link": "https://www.youtube.com/watch?v=mKTHVmxGbzE",
-      "viewers": 2
+      "viewers": 1
     }
   ],
   "viewers_total": 495,
