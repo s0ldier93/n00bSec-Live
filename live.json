@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-20T02:39:36Z",
+  "updated": "2026-11-20T02:49:36Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 2
-    },
     {
       "platform": "twitch",
       "name": "djax_1",
@@ -20,14 +13,14 @@
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 506
+      "viewers": 485
     },
     {
       "platform": "twitch",
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 8
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 521,
+  "viewers_total": 495,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
