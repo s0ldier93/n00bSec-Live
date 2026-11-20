@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:59:08Z",
+  "updated": "2026-11-20T21:59:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,6 +7,13 @@
       "title": "SPACE NERD PLAYS GTA VI! (PART 3)",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 547
+    },
+    {
+      "platform": "twitch",
+      "name": "miloslavpalik",
+      "title": "GTA 6 CHAT\ud83d\uddef\ufe0f",
+      "link": "https://twitch.tv/miloslavpalik",
+      "viewers": 0
     },
     {
       "platform": "twitch",
@@ -20,7 +27,7 @@
       "name": "panekopanko",
       "title": "dying from the cold simulator",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
+      "viewers": 29
     },
     {
       "platform": "youtube",
@@ -30,7 +37,7 @@
       "viewers": 141
     }
   ],
-  "viewers_total": 751,
+  "viewers_total": 750,
   "videos": [
     {
       "video_id": "c_bV4B5ISbo",
