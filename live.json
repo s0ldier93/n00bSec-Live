@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-20T03:29:36Z",
+  "updated": "2026-11-20T03:39:37Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "djax_1",
-      "title": "GTA6 FIRST RIDE",
-      "link": "https://twitch.tv/djax_1",
-      "viewers": 2
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
@@ -23,7 +16,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 490,
+  "viewers_total": 488,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
