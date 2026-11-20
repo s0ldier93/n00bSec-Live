@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:39:37Z",
+  "updated": "2026-11-20T21:49:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 37
+      "viewers": 38
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "dying from the cold simulator",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 33
+      "viewers": 30
     },
     {
       "platform": "youtube",
@@ -41,10 +41,10 @@
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 153
+      "viewers": 167
     }
   ],
-  "viewers_total": 775,
+  "viewers_total": 785,
   "videos": [
     {
       "video_id": "c_bV4B5ISbo",
