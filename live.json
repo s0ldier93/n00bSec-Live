@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-20T22:59:37Z",
+  "updated": "2026-11-20T23:09:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 440
+      "viewers": 470
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 29
+      "viewers": 35
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "dying from the cold simulator",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 31
+      "viewers": 27
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 105
+      "viewers": 110
     }
   ],
-  "viewers_total": 605,
+  "viewers_total": 642,
   "videos": [
+    {
+      "video_id": "Z1eUAoLOpYI",
+      "channel": "SecurityWeekly",
+      "title": "Are You Sure That Software Is Legit?",
+      "link": "https://www.youtube.com/watch?v=Z1eUAoLOpYI",
+      "published_at": "2026-11-20T23:00:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Z1eUAoLOpYI/hqdefault.jpg"
+    },
     {
       "video_id": "VCPuq4qr_78",
       "channel": "pebl3",
@@ -186,14 +194,6 @@
       "link": "https://www.youtube.com/watch?v=l-cxo56I62o",
       "published_at": "2026-11-19T22:32:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/l-cxo56I62o/hqdefault.jpg"
-    },
-    {
-      "video_id": "lHeLld2Xl8Y",
-      "channel": "pebl3",
-      "title": "A toy whistle from a cereal box made free phone calls anywhere in the world",
-      "link": "https://www.youtube.com/watch?v=lHeLld2Xl8Y",
-      "published_at": "2026-11-19T22:02:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lHeLld2Xl8Y/hqdefault.jpg"
     }
   ]
 }
