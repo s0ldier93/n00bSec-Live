@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-20T18:29:38Z",
+  "updated": "2026-11-20T18:39:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 440
+      "viewers": 461
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 47
+      "viewers": 46
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 13 - Penetration Testing",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 8
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 166
+      "viewers": 209
     }
   ],
-  "viewers_total": 661,
+  "viewers_total": 721,
   "videos": [
     {
       "video_id": "nQqu3TmnKvI",
