@@ -1,43 +1,36 @@
 {
-  "updated": "2026-11-20T22:49:37Z",
+  "updated": "2026-11-20T22:59:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 435
-    },
-    {
-      "platform": "twitch",
-      "name": "miloslavpalik",
-      "title": "GTA 6 CHAT\ud83d\uddef\ufe0f",
-      "link": "https://twitch.tv/miloslavpalik",
-      "viewers": 1
+      "viewers": 440
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 41
+      "viewers": 29
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "dying from the cold simulator",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 31
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 118
+      "viewers": 105
     }
   ],
-  "viewers_total": 623,
+  "viewers_total": 605,
   "videos": [
     {
       "video_id": "VCPuq4qr_78",
