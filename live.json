@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-20T10:28:43Z",
+  "updated": "2026-11-20T12:08:42Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "FgUnLv_YvMs",
+      "channel": "hack_smarter",
+      "title": "Hacking A Bank... (404 Bank - Part 7)",
+      "link": "https://www.youtube.com/watch?v=FgUnLv_YvMs",
+      "published_at": "2026-11-20T12:00:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FgUnLv_YvMs/hqdefault.jpg"
+    },
     {
       "video_id": "yhYR7P7kYls",
       "channel": "Khaos_Farbauti",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=0XFcJysFAXE",
       "published_at": "2026-11-19T05:52:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0XFcJysFAXE/hqdefault.jpg"
-    },
-    {
-      "video_id": "2D7Du4mnxRk",
-      "channel": "EJSA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 1)",
-      "link": "https://www.youtube.com/watch?v=2D7Du4mnxRk",
-      "published_at": "2026-11-19T04:54:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2D7Du4mnxRk/hqdefault.jpg"
     }
   ]
 }
