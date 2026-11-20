@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:49:38Z",
+  "updated": "2026-11-20T21:59:08Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,17 +10,10 @@
     },
     {
       "platform": "twitch",
-      "name": "msec",
-      "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
-      "link": "https://twitch.tv/msec",
-      "viewers": 2
-    },
-    {
-      "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 38
+      "viewers": 33
     },
     {
       "platform": "twitch",
@@ -31,20 +24,13 @@
     },
     {
       "platform": "youtube",
-      "name": "MSec",
-      "title": "OoT (2026) First Playthrough! Adult Dungeons",
-      "link": "https://www.youtube.com/watch?v=c_bV4B5ISbo",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 167
+      "viewers": 141
     }
   ],
-  "viewers_total": 785,
+  "viewers_total": 751,
   "videos": [
     {
       "video_id": "c_bV4B5ISbo",
