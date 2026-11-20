@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-20T00:27:49Z",
+  "updated": "2026-11-20T00:37:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Pentesting on a GPU from 2019",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 30
+      "viewers": 33
+    },
+    {
+      "platform": "twitch",
+      "name": "djax_1",
+      "title": "GTA6 FIRST RIDE",
+      "link": "https://twitch.tv/djax_1",
+      "viewers": 0
     },
     {
       "platform": "twitch",
@@ -34,7 +41,7 @@
       "name": "Cyber_Insecurity",
       "title": "Pentesting on a GPU from 2019",
       "link": "https://www.youtube.com/watch?v=oR8fdB9ADeE",
-      "viewers": 7
+      "viewers": 8
     },
     {
       "platform": "youtube",
@@ -44,7 +51,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 570,
+  "viewers_total": 574,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
