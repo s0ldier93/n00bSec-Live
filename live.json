@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-20T01:47:48Z",
+  "updated": "2026-11-20T01:57:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -27,31 +27,31 @@
       "name": "HaxrByte",
       "title": "[LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
       "link": "https://twitch.tv/HaxrByte",
-      "viewers": 8
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "HaxrByte",
       "title": "\ud83d\udcf1 [LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
       "link": "https://www.youtube.com/watch?v=mKTHVmxGbzE",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "MSec",
       "title": "Building a dynamic OBS browser source!",
       "link": "https://www.youtube.com/watch?v=pn8y-8GpDoA",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 528,
+  "viewers_total": 524,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
