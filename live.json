@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:09:38Z",
+  "updated": "2026-11-20T20:19:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 38
+      "viewers": 33
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "dying from the cold simulator (americans discussing thanksgiving plans)",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 33
     },
     {
       "platform": "twitch",
@@ -34,11 +34,20 @@
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 132
+      "viewers": 134
     }
   ],
-  "viewers_total": 703,
+  "viewers_total": 706,
   "videos": [
+    {
+      "video_id": "Hvd7BpHkkf8",
+      "channel": "TheShyHat",
+      "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
+      "link": "https://www.youtube.com/watch?v=Hvd7BpHkkf8",
+      "published_at": "2026-11-20T20:03:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Hvd7BpHkkf8/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "8gAZuA67QA8",
       "channel": "pwncollege",
@@ -192,14 +201,6 @@
       "link": "https://www.youtube.com/watch?v=6VU_NrwSrOE",
       "published_at": "2026-11-19T21:31:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6VU_NrwSrOE/hqdefault.jpg"
-    },
-    {
-      "video_id": "TbAj8qQmrVg",
-      "channel": "CyberWarriorStudios",
-      "title": "Change Your Circle, Change Your Life #shorts",
-      "link": "https://www.youtube.com/watch?v=TbAj8qQmrVg",
-      "published_at": "2026-11-19T20:23:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TbAj8qQmrVg/hqdefault.jpg"
     }
   ]
 }
