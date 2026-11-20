@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-20T16:59:37Z",
+  "updated": "2026-11-20T17:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 298
+      "viewers": 339
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 34
+      "viewers": 59
     },
     {
       "platform": "twitch",
       "name": "ritsec",
       "title": "RITSEC Fall Week 13 - Penetration Testing",
       "link": "https://twitch.tv/ritsec",
-      "viewers": 4
+      "viewers": 9
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 99
+      "viewers": 169
     }
   ],
-  "viewers_total": 435,
+  "viewers_total": 576,
   "videos": [
+    {
+      "video_id": "QDVzmoZJNWE",
+      "channel": "Cyber_Insecurity",
+      "title": "You don't need the cake-batter expert to run Kali",
+      "link": "https://www.youtube.com/watch?v=QDVzmoZJNWE",
+      "published_at": "2026-11-20T16:59:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QDVzmoZJNWE/hqdefault.jpg"
+    },
     {
       "video_id": "i6cUL8QiQ3g",
       "channel": "gerald_auger_simplycyber",
@@ -184,14 +192,6 @@
       "link": "https://www.youtube.com/watch?v=eoE8WQALJrc",
       "published_at": "2026-11-19T16:50:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/eoE8WQALJrc/hqdefault.jpg"
-    },
-    {
-      "video_id": "ZjcyRr-f5Pc",
-      "channel": "LowLevelTV",
-      "title": "java",
-      "link": "https://www.youtube.com/watch?v=ZjcyRr-f5Pc",
-      "published_at": "2026-11-19T15:46:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ZjcyRr-f5Pc/hqdefault.jpg"
     }
   ]
 }
