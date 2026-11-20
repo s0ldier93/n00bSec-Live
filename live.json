@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-20T00:07:16Z",
+  "updated": "2026-11-20T00:07:49Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BySepa",
-      "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana! #teaminvierno #hacktheplanet",
-      "link": "https://twitch.tv/BySepa",
-      "viewers": 3
-    },
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
@@ -51,7 +44,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 587,
+  "viewers_total": 584,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
