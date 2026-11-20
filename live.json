@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-20T05:59:36Z",
+  "updated": "2026-11-20T10:28:43Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "yhYR7P7kYls",
+      "channel": "Khaos_Farbauti",
+      "title": "En cas d'action ill\u00e9gale d'un agent, qui est responsable ?",
+      "link": "https://www.youtube.com/watch?v=yhYR7P7kYls",
+      "published_at": "2026-11-20T10:04:41+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yhYR7P7kYls/hqdefault.jpg"
+    },
     {
       "video_id": "oR8fdB9ADeE",
       "channel": "Cyber_Insecurity",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=2D7Du4mnxRk",
       "published_at": "2026-11-19T04:54:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2D7Du4mnxRk/hqdefault.jpg"
-    },
-    {
-      "video_id": "uCWnQzlzqLw",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Cyber Security News & QA",
-      "link": "https://www.youtube.com/watch?v=uCWnQzlzqLw",
-      "published_at": "2026-11-19T02:02:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/uCWnQzlzqLw/hqdefault.jpg"
     }
   ]
 }
