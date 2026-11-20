@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-20T00:37:49Z",
+  "updated": "2026-11-20T00:47:17Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "cyber_insecurity",
-      "title": "Pentesting on a GPU from 2019",
-      "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 33
-    },
     {
       "platform": "twitch",
       "name": "djax_1",
@@ -30,28 +23,14 @@
       "viewers": 5
     },
     {
-      "platform": "twitch",
-      "name": "pwncollege",
-      "title": "CSE466 - Week 13 - Sandboxing",
-      "link": "https://twitch.tv/pwncollege",
-      "viewers": 11
-    },
-    {
-      "platform": "youtube",
-      "name": "Cyber_Insecurity",
-      "title": "Pentesting on a GPU from 2019",
-      "link": "https://www.youtube.com/watch?v=oR8fdB9ADeE",
-      "viewers": 8
-    },
-    {
       "platform": "youtube",
       "name": "MSec",
       "title": "Building a dynamic OBS browser source!",
       "link": "https://www.youtube.com/watch?v=pn8y-8GpDoA",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 574,
+  "viewers_total": 523,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
