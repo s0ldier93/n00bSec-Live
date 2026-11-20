@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-20T00:17:49Z",
+  "updated": "2026-11-20T00:27:49Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Pentesting on a GPU from 2019",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 31
+      "viewers": 30
     },
     {
       "platform": "twitch",
@@ -27,14 +27,14 @@
       "name": "pwncollege",
       "title": "CSE466 - Week 13 - Sandboxing",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 7
+      "viewers": 11
     },
     {
       "platform": "youtube",
       "name": "Cyber_Insecurity",
       "title": "Pentesting on a GPU from 2019",
       "link": "https://www.youtube.com/watch?v=oR8fdB9ADeE",
-      "viewers": 9
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -44,7 +44,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 569,
+  "viewers_total": 570,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
