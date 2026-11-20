@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:07:48Z",
+  "updated": "2026-11-20T02:16:31Z",
   "streams": [
     {
       "platform": "twitch",
@@ -48,10 +48,10 @@
       "name": "MSec",
       "title": "Building a dynamic OBS browser source!",
       "link": "https://www.youtube.com/watch?v=pn8y-8GpDoA",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 524,
+  "viewers_total": 525,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
