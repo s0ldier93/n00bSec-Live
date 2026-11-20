@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-20T18:59:38Z",
+  "updated": "2026-11-20T19:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 451
+      "viewers": 470
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 39
+      "viewers": 45
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "dying from the cold simulator",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 15
+      "viewers": 26
     },
     {
       "platform": "twitch",
@@ -34,11 +34,20 @@
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 186
+      "viewers": 212
     }
   ],
-  "viewers_total": 692,
+  "viewers_total": 754,
   "videos": [
+    {
+      "video_id": "65XXqXmfSI4",
+      "channel": "TheShyHat",
+      "title": "LINUX HACKING LIVE! Easy Cybersecurity Demos & HackSmarter Aftermath",
+      "link": "https://www.youtube.com/watch?v=65XXqXmfSI4",
+      "published_at": "2026-11-20T19:04:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/65XXqXmfSI4/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "nQqu3TmnKvI",
       "channel": "LowLevelTV",
@@ -191,14 +200,6 @@
       "link": "https://www.youtube.com/watch?v=2yd0V3jE4Dw",
       "published_at": "2026-11-19T20:21:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2yd0V3jE4Dw/hqdefault.jpg"
-    },
-    {
-      "video_id": "BX7B8JAIudo",
-      "channel": "BySepa",
-      "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana! #teaminvierno #hacktheplanet",
-      "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
-      "published_at": "2026-11-19T19:56:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/BX7B8JAIudo/hqdefault.jpg"
     }
   ]
 }
