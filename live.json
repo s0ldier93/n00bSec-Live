@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-20T23:39:37Z",
+  "updated": "2026-11-20T23:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 514
+      "viewers": 537
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 31
+      "viewers": 26
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 136
+      "viewers": 120
     }
   ],
-  "viewers_total": 681,
+  "viewers_total": 683,
   "videos": [
     {
       "video_id": "Z1eUAoLOpYI",
