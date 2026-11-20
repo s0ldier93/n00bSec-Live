@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T03:09:36Z",
+  "updated": "2026-11-20T03:19:02Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,16 +14,9 @@
       "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 485
-    },
-    {
-      "platform": "youtube",
-      "name": "HaxrByte",
-      "title": "\ud83d\udcf1 [LIVE] Use CTFs to Think Like a Hacker \u2014 Pentester Tradecraft (19 Nov 2026)",
-      "link": "https://www.youtube.com/watch?v=mKTHVmxGbzE",
-      "viewers": 1
     }
   ],
-  "viewers_total": 489,
+  "viewers_total": 488,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
