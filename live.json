@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-20T16:39:38Z",
+  "updated": "2026-11-20T16:49:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 245
+      "viewers": 270
+    },
+    {
+      "platform": "twitch",
+      "name": "ritsec",
+      "title": "RITSEC Fall Week 13 - Penetration Testing",
+      "link": "https://twitch.tv/ritsec",
+      "viewers": 1
     }
   ],
-  "viewers_total": 245,
+  "viewers_total": 271,
   "videos": [
     {
       "video_id": "i6cUL8QiQ3g",
