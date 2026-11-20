@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T22:09:38Z",
+  "updated": "2026-11-20T22:19:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -27,17 +27,17 @@
       "name": "panekopanko",
       "title": "dying from the cold simulator",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 28
+      "viewers": 33
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 168
+      "viewers": 164
     }
   ],
-  "viewers_total": 782,
+  "viewers_total": 783,
   "videos": [
     {
       "video_id": "VCPuq4qr_78",
