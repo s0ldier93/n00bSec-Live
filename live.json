@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-20T21:09:37Z",
+  "updated": "2026-11-20T21:19:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 3)",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 527
+      "viewers": 523
     },
     {
       "platform": "twitch",
@@ -20,14 +20,14 @@
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 34
+      "viewers": 35
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
-      "title": "dying from the cold simulator (americans discussing thanksgiving plans)",
+      "title": "dying from the cold simulator",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 33
+      "viewers": 27
     },
     {
       "platform": "youtube",
@@ -41,10 +41,10 @@
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 177
+      "viewers": 189
     }
   ],
-  "viewers_total": 776,
+  "viewers_total": 779,
   "videos": [
     {
       "video_id": "c_bV4B5ISbo",
