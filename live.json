@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:19:38Z",
+  "updated": "2026-11-20T16:29:15Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,15 @@
   ],
   "viewers_total": 76,
   "videos": [
+    {
+      "video_id": "i6cUL8QiQ3g",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 23's Top Cyber News NOW! - Ep 1293",
+      "link": "https://www.youtube.com/watch?v=i6cUL8QiQ3g",
+      "published_at": "2026-11-20T16:13:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/i6cUL8QiQ3g/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "E9fRt4zWlzw",
       "channel": "TheLaluka",
@@ -162,14 +171,6 @@
       "link": "https://www.youtube.com/watch?v=ZjcyRr-f5Pc",
       "published_at": "2026-11-19T15:46:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ZjcyRr-f5Pc/hqdefault.jpg"
-    },
-    {
-      "video_id": "l8mzI_fn19o",
-      "channel": "TheLaluka",
-      "title": "Why Can't Anyone Audit the Chip in Your Laptop? #shorts",
-      "link": "https://www.youtube.com/watch?v=l8mzI_fn19o",
-      "published_at": "2026-11-19T15:25:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/l8mzI_fn19o/hqdefault.jpg"
     }
   ]
 }
