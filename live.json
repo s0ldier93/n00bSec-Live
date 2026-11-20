@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:59:37Z",
+  "updated": "2026-11-20T22:09:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,32 +13,48 @@
       "name": "miloslavpalik",
       "title": "GTA 6 CHAT\ud83d\uddef\ufe0f",
       "link": "https://twitch.tv/miloslavpalik",
-      "viewers": 0
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 33
+      "viewers": 38
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "dying from the cold simulator",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 141
+      "viewers": 168
     }
   ],
-  "viewers_total": 750,
+  "viewers_total": 782,
   "videos": [
+    {
+      "video_id": "VCPuq4qr_78",
+      "channel": "pebl3",
+      "title": "He did the safe thing and asked to see their faces. Every face on the call was fake.",
+      "link": "https://www.youtube.com/watch?v=VCPuq4qr_78",
+      "published_at": "2026-11-20T22:02:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VCPuq4qr_78/hqdefault.jpg"
+    },
+    {
+      "video_id": "-6NtZYK1xHQ",
+      "channel": "SecurityWeekly",
+      "title": "Linux Porn, Lawyers, Chaos, Ur, PHP2Shell, Java4Shell, VMware, KVM , Josh Marpet - SWN #635",
+      "link": "https://www.youtube.com/watch?v=-6NtZYK1xHQ",
+      "published_at": "2026-11-20T22:00:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-6NtZYK1xHQ/hqdefault.jpg"
+    },
     {
       "video_id": "c_bV4B5ISbo",
       "channel": "MSec",
@@ -185,22 +201,6 @@
       "link": "https://www.youtube.com/watch?v=lHeLld2Xl8Y",
       "published_at": "2026-11-19T22:02:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lHeLld2Xl8Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "zHdUElnyGgg",
-      "channel": "SecurityWeekly",
-      "title": "MiTM Emulated Android Apps, Keep Calm And Carry On - PSW #953",
-      "link": "https://www.youtube.com/watch?v=zHdUElnyGgg",
-      "published_at": "2026-11-19T22:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/zHdUElnyGgg/hqdefault.jpg"
-    },
-    {
-      "video_id": "ek_yhpsR_eI",
-      "channel": "overgrowncarrot1",
-      "title": "ShadowGate",
-      "link": "https://www.youtube.com/watch?v=ek_yhpsR_eI",
-      "published_at": "2026-11-19T21:55:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ek_yhpsR_eI/hqdefault.jpg"
     }
   ]
 }
