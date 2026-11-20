@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T23:57:49Z",
+  "updated": "2026-11-20T00:07:16Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "cyber_insecurity",
       "title": "Pentesting on a GPU from 2019",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 35
+      "viewers": 40
     },
     {
       "platform": "twitch",
@@ -27,28 +27,21 @@
       "name": "msec",
       "title": "OoT (2026) First Playthrough! Adult Dungeons #charity",
       "link": "https://twitch.tv/msec",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "CSE466 - Week 13 - Sandboxing",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 9
-    },
-    {
-      "platform": "youtube",
-      "name": "BySepa",
-      "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana!",
-      "link": "https://www.youtube.com/watch?v=BX7B8JAIudo",
-      "viewers": 1
+      "viewers": 11
     },
     {
       "platform": "youtube",
       "name": "Cyber_Insecurity",
       "title": "Pentesting on a GPU from 2019",
       "link": "https://www.youtube.com/watch?v=oR8fdB9ADeE",
-      "viewers": 10
+      "viewers": 11
     },
     {
       "platform": "youtube",
@@ -58,7 +51,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 579,
+  "viewers_total": 587,
   "videos": [
     {
       "video_id": "oR8fdB9ADeE",
