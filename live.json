@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T06:39:38Z",
+  "updated": "2026-11-21T06:49:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -35,16 +35,9 @@
       "title": "Playing GTA 6! with Stream",
       "link": "https://www.youtube.com/watch?v=qgIDiKKe7To",
       "viewers": 3
-    },
-    {
-      "platform": "youtube",
-      "name": "TheShyHat",
-      "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
-      "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
-      "viewers": 7
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 27,
   "videos": [
     {
       "video_id": "qgIDiKKe7To",
