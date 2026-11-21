@@ -1,16 +1,25 @@
 {
-  "updated": "2026-11-21T17:19:38Z",
+  "updated": "2026-11-21T17:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 33
+      "viewers": 25
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 25,
   "videos": [
+    {
+      "video_id": "nwoE89BB4c8",
+      "channel": "NahamSec",
+      "title": "#NahamCon2026: Virtual Hacking Conference | Day 2",
+      "link": "https://www.youtube.com/watch?v=nwoE89BB4c8",
+      "published_at": "2026-11-21T17:03:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nwoE89BB4c8/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "oJBvGM7mea8",
       "channel": "Cyber_Insecurity",
@@ -166,14 +175,6 @@
       "link": "https://www.youtube.com/watch?v=nQqu3TmnKvI",
       "published_at": "2026-11-20T18:03:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nQqu3TmnKvI/hqdefault.jpg"
-    },
-    {
-      "video_id": "sFuzabpwL7o",
-      "channel": "LowLevelTV",
-      "title": "nginx",
-      "link": "https://www.youtube.com/watch?v=sFuzabpwL7o",
-      "published_at": "2026-11-20T17:19:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/sFuzabpwL7o/hqdefault.jpg"
     }
   ]
 }
