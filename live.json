@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T07:29:37Z",
+  "updated": "2026-11-21T07:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Playing GTA 6! with Stream",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -27,10 +27,10 @@
       "name": "censoredHacker",
       "title": "Playing GTA 6! with Stream",
       "link": "https://www.youtube.com/watch?v=qgIDiKKe7To",
-      "viewers": 5
+      "viewers": 4
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "qgIDiKKe7To",
