@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T20:39:10Z",
+  "updated": "2026-11-21T20:39:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "team_whoami",
       "title": "Exploiting Buffer Overflow ROPGadget",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 93
     }
   ],
-  "viewers_total": 127,
+  "viewers_total": 128,
   "videos": [
     {
       "video_id": "F2eJe-WGo6g",
