@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T16:09:38Z",
+  "updated": "2026-11-21T16:19:10Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,16 +7,9 @@
       "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
       "link": "https://twitch.tv/het_tanis",
       "viewers": 23
-    },
-    {
-      "platform": "youtube",
-      "name": "B7H30",
-      "title": "\"AI will help us find the bugs first\" | ARTEX: \"Hold My Beer\" | OSCP Study on HTB",
-      "link": "https://www.youtube.com/watch?v=VarP1Qn13PU",
-      "viewers": 1
     }
   ],
-  "viewers_total": 24,
+  "viewers_total": 23,
   "videos": [
     {
       "video_id": "GHvrkAcCuN4",
