@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-21T16:19:10Z",
+  "updated": "2026-11-21T16:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 23
+      "viewers": 24
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 24,
   "videos": [
+    {
+      "video_id": "ww6WOTJpo6g",
+      "channel": "SecurityWeekly",
+      "title": "Deepfake Elon Musk Nearly Scammed Crypto Users",
+      "link": "https://www.youtube.com/watch?v=ww6WOTJpo6g",
+      "published_at": "2026-11-21T16:00:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ww6WOTJpo6g/hqdefault.jpg"
+    },
     {
       "video_id": "GHvrkAcCuN4",
       "channel": "TheLaluka",
@@ -166,14 +174,6 @@
       "link": "https://www.youtube.com/watch?v=XME5QOfiw7A",
       "published_at": "2026-11-20T17:13:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XME5QOfiw7A/hqdefault.jpg"
-    },
-    {
-      "video_id": "QDVzmoZJNWE",
-      "channel": "Cyber_Insecurity",
-      "title": "You don't need the cake-batter expert to run Kali",
-      "link": "https://www.youtube.com/watch?v=QDVzmoZJNWE",
-      "published_at": "2026-11-20T16:59:19+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/QDVzmoZJNWE/hqdefault.jpg"
     }
   ]
 }
