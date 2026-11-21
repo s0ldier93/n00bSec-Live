@@ -1,30 +1,46 @@
 {
-  "updated": "2026-11-21T17:49:14Z",
+  "updated": "2026-11-21T17:59:40Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "BySepa",
+      "title": "Vemos TODAS las noticias de Ciberseguridad de la ultima semana! #teaminvierno #hacktheplanet",
+      "link": "https://twitch.tv/BySepa",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 26
+      "viewers": 28
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "NahamCon Day 2",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 0
+      "viewers": 31
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=nwoE89BB4c8",
-      "viewers": 27
+      "viewers": 77
     }
   ],
-  "viewers_total": 53,
+  "viewers_total": 136,
   "videos": [
+    {
+      "video_id": "4foYMUrNN88",
+      "channel": "BySepa",
+      "title": "Agarrando la pala!!! Vuelos en MSFS2024 para reactivar las empresas ;)",
+      "link": "https://www.youtube.com/watch?v=4foYMUrNN88",
+      "published_at": "2026-11-21T17:55:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4foYMUrNN88/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "nwoE89BB4c8",
       "channel": "NahamSec",
@@ -180,14 +196,6 @@
       "published_at": "2026-11-20T19:04:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/65XXqXmfSI4/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "nQqu3TmnKvI",
-      "channel": "LowLevelTV",
-      "title": "How Are We Supposed to Secure AI Generated Code? Check out Evo by Snyk @Snyksec #ad #aisecurity",
-      "link": "https://www.youtube.com/watch?v=nQqu3TmnKvI",
-      "published_at": "2026-11-20T18:03:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nQqu3TmnKvI/hqdefault.jpg"
     }
   ]
 }
