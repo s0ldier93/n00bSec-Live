@@ -1,16 +1,17 @@
 {
-  "updated": "2026-11-21T09:19:40Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "irasakai",
-      "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
-      "link": "https://twitch.tv/irasakai",
-      "viewers": 2
-    }
-  ],
-  "viewers_total": 2,
+  "updated": "2026-11-21T09:29:38Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "dAZQ0AMccPc",
+      "channel": "censoredHacker",
+      "title": "Playing GTA 6! with Stream #gta6",
+      "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
+      "published_at": "2026-11-21T09:21:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dAZQ0AMccPc/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "qgIDiKKe7To",
       "channel": "censoredHacker",
@@ -166,14 +167,6 @@
       "link": "https://www.youtube.com/watch?v=381FM4QH7Wg",
       "published_at": "2026-11-20T13:15:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/381FM4QH7Wg/hqdefault.jpg"
-    },
-    {
-      "video_id": "FgUnLv_YvMs",
-      "channel": "hack_smarter",
-      "title": "Hacking A Bank... (404 Bank - Part 7)",
-      "link": "https://www.youtube.com/watch?v=FgUnLv_YvMs",
-      "published_at": "2026-11-20T12:00:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FgUnLv_YvMs/hqdefault.jpg"
     }
   ]
 }
