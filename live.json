@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T03:09:38Z",
+  "updated": "2026-11-21T03:19:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 4) 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 481
+      "viewers": 503
     },
     {
       "platform": "twitch",
@@ -41,17 +41,17 @@
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 12
+      "viewers": 9
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
-      "viewers": 5
+      "viewers": 3
     }
   ],
-  "viewers_total": 634,
+  "viewers_total": 651,
   "videos": [
     {
       "video_id": "kSqta4w3gWQ",
