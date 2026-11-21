@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T00:19:38Z",
+  "updated": "2026-11-21T00:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "CyberWarriorStudios",
       "title": "Can You Still Tell What\u2019s Real? Dr. Gregory Carpenter on Machine-Speed Deception",
       "link": "https://twitch.tv/CyberWarriorStudios",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -20,25 +20,34 @@
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 23
+      "viewers": 22
     },
     {
       "platform": "youtube",
       "name": "CyberWarriorStudios",
       "title": "Can You Still Tell What\u2019s Real? Dr. Gregory Carpenter on Machine-Speed Deception",
       "link": "https://www.youtube.com/watch?v=IErxDfkyUi0",
-      "viewers": 2
+      "viewers": 6
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 114
+      "viewers": 95
     }
   ],
-  "viewers_total": 676,
+  "viewers_total": 661,
   "videos": [
+    {
+      "video_id": "c3ssTwt3WOY",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Nov 24's Top Cyber News NOW! - Ep 1294",
+      "link": "https://www.youtube.com/watch?v=c3ssTwt3WOY",
+      "published_at": "2026-11-21T00:07:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/c3ssTwt3WOY/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "Z1eUAoLOpYI",
       "channel": "SecurityWeekly",
@@ -193,14 +202,6 @@
       "link": "https://www.youtube.com/watch?v=a4CgqdMIs_w",
       "published_at": "2026-11-19T23:00:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/a4CgqdMIs_w/hqdefault.jpg"
-    },
-    {
-      "video_id": "l-cxo56I62o",
-      "channel": "CyberWarriorStudios",
-      "title": "Finish Strong Before the Holidays #shorts",
-      "link": "https://www.youtube.com/watch?v=l-cxo56I62o",
-      "published_at": "2026-11-19T22:32:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/l-cxo56I62o/hqdefault.jpg"
     }
   ]
 }
