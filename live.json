@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T01:49:37Z",
+  "updated": "2026-11-21T01:59:02Z",
   "streams": [
     {
       "platform": "twitch",
@@ -25,6 +25,14 @@
   ],
   "viewers_total": 516,
   "videos": [
+    {
+      "video_id": "kSqta4w3gWQ",
+      "channel": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 4)",
+      "link": "https://www.youtube.com/watch?v=kSqta4w3gWQ",
+      "published_at": "2026-11-21T01:43:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/kSqta4w3gWQ/hqdefault.jpg"
+    },
     {
       "video_id": "c3ssTwt3WOY",
       "channel": "gerald_auger_simplycyber",
@@ -180,14 +188,6 @@
       "link": "https://www.youtube.com/watch?v=oR8fdB9ADeE",
       "published_at": "2026-11-19T23:20:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oR8fdB9ADeE/hqdefault.jpg"
-    },
-    {
-      "video_id": "a4CgqdMIs_w",
-      "channel": "SecurityWeekly",
-      "title": "Your GPU Monitoring Is Lying",
-      "link": "https://www.youtube.com/watch?v=a4CgqdMIs_w",
-      "published_at": "2026-11-19T23:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/a4CgqdMIs_w/hqdefault.jpg"
     }
   ]
 }
