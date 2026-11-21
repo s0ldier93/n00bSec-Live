@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T05:19:37Z",
+  "updated": "2026-11-21T05:29:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,38 +13,31 @@
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 4) 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 434
-    },
-    {
-      "platform": "twitch",
-      "name": "het_tanis",
-      "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
-      "link": "https://twitch.tv/het_tanis",
-      "viewers": 17
+      "viewers": 435
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 18
+      "viewers": 15
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
-      "viewers": 6
+      "viewers": 8
     }
   ],
-  "viewers_total": 478,
+  "viewers_total": 463,
   "videos": [
     {
       "video_id": "VBGdjnKm8Tg",
