@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-21T04:39:36Z",
+  "updated": "2026-11-21T04:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "djax_1",
       "title": "GTA6 PART 2",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 4) 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 434
+      "viewers": 428
     },
     {
       "platform": "twitch",
@@ -27,14 +27,14 @@
       "name": "goproflowyo",
       "title": "GTAVI... wait no... LUNA \ud83c\udf14 | ty: @autobat @undergroundfrequency",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 124
+      "viewers": 119
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 17
+      "viewers": 16
     },
     {
       "platform": "twitch",
@@ -48,18 +48,26 @@
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 22
+      "viewers": 17
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
-      "viewers": 6
+      "viewers": 11
     }
   ],
-  "viewers_total": 607,
+  "viewers_total": 594,
   "videos": [
+    {
+      "video_id": "VBGdjnKm8Tg",
+      "channel": "mbcrump",
+      "title": "Install kaiHEN on your Switch 2 via Civilization 7!",
+      "link": "https://www.youtube.com/watch?v=VBGdjnKm8Tg",
+      "published_at": "2026-11-21T04:31:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VBGdjnKm8Tg/hqdefault.jpg"
+    },
     {
       "video_id": "kSqta4w3gWQ",
       "channel": "EJSA",
@@ -215,14 +223,6 @@
       "link": "https://www.youtube.com/watch?v=yhYR7P7kYls",
       "published_at": "2026-11-20T10:04:41+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yhYR7P7kYls/hqdefault.jpg"
-    },
-    {
-      "video_id": "oR8fdB9ADeE",
-      "channel": "Cyber_Insecurity",
-      "title": "Pentesting on a GPU from 2019",
-      "link": "https://www.youtube.com/watch?v=oR8fdB9ADeE",
-      "published_at": "2026-11-19T23:20:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oR8fdB9ADeE/hqdefault.jpg"
     }
   ]
 }
