@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T06:29:38Z",
+  "updated": "2026-11-21T06:39:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
-      "title": "Study with me",
+      "title": "Playing GTA 6! with Stream",
       "link": "https://twitch.tv/censoredHacker",
       "viewers": 2
     },
@@ -27,12 +27,12 @@
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 20
+      "viewers": 18
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
-      "title": "Study with me",
+      "title": "Playing GTA 6! with Stream",
       "link": "https://www.youtube.com/watch?v=qgIDiKKe7To",
       "viewers": 3
     },
@@ -41,10 +41,10 @@
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
-      "viewers": 9
+      "viewers": 7
     }
   ],
-  "viewers_total": 38,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "qgIDiKKe7To",
