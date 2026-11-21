@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T01:29:37Z",
+  "updated": "2026-11-21T01:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 6
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -27,10 +27,10 @@
       "name": "HeckinSpectre",
       "title": "Console Testing Spiderman then?",
       "link": "https://twitch.tv/HeckinSpectre",
-      "viewers": 5
+      "viewers": 4
     }
   ],
-  "viewers_total": 551,
+  "viewers_total": 547,
   "videos": [
     {
       "video_id": "c3ssTwt3WOY",
