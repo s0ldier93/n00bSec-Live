@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T00:09:38Z",
+  "updated": "2026-11-21T00:19:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,24 +20,24 @@
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 24
+      "viewers": 23
     },
     {
       "platform": "youtube",
       "name": "CyberWarriorStudios",
       "title": "Can You Still Tell What\u2019s Real? Dr. Gregory Carpenter on Machine-Speed Deception",
       "link": "https://www.youtube.com/watch?v=IErxDfkyUi0",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 115
+      "viewers": 114
     }
   ],
-  "viewers_total": 679,
+  "viewers_total": 676,
   "videos": [
     {
       "video_id": "Z1eUAoLOpYI",
