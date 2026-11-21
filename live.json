@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T02:59:01Z",
+  "updated": "2026-11-21T02:59:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,14 @@
       "name": "freshforensics",
       "title": "I Turned My iPhone Into a Spy Device! | Linux & Jailbreak",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 1
+    },
+    {
+      "platform": "twitch",
+      "name": "goproflowyo",
+      "title": "GTAVI... wait no... LUNA \ud83c\udf14",
+      "link": "https://twitch.tv/goproflowyo",
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -23,6 +30,13 @@
       "viewers": 1
     },
     {
+      "platform": "twitch",
+      "name": "TheShyHat",
+      "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
+      "link": "https://twitch.tv/TheShyHat",
+      "viewers": 4
+    },
+    {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
@@ -30,7 +44,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 487,
+  "viewers_total": 490,
   "videos": [
     {
       "video_id": "kSqta4w3gWQ",
