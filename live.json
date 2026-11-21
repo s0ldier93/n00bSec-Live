@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-21T04:59:38Z",
+  "updated": "2026-11-21T05:09:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "djax_1",
       "title": "GTA6 PART 2",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 4) 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 420
+      "viewers": 424
     },
     {
       "platform": "twitch",
@@ -24,17 +24,10 @@
     },
     {
       "platform": "twitch",
-      "name": "goproflowyo",
-      "title": "GTAVI... wait no... LUNA \ud83c\udf14 | ty: @autobat @undergroundfrequency",
-      "link": "https://twitch.tv/goproflowyo",
-      "viewers": 119
-    },
-    {
-      "platform": "twitch",
       "name": "het_tanis",
       "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 15
+      "viewers": 21
     },
     {
       "platform": "twitch",
@@ -48,17 +41,17 @@
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 20
+      "viewers": 19
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
-      "viewers": 9
+      "viewers": 7
     }
   ],
-  "viewers_total": 586,
+  "viewers_total": 475,
   "videos": [
     {
       "video_id": "VBGdjnKm8Tg",
