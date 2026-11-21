@@ -1,36 +1,29 @@
 {
-  "updated": "2026-11-21T01:39:37Z",
+  "updated": "2026-11-21T01:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
-      "title": "NSF - THE FLAME TRENCH! 11/20/26",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 4) 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 536
+      "viewers": 510
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "I Turned My iPhone Into a Spy Device! | Linux & Jailbreak",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 4
-    },
-    {
-      "platform": "twitch",
-      "name": "HeckinSpectre",
-      "title": "Console Testing Spiderman then?",
-      "link": "https://twitch.tv/HeckinSpectre",
-      "viewers": 4
+      "viewers": 2
     }
   ],
-  "viewers_total": 547,
+  "viewers_total": 516,
   "videos": [
     {
       "video_id": "c3ssTwt3WOY",
