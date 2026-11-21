@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T06:19:37Z",
+  "updated": "2026-11-21T06:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Study with me",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 23
+      "viewers": 20
     },
     {
       "platform": "youtube",
@@ -41,11 +41,19 @@
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
-      "viewers": 7
+      "viewers": 9
     }
   ],
   "viewers_total": 38,
   "videos": [
+    {
+      "video_id": "qgIDiKKe7To",
+      "channel": "censoredHacker",
+      "title": "Study with me",
+      "link": "https://www.youtube.com/watch?v=qgIDiKKe7To",
+      "published_at": "2026-11-21T06:13:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qgIDiKKe7To/hqdefault.jpg"
+    },
     {
       "video_id": "VBGdjnKm8Tg",
       "channel": "mbcrump",
@@ -201,14 +209,6 @@
       "link": "https://www.youtube.com/watch?v=FgUnLv_YvMs",
       "published_at": "2026-11-20T12:00:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FgUnLv_YvMs/hqdefault.jpg"
-    },
-    {
-      "video_id": "yhYR7P7kYls",
-      "channel": "Khaos_Farbauti",
-      "title": "En cas d'action ill\u00e9gale d'un agent, qui est responsable ?",
-      "link": "https://www.youtube.com/watch?v=yhYR7P7kYls",
-      "published_at": "2026-11-20T10:04:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yhYR7P7kYls/hqdefault.jpg"
     }
   ]
 }
