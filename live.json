@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-21T17:09:39Z",
+  "updated": "2026-11-21T17:19:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 32
+      "viewers": 33
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 33,
   "videos": [
+    {
+      "video_id": "oJBvGM7mea8",
+      "channel": "Cyber_Insecurity",
+      "title": "Cyber is CLI tools. Pick a model that's good at tool calls.",
+      "link": "https://www.youtube.com/watch?v=oJBvGM7mea8",
+      "published_at": "2026-11-21T17:02:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oJBvGM7mea8/hqdefault.jpg"
+    },
     {
       "video_id": "ww6WOTJpo6g",
       "channel": "SecurityWeekly",
@@ -166,14 +174,6 @@
       "link": "https://www.youtube.com/watch?v=sFuzabpwL7o",
       "published_at": "2026-11-20T17:19:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/sFuzabpwL7o/hqdefault.jpg"
-    },
-    {
-      "video_id": "XME5QOfiw7A",
-      "channel": "antisyphon",
-      "title": "Wireshark | Free Lab Fridays [Full Lab Walkthrough]",
-      "link": "https://www.youtube.com/watch?v=XME5QOfiw7A",
-      "published_at": "2026-11-20T17:13:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XME5QOfiw7A/hqdefault.jpg"
     }
   ]
 }
