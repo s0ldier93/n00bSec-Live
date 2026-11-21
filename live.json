@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-21T15:19:38Z",
+  "updated": "2026-11-21T15:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "\"AI will help us find the bugs first\" | ARTEX: \"Hold My Beer\" | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 23
+      "viewers": 26
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 12
+      "viewers": 16
     },
     {
       "platform": "youtube",
@@ -23,8 +23,24 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 36,
+  "viewers_total": 43,
   "videos": [
+    {
+      "video_id": "GHvrkAcCuN4",
+      "channel": "TheLaluka",
+      "title": "The CTF Where You Can't Patch the Code #shorts",
+      "link": "https://www.youtube.com/watch?v=GHvrkAcCuN4",
+      "published_at": "2026-11-21T15:25:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GHvrkAcCuN4/hqdefault.jpg"
+    },
+    {
+      "video_id": "Oj-vfKqtoik",
+      "channel": "JohnHammond010",
+      "title": "Minecraft Security Sandbox",
+      "link": "https://www.youtube.com/watch?v=Oj-vfKqtoik",
+      "published_at": "2026-11-21T15:01:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Oj-vfKqtoik/hqdefault.jpg"
+    },
     {
       "video_id": "w2A52-dhO9E",
       "channel": "ippsec",
@@ -172,23 +188,6 @@
       "link": "https://www.youtube.com/watch?v=QDVzmoZJNWE",
       "published_at": "2026-11-20T16:59:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QDVzmoZJNWE/hqdefault.jpg"
-    },
-    {
-      "video_id": "i6cUL8QiQ3g",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 23's Top Cyber News NOW! - Ep 1293",
-      "link": "https://www.youtube.com/watch?v=i6cUL8QiQ3g",
-      "published_at": "2026-11-20T16:13:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/i6cUL8QiQ3g/hqdefault.jpg",
-      "upcoming": true
-    },
-    {
-      "video_id": "E9fRt4zWlzw",
-      "channel": "TheLaluka",
-      "title": "Why Is Your Cloud Neighbor a CPU Threat? #shorts",
-      "link": "https://www.youtube.com/watch?v=E9fRt4zWlzw",
-      "published_at": "2026-11-20T15:25:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/E9fRt4zWlzw/hqdefault.jpg"
     }
   ]
 }
