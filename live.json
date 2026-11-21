@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:09:37Z",
+  "updated": "2026-11-21T19:19:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "nahamsec",
       "title": "NahamCon Day 2",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 30
+      "viewers": 26
     },
     {
       "platform": "youtube",
@@ -27,10 +27,10 @@
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=nwoE89BB4c8",
-      "viewers": 106
+      "viewers": 105
     }
   ],
-  "viewers_total": 140,
+  "viewers_total": 135,
   "videos": [
     {
       "video_id": "F2eJe-WGo6g",
