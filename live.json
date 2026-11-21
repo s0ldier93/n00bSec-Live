@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:19:38Z",
+  "updated": "2026-11-21T19:29:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,24 +13,24 @@
       "name": "nahamsec",
       "title": "NahamCon Day 2",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 26
+      "viewers": 34
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Agarrando la pala!!! Vuelos en MSFS2024 para reactivar las empresas ;)",
       "link": "https://www.youtube.com/watch?v=4foYMUrNN88",
-      "viewers": 2
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=nwoE89BB4c8",
-      "viewers": 105
+      "viewers": 100
     }
   ],
-  "viewers_total": 135,
+  "viewers_total": 140,
   "videos": [
     {
       "video_id": "F2eJe-WGo6g",
