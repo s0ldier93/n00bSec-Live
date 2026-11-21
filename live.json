@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T00:59:38Z",
+  "updated": "2026-11-21T01:09:01Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,27 +10,13 @@
     },
     {
       "platform": "twitch",
-      "name": "CyberWarriorStudios",
-      "title": "Can You Still Tell What\u2019s Real? Dr. Gregory Carpenter on Machine-Speed Deception",
-      "link": "https://twitch.tv/CyberWarriorStudios",
-      "viewers": 5
-    },
-    {
-      "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 11/20/26",
       "link": "https://twitch.tv/ej_sa",
       "viewers": 559
-    },
-    {
-      "platform": "youtube",
-      "name": "CyberWarriorStudios",
-      "title": "Can You Still Tell What\u2019s Real? Dr. Gregory Carpenter on Machine-Speed Deception",
-      "link": "https://www.youtube.com/watch?v=IErxDfkyUi0",
-      "viewers": 5
     }
   ],
-  "viewers_total": 572,
+  "viewers_total": 562,
   "videos": [
     {
       "video_id": "c3ssTwt3WOY",
