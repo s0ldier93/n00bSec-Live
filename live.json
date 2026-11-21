@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-21T15:09:39Z",
+  "updated": "2026-11-21T15:19:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "\"AI will help us find the bugs first\" | ARTEX: \"Hold My Beer\" | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 24
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 2
+      "viewers": 12
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 27,
+  "viewers_total": 36,
   "videos": [
+    {
+      "video_id": "w2A52-dhO9E",
+      "channel": "ippsec",
+      "title": "HackTheBox - PingPong",
+      "link": "https://www.youtube.com/watch?v=w2A52-dhO9E",
+      "published_at": "2026-11-21T15:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/w2A52-dhO9E/hqdefault.jpg"
+    },
     {
       "video_id": "iWKmQRXOtOc",
       "channel": "TheLaluka",
@@ -181,14 +189,6 @@
       "link": "https://www.youtube.com/watch?v=E9fRt4zWlzw",
       "published_at": "2026-11-20T15:25:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/E9fRt4zWlzw/hqdefault.jpg"
-    },
-    {
-      "video_id": "wq1yGIUcQkU",
-      "channel": "EJSA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 2.5)",
-      "link": "https://www.youtube.com/watch?v=wq1yGIUcQkU",
-      "published_at": "2026-11-20T15:17:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wq1yGIUcQkU/hqdefault.jpg"
     }
   ]
 }
