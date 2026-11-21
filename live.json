@@ -1,43 +1,43 @@
 {
-  "updated": "2026-11-20T23:59:36Z",
+  "updated": "2026-11-21T00:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "CyberWarriorStudios",
       "title": "Can You Still Tell What\u2019s Real? Dr. Gregory Carpenter on Machine-Speed Deception",
       "link": "https://twitch.tv/CyberWarriorStudios",
-      "viewers": 0
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 560
+      "viewers": 535
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 28
+      "viewers": 24
     },
     {
       "platform": "youtube",
       "name": "CyberWarriorStudios",
       "title": "Can You Still Tell What\u2019s Real? Dr. Gregory Carpenter on Machine-Speed Deception",
       "link": "https://www.youtube.com/watch?v=IErxDfkyUi0",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 114
+      "viewers": 115
     }
   ],
-  "viewers_total": 703,
+  "viewers_total": 679,
   "videos": [
     {
       "video_id": "Z1eUAoLOpYI",
