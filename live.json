@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T02:59:37Z",
+  "updated": "2026-11-21T03:09:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,38 +13,45 @@
       "name": "freshforensics",
       "title": "I Turned My iPhone Into a Spy Device! | Linux & Jailbreak",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
+      "viewers": 0
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
-      "title": "GTAVI... wait no... LUNA \ud83c\udf14",
+      "title": "GTAVI... wait no... LUNA \ud83c\udf14 | ty: @autobat @undergroundfrequency",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 1
+      "viewers": 127
+    },
+    {
+      "platform": "twitch",
+      "name": "het_tanis",
+      "title": "Prepping more labs and presentations for ProLUG. Come talk Linux, Networking, and Security topics.",
+      "link": "https://twitch.tv/het_tanis",
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 4
+      "viewers": 12
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
-      "viewers": 2
+      "viewers": 5
     }
   ],
-  "viewers_total": 490,
+  "viewers_total": 634,
   "videos": [
     {
       "video_id": "kSqta4w3gWQ",
