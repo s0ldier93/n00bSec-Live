@@ -1,19 +1,12 @@
 {
-  "updated": "2026-11-21T02:19:38Z",
+  "updated": "2026-11-21T02:29:37Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 4
-    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 4) 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 459
+      "viewers": 481
     },
     {
       "platform": "twitch",
@@ -27,10 +20,10 @@
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
+      "viewers": 2
     }
   ],
-  "viewers_total": 470,
+  "viewers_total": 486,
   "videos": [
     {
       "video_id": "kSqta4w3gWQ",
