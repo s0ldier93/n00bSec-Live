@@ -1,29 +1,36 @@
 {
-  "updated": "2026-11-21T01:59:37Z",
+  "updated": "2026-11-21T02:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 4) 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 481
+      "viewers": 459
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "I Turned My iPhone Into a Spy Device! | Linux & Jailbreak",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 3
+    },
+    {
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
+      "link": "https://twitch.tv/irasakai",
+      "viewers": 1
     }
   ],
-  "viewers_total": 486,
+  "viewers_total": 468,
   "videos": [
     {
       "video_id": "kSqta4w3gWQ",
