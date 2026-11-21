@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-21T00:29:38Z",
+  "updated": "2026-11-21T00:39:38Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "c04tl",
+      "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
+      "link": "https://twitch.tv/c04tl",
+      "viewers": 3
+    },
     {
       "platform": "twitch",
       "name": "CyberWarriorStudios",
@@ -20,7 +27,7 @@
       "name": "nahamsec",
       "title": "Live November 17",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 22
+      "viewers": 23
     },
     {
       "platform": "youtube",
@@ -34,10 +41,10 @@
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=RVrBXty_9pI",
-      "viewers": 95
+      "viewers": 100
     }
   ],
-  "viewers_total": 661,
+  "viewers_total": 670,
   "videos": [
     {
       "video_id": "c3ssTwt3WOY",
