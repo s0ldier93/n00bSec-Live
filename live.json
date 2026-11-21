@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T08:09:37Z",
+  "updated": "2026-11-21T08:19:10Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,17 +20,10 @@
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
-    },
-    {
-      "platform": "youtube",
-      "name": "censoredHacker",
-      "title": "Playing GTA 6! with Stream",
-      "link": "https://www.youtube.com/watch?v=qgIDiKKe7To",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 6,
   "videos": [
     {
       "video_id": "qgIDiKKe7To",
