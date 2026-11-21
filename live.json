@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T00:49:37Z",
+  "updated": "2026-11-21T00:59:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "ej_sa",
       "title": "NSF - THE FLAME TRENCH! 11/20/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 535
+      "viewers": 559
     },
     {
       "platform": "youtube",
       "name": "CyberWarriorStudios",
       "title": "Can You Still Tell What\u2019s Real? Dr. Gregory Carpenter on Machine-Speed Deception",
       "link": "https://www.youtube.com/watch?v=IErxDfkyUi0",
-      "viewers": 9
+      "viewers": 5
     }
   ],
-  "viewers_total": 554,
+  "viewers_total": 572,
   "videos": [
     {
       "video_id": "c3ssTwt3WOY",
