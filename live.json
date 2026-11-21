@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T00:49:03Z",
+  "updated": "2026-11-21T00:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeds en VALORANT | saquenme de hierro 3 \ud83d\ude2d\ud83d\ude2d",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 9
     }
   ],
-  "viewers_total": 552,
+  "viewers_total": 554,
   "videos": [
     {
       "video_id": "c3ssTwt3WOY",
