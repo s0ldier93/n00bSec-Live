@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T06:09:37Z",
+  "updated": "2026-11-21T06:19:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -24,13 +24,20 @@
     },
     {
       "platform": "youtube",
+      "name": "censoredHacker",
+      "title": "Study with me",
+      "link": "https://www.youtube.com/watch?v=qgIDiKKe7To",
+      "viewers": 3
+    },
+    {
+      "platform": "youtube",
       "name": "TheShyHat",
       "title": "PHP EXPLOITATION LIVE! TryHackMe PHP2Shell & Cybersecurity CTFs",
       "link": "https://www.youtube.com/watch?v=KlpNBqCjIAE",
-      "viewers": 9
+      "viewers": 7
     }
   ],
-  "viewers_total": 35,
+  "viewers_total": 37,
   "videos": [
     {
       "video_id": "VBGdjnKm8Tg",
