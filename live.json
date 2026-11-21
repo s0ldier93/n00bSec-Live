@@ -1,23 +1,38 @@
 {
-  "updated": "2026-11-21T22:49:37Z",
+  "updated": "2026-11-21T22:59:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "NahamCon Day 2",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 36
+      "viewers": 35
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
+      "link": "https://www.youtube.com/watch?v=dbg-cR1luFk",
+      "viewers": 14
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=nwoE89BB4c8",
-      "viewers": 101
+      "viewers": 106
     }
   ],
-  "viewers_total": 137,
+  "viewers_total": 155,
   "videos": [
+    {
+      "video_id": "dbg-cR1luFk",
+      "channel": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
+      "link": "https://www.youtube.com/watch?v=dbg-cR1luFk",
+      "published_at": "2026-11-21T22:43:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dbg-cR1luFk/hqdefault.jpg"
+    },
     {
       "video_id": "9WESEnKcAfI",
       "channel": "pebl3",
@@ -172,14 +187,6 @@
       "link": "https://www.youtube.com/watch?v=VCPuq4qr_78",
       "published_at": "2026-11-20T22:02:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VCPuq4qr_78/hqdefault.jpg"
-    },
-    {
-      "video_id": "-6NtZYK1xHQ",
-      "channel": "SecurityWeekly",
-      "title": "Linux Porn, Lawyers, Chaos, Ur, PHP2Shell, Java4Shell, VMware, KVM , Josh Marpet - SWN #635",
-      "link": "https://www.youtube.com/watch?v=-6NtZYK1xHQ",
-      "published_at": "2026-11-20T22:00:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-6NtZYK1xHQ/hqdefault.jpg"
     }
   ]
 }
