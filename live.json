@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T14:19:38Z",
+  "updated": "2026-11-21T14:29:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "\"AI will help us find the bugs first\" | ARTEX: \"Hold My Beer\" | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 10
+      "viewers": 11
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 12,
   "videos": [
     {
       "video_id": "dAZQ0AMccPc",
