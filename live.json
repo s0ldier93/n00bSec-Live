@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-21T21:19:38Z",
+  "updated": "2026-11-21T21:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "NahamCon Day 2",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 34
+      "viewers": 35
     },
     {
       "platform": "twitch",
       "name": "team_whoami",
       "title": "Exploiting Buffer Overflow ROPGadget",
       "link": "https://twitch.tv/team_whoami",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=nwoE89BB4c8",
-      "viewers": 115
+      "viewers": 128
     }
   ],
-  "viewers_total": 151,
+  "viewers_total": 164,
   "videos": [
     {
       "video_id": "F2eJe-WGo6g",
