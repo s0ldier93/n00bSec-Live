@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-22T22:09:38Z",
+  "updated": "2026-11-22T22:19:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Getting ready for a talk down in ProLUG Discord around cloud spending and AI in systems engineering.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 30
+      "viewers": 42
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 42,
   "videos": [
+    {
+      "video_id": "0r-danONh-8",
+      "channel": "pebl3",
+      "title": "The hacker already had the password. He still needed one person to tap approve.",
+      "link": "https://www.youtube.com/watch?v=0r-danONh-8",
+      "published_at": "2026-11-22T22:02:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0r-danONh-8/hqdefault.jpg"
+    },
     {
       "video_id": "qZ66zVVdci4",
       "channel": "TheLaluka",
@@ -164,14 +172,6 @@
       "link": "https://www.youtube.com/watch?v=ww6WOTJpo6g",
       "published_at": "2026-11-21T16:00:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ww6WOTJpo6g/hqdefault.jpg"
-    },
-    {
-      "video_id": "GHvrkAcCuN4",
-      "channel": "TheLaluka",
-      "title": "The CTF Where You Can't Patch the Code #shorts",
-      "link": "https://www.youtube.com/watch?v=GHvrkAcCuN4",
-      "published_at": "2026-11-21T15:25:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GHvrkAcCuN4/hqdefault.jpg"
     }
   ]
 }
