@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T15:49:38Z",
+  "updated": "2026-11-22T15:59:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,21 +10,36 @@
     },
     {
       "platform": "twitch",
+      "name": "Khaos_Farbauti",
+      "title": "Here we go again | THM Ide",
+      "link": "https://twitch.tv/Khaos_Farbauti",
+      "viewers": 7
+    },
+    {
+      "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 29
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "live du dimanche, pas de programme, comme d'hab ;)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 82
+      "viewers": 78
     }
   ],
-  "viewers_total": 110,
+  "viewers_total": 115,
   "videos": [
+    {
+      "video_id": "nzOIzJrpHgQ",
+      "channel": "mbcrump",
+      "title": "PS4 Jailbreak Complete Guide (14.02, GoldHEN, Backups & Saves)",
+      "link": "https://www.youtube.com/watch?v=nzOIzJrpHgQ",
+      "published_at": "2026-11-22T15:45:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nzOIzJrpHgQ/hqdefault.jpg"
+    },
     {
       "video_id": "X8zSttW00gA",
       "channel": "TheLaluka",
@@ -179,14 +194,6 @@
       "link": "https://www.youtube.com/watch?v=VBGdjnKm8Tg",
       "published_at": "2026-11-21T04:31:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VBGdjnKm8Tg/hqdefault.jpg"
-    },
-    {
-      "video_id": "kSqta4w3gWQ",
-      "channel": "EJSA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 4)",
-      "link": "https://www.youtube.com/watch?v=kSqta4w3gWQ",
-      "published_at": "2026-11-21T01:43:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/kSqta4w3gWQ/hqdefault.jpg"
     }
   ]
 }
