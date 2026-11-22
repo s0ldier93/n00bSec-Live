@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-22T06:19:02Z",
+  "updated": "2026-11-22T06:19:37Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "BlaiseBits",
-      "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
-      "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 40
-    },
     {
       "platform": "twitch",
       "name": "dal3ksec",
@@ -27,7 +20,7 @@
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 361
+      "viewers": 360
     },
     {
       "platform": "twitch",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 407,
+  "viewers_total": 366,
   "videos": [
     {
       "video_id": "yfPt6JljyYA",
