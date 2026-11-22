@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-22T22:19:38Z",
+  "updated": "2026-11-22T22:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Getting ready for a talk down in ProLUG Discord around cloud spending and AI in systems engineering.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 42
+      "viewers": 33
     }
   ],
-  "viewers_total": 42,
+  "viewers_total": 33,
   "videos": [
     {
       "video_id": "0r-danONh-8",
