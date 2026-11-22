@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-22T15:09:38Z",
+  "updated": "2026-11-22T15:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "HeckinSpectre",
       "title": "Console Testing GTA6",
       "link": "https://twitch.tv/HeckinSpectre",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 35
+      "viewers": 30
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "live du dimanche, pas de programme, comme d'hab ;)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 75
+      "viewers": 77
     }
   ],
-  "viewers_total": 111,
+  "viewers_total": 109,
   "videos": [
     {
       "video_id": "yfPt6JljyYA",
