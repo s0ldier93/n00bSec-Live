@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:39:37Z",
+  "updated": "2026-11-22T01:49:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "HeckinSpectre",
       "title": "Console Testing GTA6",
       "link": "https://twitch.tv/HeckinSpectre",
-      "viewers": 4
+      "viewers": 5
     }
   ],
-  "viewers_total": 449,
+  "viewers_total": 450,
   "videos": [
     {
       "video_id": "dbg-cR1luFk",
