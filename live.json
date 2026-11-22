@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-22T01:09:37Z",
+  "updated": "2026-11-22T01:19:37Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "c04tl",
+      "title": "Ojito con este Retold \ud83d\udc41\ufe0f\ud83d\udc41\ufe0f",
+      "link": "https://twitch.tv/c04tl",
+      "viewers": 0
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 421
+      "viewers": 433
     }
   ],
-  "viewers_total": 421,
+  "viewers_total": 433,
   "videos": [
     {
       "video_id": "dbg-cR1luFk",
