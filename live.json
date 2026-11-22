@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T19:59:38Z",
+  "updated": "2026-11-22T20:09:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,31 +13,24 @@
       "name": "kinslay3r",
       "title": "All is not calm and bright in Moonwell Pass",
       "link": "https://twitch.tv/kinslay3r",
-      "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "panekopanko",
-      "title": "it do be snowing",
-      "link": "https://twitch.tv/panekopanko",
-      "viewers": 36
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 37
+      "viewers": 40
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon",
       "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
-      "viewers": 24
+      "viewers": 21
     }
   ],
-  "viewers_total": 125,
+  "viewers_total": 90,
   "videos": [
     {
       "video_id": "qZ66zVVdci4",
