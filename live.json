@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-22T20:59:38Z",
+  "updated": "2026-11-22T21:09:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 46
+      "viewers": 43
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon",
       "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
-      "viewers": 17
+      "viewers": 16
     }
   ],
-  "viewers_total": 63,
+  "viewers_total": 59,
   "videos": [
     {
       "video_id": "qZ66zVVdci4",
