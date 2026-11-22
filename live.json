@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-22T02:19:37Z",
+  "updated": "2026-11-22T02:29:40Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 5
+      "viewers": 10
     },
     {
       "platform": "twitch",
@@ -20,25 +20,33 @@
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 467
+      "viewers": 447
     },
     {
       "platform": "twitch",
       "name": "HeckinSpectre",
       "title": "Console Testing GTA6",
       "link": "https://twitch.tv/HeckinSpectre",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://www.youtube.com/watch?v=yfPt6JljyYA",
-      "viewers": 3
+      "viewers": 6
     }
   ],
-  "viewers_total": 481,
+  "viewers_total": 468,
   "videos": [
+    {
+      "video_id": "yfPt6JljyYA",
+      "channel": "BlaiseBits",
+      "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
+      "link": "https://www.youtube.com/watch?v=yfPt6JljyYA",
+      "published_at": "2026-11-22T02:08:59+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yfPt6JljyYA/hqdefault.jpg"
+    },
     {
       "video_id": "dbg-cR1luFk",
       "channel": "EJSA",
@@ -193,14 +201,6 @@
       "link": "https://www.youtube.com/watch?v=Z1eUAoLOpYI",
       "published_at": "2026-11-20T23:00:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Z1eUAoLOpYI/hqdefault.jpg"
-    },
-    {
-      "video_id": "VCPuq4qr_78",
-      "channel": "pebl3",
-      "title": "He did the safe thing and asked to see their faces. Every face on the call was fake.",
-      "link": "https://www.youtube.com/watch?v=VCPuq4qr_78",
-      "published_at": "2026-11-20T22:02:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VCPuq4qr_78/hqdefault.jpg"
     }
   ]
 }
