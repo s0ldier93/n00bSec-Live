@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-22T02:59:37Z",
+  "updated": "2026-11-22T03:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 14
+      "viewers": 16
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Ojito con este Retold \ud83d\udc41\ufe0f\ud83d\udc41\ufe0f",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "dal3ksec",
       "title": "\ud83d\udcbbSaturday Night Stream - The Legend of Zelda Ocarina of Time | Making the comeback a habit!\ud83d\udcbb|Music & Mixing \ud83c\udfa7\ud83c\udfb9|Video & Editing \ud83d\udcfd\ufe0f\ud83c\udf9e\ufe0f |",
       "link": "https://twitch.tv/dal3ksec",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 446
+      "viewers": 432
     },
     {
       "platform": "twitch",
@@ -41,10 +41,10 @@
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://www.youtube.com/watch?v=yfPt6JljyYA",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 474,
+  "viewers_total": 461,
   "videos": [
     {
       "video_id": "yfPt6JljyYA",
