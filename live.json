@@ -1,36 +1,22 @@
 {
-  "updated": "2026-11-22T16:09:38Z",
+  "updated": "2026-11-22T16:19:38Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "HeckinSpectre",
-      "title": "Console Testing GTA6",
-      "link": "https://twitch.tv/HeckinSpectre",
-      "viewers": 1
-    },
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "Here we go again | THM Ide",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 24
+      "viewers": 60
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 21
-    },
-    {
-      "platform": "twitch",
-      "name": "topklean",
-      "title": "live du dimanche, pas de programme, comme d'hab ;)",
-      "link": "https://twitch.tv/topklean",
-      "viewers": 77
+      "viewers": 22
     }
   ],
-  "viewers_total": 123,
+  "viewers_total": 82,
   "videos": [
     {
       "video_id": "yxlplKXHxMQ",
