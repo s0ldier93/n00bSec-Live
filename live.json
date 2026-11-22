@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T15:59:37Z",
+  "updated": "2026-11-22T16:09:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,25 +13,34 @@
       "name": "Khaos_Farbauti",
       "title": "Here we go again | THM Ide",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 7
+      "viewers": 24
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "live du dimanche, pas de programme, comme d'hab ;)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 78
+      "viewers": 77
     }
   ],
-  "viewers_total": 115,
+  "viewers_total": 123,
   "videos": [
+    {
+      "video_id": "yxlplKXHxMQ",
+      "channel": "pebl3",
+      "title": "Hacking CTFs",
+      "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
+      "published_at": "2026-11-22T15:59:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yxlplKXHxMQ/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "nzOIzJrpHgQ",
       "channel": "mbcrump",
@@ -186,14 +195,6 @@
       "link": "https://www.youtube.com/watch?v=qgIDiKKe7To",
       "published_at": "2026-11-21T06:13:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qgIDiKKe7To/hqdefault.jpg"
-    },
-    {
-      "video_id": "VBGdjnKm8Tg",
-      "channel": "mbcrump",
-      "title": "Install kaiHEN on your Switch 2 via Civilization 7!",
-      "link": "https://www.youtube.com/watch?v=VBGdjnKm8Tg",
-      "published_at": "2026-11-21T04:31:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VBGdjnKm8Tg/hqdefault.jpg"
     }
   ]
 }
