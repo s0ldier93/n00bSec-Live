@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T02:09:38Z",
+  "updated": "2026-11-22T02:19:02Z",
   "streams": [
     {
       "platform": "twitch",
@@ -21,9 +21,16 @@
       "title": "Console Testing GTA6",
       "link": "https://twitch.tv/HeckinSpectre",
       "viewers": 5
+    },
+    {
+      "platform": "youtube",
+      "name": "BlaiseBits",
+      "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
+      "link": "https://www.youtube.com/watch?v=yfPt6JljyYA",
+      "viewers": 3
     }
   ],
-  "viewers_total": 453,
+  "viewers_total": 456,
   "videos": [
     {
       "video_id": "dbg-cR1luFk",
