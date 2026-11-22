@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:29:37Z",
+  "updated": "2026-11-22T01:39:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 437
+      "viewers": 444
     },
     {
       "platform": "twitch",
       "name": "HeckinSpectre",
       "title": "Console Testing GTA6",
       "link": "https://twitch.tv/HeckinSpectre",
-      "viewers": 0
+      "viewers": 4
     }
   ],
-  "viewers_total": 438,
+  "viewers_total": 449,
   "videos": [
     {
       "video_id": "dbg-cR1luFk",
