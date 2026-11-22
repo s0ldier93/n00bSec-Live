@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-22T16:19:38Z",
+  "updated": "2026-11-22T16:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "Here we go again | THM Ide",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 60
+      "viewers": 62
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 22
+      "viewers": 33
     }
   ],
-  "viewers_total": 82,
+  "viewers_total": 95,
   "videos": [
     {
       "video_id": "yxlplKXHxMQ",
