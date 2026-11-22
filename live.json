@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-22T00:39:37Z",
+  "updated": "2026-11-22T00:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 400
+      "viewers": 386
     },
     {
       "platform": "twitch",
       "name": "nahamsec",
       "title": "NahamCon Day 2",
       "link": "https://twitch.tv/nahamsec",
-      "viewers": 24
+      "viewers": 21
     },
     {
       "platform": "youtube",
       "name": "NahamSec",
       "title": "#NahamCon2026",
       "link": "https://www.youtube.com/watch?v=nwoE89BB4c8",
-      "viewers": 84
+      "viewers": 85
     }
   ],
-  "viewers_total": 508,
+  "viewers_total": 492,
   "videos": [
     {
       "video_id": "dbg-cR1luFk",
