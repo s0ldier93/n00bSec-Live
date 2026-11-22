@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-22T14:29:37Z",
+  "updated": "2026-11-22T14:39:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
+      "viewers": 24
     },
     {
       "platform": "twitch",
       "name": "topklean",
       "title": "live du dimanche, pas de programme, comme d'hab ;)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 55
+      "viewers": 63
     }
   ],
-  "viewers_total": 85,
+  "viewers_total": 87,
   "videos": [
     {
       "video_id": "yfPt6JljyYA",
