@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-22T21:19:37Z",
+  "updated": "2026-11-22T21:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "het_tanis",
       "title": "Getting ready for a talk down in ProLUG Discord around cloud spending and AI in systems engineering.",
       "link": "https://twitch.tv/het_tanis",
-      "viewers": 0
+      "viewers": 12
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 44
+      "viewers": 47
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon",
       "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
-      "viewers": 17
+      "viewers": 15
     }
   ],
-  "viewers_total": 61,
+  "viewers_total": 74,
   "videos": [
     {
       "video_id": "qZ66zVVdci4",
