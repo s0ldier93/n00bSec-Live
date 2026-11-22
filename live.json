@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T06:49:37Z",
+  "updated": "2026-11-22T06:59:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,10 @@
       "name": "djax_1",
       "title": "GTA6 PART 3",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "freshforensics",
-      "title": "Hacking & Modifying iPhone Apps Using Linux (No MAC!)",
-      "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
+      "viewers": 3
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "yfPt6JljyYA",
