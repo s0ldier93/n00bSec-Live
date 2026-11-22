@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-22T03:59:38Z",
+  "updated": "2026-11-22T04:09:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 25
+      "viewers": 22
     },
     {
       "platform": "twitch",
@@ -27,17 +27,24 @@
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 422
+      "viewers": 421
+    },
+    {
+      "platform": "twitch",
+      "name": "freshforensics",
+      "title": "Hacking & Modifying iPhone Apps Using Linux (No MAC!)",
+      "link": "https://twitch.tv/freshforensics",
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://www.youtube.com/watch?v=yfPt6JljyYA",
-      "viewers": 6
+      "viewers": 7
     }
   ],
-  "viewers_total": 457,
+  "viewers_total": 455,
   "videos": [
     {
       "video_id": "yfPt6JljyYA",
