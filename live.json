@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T19:49:38Z",
+  "updated": "2026-11-22T19:59:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,24 +20,24 @@
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 36
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 34
+      "viewers": 37
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon",
       "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
-      "viewers": 22
+      "viewers": 24
     }
   ],
-  "viewers_total": 111,
+  "viewers_total": 125,
   "videos": [
     {
       "video_id": "qZ66zVVdci4",
