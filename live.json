@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-22T12:29:38Z",
+  "updated": "2026-11-22T12:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "miloslavpalik",
       "title": "GTA 6 CHAT\ud83d\uddef\ufe0fUNF",
       "link": "https://twitch.tv/miloslavpalik",
-      "viewers": 5
+      "viewers": 3
+    },
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "it do be snowing",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 10
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 13,
   "videos": [
     {
       "video_id": "yfPt6JljyYA",
