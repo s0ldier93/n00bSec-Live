@@ -1,37 +1,52 @@
 {
-  "updated": "2026-11-22T17:09:19Z",
+  "updated": "2026-11-22T17:19:37Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "FloraTheExplorer_cyber",
+      "title": "I keep forgetting: Is it Suit or Suites? | Live Hacking | Burp Suit/e Practitioner",
+      "link": "https://twitch.tv/FloraTheExplorer_cyber",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "Here we go again | THM Ide",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 58
+      "viewers": 44
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 32
+      "viewers": 21
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 9
+      "viewers": 14
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon",
       "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
-      "viewers": 13
+      "viewers": 19
     }
   ],
-  "viewers_total": 112,
+  "viewers_total": 99,
   "videos": [
+    {
+      "video_id": "_ovf-ZE5sfY",
+      "channel": "Cyber_Insecurity",
+      "title": "New GPUs that only run approved models. That's the endgame.",
+      "link": "https://www.youtube.com/watch?v=_ovf-ZE5sfY",
+      "published_at": "2026-11-22T17:09:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/_ovf-ZE5sfY/hqdefault.jpg"
+    },
     {
       "video_id": "AV4r1eNVqFw",
       "channel": "Hackavis",
@@ -185,15 +200,6 @@
       "link": "https://www.youtube.com/watch?v=iWKmQRXOtOc",
       "published_at": "2026-11-21T14:42:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/iWKmQRXOtOc/hqdefault.jpg"
-    },
-    {
-      "video_id": "dAZQ0AMccPc",
-      "channel": "censoredHacker",
-      "title": "Playing GTA 6! with Stream #gta6",
-      "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "published_at": "2026-11-21T09:21:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dAZQ0AMccPc/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
