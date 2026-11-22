@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-22T18:09:37Z",
+  "updated": "2026-11-22T18:19:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "I keep forgetting: Is it Suit or Suites? | Live Hacking | Burp Suit/e Practitioner",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 28
+      "viewers": 25
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 22
+      "viewers": 17
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 29
+      "viewers": 32
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon",
       "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
-      "viewers": 17
+      "viewers": 24
     }
   ],
-  "viewers_total": 96,
+  "viewers_total": 98,
   "videos": [
+    {
+      "video_id": "UF34m6QrEDg",
+      "channel": "Hackavis",
+      "title": "Espiar una conversaci\u00f3n con un l\u00e1ser a trav\u00e9s de la ventana",
+      "link": "https://www.youtube.com/watch?v=UF34m6QrEDg",
+      "published_at": "2026-11-22T18:05:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UF34m6QrEDg/hqdefault.jpg"
+    },
     {
       "video_id": "_ovf-ZE5sfY",
       "channel": "Cyber_Insecurity",
@@ -185,14 +193,6 @@
       "link": "https://www.youtube.com/watch?v=w2A52-dhO9E",
       "published_at": "2026-11-21T15:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/w2A52-dhO9E/hqdefault.jpg"
-    },
-    {
-      "video_id": "iWKmQRXOtOc",
-      "channel": "TheLaluka",
-      "title": "Practices Finally Hits - Uncrashed Drone Simulator",
-      "link": "https://www.youtube.com/watch?v=iWKmQRXOtOc",
-      "published_at": "2026-11-21T14:42:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/iWKmQRXOtOc/hqdefault.jpg"
     }
   ]
 }
