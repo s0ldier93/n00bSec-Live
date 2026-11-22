@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-22T02:39:37Z",
+  "updated": "2026-11-22T02:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 15
+      "viewers": 14
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "HeckinSpectre",
       "title": "Console Testing GTA6",
       "link": "https://twitch.tv/HeckinSpectre",
-      "viewers": 5
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 474,
+  "viewers_total": 475,
   "videos": [
     {
       "video_id": "yfPt6JljyYA",
