@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T13:39:38Z",
+  "updated": "2026-11-22T13:49:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "topklean",
       "title": "live du dimanche, pas de programme, comme d'hab ;)",
       "link": "https://twitch.tv/topklean",
-      "viewers": 48
+      "viewers": 45
     }
   ],
-  "viewers_total": 76,
+  "viewers_total": 73,
   "videos": [
     {
       "video_id": "yfPt6JljyYA",
