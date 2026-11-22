@@ -1,36 +1,43 @@
 {
-  "updated": "2026-11-22T19:09:38Z",
+  "updated": "2026-11-22T19:19:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "I keep forgetting: Is it Suit or Suites? | Live Hacking | Burp Suit/e Practitioner",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 21
+      "viewers": 23
+    },
+    {
+      "platform": "twitch",
+      "name": "kinslay3r",
+      "title": "All is not calm and bright in Moonwell Pass",
+      "link": "https://twitch.tv/kinslay3r",
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 18
+      "viewers": 23
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 42
+      "viewers": 44
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon",
       "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
-      "viewers": 22
+      "viewers": 23
     }
   ],
-  "viewers_total": 103,
+  "viewers_total": 116,
   "videos": [
     {
       "video_id": "qZ66zVVdci4",
