@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-22T02:29:40Z",
+  "updated": "2026-11-22T02:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BlaiseBits",
       "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
       "link": "https://twitch.tv/BlaiseBits",
-      "viewers": 10
+      "viewers": 15
     },
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Ojito con este Retold \ud83d\udc41\ufe0f\ud83d\udc41\ufe0f",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 447
+      "viewers": 446
     },
     {
       "platform": "twitch",
       "name": "HeckinSpectre",
       "title": "Console Testing GTA6",
       "link": "https://twitch.tv/HeckinSpectre",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 468,
+  "viewers_total": 474,
   "videos": [
     {
       "video_id": "yfPt6JljyYA",
