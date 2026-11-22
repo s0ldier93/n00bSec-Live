@@ -1,31 +1,52 @@
 {
-  "updated": "2026-11-22T16:59:39Z",
+  "updated": "2026-11-22T17:09:19Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "Khaos_Farbauti",
       "title": "Here we go again | THM Ide",
       "link": "https://twitch.tv/Khaos_Farbauti",
-      "viewers": 64
+      "viewers": 58
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
+      "viewers": 32
+    },
+    {
+      "platform": "twitch",
+      "name": "pebl3",
+      "title": "Hacking CTFs | Launching Pebble Labs Soon | !discord !youtube",
+      "link": "https://twitch.tv/pebl3",
+      "viewers": 9
+    },
+    {
+      "platform": "youtube",
+      "name": "pebl3",
+      "title": "Hacking CTFs | Launching Pebble Labs Soon",
+      "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
+      "viewers": 13
     }
   ],
-  "viewers_total": 94,
+  "viewers_total": 112,
   "videos": [
+    {
+      "video_id": "AV4r1eNVqFw",
+      "channel": "Hackavis",
+      "title": "As\u00ed es como los Hackers te ROBAN el WhatsApp SIN contrase\u00f1a (Y ni te enteras)",
+      "link": "https://www.youtube.com/watch?v=AV4r1eNVqFw",
+      "published_at": "2026-11-22T17:00:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/AV4r1eNVqFw/hqdefault.jpg"
+    },
     {
       "video_id": "yxlplKXHxMQ",
       "channel": "pebl3",
       "title": "Hacking CTFs",
       "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
       "published_at": "2026-11-22T15:59:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yxlplKXHxMQ/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/yxlplKXHxMQ/hqdefault.jpg"
     },
     {
       "video_id": "nzOIzJrpHgQ",
@@ -173,14 +194,6 @@
       "published_at": "2026-11-21T09:21:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dAZQ0AMccPc/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "qgIDiKKe7To",
-      "channel": "censoredHacker",
-      "title": "Study with me",
-      "link": "https://www.youtube.com/watch?v=qgIDiKKe7To",
-      "published_at": "2026-11-21T06:13:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qgIDiKKe7To/hqdefault.jpg"
     }
   ]
 }
