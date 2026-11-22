@@ -1,37 +1,45 @@
 {
-  "updated": "2026-11-22T18:19:38Z",
+  "updated": "2026-11-22T18:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "FloraTheExplorer_cyber",
       "title": "I keep forgetting: Is it Suit or Suites? | Live Hacking | Burp Suit/e Practitioner",
       "link": "https://twitch.tv/FloraTheExplorer_cyber",
-      "viewers": 25
+      "viewers": 26
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "it do be snowing",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 17
+      "viewers": 19
     },
     {
       "platform": "twitch",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon | !discord !youtube",
       "link": "https://twitch.tv/pebl3",
-      "viewers": 32
+      "viewers": 36
     },
     {
       "platform": "youtube",
       "name": "pebl3",
       "title": "Hacking CTFs | Launching Pebble Labs Soon",
       "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
-      "viewers": 24
+      "viewers": 14
     }
   ],
-  "viewers_total": 98,
+  "viewers_total": 95,
   "videos": [
+    {
+      "video_id": "GPXJVO3c72w",
+      "channel": "CyberWarriorStudios",
+      "title": "\"Everything We See Right Now Is a Deception\" | Ex-Gov Deception Expert #Shorts",
+      "link": "https://www.youtube.com/watch?v=GPXJVO3c72w",
+      "published_at": "2026-11-22T18:21:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GPXJVO3c72w/hqdefault.jpg"
+    },
     {
       "video_id": "UF34m6QrEDg",
       "channel": "Hackavis",
@@ -185,14 +193,6 @@
       "link": "https://www.youtube.com/watch?v=Oj-vfKqtoik",
       "published_at": "2026-11-21T15:01:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Oj-vfKqtoik/hqdefault.jpg"
-    },
-    {
-      "video_id": "w2A52-dhO9E",
-      "channel": "ippsec",
-      "title": "HackTheBox - PingPong",
-      "link": "https://www.youtube.com/watch?v=w2A52-dhO9E",
-      "published_at": "2026-11-21T15:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/w2A52-dhO9E/hqdefault.jpg"
     }
   ]
 }
