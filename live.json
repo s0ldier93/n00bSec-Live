@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-23T03:19:37Z",
+  "updated": "2026-11-23T03:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "c04tl",
       "title": "Rankeamos | Saquenme de Hierro 3 \ud83d\ude2d",
       "link": "https://twitch.tv/c04tl",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 6) 11/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 376
+      "viewers": 372
     }
   ],
-  "viewers_total": 382,
+  "viewers_total": 377,
   "videos": [
     {
       "video_id": "cCVvhf-9tUI",
