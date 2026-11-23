@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-23T11:08:42Z",
+  "updated": "2026-11-23T12:18:41Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "SgXVXW1aoL4",
+      "channel": "hack_smarter",
+      "title": "Hacking Linux (GitOops - Part 1)",
+      "link": "https://www.youtube.com/watch?v=SgXVXW1aoL4",
+      "published_at": "2026-11-23T12:00:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SgXVXW1aoL4/hqdefault.jpg"
+    },
     {
       "video_id": "vFcjT8zvsIE",
       "channel": "DCCyberSec",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=4foYMUrNN88",
       "published_at": "2026-11-21T17:55:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4foYMUrNN88/hqdefault.jpg"
-    },
-    {
-      "video_id": "cjdMrBSR9zM",
-      "channel": "CyberWarriorStudios",
-      "title": "Bored at Work, He Built a Digital Twin and Unleashed a Virus \ud83e\udda0 #Shorts",
-      "link": "https://www.youtube.com/watch?v=cjdMrBSR9zM",
-      "published_at": "2026-11-21T17:50:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cjdMrBSR9zM/hqdefault.jpg"
     }
   ]
 }
