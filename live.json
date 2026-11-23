@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-23T17:38:45Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-23T17:39:37Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "ChrisTitusTech",
+      "title": "\ud83d\udd34 WinUtil craziness and Game Dev?",
+      "link": "https://twitch.tv/ChrisTitusTech",
+      "viewers": 58
+    }
+  ],
+  "viewers_total": 58,
   "videos": [
     {
       "video_id": "r-mv2hnSDSo",
