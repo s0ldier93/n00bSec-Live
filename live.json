@@ -1,16 +1,25 @@
 {
-  "updated": "2026-11-23T19:19:37Z",
+  "updated": "2026-11-23T19:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ChrisTitusTech",
       "title": "\ud83d\udd34 WinUtil craziness and Game Dev?",
       "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 159
+      "viewers": 161
     }
   ],
-  "viewers_total": 159,
+  "viewers_total": 161,
   "videos": [
+    {
+      "video_id": "7OsLJKDQKvY",
+      "channel": "pebl3",
+      "title": "Hacking HTB PingPong (Insane Active Directory Cross-Forest Lab)",
+      "link": "https://www.youtube.com/watch?v=7OsLJKDQKvY",
+      "published_at": "2026-11-23T19:21:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/7OsLJKDQKvY/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "cWKswlcTFTs",
       "channel": "Hackavis",
@@ -163,14 +172,6 @@
       "link": "https://www.youtube.com/watch?v=0r-danONh-8",
       "published_at": "2026-11-22T22:02:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0r-danONh-8/hqdefault.jpg"
-    },
-    {
-      "video_id": "qZ66zVVdci4",
-      "channel": "TheLaluka",
-      "title": "33 Crashes for a Silver Medal? | Lalulife - Uncrashed 3.0",
-      "link": "https://www.youtube.com/watch?v=qZ66zVVdci4",
-      "published_at": "2026-11-22T18:28:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qZ66zVVdci4/hqdefault.jpg"
     }
   ]
 }
