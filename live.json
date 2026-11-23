@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-22T22:49:37Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-23T00:09:02Z",
+  "streams": [
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 6) 11/22/26",
+      "link": "https://www.youtube.com/watch?v=cCVvhf-9tUI",
+      "viewers": 13
+    }
+  ],
+  "viewers_total": 13,
   "videos": [
     {
       "video_id": "0r-danONh-8",
