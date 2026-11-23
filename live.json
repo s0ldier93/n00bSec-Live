@@ -1,23 +1,31 @@
 {
-  "updated": "2026-11-23T14:59:38Z",
+  "updated": "2026-11-23T15:09:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Cyber News Room",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 60
+      "viewers": 62
     },
     {
       "platform": "youtube",
       "name": "Cyber_Insecurity",
       "title": "Cyber News Room",
       "link": "https://www.youtube.com/watch?v=88d4fNgJdRU",
-      "viewers": 9
+      "viewers": 10
     }
   ],
-  "viewers_total": 69,
+  "viewers_total": 72,
   "videos": [
+    {
+      "video_id": "7RPJtqvhwsE",
+      "channel": "SecurityWeekly",
+      "title": "When Disclosure Deadlines Increase Risk",
+      "link": "https://www.youtube.com/watch?v=7RPJtqvhwsE",
+      "published_at": "2026-11-23T15:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/7RPJtqvhwsE/hqdefault.jpg"
+    },
     {
       "video_id": "09FGbC-dskk",
       "channel": "Khaos_Farbauti",
@@ -170,14 +178,6 @@
       "published_at": "2026-11-22T15:16:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/hzIgvozf8lc/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "yfPt6JljyYA",
-      "channel": "BlaiseBits",
-      "title": "Hack the planet! Hacking Westbridge University by Hack Smarter",
-      "link": "https://www.youtube.com/watch?v=yfPt6JljyYA",
-      "published_at": "2026-11-22T02:08:59+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yfPt6JljyYA/hqdefault.jpg"
     }
   ]
 }
