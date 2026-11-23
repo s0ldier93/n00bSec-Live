@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-23T00:09:38Z",
+  "updated": "2026-11-23T00:19:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 6) 11/22/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 96
+      "viewers": 204
     }
   ],
-  "viewers_total": 96,
+  "viewers_total": 204,
   "videos": [
+    {
+      "video_id": "cCVvhf-9tUI",
+      "channel": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 6) 11/22/26",
+      "link": "https://www.youtube.com/watch?v=cCVvhf-9tUI",
+      "published_at": "2026-11-23T00:01:41+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cCVvhf-9tUI/hqdefault.jpg"
+    },
     {
       "video_id": "0r-danONh-8",
       "channel": "pebl3",
@@ -164,14 +172,6 @@
       "link": "https://www.youtube.com/watch?v=oJBvGM7mea8",
       "published_at": "2026-11-21T17:02:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oJBvGM7mea8/hqdefault.jpg"
-    },
-    {
-      "video_id": "ww6WOTJpo6g",
-      "channel": "SecurityWeekly",
-      "title": "Deepfake Elon Musk Nearly Scammed Crypto Users",
-      "link": "https://www.youtube.com/watch?v=ww6WOTJpo6g",
-      "published_at": "2026-11-21T16:00:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ww6WOTJpo6g/hqdefault.jpg"
     }
   ]
 }
