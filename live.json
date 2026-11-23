@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-23T14:19:37Z",
+  "updated": "2026-11-23T14:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Cyber News Room",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 38
+      "viewers": 41
     },
     {
       "platform": "youtube",
       "name": "Cyber_Insecurity",
       "title": "Cyber News Room",
       "link": "https://www.youtube.com/watch?v=88d4fNgJdRU",
-      "viewers": 5
+      "viewers": 8
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 23's Top Cyber News NOW! - Ep 1293",
       "link": "https://www.youtube.com/watch?v=i6cUL8QiQ3g",
-      "viewers": 252
+      "viewers": 228
     }
   ],
-  "viewers_total": 295,
+  "viewers_total": 277,
   "videos": [
     {
       "video_id": "HSfvlaRUF8o",
