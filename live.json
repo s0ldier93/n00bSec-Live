@@ -1,23 +1,16 @@
 {
-  "updated": "2026-11-23T15:19:38Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "cyber_insecurity",
-      "title": "Cyber News Room",
-      "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 57
-    },
-    {
-      "platform": "youtube",
-      "name": "Cyber_Insecurity",
-      "title": "Cyber News Room",
-      "link": "https://www.youtube.com/watch?v=88d4fNgJdRU",
-      "viewers": 11
-    }
-  ],
-  "viewers_total": 68,
+  "updated": "2026-11-23T15:29:18Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "LegWmDqGaZg",
+      "channel": "TheLaluka",
+      "title": "Can Timing Alone Reveal Your Password? #shorts",
+      "link": "https://www.youtube.com/watch?v=LegWmDqGaZg",
+      "published_at": "2026-11-23T15:25:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LegWmDqGaZg/hqdefault.jpg"
+    },
     {
       "video_id": "7RPJtqvhwsE",
       "channel": "SecurityWeekly",
@@ -169,15 +162,6 @@
       "link": "https://www.youtube.com/watch?v=X8zSttW00gA",
       "published_at": "2026-11-22T15:25:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/X8zSttW00gA/hqdefault.jpg"
-    },
-    {
-      "video_id": "hzIgvozf8lc",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Nov 27's Top Cyber News NOW! - Ep 1296",
-      "link": "https://www.youtube.com/watch?v=hzIgvozf8lc",
-      "published_at": "2026-11-22T15:16:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hzIgvozf8lc/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
