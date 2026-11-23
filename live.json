@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-23T07:49:37Z",
+  "updated": "2026-11-23T10:08:59Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "qu2BPEEf0NQ",
+      "channel": "SecurityWeekly",
+      "title": "The vulnerability management commons dilemma, top security categories in Q4, & news - ESW #486",
+      "link": "https://www.youtube.com/watch?v=qu2BPEEf0NQ",
+      "published_at": "2026-11-23T10:00:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qu2BPEEf0NQ/hqdefault.jpg"
+    },
     {
       "video_id": "cCVvhf-9tUI",
       "channel": "EJSA",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=nwoE89BB4c8",
       "published_at": "2026-11-21T17:03:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nwoE89BB4c8/hqdefault.jpg"
-    },
-    {
-      "video_id": "oJBvGM7mea8",
-      "channel": "Cyber_Insecurity",
-      "title": "Cyber is CLI tools. Pick a model that's good at tool calls.",
-      "link": "https://www.youtube.com/watch?v=oJBvGM7mea8",
-      "published_at": "2026-11-21T17:02:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oJBvGM7mea8/hqdefault.jpg"
     }
   ]
 }
