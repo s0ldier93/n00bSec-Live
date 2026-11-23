@@ -1,19 +1,26 @@
 {
-  "updated": "2026-11-23T21:19:37Z",
+  "updated": "2026-11-23T21:29:37Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "antisyphon",
+      "title": "BHIS - Talkin' Bout [infosec] News 2026-11-23",
+      "link": "https://twitch.tv/antisyphon",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "decorating the stream for xmas :)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 415
+      "viewers": 454
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -30,8 +37,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 445,
+  "viewers_total": 487,
   "videos": [
+    {
+      "video_id": "ZVHuq_SKYig",
+      "channel": "pebl3",
+      "title": "Introducing Pebble Labs",
+      "link": "https://www.youtube.com/watch?v=ZVHuq_SKYig",
+      "published_at": "2026-11-23T21:11:59+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ZVHuq_SKYig/hqdefault.jpg"
+    },
     {
       "video_id": "70O0cRj5RyE",
       "channel": "MSec",
@@ -186,14 +201,6 @@
       "link": "https://www.youtube.com/watch?v=SgXVXW1aoL4",
       "published_at": "2026-11-23T12:00:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SgXVXW1aoL4/hqdefault.jpg"
-    },
-    {
-      "video_id": "vFcjT8zvsIE",
-      "channel": "DCCyberSec",
-      "title": "The AI Business Model Nobody Is Talking About",
-      "link": "https://www.youtube.com/watch?v=vFcjT8zvsIE",
-      "published_at": "2026-11-23T11:00:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/vFcjT8zvsIE/hqdefault.jpg"
     }
   ]
 }
