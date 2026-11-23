@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-23T14:49:38Z",
+  "updated": "2026-11-23T14:59:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Cyber News Room",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 55
+      "viewers": 60
     },
     {
       "platform": "youtube",
       "name": "Cyber_Insecurity",
       "title": "Cyber News Room",
       "link": "https://www.youtube.com/watch?v=88d4fNgJdRU",
-      "viewers": 7
+      "viewers": 9
     }
   ],
-  "viewers_total": 62,
+  "viewers_total": 69,
   "videos": [
     {
       "video_id": "09FGbC-dskk",
