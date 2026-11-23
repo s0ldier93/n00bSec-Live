@@ -1,16 +1,17 @@
 {
-  "updated": "2026-11-23T19:49:38Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "ChrisTitusTech",
-      "title": "\ud83d\udd34 WinUtil craziness and Game Dev?",
-      "link": "https://twitch.tv/ChrisTitusTech",
-      "viewers": 158
-    }
-  ],
-  "viewers_total": 158,
+  "updated": "2026-11-23T19:59:38Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "GBWMHj5aWhY",
+      "channel": "pebl3",
+      "title": "Hacking a Whole Company Network Live: Pebble Labs Launch",
+      "link": "https://www.youtube.com/watch?v=GBWMHj5aWhY",
+      "published_at": "2026-11-23T19:49:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GBWMHj5aWhY/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "7OsLJKDQKvY",
       "channel": "pebl3",
@@ -164,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=cCVvhf-9tUI",
       "published_at": "2026-11-23T00:01:41+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cCVvhf-9tUI/hqdefault.jpg"
-    },
-    {
-      "video_id": "0r-danONh-8",
-      "channel": "pebl3",
-      "title": "The hacker already had the password. He still needed one person to tap approve.",
-      "link": "https://www.youtube.com/watch?v=0r-danONh-8",
-      "published_at": "2026-11-22T22:02:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0r-danONh-8/hqdefault.jpg"
     }
   ]
 }
