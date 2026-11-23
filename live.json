@@ -1,33 +1,26 @@
 {
-  "updated": "2026-11-23T21:39:37Z",
+  "updated": "2026-11-23T21:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-11-23",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "decorating the stream for xmas :)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 358
+      "viewers": 495
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
-    },
-    {
-      "platform": "twitch",
-      "name": "pwncollege",
-      "title": "CSE466 - Week 13 - Sandboxing",
-      "link": "https://twitch.tv/pwncollege",
-      "viewers": 21
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -37,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 387,
+  "viewers_total": 503,
   "videos": [
     {
       "video_id": "X8voY9yCmTM",
