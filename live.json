@@ -1,16 +1,32 @@
 {
-  "updated": "2026-11-23T16:19:37Z",
+  "updated": "2026-11-23T16:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "offsecofficial",
       "title": "OffSec Live | OSCP+ Scoring Updates: AMA with Jim O'Gorman and Stephen Weathers",
       "link": "https://twitch.tv/offsecofficial",
-      "viewers": 17
+      "viewers": 20
     }
   ],
-  "viewers_total": 17,
+  "viewers_total": 20,
   "videos": [
+    {
+      "video_id": "5EwEMNOYJvk",
+      "channel": "shenetworks",
+      "title": "LLMJacking? #cybersecurity #AI #infosec #cloudsecurity #LLM",
+      "link": "https://www.youtube.com/watch?v=5EwEMNOYJvk",
+      "published_at": "2026-11-23T16:27:59+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5EwEMNOYJvk/hqdefault.jpg"
+    },
+    {
+      "video_id": "jHHOUfFBFjE",
+      "channel": "CyberWarriorStudios",
+      "title": "Break Your Routine: Stop Living on Autopilot",
+      "link": "https://www.youtube.com/watch?v=jHHOUfFBFjE",
+      "published_at": "2026-11-23T16:20:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/jHHOUfFBFjE/hqdefault.jpg"
+    },
     {
       "video_id": "p0ZlaR-K5Xc",
       "channel": "LiveOverflow",
@@ -154,22 +170,6 @@
       "link": "https://www.youtube.com/watch?v=AV4r1eNVqFw",
       "published_at": "2026-11-22T17:00:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/AV4r1eNVqFw/hqdefault.jpg"
-    },
-    {
-      "video_id": "yxlplKXHxMQ",
-      "channel": "pebl3",
-      "title": "Hacking CTFs",
-      "link": "https://www.youtube.com/watch?v=yxlplKXHxMQ",
-      "published_at": "2026-11-22T15:59:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yxlplKXHxMQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "nzOIzJrpHgQ",
-      "channel": "mbcrump",
-      "title": "PS4 Jailbreak Complete Guide (14.02, GoldHEN, Backups & Saves)",
-      "link": "https://www.youtube.com/watch?v=nzOIzJrpHgQ",
-      "published_at": "2026-11-22T15:45:58+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nzOIzJrpHgQ/hqdefault.jpg"
     }
   ]
 }
