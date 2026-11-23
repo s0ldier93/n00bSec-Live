@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-23T14:39:14Z",
+  "updated": "2026-11-23T14:49:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "cyber_insecurity",
       "title": "Cyber News Room",
       "link": "https://twitch.tv/cyber_insecurity",
-      "viewers": 56
+      "viewers": 55
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 7
     }
   ],
-  "viewers_total": 63,
+  "viewers_total": 62,
   "videos": [
+    {
+      "video_id": "09FGbC-dskk",
+      "channel": "Khaos_Farbauti",
+      "title": "FINIR AVANT 18H ? | THM Ide",
+      "link": "https://www.youtube.com/watch?v=09FGbC-dskk",
+      "published_at": "2026-11-23T14:40:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/09FGbC-dskk/hqdefault.jpg"
+    },
     {
       "video_id": "HSfvlaRUF8o",
       "channel": "CyberWarriorStudios",
@@ -170,14 +178,6 @@
       "link": "https://www.youtube.com/watch?v=yfPt6JljyYA",
       "published_at": "2026-11-22T02:08:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yfPt6JljyYA/hqdefault.jpg"
-    },
-    {
-      "video_id": "dbg-cR1luFk",
-      "channel": "EJSA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 5) 11/21/26",
-      "link": "https://www.youtube.com/watch?v=dbg-cR1luFk",
-      "published_at": "2026-11-21T22:43:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dbg-cR1luFk/hqdefault.jpg"
     }
   ]
 }
