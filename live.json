@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-23T21:09:37Z",
+  "updated": "2026-11-23T21:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "decorating the stream for xmas :)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 292
+      "viewers": 415
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "pwncollege",
       "title": "CSE466 - Week 13 - Sandboxing",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 16
+      "viewers": 26
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 312,
+  "viewers_total": 445,
   "videos": [
     {
       "video_id": "70O0cRj5RyE",
