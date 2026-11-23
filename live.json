@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-23T21:29:37Z",
+  "updated": "2026-11-23T21:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "antisyphon",
       "title": "BHIS - Talkin' Bout [infosec] News 2026-11-23",
       "link": "https://twitch.tv/antisyphon",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "decorating the stream for xmas :)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 454
+      "viewers": 358
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "CSE466 - Week 13 - Sandboxing",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 26
+      "viewers": 21
     },
     {
       "platform": "youtube",
@@ -37,8 +37,17 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 487,
+  "viewers_total": 387,
   "videos": [
+    {
+      "video_id": "X8voY9yCmTM",
+      "channel": "CyberWarriorStudios",
+      "title": "Steady Paycheck or Freedom? FTE vs Consulting in Cyber | Security Happy Hour ft. Amber Wheeler",
+      "link": "https://www.youtube.com/watch?v=X8voY9yCmTM",
+      "published_at": "2026-11-23T21:21:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/X8voY9yCmTM/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "ZVHuq_SKYig",
       "channel": "pebl3",
@@ -193,14 +202,6 @@
       "link": "https://www.youtube.com/watch?v=8pS4OO5AxJk",
       "published_at": "2026-11-23T13:00:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8pS4OO5AxJk/hqdefault.jpg"
-    },
-    {
-      "video_id": "SgXVXW1aoL4",
-      "channel": "hack_smarter",
-      "title": "Hacking Linux (GitOops - Part 1)",
-      "link": "https://www.youtube.com/watch?v=SgXVXW1aoL4",
-      "published_at": "2026-11-23T12:00:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SgXVXW1aoL4/hqdefault.jpg"
     }
   ]
 }
