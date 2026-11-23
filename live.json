@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T22:09:37Z",
+  "updated": "2026-11-23T22:19:42Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "bashbunni",
       "title": "decorating the stream for xmas :)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 577
+      "viewers": 572
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 5
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -30,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 584,
+  "viewers_total": 581,
   "videos": [
+    {
+      "video_id": "8yAsXhD7GSc",
+      "channel": "pebl3",
+      "title": "A password company lost its backups because one engineer never updated his movie app.",
+      "link": "https://www.youtube.com/watch?v=8yAsXhD7GSc",
+      "published_at": "2026-11-23T22:02:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8yAsXhD7GSc/hqdefault.jpg"
+    },
     {
       "video_id": "X8voY9yCmTM",
       "channel": "CyberWarriorStudios",
@@ -187,14 +195,6 @@
       "link": "https://www.youtube.com/watch?v=88d4fNgJdRU",
       "published_at": "2026-11-23T13:57:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/88d4fNgJdRU/hqdefault.jpg"
-    },
-    {
-      "video_id": "8pS4OO5AxJk",
-      "channel": "team_whoami",
-      "title": "RopGadget Buffer Overflow",
-      "link": "https://www.youtube.com/watch?v=8pS4OO5AxJk",
-      "published_at": "2026-11-23T13:00:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8pS4OO5AxJk/hqdefault.jpg"
     }
   ]
 }
