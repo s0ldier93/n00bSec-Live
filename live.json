@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-23T16:09:37Z",
+  "updated": "2026-11-23T16:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "offsecofficial",
       "title": "OffSec Live | OSCP+ Scoring Updates: AMA with Jim O'Gorman and Stephen Weathers",
       "link": "https://twitch.tv/offsecofficial",
-      "viewers": 11
+      "viewers": 17
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 17,
   "videos": [
     {
       "video_id": "p0ZlaR-K5Xc",
