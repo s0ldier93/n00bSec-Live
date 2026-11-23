@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-23T05:59:39Z",
+  "updated": "2026-11-23T07:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
+      "viewers": 3
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 3,
   "videos": [
     {
       "video_id": "cCVvhf-9tUI",
