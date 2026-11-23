@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-23T19:59:38Z",
+  "updated": "2026-11-23T20:08:42Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "gYfwbrpyJsM",
+      "channel": "SecurityWeekly",
+      "title": "How One Patch Triggered Cascading Failures",
+      "link": "https://www.youtube.com/watch?v=gYfwbrpyJsM",
+      "published_at": "2026-11-23T20:00:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gYfwbrpyJsM/hqdefault.jpg"
+    },
     {
       "video_id": "GBWMHj5aWhY",
       "channel": "pebl3",
@@ -157,14 +165,6 @@
       "link": "https://www.youtube.com/watch?v=qu2BPEEf0NQ",
       "published_at": "2026-11-23T10:00:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qu2BPEEf0NQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "cCVvhf-9tUI",
-      "channel": "EJSA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 6) 11/22/26",
-      "link": "https://www.youtube.com/watch?v=cCVvhf-9tUI",
-      "published_at": "2026-11-23T00:01:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cCVvhf-9tUI/hqdefault.jpg"
     }
   ]
 }
