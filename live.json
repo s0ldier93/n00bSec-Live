@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-23T03:49:37Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "c04tl",
-      "title": "Rankeamos | Saquenme de Hierro 3 \ud83d\ude2d",
-      "link": "https://twitch.tv/c04tl",
-      "viewers": 3
-    }
-  ],
-  "viewers_total": 3,
+  "updated": "2026-11-23T03:59:37Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "cCVvhf-9tUI",
