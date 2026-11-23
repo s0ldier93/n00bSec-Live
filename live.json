@@ -1,15 +1,29 @@
 {
-  "updated": "2026-11-23T20:39:37Z",
+  "updated": "2026-11-23T20:49:14Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "msec",
+      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
+      "link": "https://twitch.tv/msec",
+      "viewers": 3
+    },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "CSE466 - Week 13 - Sandboxing",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 5
+      "viewers": 7
+    },
+    {
+      "platform": "youtube",
+      "name": "MSec",
+      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
+      "link": "https://www.youtube.com/watch?v=70O0cRj5RyE",
+      "viewers": 1
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 11,
   "videos": [
     {
       "video_id": "gYfwbrpyJsM",
