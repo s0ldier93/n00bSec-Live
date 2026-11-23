@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:59:37Z",
+  "updated": "2026-11-23T22:09:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "bashbunni",
       "title": "decorating the stream for xmas :)",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 502
+      "viewers": 577
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 510,
+  "viewers_total": 584,
   "videos": [
     {
       "video_id": "X8voY9yCmTM",
