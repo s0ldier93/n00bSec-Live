@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-23T10:08:59Z",
+  "updated": "2026-11-23T11:08:42Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "vFcjT8zvsIE",
+      "channel": "DCCyberSec",
+      "title": "The AI Business Model Nobody Is Talking About",
+      "link": "https://www.youtube.com/watch?v=vFcjT8zvsIE",
+      "published_at": "2026-11-23T11:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vFcjT8zvsIE/hqdefault.jpg"
+    },
     {
       "video_id": "qu2BPEEf0NQ",
       "channel": "SecurityWeekly",
@@ -156,14 +164,6 @@
       "link": "https://www.youtube.com/watch?v=cjdMrBSR9zM",
       "published_at": "2026-11-21T17:50:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cjdMrBSR9zM/hqdefault.jpg"
-    },
-    {
-      "video_id": "nwoE89BB4c8",
-      "channel": "NahamSec",
-      "title": "#NahamCon2026: Virtual Hacking Conference | Day 2",
-      "link": "https://www.youtube.com/watch?v=nwoE89BB4c8",
-      "published_at": "2026-11-21T17:03:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nwoE89BB4c8/hqdefault.jpg"
     }
   ]
 }
