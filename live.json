@@ -1,26 +1,12 @@
 {
-  "updated": "2026-11-23T22:29:37Z",
+  "updated": "2026-11-23T22:39:37Z",
   "streams": [
-    {
-      "platform": "twitch",
-      "name": "antisyphon",
-      "title": "BHIS - Talkin' Bout [infosec] News 2026-11-23",
-      "link": "https://twitch.tv/antisyphon",
-      "viewers": 2
-    },
-    {
-      "platform": "twitch",
-      "name": "bashbunni",
-      "title": "decorating the stream for xmas :)",
-      "link": "https://twitch.tv/bashbunni",
-      "viewers": 567
-    },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 6
+      "viewers": 7
     },
     {
       "platform": "youtube",
@@ -30,7 +16,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 576,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "8yAsXhD7GSc",
