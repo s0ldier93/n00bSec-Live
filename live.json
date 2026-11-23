@@ -1,19 +1,26 @@
 {
-  "updated": "2026-11-23T20:49:14Z",
+  "updated": "2026-11-23T20:59:37Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "bashbunni",
+      "title": "decorating the stream for xmas :)",
+      "link": "https://twitch.tv/bashbunni",
+      "viewers": 3
+    },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "pwncollege",
       "title": "CSE466 - Week 13 - Sandboxing",
       "link": "https://twitch.tv/pwncollege",
-      "viewers": 7
+      "viewers": 13
     },
     {
       "platform": "youtube",
@@ -23,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "gYfwbrpyJsM",
