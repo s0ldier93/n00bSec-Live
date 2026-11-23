@@ -1,8 +1,17 @@
 {
-  "updated": "2026-11-23T17:18:43Z",
+  "updated": "2026-11-23T17:38:45Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "r-mv2hnSDSo",
+      "channel": "B7H30",
+      "title": "\"AI will help us find the bugs first\" | ARTEX: \"Hold My Beer\" | OSCP Study on HTB",
+      "link": "https://www.youtube.com/watch?v=r-mv2hnSDSo",
+      "published_at": "2026-11-23T17:31:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/r-mv2hnSDSo/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "nsqWFV6yhMU",
       "channel": "Cyber_Insecurity",
@@ -154,14 +163,6 @@
       "link": "https://www.youtube.com/watch?v=GPXJVO3c72w",
       "published_at": "2026-11-22T18:21:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GPXJVO3c72w/hqdefault.jpg"
-    },
-    {
-      "video_id": "UF34m6QrEDg",
-      "channel": "Hackavis",
-      "title": "Espiar una conversaci\u00f3n con un l\u00e1ser a trav\u00e9s de la ventana",
-      "link": "https://www.youtube.com/watch?v=UF34m6QrEDg",
-      "published_at": "2026-11-22T18:05:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UF34m6QrEDg/hqdefault.jpg"
     }
   ]
 }
