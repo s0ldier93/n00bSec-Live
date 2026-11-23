@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-23T20:08:42Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-23T20:39:37Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "pwncollege",
+      "title": "CSE466 - Week 13 - Sandboxing",
+      "link": "https://twitch.tv/pwncollege",
+      "viewers": 5
+    }
+  ],
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "gYfwbrpyJsM",
