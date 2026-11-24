@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-24T20:39:37Z",
+  "updated": "2026-11-24T20:49:37Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "bashbunni",
+      "title": "FOCUS WITH ME: locking in for the final month of the year",
+      "link": "https://twitch.tv/bashbunni",
+      "viewers": 130
+    },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 125
+      "viewers": 204
     }
   ],
-  "viewers_total": 125,
+  "viewers_total": 334,
   "videos": [
     {
       "video_id": "b0fOmU9l1do",
