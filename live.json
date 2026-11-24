@@ -1,30 +1,40 @@
 {
-  "updated": "2026-11-24T22:09:38Z",
+  "updated": "2026-11-24T22:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "FOCUS WITH ME: locking in for the final month of the year",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 539
-    },
-    {
-      "platform": "twitch",
-      "name": "cybertechvibes",
-      "title": "fishing and chilling before work",
-      "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 491
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 368
+      "viewers": 362
     }
   ],
-  "viewers_total": 908,
+  "viewers_total": 853,
   "videos": [
+    {
+      "video_id": "kaW1QoX1CbE",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Dec 4's Top Cyber News NOW! - Ep 1301",
+      "link": "https://www.youtube.com/watch?v=kaW1QoX1CbE",
+      "published_at": "2026-11-24T22:07:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/kaW1QoX1CbE/hqdefault.jpg",
+      "upcoming": true
+    },
+    {
+      "video_id": "rzajsZZ_2EU",
+      "channel": "pebl3",
+      "title": "Hackers took Instagram accounts by asking Meta's own AI support tool to reset the password.",
+      "link": "https://www.youtube.com/watch?v=rzajsZZ_2EU",
+      "published_at": "2026-11-24T22:02:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/rzajsZZ_2EU/hqdefault.jpg"
+    },
     {
       "video_id": "61Ip0EtrgL4",
       "channel": "SecurityWeekly",
@@ -169,23 +179,6 @@
       "link": "https://www.youtube.com/watch?v=8yAsXhD7GSc",
       "published_at": "2026-11-23T22:02:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8yAsXhD7GSc/hqdefault.jpg"
-    },
-    {
-      "video_id": "X8voY9yCmTM",
-      "channel": "CyberWarriorStudios",
-      "title": "Steady Paycheck or Freedom? FTE vs Consulting in Cyber | Security Happy Hour ft. Amber Wheeler",
-      "link": "https://www.youtube.com/watch?v=X8voY9yCmTM",
-      "published_at": "2026-11-23T21:21:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/X8voY9yCmTM/hqdefault.jpg",
-      "upcoming": true
-    },
-    {
-      "video_id": "ZVHuq_SKYig",
-      "channel": "pebl3",
-      "title": "Introducing Pebble Labs",
-      "link": "https://www.youtube.com/watch?v=ZVHuq_SKYig",
-      "published_at": "2026-11-23T21:11:59+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ZVHuq_SKYig/hqdefault.jpg"
     }
   ]
 }
