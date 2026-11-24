@@ -1,8 +1,17 @@
 {
-  "updated": "2026-11-24T15:28:42Z",
+  "updated": "2026-11-24T16:28:44Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "UYMQQOA-nLM",
+      "channel": "gerald_auger_simplycyber",
+      "title": "\ud83d\udd34 Dec 2's Top Cyber News NOW! - Ep 1299",
+      "link": "https://www.youtube.com/watch?v=UYMQQOA-nLM",
+      "published_at": "2026-11-24T16:23:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UYMQQOA-nLM/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "dPxpi-LffFM",
       "channel": "TheLaluka",
@@ -158,14 +167,6 @@
       "link": "https://www.youtube.com/watch?v=5EwEMNOYJvk",
       "published_at": "2026-11-23T16:27:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/5EwEMNOYJvk/hqdefault.jpg"
-    },
-    {
-      "video_id": "jHHOUfFBFjE",
-      "channel": "CyberWarriorStudios",
-      "title": "Break Your Routine: Stop Living on Autopilot",
-      "link": "https://www.youtube.com/watch?v=jHHOUfFBFjE",
-      "published_at": "2026-11-23T16:20:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/jHHOUfFBFjE/hqdefault.jpg"
     }
   ]
 }
