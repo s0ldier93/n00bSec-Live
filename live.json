@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-24T00:19:37Z",
+  "updated": "2026-11-24T00:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "djax_1",
       "title": "GTA6 PART 3.5 - CATCH-UP STREAM",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 17,
+  "viewers_total": 15,
   "videos": [
     {
       "video_id": "8yAsXhD7GSc",
