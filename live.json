@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T03:09:36Z",
+  "updated": "2026-11-24T03:19:02Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -28,16 +28,9 @@
       "title": "CYBERSECURITY CO-WORKING | LEARNING MOBILE DEV",
       "link": "https://twitch.tv/TheShyHat",
       "viewers": 11
-    },
-    {
-      "platform": "youtube",
-      "name": "TheShyHat",
-      "title": "CYBERSECURITY CO-WORKING | LEARNING MOBILE DEV",
-      "link": "https://www.youtube.com/watch?v=xWhTFnIOLcg",
-      "viewers": 10
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 17,
   "videos": [
     {
       "video_id": "8yAsXhD7GSc",
