@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-24T16:28:44Z",
+  "updated": "2026-11-24T16:58:43Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "MBL9H0IfHQI",
+      "channel": "thecybermentor",
+      "title": "6 Cybersecurity Interview Mistakes to Avoid!",
+      "link": "https://www.youtube.com/watch?v=MBL9H0IfHQI",
+      "published_at": "2026-11-24T16:54:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/MBL9H0IfHQI/hqdefault.jpg"
+    },
+    {
+      "video_id": "HtlAZphgVG8",
+      "channel": "JohnHammond010",
+      "title": "Minecraft Security Chicken",
+      "link": "https://www.youtube.com/watch?v=HtlAZphgVG8",
+      "published_at": "2026-11-24T16:52:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/HtlAZphgVG8/hqdefault.jpg"
+    },
     {
       "video_id": "UYMQQOA-nLM",
       "channel": "gerald_auger_simplycyber",
@@ -151,22 +167,6 @@
       "link": "https://www.youtube.com/watch?v=nsqWFV6yhMU",
       "published_at": "2026-11-23T17:02:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nsqWFV6yhMU/hqdefault.jpg"
-    },
-    {
-      "video_id": "FUE2KO6o4PE",
-      "channel": "gerald_auger_simplycyber",
-      "title": "How Do You Detect Timestomping? | DFIR Interview (2/5)",
-      "link": "https://www.youtube.com/watch?v=FUE2KO6o4PE",
-      "published_at": "2026-11-23T17:00:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FUE2KO6o4PE/hqdefault.jpg"
-    },
-    {
-      "video_id": "5EwEMNOYJvk",
-      "channel": "shenetworks",
-      "title": "LLMJacking? #cybersecurity #AI #infosec #cloudsecurity #LLM",
-      "link": "https://www.youtube.com/watch?v=5EwEMNOYJvk",
-      "published_at": "2026-11-23T16:27:59+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5EwEMNOYJvk/hqdefault.jpg"
     }
   ]
 }
