@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T01:59:37Z",
+  "updated": "2026-11-24T02:09:03Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,23 +14,9 @@
       "title": "GTA6 PART 3.5 - CATCH-UP STREAM",
       "link": "https://twitch.tv/djax_1",
       "viewers": 1
-    },
-    {
-      "platform": "twitch",
-      "name": "msec",
-      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
-      "link": "https://twitch.tv/msec",
-      "viewers": 10
-    },
-    {
-      "platform": "youtube",
-      "name": "MSec",
-      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
-      "link": "https://www.youtube.com/watch?v=70O0cRj5RyE",
-      "viewers": 1
     }
   ],
-  "viewers_total": 28,
+  "viewers_total": 17,
   "videos": [
     {
       "video_id": "8yAsXhD7GSc",
