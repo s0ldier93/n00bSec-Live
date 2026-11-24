@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-24T10:08:42Z",
+  "updated": "2026-11-24T12:18:53Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "T-m_zU5EYGA",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - Suspicious - Word Riddles - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=T-m_zU5EYGA",
+      "published_at": "2026-11-24T12:00:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/T-m_zU5EYGA/hqdefault.jpg"
+    },
     {
       "video_id": "-eigW987Ztk",
       "channel": "SecurityWeekly",
@@ -158,14 +166,6 @@
       "link": "https://www.youtube.com/watch?v=HSfvlaRUF8o",
       "published_at": "2026-11-23T14:04:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/HSfvlaRUF8o/hqdefault.jpg"
-    },
-    {
-      "video_id": "hKLbmgBZkfk",
-      "channel": "jarnobaselier",
-      "title": "I Tested Agent-Airlock: A Security Layer for AI Agents and MCP",
-      "link": "https://www.youtube.com/watch?v=hKLbmgBZkfk",
-      "published_at": "2026-11-23T14:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hKLbmgBZkfk/hqdefault.jpg"
     }
   ]
 }
