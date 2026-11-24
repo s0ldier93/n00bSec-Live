@@ -1,8 +1,25 @@
 {
-  "updated": "2026-11-24T19:59:36Z",
+  "updated": "2026-11-24T20:08:44Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "b0fOmU9l1do",
+      "channel": "SecurityWeekly",
+      "title": "What Could Go Wrong When AI Deletes Code?",
+      "link": "https://www.youtube.com/watch?v=b0fOmU9l1do",
+      "published_at": "2026-11-24T20:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/b0fOmU9l1do/hqdefault.jpg"
+    },
+    {
+      "video_id": "2PLRJnJ2hPA",
+      "channel": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/22/26",
+      "link": "https://www.youtube.com/watch?v=2PLRJnJ2hPA",
+      "published_at": "2026-11-24T19:54:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2PLRJnJ2hPA/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "aKj2n4AkR-c",
       "channel": "EJSA",
@@ -148,23 +165,6 @@
       "link": "https://www.youtube.com/watch?v=70O0cRj5RyE",
       "published_at": "2026-11-23T20:42:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/70O0cRj5RyE/hqdefault.jpg"
-    },
-    {
-      "video_id": "gYfwbrpyJsM",
-      "channel": "SecurityWeekly",
-      "title": "How One Patch Triggered Cascading Failures",
-      "link": "https://www.youtube.com/watch?v=gYfwbrpyJsM",
-      "published_at": "2026-11-23T20:00:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gYfwbrpyJsM/hqdefault.jpg"
-    },
-    {
-      "video_id": "GBWMHj5aWhY",
-      "channel": "pebl3",
-      "title": "Hacking a Whole Company Network Live: Pebble Labs Launch",
-      "link": "https://www.youtube.com/watch?v=GBWMHj5aWhY",
-      "published_at": "2026-11-23T19:49:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GBWMHj5aWhY/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
