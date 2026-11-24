@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-24T18:09:19Z",
+  "updated": "2026-11-24T18:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #15 #SHORT-STREAM",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 5
+      "viewers": 19
     },
     {
       "platform": "youtube",
@@ -16,8 +16,17 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 6,
+  "viewers_total": 20,
   "videos": [
+    {
+      "video_id": "aKj2n4AkR-c",
+      "channel": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 6) 11/22/26",
+      "link": "https://www.youtube.com/watch?v=aKj2n4AkR-c",
+      "published_at": "2026-11-24T18:06:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/aKj2n4AkR-c/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "fEMZmCCR0nQ",
       "channel": "Hackavis",
@@ -171,15 +180,6 @@
       "link": "https://www.youtube.com/watch?v=GBWMHj5aWhY",
       "published_at": "2026-11-23T19:49:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GBWMHj5aWhY/hqdefault.jpg",
-      "upcoming": true
-    },
-    {
-      "video_id": "7OsLJKDQKvY",
-      "channel": "pebl3",
-      "title": "Hacking HTB PingPong (Insane Active Directory Cross-Forest Lab)",
-      "link": "https://www.youtube.com/watch?v=7OsLJKDQKvY",
-      "published_at": "2026-11-23T19:21:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/7OsLJKDQKvY/hqdefault.jpg",
       "upcoming": true
     }
   ]
