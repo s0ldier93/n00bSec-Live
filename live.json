@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-24T05:49:36Z",
+  "updated": "2026-11-24T06:09:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "How to Uncover Hidden Intelligence Using Public Archives",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 6
+      "viewers": 5
     },
     {
       "platform": "twitch",
@@ -16,7 +16,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 11,
   "videos": [
     {
       "video_id": "8yAsXhD7GSc",
