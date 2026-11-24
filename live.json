@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-24T13:49:37Z",
+  "updated": "2026-11-24T13:59:37Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 24's Top Cyber News NOW! - Ep 1294",
       "link": "https://www.youtube.com/watch?v=c3ssTwt3WOY",
-      "viewers": 319
+      "viewers": 322
     }
   ],
-  "viewers_total": 319,
+  "viewers_total": 322,
   "videos": [
+    {
+      "video_id": "3YsX4aAhmQU",
+      "channel": "NahamSec",
+      "title": "I Tried to Find a Missing Person Using Only His Vacation Photos",
+      "link": "https://www.youtube.com/watch?v=3YsX4aAhmQU",
+      "published_at": "2026-11-24T13:45:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3YsX4aAhmQU/hqdefault.jpg"
+    },
     {
       "video_id": "T-m_zU5EYGA",
       "channel": "TheShyHat",
@@ -166,14 +174,6 @@
       "link": "https://www.youtube.com/watch?v=09FGbC-dskk",
       "published_at": "2026-11-23T14:40:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/09FGbC-dskk/hqdefault.jpg"
-    },
-    {
-      "video_id": "HSfvlaRUF8o",
-      "channel": "CyberWarriorStudios",
-      "title": "Is AI Dependence Killing Our Problem-Solving Skills? \ud83e\udde0 #Shorts",
-      "link": "https://www.youtube.com/watch?v=HSfvlaRUF8o",
-      "published_at": "2026-11-23T14:04:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/HSfvlaRUF8o/hqdefault.jpg"
     }
   ]
 }
