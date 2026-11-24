@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-24T23:29:37Z",
+  "updated": "2026-11-24T23:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "FOCUS WITH ME: locking in for the final month of the year",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 463
+      "viewers": 443
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 399
+      "viewers": 425
     },
     {
       "platform": "twitch",
@@ -30,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 864,
+  "viewers_total": 870,
   "videos": [
+    {
+      "video_id": "Q1qie9W8v7g",
+      "channel": "mbcrump",
+      "title": "A53 FPKG Support (Phase 1 Testing) Released for PS5 13.60 and more!",
+      "link": "https://www.youtube.com/watch?v=Q1qie9W8v7g",
+      "published_at": "2026-11-24T23:30:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Q1qie9W8v7g/hqdefault.jpg"
+    },
     {
       "video_id": "dUih4DpSwFE",
       "channel": "MSec",
@@ -185,14 +193,6 @@
       "link": "https://www.youtube.com/watch?v=3YsX4aAhmQU",
       "published_at": "2026-11-24T13:45:36+00:00",
       "thumbnail": "https://i.ytimg.com/vi/3YsX4aAhmQU/hqdefault.jpg"
-    },
-    {
-      "video_id": "T-m_zU5EYGA",
-      "channel": "TheShyHat",
-      "title": "Hack The Web - Suspicious - Word Riddles - Easy Challenges",
-      "link": "https://www.youtube.com/watch?v=T-m_zU5EYGA",
-      "published_at": "2026-11-24T12:00:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/T-m_zU5EYGA/hqdefault.jpg"
     }
   ]
 }
