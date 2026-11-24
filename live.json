@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-24T23:09:36Z",
+  "updated": "2026-11-24T23:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "FOCUS WITH ME: locking in for the final month of the year",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 470
+      "viewers": 464
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 399
+      "viewers": 406
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -30,8 +30,24 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 871,
+  "viewers_total": 873,
   "videos": [
+    {
+      "video_id": "dUih4DpSwFE",
+      "channel": "MSec",
+      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
+      "link": "https://www.youtube.com/watch?v=dUih4DpSwFE",
+      "published_at": "2026-11-24T23:04:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dUih4DpSwFE/hqdefault.jpg"
+    },
+    {
+      "video_id": "yIm3W6TYdBQ",
+      "channel": "SecurityWeekly",
+      "title": "Inside Operation Broken Ledger with Rinoa Poison",
+      "link": "https://www.youtube.com/watch?v=yIm3W6TYdBQ",
+      "published_at": "2026-11-24T23:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yIm3W6TYdBQ/hqdefault.jpg"
+    },
     {
       "video_id": "kaW1QoX1CbE",
       "channel": "gerald_auger_simplycyber",
@@ -177,22 +193,6 @@
       "link": "https://www.youtube.com/watch?v=T-m_zU5EYGA",
       "published_at": "2026-11-24T12:00:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/T-m_zU5EYGA/hqdefault.jpg"
-    },
-    {
-      "video_id": "-eigW987Ztk",
-      "channel": "SecurityWeekly",
-      "title": "Memory Safety Is More Than a Technical Problem - Bob Lord - ASW #410",
-      "link": "https://www.youtube.com/watch?v=-eigW987Ztk",
-      "published_at": "2026-11-24T10:00:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-eigW987Ztk/hqdefault.jpg"
-    },
-    {
-      "video_id": "8yAsXhD7GSc",
-      "channel": "pebl3",
-      "title": "A password company lost its backups because one engineer never updated his movie app.",
-      "link": "https://www.youtube.com/watch?v=8yAsXhD7GSc",
-      "published_at": "2026-11-23T22:02:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8yAsXhD7GSc/hqdefault.jpg"
     }
   ]
 }
