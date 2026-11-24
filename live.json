@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-24T16:58:43Z",
+  "updated": "2026-11-24T17:18:45Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "UTUOD7F79yU",
+      "channel": "Cyber_Insecurity",
+      "title": "Anthropic will be the Salesforce of enterprises",
+      "link": "https://www.youtube.com/watch?v=UTUOD7F79yU",
+      "published_at": "2026-11-24T17:02:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UTUOD7F79yU/hqdefault.jpg"
+    },
     {
       "video_id": "MBL9H0IfHQI",
       "channel": "thecybermentor",
@@ -159,14 +167,6 @@
       "published_at": "2026-11-23T17:31:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/r-mv2hnSDSo/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "nsqWFV6yhMU",
-      "channel": "Cyber_Insecurity",
-      "title": "I asked for an Nmap scan. It tried to run the whole attack.",
-      "link": "https://www.youtube.com/watch?v=nsqWFV6yhMU",
-      "published_at": "2026-11-23T17:02:52+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nsqWFV6yhMU/hqdefault.jpg"
     }
   ]
 }
