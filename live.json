@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-24T17:18:45Z",
+  "updated": "2026-11-24T17:28:49Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "NAGwMLGJxIg",
+      "channel": "CyberWarriorStudios",
+      "title": "Not Everyone Gets Thanksgiving Off \u2014 Remember Them \ud83c\uddfa\ud83c\uddf8\ud83e\udd83",
+      "link": "https://www.youtube.com/watch?v=NAGwMLGJxIg",
+      "published_at": "2026-11-24T17:27:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NAGwMLGJxIg/hqdefault.jpg"
+    },
     {
       "video_id": "UTUOD7F79yU",
       "channel": "Cyber_Insecurity",
@@ -158,15 +166,6 @@
       "link": "https://www.youtube.com/watch?v=cWKswlcTFTs",
       "published_at": "2026-11-23T18:03:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cWKswlcTFTs/hqdefault.jpg"
-    },
-    {
-      "video_id": "r-mv2hnSDSo",
-      "channel": "B7H30",
-      "title": "\"AI will help us find the bugs first\" | ARTEX: \"Hold My Beer\" | OSCP Study on HTB",
-      "link": "https://www.youtube.com/watch?v=r-mv2hnSDSo",
-      "published_at": "2026-11-23T17:31:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/r-mv2hnSDSo/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
