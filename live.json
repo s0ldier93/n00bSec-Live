@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-24T19:19:38Z",
+  "updated": "2026-11-24T19:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 263
+      "viewers": 272
     },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #15 #SHORT-STREAM",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 155
+      "viewers": 147
     }
   ],
-  "viewers_total": 418,
+  "viewers_total": 419,
   "videos": [
     {
       "video_id": "aKj2n4AkR-c",
