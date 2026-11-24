@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-24T04:09:37Z",
+  "updated": "2026-11-24T04:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "How to Uncover Hidden Intelligence Using Public Archives",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 7
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 5
+      "viewers": 4
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "8yAsXhD7GSc",
