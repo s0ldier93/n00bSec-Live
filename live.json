@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-24T18:19:37Z",
+  "updated": "2026-11-24T18:29:37Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "ej_sa",
+      "title": "Test stream plz ignore. 11/24/26",
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 135
+    },
     {
       "platform": "twitch",
       "name": "goproflowyo",
       "title": "Regularly Scheduled Shenanigans #15 #SHORT-STREAM",
       "link": "https://twitch.tv/goproflowyo",
-      "viewers": 19
+      "viewers": 62
     },
     {
       "platform": "youtube",
@@ -16,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 20,
+  "viewers_total": 198,
   "videos": [
     {
       "video_id": "aKj2n4AkR-c",
