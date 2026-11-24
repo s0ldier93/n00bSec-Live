@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-24T14:58:43Z",
+  "updated": "2026-11-24T15:08:44Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "Bag4CJ9HDgM",
+      "channel": "SecurityWeekly",
+      "title": "Secure Software or Endless Patching?",
+      "link": "https://www.youtube.com/watch?v=Bag4CJ9HDgM",
+      "published_at": "2026-11-24T15:00:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Bag4CJ9HDgM/hqdefault.jpg"
+    },
+    {
+      "video_id": "9j8B_sz916w",
+      "channel": "shenetworks",
+      "title": "Breach of NCIC? FBI hasn't confirmed",
+      "link": "https://www.youtube.com/watch?v=9j8B_sz916w",
+      "published_at": "2026-11-24T15:00:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9j8B_sz916w/hqdefault.jpg"
+    },
     {
       "video_id": "LBwDBLuFawg",
       "channel": "CyberWarriorStudios",
@@ -150,22 +166,6 @@
       "link": "https://www.youtube.com/watch?v=p0ZlaR-K5Xc",
       "published_at": "2026-11-23T15:38:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/p0ZlaR-K5Xc/hqdefault.jpg"
-    },
-    {
-      "video_id": "LegWmDqGaZg",
-      "channel": "TheLaluka",
-      "title": "Can Timing Alone Reveal Your Password? #shorts",
-      "link": "https://www.youtube.com/watch?v=LegWmDqGaZg",
-      "published_at": "2026-11-23T15:25:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LegWmDqGaZg/hqdefault.jpg"
-    },
-    {
-      "video_id": "7RPJtqvhwsE",
-      "channel": "SecurityWeekly",
-      "title": "When Disclosure Deadlines Increase Risk",
-      "link": "https://www.youtube.com/watch?v=7RPJtqvhwsE",
-      "published_at": "2026-11-23T15:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/7RPJtqvhwsE/hqdefault.jpg"
     }
   ]
 }
