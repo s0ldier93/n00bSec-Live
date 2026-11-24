@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-24T21:59:37Z",
+  "updated": "2026-11-24T22:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "FOCUS WITH ME: locking in for the final month of the year",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 530
+      "viewers": 539
     },
     {
       "platform": "twitch",
@@ -20,11 +20,19 @@
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 349
+      "viewers": 368
     }
   ],
-  "viewers_total": 880,
+  "viewers_total": 908,
   "videos": [
+    {
+      "video_id": "61Ip0EtrgL4",
+      "channel": "SecurityWeekly",
+      "title": "Rinoa Poison : The Repoisoning - SWN #636",
+      "link": "https://www.youtube.com/watch?v=61Ip0EtrgL4",
+      "published_at": "2026-11-24T22:00:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/61Ip0EtrgL4/hqdefault.jpg"
+    },
     {
       "video_id": "b0fOmU9l1do",
       "channel": "SecurityWeekly",
@@ -178,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=ZVHuq_SKYig",
       "published_at": "2026-11-23T21:11:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ZVHuq_SKYig/hqdefault.jpg"
-    },
-    {
-      "video_id": "70O0cRj5RyE",
-      "channel": "MSec",
-      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
-      "link": "https://www.youtube.com/watch?v=70O0cRj5RyE",
-      "published_at": "2026-11-23T20:42:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/70O0cRj5RyE/hqdefault.jpg"
     }
   ]
 }
