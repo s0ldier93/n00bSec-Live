@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-24T14:39:14Z",
+  "updated": "2026-11-24T14:58:43Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "LBwDBLuFawg",
+      "channel": "CyberWarriorStudios",
+      "title": "FTE or Consulting? Amber Wheeler Returns LIVE Friday | Security Happy Hour",
+      "link": "https://www.youtube.com/watch?v=LBwDBLuFawg",
+      "published_at": "2026-11-24T14:56:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LBwDBLuFawg/hqdefault.jpg"
+    },
     {
       "video_id": "3YsX4aAhmQU",
       "channel": "NahamSec",
@@ -158,14 +166,6 @@
       "link": "https://www.youtube.com/watch?v=7RPJtqvhwsE",
       "published_at": "2026-11-23T15:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/7RPJtqvhwsE/hqdefault.jpg"
-    },
-    {
-      "video_id": "09FGbC-dskk",
-      "channel": "Khaos_Farbauti",
-      "title": "FINIR AVANT 18H ? | THM Ide",
-      "link": "https://www.youtube.com/watch?v=09FGbC-dskk",
-      "published_at": "2026-11-23T14:40:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/09FGbC-dskk/hqdefault.jpg"
     }
   ]
 }
