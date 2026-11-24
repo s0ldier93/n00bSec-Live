@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-24T02:19:37Z",
+  "updated": "2026-11-24T02:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "We got a ton of new hardware sent we have to tinker with |Cybersecurity,Rants,&Chill|11-23-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 18
+      "viewers": 19
     },
     {
       "platform": "twitch",
@@ -27,10 +27,10 @@
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 22,
+  "viewers_total": 24,
   "videos": [
     {
       "video_id": "8yAsXhD7GSc",
