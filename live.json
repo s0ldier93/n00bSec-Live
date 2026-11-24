@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-24T20:08:44Z",
-  "streams": [],
-  "viewers_total": 0,
+  "updated": "2026-11-24T20:39:37Z",
+  "streams": [
+    {
+      "platform": "twitch",
+      "name": "ej_sa",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 125
+    }
+  ],
+  "viewers_total": 125,
   "videos": [
     {
       "video_id": "b0fOmU9l1do",
@@ -17,8 +25,7 @@
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/22/26",
       "link": "https://www.youtube.com/watch?v=2PLRJnJ2hPA",
       "published_at": "2026-11-24T19:54:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2PLRJnJ2hPA/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/2PLRJnJ2hPA/hqdefault.jpg"
     },
     {
       "video_id": "aKj2n4AkR-c",
