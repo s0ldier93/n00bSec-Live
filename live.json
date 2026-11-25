@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T22:29:37Z",
+  "updated": "2026-11-25T22:39:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "panekopanko",
       "title": "onkey memes larping as a reaction streamner",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 20
+      "viewers": 22
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 26,
+  "viewers_total": 28,
   "videos": [
     {
       "video_id": "d5zbCrifFPQ",
