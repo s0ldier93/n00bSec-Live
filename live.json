@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T04:29:37Z",
+  "updated": "2026-11-25T04:39:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 551
+      "viewers": 522
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 563,
+  "viewers_total": 533,
   "videos": [
     {
       "video_id": "Q1qie9W8v7g",
