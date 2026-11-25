@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-25T00:09:38Z",
+  "updated": "2026-11-25T00:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "FOCUS WITH ME: locking in for the final month of the year",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 385
+      "viewers": 376
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 423
+      "viewers": 410
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 9
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 819,
+  "viewers_total": 794,
   "videos": [
     {
       "video_id": "Q1qie9W8v7g",
