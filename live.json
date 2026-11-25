@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:19:38Z",
+  "updated": "2026-11-25T12:29:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "panekopanko",
       "title": "onkey, you're ruining my life",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 18
+      "viewers": 22
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 21,
+  "viewers_total": 25,
   "videos": [
     {
       "video_id": "mU_pCgzV5qQ",
