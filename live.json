@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:39:39Z",
+  "updated": "2026-11-25T16:49:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "overgrowncarrot1",
       "title": "Hack Smarter Not Harder",
       "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 9
+      "viewers": 15
     },
     {
       "platform": "youtube",
@@ -30,8 +30,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 14,
+  "viewers_total": 20,
   "videos": [
+    {
+      "video_id": "Tyl1BXL6KHA",
+      "channel": "overgrowncarrot1",
+      "title": "Hack Smarter: Araska",
+      "link": "https://www.youtube.com/watch?v=Tyl1BXL6KHA",
+      "published_at": "2026-11-25T16:40:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Tyl1BXL6KHA/hqdefault.jpg"
+    },
     {
       "video_id": "fgov2AbAyGs",
       "channel": "TheLaluka",
@@ -185,14 +193,6 @@
       "link": "https://www.youtube.com/watch?v=UTUOD7F79yU",
       "published_at": "2026-11-24T17:02:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/UTUOD7F79yU/hqdefault.jpg"
-    },
-    {
-      "video_id": "MBL9H0IfHQI",
-      "channel": "thecybermentor",
-      "title": "6 Cybersecurity Interview Mistakes to Avoid!",
-      "link": "https://www.youtube.com/watch?v=MBL9H0IfHQI",
-      "published_at": "2026-11-24T16:54:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/MBL9H0IfHQI/hqdefault.jpg"
     }
   ]
 }
