@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:09:23Z",
+  "updated": "2026-11-25T18:19:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "cybertechvibes",
       "title": "Let's get in GTA!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 7
+      "viewers": 8
     },
     {
       "platform": "twitch",
       "name": "overgrowncarrot1",
       "title": "Hack Smarter Not Harder",
       "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 3
+      "viewers": 6
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 13
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 30,
+  "viewers_total": 27,
   "videos": [
     {
       "video_id": "nfT7n5FptWY",
