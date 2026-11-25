@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:39:37Z",
+  "updated": "2026-11-25T18:49:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,27 +10,20 @@
     },
     {
       "platform": "twitch",
-      "name": "overgrowncarrot1",
-      "title": "Hack Smarter Not Harder",
-      "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 12
-    },
-    {
-      "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 6
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 3
+      "viewers": 1
     }
   ],
-  "viewers_total": 25,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "nfT7n5FptWY",
