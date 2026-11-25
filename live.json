@@ -1,23 +1,38 @@
 {
-  "updated": "2026-11-25T21:59:37Z",
+  "updated": "2026-11-25T22:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 4
+      "viewers": 5
+    },
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "watching every onkey video and then leaving",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 22
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 29,
   "videos": [
+    {
+      "video_id": "d5zbCrifFPQ",
+      "channel": "pebl3",
+      "title": "Target's attackers got in through the refrigeration contractor's login.",
+      "link": "https://www.youtube.com/watch?v=d5zbCrifFPQ",
+      "published_at": "2026-11-25T22:02:09+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/d5zbCrifFPQ/hqdefault.jpg"
+    },
     {
       "video_id": "VZC1AnUspVs",
       "channel": "SecurityWeekly",
@@ -170,15 +185,6 @@
       "link": "https://www.youtube.com/watch?v=yIm3W6TYdBQ",
       "published_at": "2026-11-24T23:00:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yIm3W6TYdBQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "kaW1QoX1CbE",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Dec 4's Top Cyber News NOW! - Ep 1301",
-      "link": "https://www.youtube.com/watch?v=kaW1QoX1CbE",
-      "published_at": "2026-11-24T22:07:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/kaW1QoX1CbE/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
