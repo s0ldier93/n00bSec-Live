@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:49:38Z",
+  "updated": "2026-11-25T17:59:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,21 @@
       "name": "cybertechvibes",
       "title": "Let's get in GTA!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 8
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 0
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 17
+      "viewers": 16
     },
     {
       "platform": "youtube",
@@ -41,11 +41,19 @@
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
       "link": "https://www.youtube.com/watch?v=htKWOg1Sqtw",
-      "viewers": 29
+      "viewers": 25
     }
   ],
-  "viewers_total": 60,
+  "viewers_total": 56,
   "videos": [
+    {
+      "video_id": "tO7hj5I1DYY",
+      "channel": "CyberWarriorStudios",
+      "title": "Stop the Grind This Thanksgiving \u2014 Take Time for YOU \ud83e\udd83 #Shorts",
+      "link": "https://www.youtube.com/watch?v=tO7hj5I1DYY",
+      "published_at": "2026-11-25T17:37:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tO7hj5I1DYY/hqdefault.jpg"
+    },
     {
       "video_id": "lmY4ck2isj8",
       "channel": "Cyber_Insecurity",
@@ -199,14 +207,6 @@
       "link": "https://www.youtube.com/watch?v=2PLRJnJ2hPA",
       "published_at": "2026-11-24T19:54:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2PLRJnJ2hPA/hqdefault.jpg"
-    },
-    {
-      "video_id": "aKj2n4AkR-c",
-      "channel": "EJSA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 6) 11/22/26",
-      "link": "https://www.youtube.com/watch?v=aKj2n4AkR-c",
-      "published_at": "2026-11-24T18:06:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/aKj2n4AkR-c/hqdefault.jpg"
     }
   ]
 }
