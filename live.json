@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T15:19:39Z",
+  "updated": "2026-11-25T15:29:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -25,6 +25,14 @@
   ],
   "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "fgov2AbAyGs",
+      "channel": "TheLaluka",
+      "title": "Why Can't This CPU Leak Be Exploited? #shorts",
+      "link": "https://www.youtube.com/watch?v=fgov2AbAyGs",
+      "published_at": "2026-11-25T15:20:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fgov2AbAyGs/hqdefault.jpg"
+    },
     {
       "video_id": "eeiIBQnfHBY",
       "channel": "SecurityWeekly",
@@ -178,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=MBL9H0IfHQI",
       "published_at": "2026-11-24T16:54:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/MBL9H0IfHQI/hqdefault.jpg"
-    },
-    {
-      "video_id": "HtlAZphgVG8",
-      "channel": "JohnHammond010",
-      "title": "Minecraft Security Chicken",
-      "link": "https://www.youtube.com/watch?v=HtlAZphgVG8",
-      "published_at": "2026-11-24T16:52:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/HtlAZphgVG8/hqdefault.jpg"
     }
   ]
 }
