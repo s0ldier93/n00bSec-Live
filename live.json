@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:39:38Z",
+  "updated": "2026-11-25T13:49:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,17 +20,17 @@
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 25's Top Cyber News NOW! - Ep 1295",
       "link": "https://www.youtube.com/watch?v=p58lgRk_Ld0",
-      "viewers": 290
+      "viewers": 289
     }
   ],
-  "viewers_total": 297,
+  "viewers_total": 295,
   "videos": [
     {
       "video_id": "lUnK8_BtkSk",
