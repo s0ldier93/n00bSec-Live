@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:59:37Z",
+  "updated": "2026-11-25T17:09:23Z",
   "streams": [
     {
       "platform": "twitch",
@@ -16,15 +16,45 @@
       "viewers": 1
     },
     {
+      "platform": "twitch",
+      "name": "thecybermentor",
+      "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
+      "link": "https://twitch.tv/thecybermentor",
+      "viewers": 4
+    },
+    {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "thecybermentor",
+      "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
+      "link": "https://www.youtube.com/watch?v=htKWOg1Sqtw",
+      "viewers": 22
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 31,
   "videos": [
+    {
+      "video_id": "4H0omDpib_o",
+      "channel": "overgrowncarrot1",
+      "title": "Hack Smarter: Welcome",
+      "link": "https://www.youtube.com/watch?v=4H0omDpib_o",
+      "published_at": "2026-11-25T17:04:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4H0omDpib_o/hqdefault.jpg"
+    },
+    {
+      "video_id": "htKWOg1Sqtw",
+      "channel": "thecybermentor",
+      "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
+      "link": "https://www.youtube.com/watch?v=htKWOg1Sqtw",
+      "published_at": "2026-11-25T17:00:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/htKWOg1Sqtw/hqdefault.jpg"
+    },
     {
       "video_id": "Tyl1BXL6KHA",
       "channel": "overgrowncarrot1",
@@ -170,22 +200,6 @@
       "link": "https://www.youtube.com/watch?v=fEMZmCCR0nQ",
       "published_at": "2026-11-24T18:04:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fEMZmCCR0nQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "NAGwMLGJxIg",
-      "channel": "CyberWarriorStudios",
-      "title": "Not Everyone Gets Thanksgiving Off \u2014 Remember Them \ud83c\uddfa\ud83c\uddf8\ud83e\udd83",
-      "link": "https://www.youtube.com/watch?v=NAGwMLGJxIg",
-      "published_at": "2026-11-24T17:27:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NAGwMLGJxIg/hqdefault.jpg"
-    },
-    {
-      "video_id": "UTUOD7F79yU",
-      "channel": "Cyber_Insecurity",
-      "title": "Anthropic will be the Salesforce of enterprises",
-      "link": "https://www.youtube.com/watch?v=UTUOD7F79yU",
-      "published_at": "2026-11-24T17:02:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UTUOD7F79yU/hqdefault.jpg"
     }
   ]
 }
