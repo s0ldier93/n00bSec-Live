@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T09:59:37Z",
+  "updated": "2026-11-25T10:09:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 3,
+  "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "mU_pCgzV5qQ",
+      "channel": "SecurityWeekly",
+      "title": "AI Agent Collisions as Dreams of 1990s Cybersecurity Leads To Solving Wrong Problem - BSW #475",
+      "link": "https://www.youtube.com/watch?v=mU_pCgzV5qQ",
+      "published_at": "2026-11-25T10:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mU_pCgzV5qQ/hqdefault.jpg"
+    },
     {
       "video_id": "GXHk0nbc9A0",
       "channel": "EJSA",
@@ -172,14 +180,6 @@
       "link": "https://www.youtube.com/watch?v=9j8B_sz916w",
       "published_at": "2026-11-24T15:00:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9j8B_sz916w/hqdefault.jpg"
-    },
-    {
-      "video_id": "LBwDBLuFawg",
-      "channel": "CyberWarriorStudios",
-      "title": "FTE or Consulting? Amber Wheeler Returns LIVE Friday | Security Happy Hour",
-      "link": "https://www.youtube.com/watch?v=LBwDBLuFawg",
-      "published_at": "2026-11-24T14:56:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LBwDBLuFawg/hqdefault.jpg"
     }
   ]
 }
