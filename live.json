@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:59:39Z",
+  "updated": "2026-11-25T18:09:23Z",
   "streams": [
     {
       "platform": "twitch",
@@ -17,35 +17,44 @@
     },
     {
       "platform": "twitch",
-      "name": "ProfitzTV",
-      "title": "FOREVER! | NA | Normal",
-      "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 2
+      "name": "overgrowncarrot1",
+      "title": "Hack Smarter Not Harder",
+      "link": "https://twitch.tv/overgrowncarrot1",
+      "viewers": 3
     },
     {
       "platform": "twitch",
-      "name": "thecybermentor",
-      "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
-      "link": "https://twitch.tv/thecybermentor",
-      "viewers": 16
+      "name": "ProfitzTV",
+      "title": "FOREVER! | NA | Normal",
+      "link": "https://twitch.tv/ProfitzTV",
+      "viewers": 13
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
-      "name": "thecybermentor",
-      "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
-      "link": "https://www.youtube.com/watch?v=htKWOg1Sqtw",
-      "viewers": 25
+      "viewers": 2
     }
   ],
-  "viewers_total": 56,
+  "viewers_total": 30,
   "videos": [
+    {
+      "video_id": "nfT7n5FptWY",
+      "channel": "Hackavis",
+      "title": "Tier list de herramientas de hacking",
+      "link": "https://www.youtube.com/watch?v=nfT7n5FptWY",
+      "published_at": "2026-11-25T18:02:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nfT7n5FptWY/hqdefault.jpg"
+    },
+    {
+      "video_id": "GswKw9xFbT8",
+      "channel": "SecurityWeekly",
+      "title": "Could Your Business Pass This Social Engineering Test?",
+      "link": "https://www.youtube.com/watch?v=GswKw9xFbT8",
+      "published_at": "2026-11-25T18:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GswKw9xFbT8/hqdefault.jpg"
+    },
     {
       "video_id": "tO7hj5I1DYY",
       "channel": "CyberWarriorStudios",
@@ -191,22 +200,6 @@
       "link": "https://www.youtube.com/watch?v=61Ip0EtrgL4",
       "published_at": "2026-11-24T22:00:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/61Ip0EtrgL4/hqdefault.jpg"
-    },
-    {
-      "video_id": "b0fOmU9l1do",
-      "channel": "SecurityWeekly",
-      "title": "What Could Go Wrong When AI Deletes Code?",
-      "link": "https://www.youtube.com/watch?v=b0fOmU9l1do",
-      "published_at": "2026-11-24T20:00:27+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/b0fOmU9l1do/hqdefault.jpg"
-    },
-    {
-      "video_id": "2PLRJnJ2hPA",
-      "channel": "EJSA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/22/26",
-      "link": "https://www.youtube.com/watch?v=2PLRJnJ2hPA",
-      "published_at": "2026-11-24T19:54:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2PLRJnJ2hPA/hqdefault.jpg"
     }
   ]
 }
