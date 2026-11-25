@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-25T05:29:38Z",
+  "updated": "2026-11-25T05:39:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 5,
   "videos": [
     {
       "video_id": "GXHk0nbc9A0",
