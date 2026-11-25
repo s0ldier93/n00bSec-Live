@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:39:37Z",
+  "updated": "2026-11-25T17:49:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,21 +13,28 @@
       "name": "cybertechvibes",
       "title": "Let's get in GTA!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 8
+    },
+    {
+      "platform": "twitch",
+      "name": "ProfitzTV",
+      "title": "FOREVER! | NA | Normal",
+      "link": "https://twitch.tv/ProfitzTV",
+      "viewers": 0
     },
     {
       "platform": "twitch",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 21
+      "viewers": 17
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "youtube",
