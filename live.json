@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T15:09:39Z",
+  "updated": "2026-11-25T15:19:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,10 +20,10 @@
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 4,
   "videos": [
     {
       "video_id": "eeiIBQnfHBY",
@@ -32,6 +32,14 @@
       "link": "https://www.youtube.com/watch?v=eeiIBQnfHBY",
       "published_at": "2026-11-25T15:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/eeiIBQnfHBY/hqdefault.jpg"
+    },
+    {
+      "video_id": "wMCe_SPtusQ",
+      "channel": "shenetworks",
+      "title": "Your edge box should not be the attacker's jump box.",
+      "link": "https://www.youtube.com/watch?v=wMCe_SPtusQ",
+      "published_at": "2026-11-25T15:00:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wMCe_SPtusQ/hqdefault.jpg"
     },
     {
       "video_id": "Vwemee2A5b8",
@@ -178,15 +186,6 @@
       "link": "https://www.youtube.com/watch?v=HtlAZphgVG8",
       "published_at": "2026-11-24T16:52:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/HtlAZphgVG8/hqdefault.jpg"
-    },
-    {
-      "video_id": "UYMQQOA-nLM",
-      "channel": "gerald_auger_simplycyber",
-      "title": "\ud83d\udd34 Dec 2's Top Cyber News NOW! - Ep 1299",
-      "link": "https://www.youtube.com/watch?v=UYMQQOA-nLM",
-      "published_at": "2026-11-24T16:23:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UYMQQOA-nLM/hqdefault.jpg",
-      "upcoming": true
     }
   ]
 }
