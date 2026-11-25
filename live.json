@@ -1,43 +1,43 @@
 {
-  "updated": "2026-11-25T17:29:38Z",
+  "updated": "2026-11-25T17:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "cybertechvibes",
       "title": "Let's get in GTA!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 12
+      "viewers": 21
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
       "link": "https://www.youtube.com/watch?v=htKWOg1Sqtw",
-      "viewers": 26
+      "viewers": 29
     }
   ],
-  "viewers_total": 43,
+  "viewers_total": 60,
   "videos": [
     {
       "video_id": "lmY4ck2isj8",
