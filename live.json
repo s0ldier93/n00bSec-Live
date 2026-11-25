@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:19:37Z",
+  "updated": "2026-11-25T17:29:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 9
+      "viewers": 12
     },
     {
       "platform": "youtube",
@@ -34,10 +34,10 @@
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
       "link": "https://www.youtube.com/watch?v=htKWOg1Sqtw",
-      "viewers": 30
+      "viewers": 26
     }
   ],
-  "viewers_total": 44,
+  "viewers_total": 43,
   "videos": [
     {
       "video_id": "lmY4ck2isj8",
