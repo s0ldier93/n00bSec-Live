@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T14:49:38Z",
+  "updated": "2026-11-25T14:59:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "cybertechvibes",
       "title": "Let's get in GTA!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 6,
+  "viewers_total": 5,
   "videos": [
+    {
+      "video_id": "Vwemee2A5b8",
+      "channel": "gerald_auger_simplycyber",
+      "title": "The Bottom Rung: Breaking Into Cyber While AI Saws Off the Ladder",
+      "link": "https://www.youtube.com/watch?v=Vwemee2A5b8",
+      "published_at": "2026-11-25T14:30:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Vwemee2A5b8/hqdefault.jpg"
+    },
     {
       "video_id": "lUnK8_BtkSk",
       "channel": "ElPinguinoDeMario",
@@ -179,14 +187,6 @@
       "link": "https://www.youtube.com/watch?v=dPxpi-LffFM",
       "published_at": "2026-11-24T15:25:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dPxpi-LffFM/hqdefault.jpg"
-    },
-    {
-      "video_id": "Bag4CJ9HDgM",
-      "channel": "SecurityWeekly",
-      "title": "Secure Software or Endless Patching?",
-      "link": "https://www.youtube.com/watch?v=Bag4CJ9HDgM",
-      "published_at": "2026-11-24T15:00:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Bag4CJ9HDgM/hqdefault.jpg"
     }
   ]
 }
