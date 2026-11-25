@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:09:37Z",
+  "updated": "2026-11-25T23:19:04Z",
   "streams": [
     {
       "platform": "twitch",
@@ -14,9 +14,16 @@
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 8) 11/25/26",
+      "link": "https://www.youtube.com/watch?v=GXHk0nbc9A0",
+      "viewers": 26
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 31,
   "videos": [
     {
       "video_id": "d5zbCrifFPQ",
@@ -152,8 +159,7 @@
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/22/26",
       "link": "https://www.youtube.com/watch?v=GXHk0nbc9A0",
       "published_at": "2026-11-25T04:57:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GXHk0nbc9A0/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/GXHk0nbc9A0/hqdefault.jpg"
     },
     {
       "video_id": "Q1qie9W8v7g",
