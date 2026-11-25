@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T05:09:38Z",
+  "updated": "2026-11-25T05:19:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "freshforensics",
       "title": "Well, This Should Be Interesting...  Fresh Forensics Live",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "GXHk0nbc9A0",
