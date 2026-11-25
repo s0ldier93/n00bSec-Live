@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-25T16:29:37Z",
+  "updated": "2026-11-25T16:39:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 13,
+  "viewers_total": 14,
   "videos": [
     {
       "video_id": "fgov2AbAyGs",
