@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-25T18:19:37Z",
+  "updated": "2026-11-25T18:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "overgrowncarrot1",
       "title": "Hack Smarter Not Harder",
       "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 6
+      "viewers": 9
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 27,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "nfT7n5FptWY",
