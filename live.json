@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T02:09:38Z",
+  "updated": "2026-11-25T02:19:02Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,27 +10,13 @@
     },
     {
       "platform": "twitch",
-      "name": "msec",
-      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
-      "link": "https://twitch.tv/msec",
-      "viewers": 3
-    },
-    {
-      "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
       "viewers": 9
-    },
-    {
-      "platform": "youtube",
-      "name": "MSec",
-      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
-      "link": "https://www.youtube.com/watch?v=dUih4DpSwFE",
-      "viewers": 1
     }
   ],
-  "viewers_total": 906,
+  "viewers_total": 902,
   "videos": [
     {
       "video_id": "Q1qie9W8v7g",
