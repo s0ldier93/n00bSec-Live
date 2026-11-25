@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:49:37Z",
+  "updated": "2026-11-25T11:59:36Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "panekopanko",
       "title": "onkey, you're ruining my life",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 0
+      "viewers": 13
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 6,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "mU_pCgzV5qQ",
