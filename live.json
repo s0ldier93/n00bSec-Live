@@ -1,30 +1,38 @@
 {
-  "updated": "2026-11-25T18:59:37Z",
+  "updated": "2026-11-25T19:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "twitch",
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 5
+      "viewers": 7
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 13,
   "videos": [
+    {
+      "video_id": "gFWCyq3GWto",
+      "channel": "overgrowncarrot1",
+      "title": "Hack Smarter: Orion",
+      "link": "https://www.youtube.com/watch?v=gFWCyq3GWto",
+      "published_at": "2026-11-25T19:00:46+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gFWCyq3GWto/hqdefault.jpg"
+    },
     {
       "video_id": "nfT7n5FptWY",
       "channel": "Hackavis",
@@ -178,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=rzajsZZ_2EU",
       "published_at": "2026-11-24T22:02:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/rzajsZZ_2EU/hqdefault.jpg"
-    },
-    {
-      "video_id": "61Ip0EtrgL4",
-      "channel": "SecurityWeekly",
-      "title": "Rinoa Poison : The Repoisoning - SWN #636",
-      "link": "https://www.youtube.com/watch?v=61Ip0EtrgL4",
-      "published_at": "2026-11-24T22:00:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/61Ip0EtrgL4/hqdefault.jpg"
     }
   ]
 }
