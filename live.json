@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:09:23Z",
+  "updated": "2026-11-25T17:19:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
       "link": "https://twitch.tv/thecybermentor",
-      "viewers": 4
+      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -34,11 +34,19 @@
       "name": "thecybermentor",
       "title": "Real Folks of Cyber | Cyber with Nelia | DITL",
       "link": "https://www.youtube.com/watch?v=htKWOg1Sqtw",
-      "viewers": 22
+      "viewers": 30
     }
   ],
-  "viewers_total": 31,
+  "viewers_total": 44,
   "videos": [
+    {
+      "video_id": "lmY4ck2isj8",
+      "channel": "Cyber_Insecurity",
+      "title": "AI didn't cause the outage. Rushed patching did.",
+      "link": "https://www.youtube.com/watch?v=lmY4ck2isj8",
+      "published_at": "2026-11-25T17:09:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lmY4ck2isj8/hqdefault.jpg"
+    },
     {
       "video_id": "4H0omDpib_o",
       "channel": "overgrowncarrot1",
@@ -192,14 +200,6 @@
       "link": "https://www.youtube.com/watch?v=aKj2n4AkR-c",
       "published_at": "2026-11-24T18:06:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/aKj2n4AkR-c/hqdefault.jpg"
-    },
-    {
-      "video_id": "fEMZmCCR0nQ",
-      "channel": "Hackavis",
-      "title": "Alguien ha metido ChatGPT dentro de Minecraft",
-      "link": "https://www.youtube.com/watch?v=fEMZmCCR0nQ",
-      "published_at": "2026-11-24T18:04:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fEMZmCCR0nQ/hqdefault.jpg"
     }
   ]
 }
