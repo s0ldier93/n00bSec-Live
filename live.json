@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-25T04:39:37Z",
+  "updated": "2026-11-25T04:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 522
+      "viewers": 515
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "Well, This Should Be Interesting...  Fresh Forensics Live",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 533,
+  "viewers_total": 527,
   "videos": [
     {
       "video_id": "Q1qie9W8v7g",
