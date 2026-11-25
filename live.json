@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T14:59:38Z",
+  "updated": "2026-11-25T15:09:39Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,18 +13,26 @@
       "name": "cybertechvibes",
       "title": "Let's get in GTA!",
       "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 1
+      "viewers": 2
     }
   ],
   "viewers_total": 5,
   "videos": [
+    {
+      "video_id": "eeiIBQnfHBY",
+      "channel": "SecurityWeekly",
+      "title": "Your AI Incident Response Plan Is Outdated",
+      "link": "https://www.youtube.com/watch?v=eeiIBQnfHBY",
+      "published_at": "2026-11-25T15:00:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/eeiIBQnfHBY/hqdefault.jpg"
+    },
     {
       "video_id": "Vwemee2A5b8",
       "channel": "gerald_auger_simplycyber",
@@ -179,14 +187,6 @@
       "published_at": "2026-11-24T16:23:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/UYMQQOA-nLM/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "dPxpi-LffFM",
-      "channel": "TheLaluka",
-      "title": "Spectre's Fix Was Just\u2026 Flush Everything? #shorts",
-      "link": "https://www.youtube.com/watch?v=dPxpi-LffFM",
-      "published_at": "2026-11-24T15:25:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dPxpi-LffFM/hqdefault.jpg"
     }
   ]
 }
