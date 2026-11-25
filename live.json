@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:29:37Z",
+  "updated": "2026-11-25T18:39:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,17 +10,10 @@
     },
     {
       "platform": "twitch",
-      "name": "cybertechvibes",
-      "title": "Let's get in GTA!",
-      "link": "https://twitch.tv/cybertechvibes",
-      "viewers": 8
-    },
-    {
-      "platform": "twitch",
       "name": "overgrowncarrot1",
       "title": "Hack Smarter Not Harder",
       "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 9
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -34,10 +27,10 @@
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 25,
   "videos": [
     {
       "video_id": "nfT7n5FptWY",
