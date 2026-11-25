@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:49:37Z",
+  "updated": "2026-11-25T18:59:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 9,
+  "viewers_total": 11,
   "videos": [
     {
       "video_id": "nfT7n5FptWY",
