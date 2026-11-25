@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-25T04:09:37Z",
+  "updated": "2026-11-25T04:19:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 595
+      "viewers": 575
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "Well, This Should Be Interesting...  Fresh Forensics Live",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -34,10 +34,10 @@
       "name": "censoredHacker",
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=dAZQ0AMccPc",
-      "viewers": 3
+      "viewers": 1
     }
   ],
-  "viewers_total": 606,
+  "viewers_total": 586,
   "videos": [
     {
       "video_id": "Q1qie9W8v7g",
