@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T04:59:37Z",
+  "updated": "2026-11-25T05:09:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,14 +13,14 @@
       "name": "freshforensics",
       "title": "Well, This Should Be Interesting...  Fresh Forensics Live",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 3
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "irasakai",
       "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
       "link": "https://twitch.tv/irasakai",
-      "viewers": 4
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "GXHk0nbc9A0",
