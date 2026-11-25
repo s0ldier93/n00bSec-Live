@@ -1,15 +1,29 @@
 {
-  "updated": "2026-11-25T03:29:37Z",
+  "updated": "2026-11-25T03:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 753
+      "viewers": 693
+    },
+    {
+      "platform": "twitch",
+      "name": "freshforensics",
+      "title": "Well, This Should Be Interesting...  Fresh Forensics Live",
+      "link": "https://twitch.tv/freshforensics",
+      "viewers": 1
+    },
+    {
+      "platform": "twitch",
+      "name": "irasakai",
+      "title": "The Angry Alchemist Plays: Metroid Prime 4 Beyond",
+      "link": "https://twitch.tv/irasakai",
+      "viewers": 2
     }
   ],
-  "viewers_total": 753,
+  "viewers_total": 696,
   "videos": [
     {
       "video_id": "Q1qie9W8v7g",
