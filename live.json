@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:59:39Z",
+  "updated": "2026-11-25T20:09:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 4
+      "viewers": 9
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 10,
+  "viewers_total": 15,
   "videos": [
+    {
+      "video_id": "VZC1AnUspVs",
+      "channel": "SecurityWeekly",
+      "title": "Vulnerability Management Is Solving the Wrong Problem",
+      "link": "https://www.youtube.com/watch?v=VZC1AnUspVs",
+      "published_at": "2026-11-25T20:00:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VZC1AnUspVs/hqdefault.jpg"
+    },
     {
       "video_id": "gFWCyq3GWto",
       "channel": "overgrowncarrot1",
@@ -178,14 +186,6 @@
       "published_at": "2026-11-24T22:07:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kaW1QoX1CbE/hqdefault.jpg",
       "upcoming": true
-    },
-    {
-      "video_id": "rzajsZZ_2EU",
-      "channel": "pebl3",
-      "title": "Hackers took Instagram accounts by asking Meta's own AI support tool to reset the password.",
-      "link": "https://www.youtube.com/watch?v=rzajsZZ_2EU",
-      "published_at": "2026-11-24T22:02:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/rzajsZZ_2EU/hqdefault.jpg"
     }
   ]
 }
