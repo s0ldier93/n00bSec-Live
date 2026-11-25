@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-25T00:39:38Z",
+  "updated": "2026-11-25T00:49:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 423
+      "viewers": 403
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ProfitzTV",
       "title": "FOREVER! | NA | Normal",
       "link": "https://twitch.tv/ProfitzTV",
-      "viewers": 6
+      "viewers": 8
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 433,
+  "viewers_total": 415,
   "videos": [
     {
       "video_id": "Q1qie9W8v7g",
