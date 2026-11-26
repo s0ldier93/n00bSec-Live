@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T17:39:38Z",
+  "updated": "2026-11-26T17:49:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "panekopanko",
       "title": "larping as your dad",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 30
+      "viewers": 29
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 31,
   "videos": [
     {
       "video_id": "8OZmvdEx4s0",
