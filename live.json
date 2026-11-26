@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T06:19:37Z",
+  "updated": "2026-11-26T06:29:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -27,11 +27,20 @@
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! Easy Cybersecurity Demos & HackSmarter Aftermath",
       "link": "https://www.youtube.com/watch?v=65XXqXmfSI4",
-      "viewers": 8
+      "viewers": 7
     }
   ],
-  "viewers_total": 298,
+  "viewers_total": 297,
   "videos": [
+    {
+      "video_id": "Xt8yoX3a6JA",
+      "channel": "censoredHacker",
+      "title": "Focus with me with some Tryhackme and grind",
+      "link": "https://www.youtube.com/watch?v=Xt8yoX3a6JA",
+      "published_at": "2026-11-26T06:23:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Xt8yoX3a6JA/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "d5zbCrifFPQ",
       "channel": "pebl3",
@@ -183,14 +192,6 @@
       "link": "https://www.youtube.com/watch?v=dUih4DpSwFE",
       "published_at": "2026-11-24T23:04:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dUih4DpSwFE/hqdefault.jpg"
-    },
-    {
-      "video_id": "yIm3W6TYdBQ",
-      "channel": "SecurityWeekly",
-      "title": "Inside Operation Broken Ledger with Rinoa Poison",
-      "link": "https://www.youtube.com/watch?v=yIm3W6TYdBQ",
-      "published_at": "2026-11-24T23:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yIm3W6TYdBQ/hqdefault.jpg"
     }
   ]
 }
