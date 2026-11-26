@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-26T04:39:37Z",
+  "updated": "2026-11-26T04:49:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "djax_1",
       "title": "GTA6 PART 4: GET THIS MONEY!!!",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 8) 11/25/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 364
+      "viewers": 359
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 10
     }
   ],
-  "viewers_total": 408,
+  "viewers_total": 402,
   "videos": [
     {
       "video_id": "d5zbCrifFPQ",
