@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-26T03:29:37Z",
+  "updated": "2026-11-26T03:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Turkey Day Cometh||Cybersecurity,Rants,&Chill|11-25-26",
       "link": "https://twitch.tv/chiefgyk3d",
-      "viewers": 33
+      "viewers": 27
     },
     {
       "platform": "twitch",
@@ -20,24 +20,24 @@
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 8) 11/25/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 352
+      "viewers": 346
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! Easy Cybersecurity Demos & HackSmarter Aftermath",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 8
+      "viewers": 10
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! Easy Cybersecurity Demos & HackSmarter Aftermath",
       "link": "https://www.youtube.com/watch?v=65XXqXmfSI4",
-      "viewers": 4
+      "viewers": 6
     }
   ],
-  "viewers_total": 398,
+  "viewers_total": 390,
   "videos": [
     {
       "video_id": "d5zbCrifFPQ",
