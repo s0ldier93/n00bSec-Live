@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-26T08:49:08Z",
-  "streams": [
-    {
-      "platform": "twitch",
-      "name": "censoredHacker",
-      "title": "DontTouchMyBum and TryHackMe Defending AWS",
-      "link": "https://twitch.tv/censoredHacker",
-      "viewers": 7
-    }
-  ],
-  "viewers_total": 7,
+  "updated": "2026-11-26T08:49:36Z",
+  "streams": [],
+  "viewers_total": 0,
   "videos": [
     {
       "video_id": "Xt8yoX3a6JA",
