@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T19:49:38Z",
+  "updated": "2026-11-26T19:59:15Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,13 +10,20 @@
     },
     {
       "platform": "youtube",
+      "name": "Hackavis",
+      "title": "\ud83d\udd34 Montando una IA SIN censura en tu propio equipo, en local.",
+      "link": "https://www.youtube.com/watch?v=WOSQDCGjNnk",
+      "viewers": 6
+    },
+    {
+      "platform": "youtube",
       "name": "MSec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://www.youtube.com/watch?v=8OZmvdEx4s0",
       "viewers": 1
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "WOSQDCGjNnk",
@@ -24,8 +31,7 @@
       "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad",
       "link": "https://www.youtube.com/watch?v=WOSQDCGjNnk",
       "published_at": "2026-11-26T19:36:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WOSQDCGjNnk/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/WOSQDCGjNnk/hqdefault.jpg"
     },
     {
       "video_id": "KbqUi3u8tPo",
