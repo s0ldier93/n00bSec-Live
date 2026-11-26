@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-26T04:49:36Z",
+  "updated": "2026-11-26T04:59:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "djax_1",
       "title": "GTA6 PART 4: GET THIS MONEY!!!",
       "link": "https://twitch.tv/djax_1",
-      "viewers": 1
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 8) 11/25/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 359
+      "viewers": 358
     },
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! Easy Cybersecurity Demos & HackSmarter Aftermath",
       "link": "https://www.youtube.com/watch?v=65XXqXmfSI4",
-      "viewers": 10
+      "viewers": 9
     }
   ],
   "viewers_total": 402,
