@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:59:37Z",
+  "updated": "2026-11-26T17:09:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,6 +11,14 @@
   ],
   "viewers_total": 31,
   "videos": [
+    {
+      "video_id": "KoMcwvX-QzI",
+      "channel": "Cyber_Insecurity",
+      "title": "This isn't an attack wave. It's velocity.",
+      "link": "https://www.youtube.com/watch?v=KoMcwvX-QzI",
+      "published_at": "2026-11-26T17:02:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/KoMcwvX-QzI/hqdefault.jpg"
+    },
     {
       "video_id": "5bmS6YFAHVY",
       "channel": "ElPinguinoDeMario",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=eeiIBQnfHBY",
       "published_at": "2026-11-25T15:00:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/eeiIBQnfHBY/hqdefault.jpg"
-    },
-    {
-      "video_id": "wMCe_SPtusQ",
-      "channel": "shenetworks",
-      "title": "Your edge box should not be the attacker's jump box.",
-      "link": "https://www.youtube.com/watch?v=wMCe_SPtusQ",
-      "published_at": "2026-11-25T15:00:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wMCe_SPtusQ/hqdefault.jpg"
     }
   ]
 }
