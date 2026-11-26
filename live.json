@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T17:19:17Z",
+  "updated": "2026-11-26T17:29:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "panekopanko",
       "title": "larping as your dad",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 26
     },
     {
       "platform": "youtube",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 28,
   "videos": [
+    {
+      "video_id": "8OZmvdEx4s0",
+      "channel": "MSec",
+      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
+      "link": "https://www.youtube.com/watch?v=8OZmvdEx4s0",
+      "published_at": "2026-11-26T17:14:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8OZmvdEx4s0/hqdefault.jpg"
+    },
     {
       "video_id": "KoMcwvX-QzI",
       "channel": "Cyber_Insecurity",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=Tyl1BXL6KHA",
       "published_at": "2026-11-25T16:40:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Tyl1BXL6KHA/hqdefault.jpg"
-    },
-    {
-      "video_id": "fgov2AbAyGs",
-      "channel": "TheLaluka",
-      "title": "Why Can't This CPU Leak Be Exploited? #shorts",
-      "link": "https://www.youtube.com/watch?v=fgov2AbAyGs",
-      "published_at": "2026-11-25T15:20:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fgov2AbAyGs/hqdefault.jpg"
     }
   ]
 }
