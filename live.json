@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-26T08:49:36Z",
+  "updated": "2026-11-26T12:18:43Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "I7E6hLDvsB4",
+      "channel": "TheShyHat",
+      "title": "Hack The Web - ProgressBar - Sourcecode Analysis - Easy Challenges",
+      "link": "https://www.youtube.com/watch?v=I7E6hLDvsB4",
+      "published_at": "2026-11-26T12:00:23+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/I7E6hLDvsB4/hqdefault.jpg"
+    },
+    {
+      "video_id": "SBtFi57AV7o",
+      "channel": "hack_smarter",
+      "title": "Hacking Linux (GitOops - Part 2)",
+      "link": "https://www.youtube.com/watch?v=SBtFi57AV7o",
+      "published_at": "2026-11-26T12:00:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SBtFi57AV7o/hqdefault.jpg"
+    },
     {
       "video_id": "Xt8yoX3a6JA",
       "channel": "censoredHacker",
@@ -146,22 +162,6 @@
       "link": "https://www.youtube.com/watch?v=GXHk0nbc9A0",
       "published_at": "2026-11-25T04:57:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GXHk0nbc9A0/hqdefault.jpg"
-    },
-    {
-      "video_id": "Q1qie9W8v7g",
-      "channel": "mbcrump",
-      "title": "A53 FPKG Support (Phase 1 Testing) Released for PS5 13.60 and more!",
-      "link": "https://www.youtube.com/watch?v=Q1qie9W8v7g",
-      "published_at": "2026-11-24T23:30:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Q1qie9W8v7g/hqdefault.jpg"
-    },
-    {
-      "video_id": "dUih4DpSwFE",
-      "channel": "MSec",
-      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
-      "link": "https://www.youtube.com/watch?v=dUih4DpSwFE",
-      "published_at": "2026-11-24T23:04:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dUih4DpSwFE/hqdefault.jpg"
     }
   ]
 }
