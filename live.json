@@ -1,11 +1,18 @@
 {
-  "updated": "2026-11-26T21:39:37Z",
+  "updated": "2026-11-26T22:09:07Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
+      "viewers": 2
+    },
+    {
+      "platform": "youtube",
+      "name": "BySepa",
+      "title": "Charlamos sobre el evento del CCN",
+      "link": "https://www.youtube.com/watch?v=badkp1yZQYM",
       "viewers": 1
     },
     {
@@ -16,16 +23,23 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 2,
+  "viewers_total": 4,
   "videos": [
+    {
+      "video_id": "5s4eAV7exMg",
+      "channel": "SecurityWeekly",
+      "title": "AI Arms Race, We All Lose - PSW #954",
+      "link": "https://www.youtube.com/watch?v=5s4eAV7exMg",
+      "published_at": "2026-11-26T22:00:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5s4eAV7exMg/hqdefault.jpg"
+    },
     {
       "video_id": "badkp1yZQYM",
       "channel": "BySepa",
       "title": "Charlamos sobre el evento del CCN #STIC2026 en Madrid y mucho m\u00e1s #hacktheplanet #teaminvierno",
       "link": "https://www.youtube.com/watch?v=badkp1yZQYM",
       "published_at": "2026-11-26T20:12:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/badkp1yZQYM/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/badkp1yZQYM/hqdefault.jpg"
     },
     {
       "video_id": "WOSQDCGjNnk",
@@ -170,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=GswKw9xFbT8",
       "published_at": "2026-11-25T18:00:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GswKw9xFbT8/hqdefault.jpg"
-    },
-    {
-      "video_id": "tO7hj5I1DYY",
-      "channel": "CyberWarriorStudios",
-      "title": "Stop the Grind This Thanksgiving \u2014 Take Time for YOU \ud83e\udd83 #Shorts",
-      "link": "https://www.youtube.com/watch?v=tO7hj5I1DYY",
-      "published_at": "2026-11-25T17:37:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tO7hj5I1DYY/hqdefault.jpg"
     }
   ]
 }
