@@ -1,15 +1,29 @@
 {
-  "updated": "2026-11-26T17:09:38Z",
+  "updated": "2026-11-26T17:19:17Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "msec",
+      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
+      "link": "https://twitch.tv/msec",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "larping as your dad",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 31
+      "viewers": 27
+    },
+    {
+      "platform": "youtube",
+      "name": "MSec",
+      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
+      "link": "https://www.youtube.com/watch?v=8OZmvdEx4s0",
+      "viewers": 1
     }
   ],
-  "viewers_total": 31,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "KoMcwvX-QzI",
@@ -18,6 +32,14 @@
       "link": "https://www.youtube.com/watch?v=KoMcwvX-QzI",
       "published_at": "2026-11-26T17:02:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/KoMcwvX-QzI/hqdefault.jpg"
+    },
+    {
+      "video_id": "9ul4hXW2x9U",
+      "channel": "shenetworks",
+      "title": "Is it Critical or not?  #ai #cybersecurity  #cloudsecurity",
+      "link": "https://www.youtube.com/watch?v=9ul4hXW2x9U",
+      "published_at": "2026-11-26T17:00:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9ul4hXW2x9U/hqdefault.jpg"
     },
     {
       "video_id": "5bmS6YFAHVY",
@@ -162,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=fgov2AbAyGs",
       "published_at": "2026-11-25T15:20:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fgov2AbAyGs/hqdefault.jpg"
-    },
-    {
-      "video_id": "eeiIBQnfHBY",
-      "channel": "SecurityWeekly",
-      "title": "Your AI Incident Response Plan Is Outdated",
-      "link": "https://www.youtube.com/watch?v=eeiIBQnfHBY",
-      "published_at": "2026-11-25T15:00:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/eeiIBQnfHBY/hqdefault.jpg"
     }
   ]
 }
