@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T05:59:36Z",
+  "updated": "2026-11-26T06:09:36Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,14 +20,14 @@
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! Easy Cybersecurity Demos & HackSmarter Aftermath",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 18
+      "viewers": 19
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! Easy Cybersecurity Demos & HackSmarter Aftermath",
       "link": "https://www.youtube.com/watch?v=65XXqXmfSI4",
-      "viewers": 8
+      "viewers": 7
     }
   ],
   "viewers_total": 303,
