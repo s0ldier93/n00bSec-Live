@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-26T23:49:36Z",
+  "updated": "2026-11-26T23:59:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charlamos sobre el evento del CCN #STIC2026 en Madrid y mucho m\u00e1s #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "BySepa",
       "title": "Charlamos sobre el evento del CCN",
       "link": "https://www.youtube.com/watch?v=badkp1yZQYM",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 10,
   "videos": [
     {
       "video_id": "RECO1Dqp4lw",
