@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-26T15:39:39Z",
+  "updated": "2026-11-26T15:49:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "larping as your dad",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 25
+      "viewers": 28
     }
   ],
-  "viewers_total": 25,
+  "viewers_total": 28,
   "videos": [
+    {
+      "video_id": "XpKl-qhRVGw",
+      "channel": "Khaos_Farbauti",
+      "title": "Les lives \"papotages\"",
+      "link": "https://www.youtube.com/watch?v=XpKl-qhRVGw",
+      "published_at": "2026-11-26T15:39:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XpKl-qhRVGw/hqdefault.jpg"
+    },
     {
       "video_id": "R0OeK5haEiI",
       "channel": "TheLaluka",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=Vwemee2A5b8",
       "published_at": "2026-11-25T14:30:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Vwemee2A5b8/hqdefault.jpg"
-    },
-    {
-      "video_id": "lUnK8_BtkSk",
-      "channel": "ElPinguinoDeMario",
-      "title": "Esta Vulnerabilidad Permite que tu Informaci\u00f3n se Filtre en la Red",
-      "link": "https://www.youtube.com/watch?v=lUnK8_BtkSk",
-      "published_at": "2026-11-25T12:41:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lUnK8_BtkSk/hqdefault.jpg"
     }
   ]
 }
