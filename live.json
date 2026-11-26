@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-26T20:19:37Z",
+  "updated": "2026-11-26T20:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "Hackavis",
       "title": "\ud83d\udd34 Montando una IA SIN censura en tu propio equipo, en local.",
       "link": "https://twitch.tv/Hackavis",
-      "viewers": 34
+      "viewers": 36
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "Hackavis",
       "title": "\ud83d\udd34 Montando una IA SIN censura en tu propio equipo, en local.",
       "link": "https://www.youtube.com/watch?v=WOSQDCGjNnk",
-      "viewers": 11
+      "viewers": 13
     },
     {
       "platform": "youtube",
@@ -30,8 +30,17 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 47,
+  "viewers_total": 51,
   "videos": [
+    {
+      "video_id": "badkp1yZQYM",
+      "channel": "BySepa",
+      "title": "Charlamos sobre el evento del CCN #STIC2026 en Madrid y mucho m\u00e1s #hacktheplanet #teaminvierno",
+      "link": "https://www.youtube.com/watch?v=badkp1yZQYM",
+      "published_at": "2026-11-26T20:12:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/badkp1yZQYM/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "WOSQDCGjNnk",
       "channel": "Hackavis",
@@ -183,14 +192,6 @@
       "link": "https://www.youtube.com/watch?v=tO7hj5I1DYY",
       "published_at": "2026-11-25T17:37:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tO7hj5I1DYY/hqdefault.jpg"
-    },
-    {
-      "video_id": "lmY4ck2isj8",
-      "channel": "Cyber_Insecurity",
-      "title": "AI didn't cause the outage. Rushed patching did.",
-      "link": "https://www.youtube.com/watch?v=lmY4ck2isj8",
-      "published_at": "2026-11-25T17:09:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lmY4ck2isj8/hqdefault.jpg"
     }
   ]
 }
