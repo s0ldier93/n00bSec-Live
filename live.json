@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-26T19:59:15Z",
+  "updated": "2026-11-26T19:59:36Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "Hackavis",
+      "title": "\ud83d\udd34 Montando una IA SIN censura en tu propio equipo, en local.",
+      "link": "https://twitch.tv/Hackavis",
+      "viewers": 20
+    },
     {
       "platform": "twitch",
       "name": "msec",
@@ -23,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 28,
   "videos": [
     {
       "video_id": "WOSQDCGjNnk",
