@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T07:29:37Z",
+  "updated": "2026-11-26T07:39:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "censoredHacker",
       "title": "Don't Touch My Bum and TryHackMe Defending AWS",
       "link": "https://www.youtube.com/watch?v=Xt8yoX3a6JA",
-      "viewers": 4
+      "viewers": 7
     }
   ],
-  "viewers_total": 18,
+  "viewers_total": 21,
   "videos": [
     {
       "video_id": "Xt8yoX3a6JA",
