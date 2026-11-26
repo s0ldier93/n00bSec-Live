@@ -1,19 +1,12 @@
 {
-  "updated": "2026-11-26T07:29:06Z",
+  "updated": "2026-11-26T07:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Don't Touch My (\uffe3\u2530\uffe3) \ud83c\udf51 and TryHackMe Defending AWS",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
-    },
-    {
-      "platform": "twitch",
-      "name": "TheShyHat",
-      "title": "LINUX HACKING LIVE! Easy Cybersecurity Demos & HackSmarter Aftermath",
-      "link": "https://twitch.tv/TheShyHat",
-      "viewers": 21
+      "viewers": 14
     },
     {
       "platform": "youtube",
@@ -23,7 +16,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 27,
+  "viewers_total": 18,
   "videos": [
     {
       "video_id": "Xt8yoX3a6JA",
