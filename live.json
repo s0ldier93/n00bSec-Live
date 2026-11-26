@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-26T15:29:37Z",
+  "updated": "2026-11-26T15:39:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "larping as your dad",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 22
+      "viewers": 25
     }
   ],
-  "viewers_total": 22,
+  "viewers_total": 25,
   "videos": [
+    {
+      "video_id": "R0OeK5haEiI",
+      "channel": "TheLaluka",
+      "title": "Who Is Managing Whom Here? #shorts",
+      "link": "https://www.youtube.com/watch?v=R0OeK5haEiI",
+      "published_at": "2026-11-26T15:21:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/R0OeK5haEiI/hqdefault.jpg"
+    },
     {
       "video_id": "VMd5xJ8T-0w",
       "channel": "CyberWarriorStudios",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=lUnK8_BtkSk",
       "published_at": "2026-11-25T12:41:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lUnK8_BtkSk/hqdefault.jpg"
-    },
-    {
-      "video_id": "mU_pCgzV5qQ",
-      "channel": "SecurityWeekly",
-      "title": "AI Agent Collisions as Dreams of 1990s Cybersecurity Leads To Solving Wrong Problem - BSW #475",
-      "link": "https://www.youtube.com/watch?v=mU_pCgzV5qQ",
-      "published_at": "2026-11-25T10:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mU_pCgzV5qQ/hqdefault.jpg"
     }
   ]
 }
