@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-26T20:29:38Z",
+  "updated": "2026-11-26T20:39:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "Hackavis",
       "title": "\ud83d\udd34 Montando una IA SIN censura en tu propio equipo, en local.",
       "link": "https://twitch.tv/Hackavis",
-      "viewers": 36
+      "viewers": 49
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "Hackavis",
       "title": "\ud83d\udd34 Montando una IA SIN censura en tu propio equipo, en local.",
       "link": "https://www.youtube.com/watch?v=WOSQDCGjNnk",
-      "viewers": 13
+      "viewers": 15
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 51,
+  "viewers_total": 66,
   "videos": [
     {
       "video_id": "badkp1yZQYM",
