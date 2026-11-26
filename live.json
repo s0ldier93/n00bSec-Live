@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-26T12:18:43Z",
+  "updated": "2026-11-26T13:08:43Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "VMd5xJ8T-0w",
+      "channel": "CyberWarriorStudios",
+      "title": "Happy Thanksgiving! Turkey, Football & Die Hard Season Begins \ud83e\udd83\ud83c\udf84 #Shorts",
+      "link": "https://www.youtube.com/watch?v=VMd5xJ8T-0w",
+      "published_at": "2026-11-26T13:02:41+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VMd5xJ8T-0w/hqdefault.jpg"
+    },
     {
       "video_id": "I7E6hLDvsB4",
       "channel": "TheShyHat",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=mU_pCgzV5qQ",
       "published_at": "2026-11-25T10:00:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mU_pCgzV5qQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "GXHk0nbc9A0",
-      "channel": "EJSA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/22/26",
-      "link": "https://www.youtube.com/watch?v=GXHk0nbc9A0",
-      "published_at": "2026-11-25T04:57:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GXHk0nbc9A0/hqdefault.jpg"
     }
   ]
 }
