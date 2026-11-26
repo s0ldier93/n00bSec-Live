@@ -1,11 +1,18 @@
 {
-  "updated": "2026-11-26T00:39:37Z",
+  "updated": "2026-11-26T00:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "chiefgyk3d",
       "title": "Turkey Day Cometh||Cybersecurity,Rants,&Chill|11-25-26",
       "link": "https://twitch.tv/chiefgyk3d",
+      "viewers": 18
+    },
+    {
+      "platform": "twitch",
+      "name": "djax_1",
+      "title": "GTA6 PART 4: GET THIS MONEY!!!",
+      "link": "https://twitch.tv/djax_1",
       "viewers": 1
     },
     {
@@ -13,10 +20,10 @@
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 8) 11/25/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 309
+      "viewers": 296
     }
   ],
-  "viewers_total": 310,
+  "viewers_total": 315,
   "videos": [
     {
       "video_id": "d5zbCrifFPQ",
