@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T22:29:37Z",
+  "updated": "2026-11-26T22:39:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 6,
+  "viewers_total": 9,
   "videos": [
     {
       "video_id": "RECO1Dqp4lw",
