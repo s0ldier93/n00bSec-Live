@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T18:19:37Z",
+  "updated": "2026-11-26T18:29:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -25,6 +25,14 @@
   ],
   "viewers_total": 37,
   "videos": [
+    {
+      "video_id": "UQbmK8F2a9Y",
+      "channel": "Hackavis",
+      "title": "Borra tu rastro en internet con un solo clic",
+      "link": "https://www.youtube.com/watch?v=UQbmK8F2a9Y",
+      "published_at": "2026-11-26T18:06:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UQbmK8F2a9Y/hqdefault.jpg"
+    },
     {
       "video_id": "8OZmvdEx4s0",
       "channel": "MSec",
@@ -176,14 +184,6 @@
       "link": "https://www.youtube.com/watch?v=htKWOg1Sqtw",
       "published_at": "2026-11-25T17:00:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/htKWOg1Sqtw/hqdefault.jpg"
-    },
-    {
-      "video_id": "Tyl1BXL6KHA",
-      "channel": "overgrowncarrot1",
-      "title": "Hack Smarter: Araska",
-      "link": "https://www.youtube.com/watch?v=Tyl1BXL6KHA",
-      "published_at": "2026-11-25T16:40:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Tyl1BXL6KHA/hqdefault.jpg"
     }
   ]
 }
