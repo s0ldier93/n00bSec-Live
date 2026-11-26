@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T17:49:37Z",
+  "updated": "2026-11-26T18:09:40Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,17 +13,17 @@
       "name": "panekopanko",
       "title": "larping as your dad",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 35
     },
     {
       "platform": "youtube",
       "name": "MSec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://www.youtube.com/watch?v=8OZmvdEx4s0",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 31,
+  "viewers_total": 38,
   "videos": [
     {
       "video_id": "8OZmvdEx4s0",
