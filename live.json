@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T06:39:37Z",
+  "updated": "2026-11-26T06:49:06Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,13 +10,20 @@
     },
     {
       "platform": "youtube",
+      "name": "censoredHacker",
+      "title": "Don't Touch My Bum and TryHackMe Defending AWS",
+      "link": "https://www.youtube.com/watch?v=Xt8yoX3a6JA",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
       "name": "TheShyHat",
       "title": "LINUX HACKING LIVE! Easy Cybersecurity Demos & HackSmarter Aftermath",
       "link": "https://www.youtube.com/watch?v=65XXqXmfSI4",
-      "viewers": 10
+      "viewers": 6
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 30,
   "videos": [
     {
       "video_id": "Xt8yoX3a6JA",
@@ -24,8 +31,7 @@
       "title": "Focus with me with some Tryhackme and grind",
       "link": "https://www.youtube.com/watch?v=Xt8yoX3a6JA",
       "published_at": "2026-11-26T06:23:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Xt8yoX3a6JA/hqdefault.jpg",
-      "upcoming": true
+      "thumbnail": "https://i.ytimg.com/vi/Xt8yoX3a6JA/hqdefault.jpg"
     },
     {
       "video_id": "d5zbCrifFPQ",
