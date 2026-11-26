@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-26T22:59:37Z",
+  "updated": "2026-11-26T23:09:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "BySepa",
       "title": "Charlamos sobre el evento del CCN #STIC2026 en Madrid y mucho m\u00e1s #hacktheplanet #teaminvierno",
       "link": "https://twitch.tv/BySepa",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "BySepa",
       "title": "Charlamos sobre el evento del CCN",
       "link": "https://www.youtube.com/watch?v=badkp1yZQYM",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 11,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "RECO1Dqp4lw",
