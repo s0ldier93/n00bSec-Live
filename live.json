@@ -1,23 +1,24 @@
 {
-  "updated": "2026-11-27T00:59:37Z",
+  "updated": "2026-11-27T01:09:02Z",
   "streams": [
     {
-      "platform": "twitch",
-      "name": "msec",
-      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
-      "link": "https://twitch.tv/msec",
-      "viewers": 4
-    },
-    {
       "platform": "youtube",
-      "name": "MSec",
-      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
-      "link": "https://www.youtube.com/watch?v=8OZmvdEx4s0",
-      "viewers": 1
+      "name": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 9) 11/25/26",
+      "link": "https://www.youtube.com/watch?v=ACruvKmOdwk",
+      "viewers": 9
     }
   ],
-  "viewers_total": 5,
+  "viewers_total": 9,
   "videos": [
+    {
+      "video_id": "ACruvKmOdwk",
+      "channel": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 9) 11/25/26",
+      "link": "https://www.youtube.com/watch?v=ACruvKmOdwk",
+      "published_at": "2026-11-27T01:01:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ACruvKmOdwk/hqdefault.jpg"
+    },
     {
       "video_id": "RECO1Dqp4lw",
       "channel": "pebl3",
@@ -169,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=gFWCyq3GWto",
       "published_at": "2026-11-25T19:00:46+00:00",
       "thumbnail": "https://i.ytimg.com/vi/gFWCyq3GWto/hqdefault.jpg"
-    },
-    {
-      "video_id": "nfT7n5FptWY",
-      "channel": "Hackavis",
-      "title": "Tier list de herramientas de hacking",
-      "link": "https://www.youtube.com/watch?v=nfT7n5FptWY",
-      "published_at": "2026-11-25T18:02:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nfT7n5FptWY/hqdefault.jpg"
     }
   ]
 }
