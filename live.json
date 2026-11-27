@@ -1,23 +1,39 @@
 {
-  "updated": "2026-11-27T20:59:37Z",
+  "updated": "2026-11-27T21:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] moving from i3wm to sway THEN setting up my NixOS server moving from i3wm to sway THEN setting up my NixOS server",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 431
+      "viewers": 604
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 325
+      "viewers": 334
+    },
+    {
+      "platform": "twitch",
+      "name": "freshforensics",
+      "title": "Hacking iPhones All Day & All Night \ud83d\udcf1 iOS HACKATHON",
+      "link": "https://twitch.tv/freshforensics",
+      "viewers": 0
     }
   ],
-  "viewers_total": 756,
+  "viewers_total": 938,
   "videos": [
+    {
+      "video_id": "nrvyZFV9-E4",
+      "channel": "TheShyHat",
+      "title": "CYBERSECURITY CO-WORKING - Learning Android Dev for Future Hacking",
+      "link": "https://www.youtube.com/watch?v=nrvyZFV9-E4",
+      "published_at": "2026-11-27T20:54:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nrvyZFV9-E4/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "6vUNM7XWy6U",
       "channel": "CyberWarriorStudios",
@@ -169,14 +185,6 @@
       "link": "https://www.youtube.com/watch?v=8OZmvdEx4s0",
       "published_at": "2026-11-26T17:14:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8OZmvdEx4s0/hqdefault.jpg"
-    },
-    {
-      "video_id": "KoMcwvX-QzI",
-      "channel": "Cyber_Insecurity",
-      "title": "This isn't an attack wave. It's velocity.",
-      "link": "https://www.youtube.com/watch?v=KoMcwvX-QzI",
-      "published_at": "2026-11-26T17:02:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/KoMcwvX-QzI/hqdefault.jpg"
     }
   ]
 }
