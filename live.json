@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-27T17:29:17Z",
+  "updated": "2026-11-27T17:29:37Z",
   "streams": [
     {
-      "platform": "youtube",
-      "name": "EJSA",
+      "platform": "twitch",
+      "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
-      "link": "https://www.youtube.com/watch?v=W7tr9llam60",
-      "viewers": 8
+      "link": "https://twitch.tv/ej_sa",
+      "viewers": 22
     }
   ],
-  "viewers_total": 8,
+  "viewers_total": 22,
   "videos": [
     {
       "video_id": "PxnncQoJZKo",
