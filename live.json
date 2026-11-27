@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-27T22:29:38Z",
+  "updated": "2026-11-27T22:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] moving from i3wm to sway THEN setting up my NixOS server moving from i3wm to sway THEN setting up my NixOS server",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 759
+      "viewers": 785
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 1112,
+  "viewers_total": 1138,
   "videos": [
     {
       "video_id": "c2w6TbA6sNw",
