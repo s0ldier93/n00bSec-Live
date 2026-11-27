@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-27T21:39:38Z",
+  "updated": "2026-11-27T21:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] moving from i3wm to sway THEN setting up my NixOS server moving from i3wm to sway THEN setting up my NixOS server",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 650
+      "viewers": 714
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 353
+      "viewers": 362
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "Hacking iPhones All Day & All Night \ud83d\udcf1 iOS HACKATHON",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 1005,
+  "viewers_total": 1077,
   "videos": [
     {
       "video_id": "E7MLLviqNlk",
