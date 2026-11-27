@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-27T21:19:39Z",
+  "updated": "2026-11-27T21:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] moving from i3wm to sway THEN setting up my NixOS server moving from i3wm to sway THEN setting up my NixOS server",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 622
+      "viewers": 626
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 341
+      "viewers": 345
     },
     {
       "platform": "twitch",
@@ -23,7 +23,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 964,
+  "viewers_total": 972,
   "videos": [
     {
       "video_id": "nrvyZFV9-E4",
