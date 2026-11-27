@@ -1,22 +1,15 @@
 {
-  "updated": "2026-11-27T02:29:37Z",
+  "updated": "2026-11-27T02:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 9) 11/25/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 299
-    },
-    {
-      "platform": "twitch",
-      "name": "freshforensics",
-      "title": "\ud83d\udda4 The World Doesn't Stop. Neither Do We. | Thanksgiving with Fresh Forensics",
-      "link": "https://twitch.tv/freshforensics",
-      "viewers": 5
+      "viewers": 335
     }
   ],
-  "viewers_total": 304,
+  "viewers_total": 335,
   "videos": [
     {
       "video_id": "ACruvKmOdwk",
