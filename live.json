@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-27T06:09:37Z",
+  "updated": "2026-11-27T06:19:36Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 9) 11/25/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 320
+      "viewers": 307
     }
   ],
-  "viewers_total": 320,
+  "viewers_total": 307,
   "videos": [
+    {
+      "video_id": "QAVCsd9zmhU",
+      "channel": "antisyphon",
+      "title": "Hayabusa | Free Lab Fridays [Full Lab Walkthrough]",
+      "link": "https://www.youtube.com/watch?v=QAVCsd9zmhU",
+      "published_at": "2026-11-27T06:00:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/QAVCsd9zmhU/hqdefault.jpg"
+    },
     {
       "video_id": "ACruvKmOdwk",
       "channel": "EJSA",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=VZC1AnUspVs",
       "published_at": "2026-11-25T20:00:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VZC1AnUspVs/hqdefault.jpg"
-    },
-    {
-      "video_id": "gFWCyq3GWto",
-      "channel": "overgrowncarrot1",
-      "title": "Hack Smarter: Orion",
-      "link": "https://www.youtube.com/watch?v=gFWCyq3GWto",
-      "published_at": "2026-11-25T19:00:46+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gFWCyq3GWto/hqdefault.jpg"
     }
   ]
 }
