@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-27T15:28:43Z",
+  "updated": "2026-11-27T17:08:44Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "PxnncQoJZKo",
+      "channel": "Cyber_Insecurity",
+      "title": "Enterprise AI is just the phone carriers now",
+      "link": "https://www.youtube.com/watch?v=PxnncQoJZKo",
+      "published_at": "2026-11-27T17:00:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PxnncQoJZKo/hqdefault.jpg"
+    },
+    {
+      "video_id": "7mwF_lMEB98",
+      "channel": "thecybermentor",
+      "title": "Tips For Command Line Log Analysis",
+      "link": "https://www.youtube.com/watch?v=7mwF_lMEB98",
+      "published_at": "2026-11-27T17:00:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/7mwF_lMEB98/hqdefault.jpg"
+    },
     {
       "video_id": "mEBdrofuOuU",
       "channel": "TheLaluka",
@@ -146,22 +162,6 @@
       "link": "https://www.youtube.com/watch?v=XpKl-qhRVGw",
       "published_at": "2026-11-26T15:39:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/XpKl-qhRVGw/hqdefault.jpg"
-    },
-    {
-      "video_id": "R0OeK5haEiI",
-      "channel": "TheLaluka",
-      "title": "Who Is Managing Whom Here? #shorts",
-      "link": "https://www.youtube.com/watch?v=R0OeK5haEiI",
-      "published_at": "2026-11-26T15:21:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/R0OeK5haEiI/hqdefault.jpg"
-    },
-    {
-      "video_id": "VMd5xJ8T-0w",
-      "channel": "CyberWarriorStudios",
-      "title": "Happy Thanksgiving! Turkey, Football & Die Hard Season Begins \ud83e\udd83\ud83c\udf84 #Shorts",
-      "link": "https://www.youtube.com/watch?v=VMd5xJ8T-0w",
-      "published_at": "2026-11-26T13:02:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VMd5xJ8T-0w/hqdefault.jpg"
     }
   ]
 }
