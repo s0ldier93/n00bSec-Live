@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-27T07:39:37Z",
+  "updated": "2026-11-27T07:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "TryHackMe Defending AWS - 2",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 5
+      "viewers": 6
     },
     {
       "platform": "youtube",
@@ -16,7 +16,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 8,
   "videos": [
     {
       "video_id": "D_s4ONmDpB0",
