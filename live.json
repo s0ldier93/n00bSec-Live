@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T00:29:37Z",
+  "updated": "2026-11-27T00:39:02Z",
   "streams": [
     {
       "platform": "twitch",
@@ -17,20 +17,13 @@
     },
     {
       "platform": "youtube",
-      "name": "BySepa",
-      "title": "Charlamos sobre el evento del CCN",
-      "link": "https://www.youtube.com/watch?v=badkp1yZQYM",
-      "viewers": 1
-    },
-    {
-      "platform": "youtube",
       "name": "MSec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://www.youtube.com/watch?v=8OZmvdEx4s0",
       "viewers": 1
     }
   ],
-  "viewers_total": 12,
+  "viewers_total": 11,
   "videos": [
     {
       "video_id": "RECO1Dqp4lw",
