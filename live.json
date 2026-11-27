@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-27T15:09:20Z",
+  "updated": "2026-11-27T15:18:43Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "GqRm1PSQIaA",
+      "channel": "SecurityWeekly",
+      "title": "The End of Vulnerability-Only Security",
+      "link": "https://www.youtube.com/watch?v=GqRm1PSQIaA",
+      "published_at": "2026-11-27T15:00:02+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GqRm1PSQIaA/hqdefault.jpg"
+    },
     {
       "video_id": "HWIIaH8tvfM",
       "channel": "TheGoodHackerTV",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=I7E6hLDvsB4",
       "published_at": "2026-11-26T12:00:23+00:00",
       "thumbnail": "https://i.ytimg.com/vi/I7E6hLDvsB4/hqdefault.jpg"
-    },
-    {
-      "video_id": "SBtFi57AV7o",
-      "channel": "hack_smarter",
-      "title": "Hacking Linux (GitOops - Part 2)",
-      "link": "https://www.youtube.com/watch?v=SBtFi57AV7o",
-      "published_at": "2026-11-26T12:00:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SBtFi57AV7o/hqdefault.jpg"
     }
   ]
 }
