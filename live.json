@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-27T22:49:37Z",
+  "updated": "2026-11-27T22:59:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] moving from i3wm to sway THEN setting up my NixOS server moving from i3wm to sway THEN setting up my NixOS server",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 789
+      "viewers": 794
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 370
+      "viewers": 385
     },
     {
       "platform": "twitch",
@@ -27,17 +27,17 @@
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "MSec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://www.youtube.com/watch?v=PyHzBpSJbiM",
-      "viewers": 2
+      "viewers": 1
     }
   ],
-  "viewers_total": 1163,
+  "viewers_total": 1183,
   "videos": [
     {
       "video_id": "-dAFANTQUaE",
@@ -46,6 +46,14 @@
       "link": "https://www.youtube.com/watch?v=-dAFANTQUaE",
       "published_at": "2026-11-27T22:45:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-dAFANTQUaE/hqdefault.jpg"
+    },
+    {
+      "video_id": "PyHzBpSJbiM",
+      "channel": "MSec",
+      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
+      "link": "https://www.youtube.com/watch?v=PyHzBpSJbiM",
+      "published_at": "2026-11-27T22:43:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PyHzBpSJbiM/hqdefault.jpg"
     },
     {
       "video_id": "c2w6TbA6sNw",
@@ -192,14 +200,6 @@
       "link": "https://www.youtube.com/watch?v=5s4eAV7exMg",
       "published_at": "2026-11-26T22:00:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/5s4eAV7exMg/hqdefault.jpg"
-    },
-    {
-      "video_id": "badkp1yZQYM",
-      "channel": "BySepa",
-      "title": "Charlamos sobre el evento del CCN #STIC2026 en Madrid y mucho m\u00e1s #hacktheplanet #teaminvierno",
-      "link": "https://www.youtube.com/watch?v=badkp1yZQYM",
-      "published_at": "2026-11-26T20:12:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/badkp1yZQYM/hqdefault.jpg"
     }
   ]
 }
