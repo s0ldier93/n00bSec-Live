@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-27T23:09:37Z",
+  "updated": "2026-11-27T23:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] moving from i3wm to sway THEN setting up my NixOS server moving from i3wm to sway THEN setting up my NixOS server",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 731
+      "viewers": 750
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 368
+      "viewers": 356
     },
     {
       "platform": "twitch",
@@ -37,8 +37,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 1103,
+  "viewers_total": 1110,
   "videos": [
+    {
+      "video_id": "vbkwHJX3giw",
+      "channel": "SecurityWeekly",
+      "title": "Rinoa Poison: Hacking Scammers Can Backfire",
+      "link": "https://www.youtube.com/watch?v=vbkwHJX3giw",
+      "published_at": "2026-11-27T23:00:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vbkwHJX3giw/hqdefault.jpg"
+    },
     {
       "video_id": "-dAFANTQUaE",
       "channel": "mbcrump",
@@ -192,14 +200,6 @@
       "link": "https://www.youtube.com/watch?v=RECO1Dqp4lw",
       "published_at": "2026-11-26T22:03:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RECO1Dqp4lw/hqdefault.jpg"
-    },
-    {
-      "video_id": "5s4eAV7exMg",
-      "channel": "SecurityWeekly",
-      "title": "AI Arms Race, We All Lose - PSW #954",
-      "link": "https://www.youtube.com/watch?v=5s4eAV7exMg",
-      "published_at": "2026-11-26T22:00:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5s4eAV7exMg/hqdefault.jpg"
     }
   ]
 }
