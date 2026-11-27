@@ -1,16 +1,24 @@
 {
-  "updated": "2026-11-27T14:49:39Z",
+  "updated": "2026-11-27T14:59:38Z",
   "streams": [
     {
       "platform": "youtube",
       "name": "gerald_auger_simplycyber",
       "title": "\ud83d\udd34 Nov 27's Top Cyber News NOW! - Ep 1296",
       "link": "https://www.youtube.com/watch?v=hzIgvozf8lc",
-      "viewers": 110
+      "viewers": 108
     }
   ],
-  "viewers_total": 110,
+  "viewers_total": 108,
   "videos": [
+    {
+      "video_id": "HWIIaH8tvfM",
+      "channel": "TheGoodHackerTV",
+      "title": "Claude ILIMITADO (10.000 MILLONES de Tokens GRATIS)",
+      "link": "https://www.youtube.com/watch?v=HWIIaH8tvfM",
+      "published_at": "2026-11-27T14:53:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/HWIIaH8tvfM/hqdefault.jpg"
+    },
     {
       "video_id": "YSb2lJko3dc",
       "channel": "censoredHacker",
@@ -162,14 +170,6 @@
       "link": "https://www.youtube.com/watch?v=SBtFi57AV7o",
       "published_at": "2026-11-26T12:00:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SBtFi57AV7o/hqdefault.jpg"
-    },
-    {
-      "video_id": "Xt8yoX3a6JA",
-      "channel": "censoredHacker",
-      "title": "Focus with me with some Tryhackme and grind",
-      "link": "https://www.youtube.com/watch?v=Xt8yoX3a6JA",
-      "published_at": "2026-11-26T06:23:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Xt8yoX3a6JA/hqdefault.jpg"
     }
   ]
 }
