@@ -1,23 +1,39 @@
 {
-  "updated": "2026-11-27T17:59:40Z",
+  "updated": "2026-11-27T18:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 193
+      "viewers": 205
     },
     {
       "platform": "twitch",
       "name": "overgrowncarrot1",
       "title": "Hack Smarter Not Harder",
       "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 8
+      "viewers": 14
     }
   ],
-  "viewers_total": 201,
+  "viewers_total": 219,
   "videos": [
+    {
+      "video_id": "6vUNM7XWy6U",
+      "channel": "CyberWarriorStudios",
+      "title": "Your Kids Won't Remember the Gifts. They'll Remember THIS. \ud83c\udf84 #Shorts",
+      "link": "https://www.youtube.com/watch?v=6vUNM7XWy6U",
+      "published_at": "2026-11-27T18:05:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6vUNM7XWy6U/hqdefault.jpg"
+    },
+    {
+      "video_id": "ujVfKgGoHyg",
+      "channel": "Hackavis",
+      "title": "Punt\u00fao las certificaciones de Hack The Box",
+      "link": "https://www.youtube.com/watch?v=ujVfKgGoHyg",
+      "published_at": "2026-11-27T18:03:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ujVfKgGoHyg/hqdefault.jpg"
+    },
     {
       "video_id": "W7tr9llam60",
       "channel": "EJSA",
@@ -161,22 +177,6 @@
       "link": "https://www.youtube.com/watch?v=KoMcwvX-QzI",
       "published_at": "2026-11-26T17:02:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/KoMcwvX-QzI/hqdefault.jpg"
-    },
-    {
-      "video_id": "9ul4hXW2x9U",
-      "channel": "shenetworks",
-      "title": "Is it Critical or not?  #ai #cybersecurity  #cloudsecurity",
-      "link": "https://www.youtube.com/watch?v=9ul4hXW2x9U",
-      "published_at": "2026-11-26T17:00:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9ul4hXW2x9U/hqdefault.jpg"
-    },
-    {
-      "video_id": "5bmS6YFAHVY",
-      "channel": "ElPinguinoDeMario",
-      "title": "Tienes que entender YA c\u00f3mo funciona la Autenticaci\u00f3n Web (Cookies y JWT)",
-      "link": "https://www.youtube.com/watch?v=5bmS6YFAHVY",
-      "published_at": "2026-11-26T16:30:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5bmS6YFAHVY/hqdefault.jpg"
     }
   ]
 }
