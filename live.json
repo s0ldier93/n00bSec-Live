@@ -1,16 +1,31 @@
 {
-  "updated": "2026-11-27T17:29:37Z",
+  "updated": "2026-11-27T17:39:39Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 22
+      "viewers": 91
+    },
+    {
+      "platform": "twitch",
+      "name": "overgrowncarrot1",
+      "title": "Hack Smarter Not Harder",
+      "link": "https://twitch.tv/overgrowncarrot1",
+      "viewers": 4
     }
   ],
-  "viewers_total": 22,
+  "viewers_total": 95,
   "videos": [
+    {
+      "video_id": "W7tr9llam60",
+      "channel": "EJSA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
+      "link": "https://www.youtube.com/watch?v=W7tr9llam60",
+      "published_at": "2026-11-27T17:22:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/W7tr9llam60/hqdefault.jpg"
+    },
     {
       "video_id": "PxnncQoJZKo",
       "channel": "Cyber_Insecurity",
@@ -162,14 +177,6 @@
       "link": "https://www.youtube.com/watch?v=5bmS6YFAHVY",
       "published_at": "2026-11-26T16:30:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/5bmS6YFAHVY/hqdefault.jpg"
-    },
-    {
-      "video_id": "XpKl-qhRVGw",
-      "channel": "Khaos_Farbauti",
-      "title": "Les lives \"papotages\"",
-      "link": "https://www.youtube.com/watch?v=XpKl-qhRVGw",
-      "published_at": "2026-11-26T15:39:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XpKl-qhRVGw/hqdefault.jpg"
     }
   ]
 }
