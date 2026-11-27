@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-27T18:09:38Z",
+  "updated": "2026-11-27T18:19:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 205
+      "viewers": 235
     },
     {
       "platform": "twitch",
       "name": "overgrowncarrot1",
       "title": "Hack Smarter Not Harder",
       "link": "https://twitch.tv/overgrowncarrot1",
-      "viewers": 14
+      "viewers": 9
     }
   ],
-  "viewers_total": 219,
+  "viewers_total": 244,
   "videos": [
     {
       "video_id": "6vUNM7XWy6U",
