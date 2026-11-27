@@ -1,30 +1,39 @@
 {
-  "updated": "2026-11-27T21:29:37Z",
+  "updated": "2026-11-27T21:39:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] moving from i3wm to sway THEN setting up my NixOS server moving from i3wm to sway THEN setting up my NixOS server",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 626
+      "viewers": 650
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 345
+      "viewers": 353
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "Hacking iPhones All Day & All Night \ud83d\udcf1 iOS HACKATHON",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
+      "viewers": 2
     }
   ],
-  "viewers_total": 972,
+  "viewers_total": 1005,
   "videos": [
+    {
+      "video_id": "E7MLLviqNlk",
+      "channel": "TheShyHat",
+      "title": "CYBERSECURITY ADVENT CHALLENGES - Plus Monomoon Puzzles and more!",
+      "link": "https://www.youtube.com/watch?v=E7MLLviqNlk",
+      "published_at": "2026-11-27T21:27:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/E7MLLviqNlk/hqdefault.jpg",
+      "upcoming": true
+    },
     {
       "video_id": "nrvyZFV9-E4",
       "channel": "TheShyHat",
@@ -177,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=UQbmK8F2a9Y",
       "published_at": "2026-11-26T18:06:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/UQbmK8F2a9Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "8OZmvdEx4s0",
-      "channel": "MSec",
-      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
-      "link": "https://www.youtube.com/watch?v=8OZmvdEx4s0",
-      "published_at": "2026-11-26T17:14:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8OZmvdEx4s0/hqdefault.jpg"
     }
   ]
 }
