@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-27T22:39:37Z",
+  "updated": "2026-11-27T22:49:05Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] moving from i3wm to sway THEN setting up my NixOS server moving from i3wm to sway THEN setting up my NixOS server",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 785
+      "viewers": 789
     },
     {
       "platform": "twitch",
@@ -21,10 +21,32 @@
       "title": "Hacking iPhones All Day & All Night \ud83d\udcf1 iOS HACKATHON",
       "link": "https://twitch.tv/freshforensics",
       "viewers": 1
+    },
+    {
+      "platform": "twitch",
+      "name": "msec",
+      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
+      "link": "https://twitch.tv/msec",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "MSec",
+      "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
+      "link": "https://www.youtube.com/watch?v=PyHzBpSJbiM",
+      "viewers": 2
     }
   ],
-  "viewers_total": 1138,
+  "viewers_total": 1145,
   "videos": [
+    {
+      "video_id": "-dAFANTQUaE",
+      "channel": "mbcrump",
+      "title": "What's real about the PS5 GTA6 JB Release?",
+      "link": "https://www.youtube.com/watch?v=-dAFANTQUaE",
+      "published_at": "2026-11-27T22:45:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-dAFANTQUaE/hqdefault.jpg"
+    },
     {
       "video_id": "c2w6TbA6sNw",
       "channel": "pebl3",
@@ -178,14 +200,6 @@
       "link": "https://www.youtube.com/watch?v=badkp1yZQYM",
       "published_at": "2026-11-26T20:12:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/badkp1yZQYM/hqdefault.jpg"
-    },
-    {
-      "video_id": "WOSQDCGjNnk",
-      "channel": "Hackavis",
-      "title": "\ud83d\udd34 C\u00f3mo la IA est\u00e1 cambiando la ciberseguridad",
-      "link": "https://www.youtube.com/watch?v=WOSQDCGjNnk",
-      "published_at": "2026-11-26T19:36:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WOSQDCGjNnk/hqdefault.jpg"
     }
   ]
 }
