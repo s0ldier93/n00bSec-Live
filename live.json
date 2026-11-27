@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-27T22:09:37Z",
+  "updated": "2026-11-27T22:19:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] moving from i3wm to sway THEN setting up my NixOS server moving from i3wm to sway THEN setting up my NixOS server",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 685
+      "viewers": 722
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 355
+      "viewers": 369
     },
     {
       "platform": "twitch",
@@ -23,8 +23,16 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 1041,
+  "viewers_total": 1092,
   "videos": [
+    {
+      "video_id": "c2w6TbA6sNw",
+      "channel": "pebl3",
+      "title": "Two researchers unlocked and started cars with the password admin.",
+      "link": "https://www.youtube.com/watch?v=c2w6TbA6sNw",
+      "published_at": "2026-11-27T22:01:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/c2w6TbA6sNw/hqdefault.jpg"
+    },
     {
       "video_id": "QyFL1lgHHZ4",
       "channel": "SecurityWeekly",
@@ -178,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=WOSQDCGjNnk",
       "published_at": "2026-11-26T19:36:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/WOSQDCGjNnk/hqdefault.jpg"
-    },
-    {
-      "video_id": "KbqUi3u8tPo",
-      "channel": "mbcrump",
-      "title": "A53 FPKG Support (Phase 3 Testing) Released for PS5 13.60 and more!",
-      "link": "https://www.youtube.com/watch?v=KbqUi3u8tPo",
-      "published_at": "2026-11-26T19:32:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/KbqUi3u8tPo/hqdefault.jpg"
     }
   ]
 }
