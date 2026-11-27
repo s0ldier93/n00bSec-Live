@@ -1,8 +1,16 @@
 {
-  "updated": "2026-11-27T06:29:37Z",
+  "updated": "2026-11-27T06:38:39Z",
   "streams": [],
   "viewers_total": 0,
   "videos": [
+    {
+      "video_id": "D_s4ONmDpB0",
+      "channel": "censoredHacker",
+      "title": "TryHackMe Defending AWS - 2",
+      "link": "https://www.youtube.com/watch?v=D_s4ONmDpB0",
+      "published_at": "2026-11-27T06:19:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/D_s4ONmDpB0/hqdefault.jpg"
+    },
     {
       "video_id": "QAVCsd9zmhU",
       "channel": "antisyphon",
@@ -154,14 +162,6 @@
       "link": "https://www.youtube.com/watch?v=d5zbCrifFPQ",
       "published_at": "2026-11-25T22:02:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/d5zbCrifFPQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "VZC1AnUspVs",
-      "channel": "SecurityWeekly",
-      "title": "Vulnerability Management Is Solving the Wrong Problem",
-      "link": "https://www.youtube.com/watch?v=VZC1AnUspVs",
-      "published_at": "2026-11-25T20:00:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/VZC1AnUspVs/hqdefault.jpg"
     }
   ]
 }
