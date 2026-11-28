@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-28T19:49:38Z",
+  "updated": "2026-11-28T19:59:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "help my karaoke stream got taken over by a woman",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 26
+      "viewers": 24
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "bdxOraU59vA",
