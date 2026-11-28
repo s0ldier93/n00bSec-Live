@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T09:29:37Z",
+  "updated": "2026-11-28T09:49:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,10 +13,10 @@
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://www.youtube.com/watch?v=zzf47p6WI8Y",
-      "viewers": 4
+      "viewers": 1
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 4,
   "videos": [
     {
       "video_id": "zzf47p6WI8Y",
