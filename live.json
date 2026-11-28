@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-28T16:09:38Z",
+  "updated": "2026-11-28T16:19:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Build your phishing landing page on Hugging face. use code HACKHUG for 10% off | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 23
+      "viewers": 15
     },
     {
       "platform": "twitch",
@@ -20,7 +20,14 @@
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad) | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 38
+      "viewers": 39
+    },
+    {
+      "platform": "twitch",
+      "name": "panekopanko",
+      "title": "larping a fat dog",
+      "link": "https://twitch.tv/panekopanko",
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -41,11 +48,19 @@
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad)",
       "link": "https://www.youtube.com/watch?v=zEn2iYGI6oc",
-      "viewers": 79
+      "viewers": 84
     }
   ],
   "viewers_total": 146,
   "videos": [
+    {
+      "video_id": "BCOdnupyhRI",
+      "channel": "TheGoodHackerTV",
+      "title": "Link en mi perfil! #ciberseguridad #hacking",
+      "link": "https://www.youtube.com/watch?v=BCOdnupyhRI",
+      "published_at": "2026-11-28T16:03:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/BCOdnupyhRI/hqdefault.jpg"
+    },
     {
       "video_id": "Jx5fnVjPdJQ",
       "channel": "SecurityWeekly",
@@ -199,14 +214,6 @@
       "link": "https://www.youtube.com/watch?v=7mwF_lMEB98",
       "published_at": "2026-11-27T17:00:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/7mwF_lMEB98/hqdefault.jpg"
-    },
-    {
-      "video_id": "mEBdrofuOuU",
-      "channel": "TheLaluka",
-      "title": "Would You Hire Your Younger Self Remotely? #shorts",
-      "link": "https://www.youtube.com/watch?v=mEBdrofuOuU",
-      "published_at": "2026-11-27T15:21:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mEBdrofuOuU/hqdefault.jpg"
     }
   ]
 }
