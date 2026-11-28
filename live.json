@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-28T00:49:37Z",
+  "updated": "2026-11-28T00:59:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] getting wow forever on nixos",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 644
+      "viewers": 654
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 360
+      "viewers": 363
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 1010,
+  "viewers_total": 1023,
   "videos": [
     {
       "video_id": "vbkwHJX3giw",
