@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T02:49:37Z",
+  "updated": "2026-11-28T02:59:02Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,13 +20,20 @@
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 5
+      "viewers": 4
     },
     {
       "platform": "youtube",
       "name": "MSec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://www.youtube.com/watch?v=PyHzBpSJbiM",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "TheShyHat",
+      "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
+      "link": "https://www.youtube.com/watch?v=Hvd7BpHkkf8",
       "viewers": 1
     }
   ],
