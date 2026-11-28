@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T02:39:38Z",
+  "updated": "2026-11-28T02:49:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "freshforensics",
       "title": "Hacking iPhones All Day & All Night \ud83d\udcf1 iOS HACKATHON",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 368,
+  "viewers_total": 367,
   "videos": [
     {
       "video_id": "vbkwHJX3giw",
