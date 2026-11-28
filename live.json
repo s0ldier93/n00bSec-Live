@@ -1,23 +1,38 @@
 {
-  "updated": "2026-11-28T14:49:37Z",
+  "updated": "2026-11-28T14:59:18Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://www.youtube.com/watch?v=zzf47p6WI8Y",
-      "viewers": 2
+      "viewers": 3
+    },
+    {
+      "platform": "youtube",
+      "name": "ElPinguinoDeMario",
+      "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad)",
+      "link": "https://www.youtube.com/watch?v=zEn2iYGI6oc",
+      "viewers": 26
     }
   ],
-  "viewers_total": 4,
+  "viewers_total": 32,
   "videos": [
+    {
+      "video_id": "zEn2iYGI6oc",
+      "channel": "ElPinguinoDeMario",
+      "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad)",
+      "link": "https://www.youtube.com/watch?v=zEn2iYGI6oc",
+      "published_at": "2026-11-28T14:41:46+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zEn2iYGI6oc/hqdefault.jpg"
+    },
     {
       "video_id": "VZGbmR3zfvo",
       "channel": "TheGoodHackerTV",
@@ -171,14 +186,6 @@
       "link": "https://www.youtube.com/watch?v=HWIIaH8tvfM",
       "published_at": "2026-11-27T14:53:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/HWIIaH8tvfM/hqdefault.jpg"
-    },
-    {
-      "video_id": "YSb2lJko3dc",
-      "channel": "censoredHacker",
-      "title": "TryHackMe Defending AWS - 2",
-      "link": "https://www.youtube.com/watch?v=YSb2lJko3dc",
-      "published_at": "2026-11-27T08:02:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/YSb2lJko3dc/hqdefault.jpg"
     }
   ]
 }
