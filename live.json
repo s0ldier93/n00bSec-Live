@@ -1,33 +1,33 @@
 {
-  "updated": "2026-11-28T00:39:37Z",
+  "updated": "2026-11-28T00:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] getting wow forever on nixos",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 689
+      "viewers": 644
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 372
+      "viewers": 360
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "Hacking iPhones All Day & All Night \ud83d\udcf1 iOS HACKATHON",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 3
+      "viewers": 4
     },
     {
       "platform": "youtube",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 1067,
+  "viewers_total": 1010,
   "videos": [
     {
       "video_id": "vbkwHJX3giw",
