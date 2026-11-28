@@ -1,36 +1,50 @@
 {
-  "updated": "2026-11-28T14:59:37Z",
+  "updated": "2026-11-28T15:09:20Z",
   "streams": [
+    {
+      "platform": "twitch",
+      "name": "b7h30",
+      "title": "Build your phishing landing page on Hugging face. use code HACKHUG for 10% off | OSCP Study on HTB | !discord !commands",
+      "link": "https://twitch.tv/b7h30",
+      "viewers": 1
+    },
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad) | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 15
+      "viewers": 22
+    },
+    {
+      "platform": "youtube",
+      "name": "B7H30",
+      "title": "Build your phishing landing page on Hugging face. use code HACKHUG for 10% off | OSCP Study on HTB",
+      "link": "https://www.youtube.com/watch?v=r-mv2hnSDSo",
+      "viewers": 1
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://www.youtube.com/watch?v=zzf47p6WI8Y",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad)",
       "link": "https://www.youtube.com/watch?v=zEn2iYGI6oc",
-      "viewers": 26
+      "viewers": 39
     }
   ],
-  "viewers_total": 47,
+  "viewers_total": 67,
   "videos": [
     {
       "video_id": "zEn2iYGI6oc",
