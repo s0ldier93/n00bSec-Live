@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T15:39:38Z",
+  "updated": "2026-11-28T15:49:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad) | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 43
+      "viewers": 44
     },
     {
       "platform": "youtube",
@@ -41,10 +41,10 @@
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad)",
       "link": "https://www.youtube.com/watch?v=zEn2iYGI6oc",
-      "viewers": 67
+      "viewers": 71
     }
   ],
-  "viewers_total": 135,
+  "viewers_total": 140,
   "videos": [
     {
       "video_id": "yB2VPb09XJw",
