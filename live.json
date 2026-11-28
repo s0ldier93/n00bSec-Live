@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T06:59:37Z",
+  "updated": "2026-11-28T07:09:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "TheShyHat",
       "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 11
+      "viewers": 17
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 6
     }
   ],
-  "viewers_total": 23,
+  "viewers_total": 29,
   "videos": [
     {
       "video_id": "o-X6tKWBdBU",
