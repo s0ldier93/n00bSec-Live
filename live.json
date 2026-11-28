@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T19:09:39Z",
+  "updated": "2026-11-28T19:19:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "panekopanko",
       "title": "help my karaoke stream got taken over by a woman",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 32
+      "viewers": 27
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 39,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "bdxOraU59vA",
