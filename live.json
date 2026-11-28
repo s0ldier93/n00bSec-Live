@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T14:59:18Z",
+  "updated": "2026-11-28T14:59:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -7,6 +7,13 @@
       "title": "Study with me - No Talk",
       "link": "https://twitch.tv/censoredHacker",
       "viewers": 3
+    },
+    {
+      "platform": "twitch",
+      "name": "ElPinguinoDeMario",
+      "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad) | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
+      "link": "https://twitch.tv/ElPinguinoDeMario",
+      "viewers": 15
     },
     {
       "platform": "youtube",
@@ -23,7 +30,7 @@
       "viewers": 26
     }
   ],
-  "viewers_total": 32,
+  "viewers_total": 47,
   "videos": [
     {
       "video_id": "zEn2iYGI6oc",
