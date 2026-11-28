@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T17:19:37Z",
+  "updated": "2026-11-28T17:29:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -11,9 +11,9 @@
     {
       "platform": "twitch",
       "name": "panekopanko",
-      "title": "vtuber does rapping [karaoke]",
+      "title": "help my karaoke stream got taken over by a woman",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 30
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 33,
+  "viewers_total": 36,
   "videos": [
     {
       "video_id": "CXuXCJYVh0Y",
