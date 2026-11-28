@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-28T07:19:37Z",
+  "updated": "2026-11-28T07:29:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 4
+      "viewers": 7
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 16
+      "viewers": 30
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://www.youtube.com/watch?v=zzf47p6WI8Y",
-      "viewers": 3
+      "viewers": 2
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
       "link": "https://www.youtube.com/watch?v=o-X6tKWBdBU",
-      "viewers": 6
+      "viewers": 8
     }
   ],
-  "viewers_total": 29,
+  "viewers_total": 47,
   "videos": [
     {
       "video_id": "o-X6tKWBdBU",
