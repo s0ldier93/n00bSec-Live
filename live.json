@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-28T07:59:37Z",
+  "updated": "2026-11-28T08:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 5
+      "viewers": 3
     },
     {
       "platform": "youtube",
@@ -16,8 +16,16 @@
       "viewers": 2
     }
   ],
-  "viewers_total": 7,
+  "viewers_total": 5,
   "videos": [
+    {
+      "video_id": "zzf47p6WI8Y",
+      "channel": "censoredHacker",
+      "title": "Study with me - No Talk",
+      "link": "https://www.youtube.com/watch?v=zzf47p6WI8Y",
+      "published_at": "2026-11-28T06:23:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zzf47p6WI8Y/hqdefault.jpg"
+    },
     {
       "video_id": "o-X6tKWBdBU",
       "channel": "TheShyHat",
@@ -171,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=QAVCsd9zmhU",
       "published_at": "2026-11-27T06:00:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QAVCsd9zmhU/hqdefault.jpg"
-    },
-    {
-      "video_id": "ACruvKmOdwk",
-      "channel": "EJSA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 9) 11/25/26",
-      "link": "https://www.youtube.com/watch?v=ACruvKmOdwk",
-      "published_at": "2026-11-27T01:01:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ACruvKmOdwk/hqdefault.jpg"
     }
   ]
 }
