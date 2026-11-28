@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-28T03:39:02Z",
+  "updated": "2026-11-28T03:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 361
+      "viewers": 362
     },
     {
       "platform": "twitch",
@@ -23,6 +23,13 @@
       "viewers": 2
     },
     {
+      "platform": "twitch",
+      "name": "TheShyHat",
+      "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
+      "link": "https://twitch.tv/TheShyHat",
+      "viewers": 3
+    },
+    {
       "platform": "youtube",
       "name": "MSec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
@@ -37,7 +44,7 @@
       "viewers": 4
     }
   ],
-  "viewers_total": 369,
+  "viewers_total": 373,
   "videos": [
     {
       "video_id": "o-X6tKWBdBU",
