@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-28T16:49:37Z",
+  "updated": "2026-11-28T16:59:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Build your phishing landing page on Hugging face. use code HACKHUG for 10% off | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 25
+      "viewers": 23
     },
     {
       "platform": "twitch",
@@ -20,21 +20,21 @@
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad) | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 38
+      "viewers": 42
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "vtuber does rapping [karaoke]",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 27
+      "viewers": 36
     },
     {
       "platform": "youtube",
       "name": "B7H30",
       "title": "Build your phishing landing page on Hugging face. use code HACKHUG for 10% off | OSCP Study on HTB",
       "link": "https://www.youtube.com/watch?v=r-mv2hnSDSo",
-      "viewers": 2
+      "viewers": 1
     },
     {
       "platform": "youtube",
@@ -48,10 +48,10 @@
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad)",
       "link": "https://www.youtube.com/watch?v=zEn2iYGI6oc",
-      "viewers": 64
+      "viewers": 60
     }
   ],
-  "viewers_total": 161,
+  "viewers_total": 167,
   "videos": [
     {
       "video_id": "BCOdnupyhRI",
