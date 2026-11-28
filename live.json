@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-28T00:29:37Z",
+  "updated": "2026-11-28T00:39:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] getting wow forever on nixos",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 684
+      "viewers": 689
     },
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 369
+      "viewers": 372
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "Hacking iPhones All Day & All Night \ud83d\udcf1 iOS HACKATHON",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 1058,
+  "viewers_total": 1067,
   "videos": [
     {
       "video_id": "vbkwHJX3giw",
