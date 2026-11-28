@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-28T05:39:37Z",
+  "updated": "2026-11-28T05:49:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 325
+      "viewers": 319
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 14
+      "viewers": 10
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
       "link": "https://www.youtube.com/watch?v=o-X6tKWBdBU",
-      "viewers": 10
+      "viewers": 11
     }
   ],
-  "viewers_total": 349,
+  "viewers_total": 340,
   "videos": [
     {
       "video_id": "o-X6tKWBdBU",
