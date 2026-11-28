@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-28T15:19:39Z",
+  "updated": "2026-11-28T15:29:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Build your phishing landing page on Hugging face. use code HACKHUG for 10% off | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 7
+      "viewers": 12
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad) | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 39
+      "viewers": 45
     },
     {
       "platform": "youtube",
@@ -34,18 +34,26 @@
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://www.youtube.com/watch?v=zzf47p6WI8Y",
-      "viewers": 2
+      "viewers": 3
     },
     {
       "platform": "youtube",
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad)",
       "link": "https://www.youtube.com/watch?v=zEn2iYGI6oc",
-      "viewers": 66
+      "viewers": 56
     }
   ],
-  "viewers_total": 117,
+  "viewers_total": 119,
   "videos": [
+    {
+      "video_id": "yB2VPb09XJw",
+      "channel": "TheLaluka",
+      "title": "Do You Want an Audit or a Green Tick? #shorts",
+      "link": "https://www.youtube.com/watch?v=yB2VPb09XJw",
+      "published_at": "2026-11-28T15:20:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yB2VPb09XJw/hqdefault.jpg"
+    },
     {
       "video_id": "zEn2iYGI6oc",
       "channel": "ElPinguinoDeMario",
@@ -199,14 +207,6 @@
       "link": "https://www.youtube.com/watch?v=GqRm1PSQIaA",
       "published_at": "2026-11-27T15:00:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GqRm1PSQIaA/hqdefault.jpg"
-    },
-    {
-      "video_id": "HWIIaH8tvfM",
-      "channel": "TheGoodHackerTV",
-      "title": "Claude ILIMITADO (10.000 MILLONES de Tokens GRATIS)",
-      "link": "https://www.youtube.com/watch?v=HWIIaH8tvfM",
-      "published_at": "2026-11-27T14:53:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/HWIIaH8tvfM/hqdefault.jpg"
     }
   ]
 }
