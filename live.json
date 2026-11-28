@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-28T15:59:37Z",
+  "updated": "2026-11-28T16:09:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "b7h30",
       "title": "Build your phishing landing page on Hugging face. use code HACKHUG for 10% off | OSCP Study on HTB | !discord !commands",
       "link": "https://twitch.tv/b7h30",
-      "viewers": 18
+      "viewers": 23
     },
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad) | Hacking \u00c9tico y Ciberseguridad !academia !bunker",
       "link": "https://twitch.tv/ElPinguinoDeMario",
-      "viewers": 46
+      "viewers": 38
     },
     {
       "platform": "youtube",
@@ -41,11 +41,19 @@
       "name": "ElPinguinoDeMario",
       "title": "Analizamos Perfiles de Linkedin en Comunidad (Ciberseguridad)",
       "link": "https://www.youtube.com/watch?v=zEn2iYGI6oc",
-      "viewers": 66
+      "viewers": 79
     }
   ],
-  "viewers_total": 136,
+  "viewers_total": 146,
   "videos": [
+    {
+      "video_id": "Jx5fnVjPdJQ",
+      "channel": "SecurityWeekly",
+      "title": "Rinoa Poison Exposes the Refund Scam Trick",
+      "link": "https://www.youtube.com/watch?v=Jx5fnVjPdJQ",
+      "published_at": "2026-11-28T16:00:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Jx5fnVjPdJQ/hqdefault.jpg"
+    },
     {
       "video_id": "yB2VPb09XJw",
       "channel": "TheLaluka",
@@ -199,14 +207,6 @@
       "link": "https://www.youtube.com/watch?v=mEBdrofuOuU",
       "published_at": "2026-11-27T15:21:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mEBdrofuOuU/hqdefault.jpg"
-    },
-    {
-      "video_id": "GqRm1PSQIaA",
-      "channel": "SecurityWeekly",
-      "title": "The End of Vulnerability-Only Security",
-      "link": "https://www.youtube.com/watch?v=GqRm1PSQIaA",
-      "published_at": "2026-11-27T15:00:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GqRm1PSQIaA/hqdefault.jpg"
     }
   ]
 }
