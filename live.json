@@ -1,29 +1,36 @@
 {
-  "updated": "2026-11-28T17:49:38Z",
+  "updated": "2026-11-28T17:59:37Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://twitch.tv/censoredHacker",
-      "viewers": 3
+      "viewers": 5
+    },
+    {
+      "platform": "twitch",
+      "name": "Humpty_Tony",
+      "title": "IRCC Labs launch!",
+      "link": "https://twitch.tv/Humpty_Tony",
+      "viewers": 4
     },
     {
       "platform": "twitch",
       "name": "panekopanko",
       "title": "help my karaoke stream got taken over by a woman",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 28
     },
     {
       "platform": "youtube",
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://www.youtube.com/watch?v=zzf47p6WI8Y",
-      "viewers": 2
+      "viewers": 3
     }
   ],
-  "viewers_total": 34,
+  "viewers_total": 40,
   "videos": [
     {
       "video_id": "CXuXCJYVh0Y",
