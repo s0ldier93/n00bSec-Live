@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T10:39:37Z",
+  "updated": "2026-11-28T10:59:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,11 +13,19 @@
       "name": "censoredHacker",
       "title": "Study with me - No Talk",
       "link": "https://www.youtube.com/watch?v=zzf47p6WI8Y",
-      "viewers": 3
+      "viewers": 2
     }
   ],
-  "viewers_total": 6,
+  "viewers_total": 5,
   "videos": [
+    {
+      "video_id": "72yOO0CwJeA",
+      "channel": "HackTricks_LIVE",
+      "title": "Kubernetes Red Team Expert (KRTE) - HackTricks Training Presentation",
+      "link": "https://www.youtube.com/watch?v=72yOO0CwJeA",
+      "published_at": "2026-11-28T10:52:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/72yOO0CwJeA/hqdefault.jpg"
+    },
     {
       "video_id": "zzf47p6WI8Y",
       "channel": "censoredHacker",
@@ -171,14 +179,6 @@
       "link": "https://www.youtube.com/watch?v=D_s4ONmDpB0",
       "published_at": "2026-11-27T06:19:58+00:00",
       "thumbnail": "https://i.ytimg.com/vi/D_s4ONmDpB0/hqdefault.jpg"
-    },
-    {
-      "video_id": "QAVCsd9zmhU",
-      "channel": "antisyphon",
-      "title": "Hayabusa | Free Lab Fridays [Full Lab Walkthrough]",
-      "link": "https://www.youtube.com/watch?v=QAVCsd9zmhU",
-      "published_at": "2026-11-27T06:00:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/QAVCsd9zmhU/hqdefault.jpg"
     }
   ]
 }
