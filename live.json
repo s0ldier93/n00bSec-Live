@@ -1,36 +1,29 @@
 {
-  "updated": "2026-11-28T04:39:37Z",
+  "updated": "2026-11-28T04:49:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 319
-    },
-    {
-      "platform": "twitch",
-      "name": "freshforensics",
-      "title": "Hacking iPhones All Day & All Night \ud83d\udcf1 iOS HACKATHON",
-      "link": "https://twitch.tv/freshforensics",
-      "viewers": 2
+      "viewers": 339
     },
     {
       "platform": "twitch",
       "name": "TheShyHat",
       "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
       "link": "https://twitch.tv/TheShyHat",
-      "viewers": 7
+      "viewers": 11
     },
     {
       "platform": "youtube",
       "name": "TheShyHat",
       "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
       "link": "https://www.youtube.com/watch?v=o-X6tKWBdBU",
-      "viewers": 9
+      "viewers": 8
     }
   ],
-  "viewers_total": 337,
+  "viewers_total": 358,
   "videos": [
     {
       "video_id": "o-X6tKWBdBU",
