@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-27T23:59:38Z",
+  "updated": "2026-11-28T00:09:04Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "bashbunni",
       "title": "[Linux tinkering] getting wow forever on nixos",
       "link": "https://twitch.tv/bashbunni",
-      "viewers": 710
+      "viewers": 724
+    },
+    {
+      "platform": "twitch",
+      "name": "CyberWarriorStudios",
+      "title": "Steady Paycheck or Freedom? FTE vs Consulting in Cyber | Security Happy Hour ft. Amber Wheeler",
+      "link": "https://twitch.tv/CyberWarriorStudios",
+      "viewers": 1
     },
     {
       "platform": "twitch",
@@ -31,13 +38,20 @@
     },
     {
       "platform": "youtube",
+      "name": "CyberWarriorStudios",
+      "title": "Steady Paycheck or Freedom? FTE vs Consulting in Cyber | Security Happy Hour ft. Amber Wheeler",
+      "link": "https://www.youtube.com/watch?v=X8voY9yCmTM",
+      "viewers": 1
+    },
+    {
+      "platform": "youtube",
       "name": "MSec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://www.youtube.com/watch?v=PyHzBpSJbiM",
       "viewers": 1
     }
   ],
-  "viewers_total": 1105,
+  "viewers_total": 1121,
   "videos": [
     {
       "video_id": "vbkwHJX3giw",
