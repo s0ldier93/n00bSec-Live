@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T18:29:38Z",
+  "updated": "2026-11-28T18:39:38Z",
   "streams": [
     {
       "platform": "twitch",
@@ -10,17 +10,10 @@
     },
     {
       "platform": "twitch",
-      "name": "Humpty_Tony",
-      "title": "IRCC Labs launch!",
-      "link": "https://twitch.tv/Humpty_Tony",
-      "viewers": 16
-    },
-    {
-      "platform": "twitch",
       "name": "panekopanko",
       "title": "help my karaoke stream got taken over by a woman",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 29
+      "viewers": 27
     },
     {
       "platform": "youtube",
@@ -30,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 52,
+  "viewers_total": 34,
   "videos": [
     {
       "video_id": "bdxOraU59vA",
