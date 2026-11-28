@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T03:29:37Z",
+  "updated": "2026-11-28T03:39:02Z",
   "streams": [
     {
       "platform": "twitch",
@@ -20,7 +20,7 @@
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 2
     },
     {
       "platform": "youtube",
@@ -28,10 +28,25 @@
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://www.youtube.com/watch?v=PyHzBpSJbiM",
       "viewers": 1
+    },
+    {
+      "platform": "youtube",
+      "name": "TheShyHat",
+      "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
+      "link": "https://www.youtube.com/watch?v=o-X6tKWBdBU",
+      "viewers": 4
     }
   ],
-  "viewers_total": 367,
+  "viewers_total": 369,
   "videos": [
+    {
+      "video_id": "o-X6tKWBdBU",
+      "channel": "TheShyHat",
+      "title": "CYBERSECURITY GAMING - Antivirus Survivors 2003 Professional Edition",
+      "link": "https://www.youtube.com/watch?v=o-X6tKWBdBU",
+      "published_at": "2026-11-28T03:32:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/o-X6tKWBdBU/hqdefault.jpg"
+    },
     {
       "video_id": "vbkwHJX3giw",
       "channel": "SecurityWeekly",
@@ -185,14 +200,6 @@
       "link": "https://www.youtube.com/watch?v=ACruvKmOdwk",
       "published_at": "2026-11-27T01:01:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ACruvKmOdwk/hqdefault.jpg"
-    },
-    {
-      "video_id": "RECO1Dqp4lw",
-      "channel": "pebl3",
-      "title": "Someone looked up 8.8 million Danes one at a time, using access they were allowed to have.",
-      "link": "https://www.youtube.com/watch?v=RECO1Dqp4lw",
-      "published_at": "2026-11-26T22:03:20+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RECO1Dqp4lw/hqdefault.jpg"
     }
   ]
 }
