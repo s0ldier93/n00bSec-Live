@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T17:09:23Z",
+  "updated": "2026-11-28T17:19:37Z",
   "streams": [
     {
       "platform": "twitch",
@@ -13,7 +13,7 @@
       "name": "panekopanko",
       "title": "vtuber does rapping [karaoke]",
       "link": "https://twitch.tv/panekopanko",
-      "viewers": 36
+      "viewers": 27
     },
     {
       "platform": "youtube",
@@ -23,7 +23,7 @@
       "viewers": 3
     }
   ],
-  "viewers_total": 42,
+  "viewers_total": 33,
   "videos": [
     {
       "video_id": "CXuXCJYVh0Y",
