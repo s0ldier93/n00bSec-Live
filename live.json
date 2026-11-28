@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-28T02:29:37Z",
+  "updated": "2026-11-28T02:39:38Z",
   "streams": [
     {
       "platform": "twitch",
       "name": "ej_sa",
       "title": "SPACE NERD PLAYS GTA VI! (PART 10) 11/27/26",
       "link": "https://twitch.tv/ej_sa",
-      "viewers": 420
+      "viewers": 360
     },
     {
       "platform": "twitch",
       "name": "freshforensics",
       "title": "Hacking iPhones All Day & All Night \ud83d\udcf1 iOS HACKATHON",
       "link": "https://twitch.tv/freshforensics",
-      "viewers": 1
+      "viewers": 2
     },
     {
       "platform": "twitch",
       "name": "msec",
       "title": "Metroid Prime 2: Echoes (2004) First Playthrough. Preparing for a Prime 4 Playthrough on Switch 2!",
       "link": "https://twitch.tv/msec",
-      "viewers": 4
+      "viewers": 5
     },
     {
       "platform": "youtube",
@@ -30,7 +30,7 @@
       "viewers": 1
     }
   ],
-  "viewers_total": 426,
+  "viewers_total": 368,
   "videos": [
     {
       "video_id": "vbkwHJX3giw",
